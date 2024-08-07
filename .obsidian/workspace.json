@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Sales Order/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "purchase lead",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md"
+                "file": "Horizon User Guide/05 Orders/Production Order.md"
               }
             }
           }
@@ -162,15 +161,23 @@
   },
   "active": "65ae5a8be09de2be",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/04 Products/B. All Products/Delete a Product.md",
-    "Horizon User Guide/Old documentation/04 Products/B. All Products/Add a Product.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/04 Products/Create Products.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Quantity and Unit of Measure in the Upload Vendor Prices.md",
-    "Horizon User Guide/05 Sales Order/Address Demand.md",
-    "Horizon User Guide/05 Sales Order/Sales Order.md",
-    "Horizon User Guide/05 Sales Order/Sales Estimate.md",
+    "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
+    "Horizon User Guide/Old documentation/04 Products/B. All Products/Delete a Product.md",
+    "Horizon User Guide/Old documentation/04 Products/B. All Products/Modify a Product Flag Options (consumable, sale item, service, etc.).md",
+    "Horizon User Guide/Old documentation/04 Products/B. All Products/Set Vendor Prices as Inactive.md",
+    "Horizon User Guide/Old documentation/04 Products/C. Services/Turn an Existing Product into a Service.md",
+    "Horizon User Guide/04 Products",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
@@ -179,7 +186,6 @@
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/02 All Parties",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/00 Assets/16_add_payment_plan.png",
     "Horizon User Guide/00 Assets/15_add_payment_card.png",
@@ -188,16 +194,10 @@
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/Old documentation/03 Customers/IV. Add a Payment Card.md",
-    "Horizon User Guide/Old documentation/03 Customers/V. Add a Payment Plan.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/Old documentation/03 Customers/VII. Delete a Payment Record.md",
-    "Horizon User Guide/Old documentation/03 Customers/III. Confirm and Unconfirm a Payment Record.md",
-    "Horizon User Guide/Old documentation/03 Customers/II. Create a Payment Record.md",
     "Horizon User Guide/00 Assets/12_confirm_print_sales_estimate.png",
     "12_confirm_print_sales_estimate.png",
     "Horizon User Guide/00 Assets/11_manage_line_items_sales_estimate.png",
     "Horizon User Guide/00 Assets/10_create_sales_estimate.png",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/00 Assets/05_sales_orders_generate_demand.png",
     "^launch/horizon",
     "^launch",
@@ -207,7 +207,6 @@
     "Horizon User Guide/01 Sales Order",
     "Horizon User Guide/04 Products",
     "Horizon User Guide/02 Parties",
-    "Horizon User Guide/05 Sales Order",
     "Untitled.canvas"
   ]
 }
