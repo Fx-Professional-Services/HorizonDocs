@@ -13,10 +13,21 @@ To create a production order, follow these steps:
 5. After the order is created, it will change to **View Order**—click on it.
 6. In the Production Order under the **Order** tab, assign an employee responsible for the order by clicking on 'click here to select employee.'
 7. Enter the dates for **Needed By**, **Started**, and **Finished**.
-8. In the 'Production Order Items' section, you can select the product type (yield or source) and adjust the products, including their quantity and unit of measure.
-9. Under the **Procedure** tab, add step-by-step production instructions.
-10. Track production time by using the **play button** to start and pause, and click the flag icon to finish.
-11. Click **Copy Procedure** to duplicate the production order procedure.
+8. In the **Production Order Items** section, select the product type (yield or source) and adjust products, including quantity and unit of measure.
+9. . Tap the reverse button to revert recent changes and restore previous settings.
+
+	- **Adjusting Quantities:** If you change the quantity of an item (e.g., from 20.16 to 30 ounces), clicking the reverse button will prompt you to confirm the update. Once you proceed, the system will adjust the BOM to reflect the specified quantity.
+	
+	- **Restoring Deleted Items:** If you accidentally delete an item, the reverse button will restore it with the correct quantity when you confirm the action.
+	
+	- **Handling Changes:** The reverse button will adjust any modified quantities to their previous values. However, newly added items will not be affected or removed.
+	
+10. Tap the gear icon to access additional settings.
+11. Tap the i icon for more information.
+12. Under the **Procedure** tab, add step-by-step production instructions.
+13. Track production time by using the **play button** to start and pause, and click the flag icon to finish.
+14. Click **Copy Procedure** to duplicate the production order procedure.
+
 
 
 
