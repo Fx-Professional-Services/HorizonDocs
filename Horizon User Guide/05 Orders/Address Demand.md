@@ -13,13 +13,13 @@
 
 # Definition of Terms
 
-###### **Pick Demand**  
-A quantity needs to be transferred from one location to another within the organization.
-
-###### **Purchase Demand**  
-A quantity needs to be procured or bought. The purchase order should be placed 10 days (or 240 hours) before the item is required, accounting for the purchase lead time.
-
 ###### **Build Demand**  
 A quantity needs to be manufactured, assembled, or prepared.
 ###### **Demand Demand**  
 A quantity is needed because it is required for use or consumption, indicating that it fulfills an existing demand.
+###### **Pick Demand**  
+A quantity needs to be transferred from one location to another within the organization.
+###### **Purchase Demand**  
+A quantity needs to be procured or bought. The purchase order should be placed 10 days (or 240 hours) before the item is required, accounting for the purchase lead time.
+
+
