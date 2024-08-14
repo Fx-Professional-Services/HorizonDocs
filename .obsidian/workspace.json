@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md"
+                "file": "Horizon User Guide/05 Orders/Production Order.md"
               }
             }
           }
@@ -161,14 +160,15 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Address Demand.md",
-    "Horizon User Guide/00 Assets/23_demand_batch_name.png",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/00 Assets/24_production_order.png",
     "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/00 Assets/23_demand_batch_name.png",
     "Horizon User Guide/00 Assets/22_address_demand.png",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/00 Assets/01_create_sales_orders.png",
     "Horizon User Guide/00 Assets/21_async_tasks.png",
@@ -195,10 +195,8 @@
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/02 All Parties",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Customer Record.md",
-    "Horizon User Guide/Old documentation/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
     "Horizon User Guide/00 Assets/16_add_payment_plan.png",
     "Horizon User Guide/00 Assets/15_add_payment_card.png",
-    "Horizon User Guide/00 Assets/14_confirm_process_save_add_payment.png",
     "^launch/horizon",
     "^launch",
     "Horizon User Guide/03 Customers",
