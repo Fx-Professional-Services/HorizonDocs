@@ -15,6 +15,9 @@ To create a production order, follow these steps:
 4. In the Production Orders window, click **Create Order** for the desired production order.
 5. After the order is created, it will change to **View Order**—click on it.
 6. In the Production Order under the **Order** tab, assign an employee responsible for the order by clicking on 'click here to select employee.'
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/24_production_order.png" width="350" height="250">
+
 7. Enter the dates for **Needed By**, **Started**, and **Finished**.
 8. In the **Production Order Items** section, select the product type (yield or source) and adjust products, including quantity and unit of measure.
 9. Tap the reverse button 🔄 to revert recent changes and restore previous settings.
@@ -28,9 +31,6 @@ To create a production order, follow these steps:
 10. Tap the gear icon to access additional settings.
 11. Tap the i icon for more information.
 12. Click **confirm** to confirm the details in your production order. 
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/24_production_order.png" width="350" height="250">
-
 13. Under the **Procedure** tab, add step-by-step production instructions.
 14. Track production time by using the **play button** to start and pause, and click the flag icon to finish.
 15. Click **Copy Procedure** to duplicate the production order procedure.
