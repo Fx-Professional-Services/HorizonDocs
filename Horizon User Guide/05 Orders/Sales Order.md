@@ -78,13 +78,13 @@ ___
 
 14.2. 
 
-a. To make demand generation asynchronous, click **generate demand 2**. This allows you to continue working in other modules without waiting for demand generation to complete.  
+a. To run demand generation asynchronously, click **Generate Demand 2**. This lets you work in other modules while the process runs.
 
-b. Click OK when you receive the notification that the asynchronous process has started. 
+b. Click OK when you see the notification that the asynchronous process has started.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/19_generate_demand_2.png" width="350" height="300">
 
-c. When the demand generation has been completed, in the dialogue box click **view order.**
+c. After demand generation is complete, click **View Order** in the dialog box.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/20_view_order_generate_demand_2.png" width="350" height="300">
 
