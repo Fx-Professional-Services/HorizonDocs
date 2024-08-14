@@ -30,10 +30,15 @@ To create a production order, follow these steps:
 	
 10. Tap the gear icon to access additional settings.
 11. Tap the i icon for more information.
-12. Click **confirm** to confirm the details in your production order. 
-13. Under the **Procedure** tab, add step-by-step production instructions.
-14. Track production time by using the **play button** to start and pause, and click the flag icon to finish.
-15. Click **Copy Procedure** to duplicate the production order procedure.
+12. Click **confirm** to verify and finalize the details in your production order.
+13. Go to the **Procedure** tab, add step-by-step production instructions. 
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/26_procedure_tab.png" width="350" height="250">
+
+14. You can input the estimated time duration for each step and check them off as they are completed.
+15. Track the production time by using the **play button** to start and pause the timer, and click the flag icon to mark the process as finished.
+16. Click **Copy Procedure** to duplicate the entire production order procedure for reuse or modification.
+17. Click **Save Changes** to keep your modifications. 
 
 
 
