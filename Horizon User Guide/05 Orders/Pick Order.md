@@ -4,10 +4,11 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 ### To Create a Pick Order:
 
-1. Navigate to **Supply and Demand** in the main menu.
-2. [Address a pick demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md#build-demand)
-3. Select **Demand Batch List** under **Supply and Demand**.
-4. Click the expand button (>) next to the relevant demand.
+1. [Address a pick demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md#build-demand)
+2. Select **Demand Batch List** under **Supply and Demand**.
+3. Find your user account. 
+4. Choose the demand you just generated, then click the expand button (>) next to the item.
+ 💡 Tip: The first item in the list under your account should be the demand you just generated.
 5. In the Pick Orders window, click **Create Order** for the desired pick order.
 6. Once created, the order status will change to **View Order**—click on it to proceed.
 7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'

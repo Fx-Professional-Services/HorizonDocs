@@ -6,7 +6,7 @@ A production order outlines the item to be produced, its required materials, and
 
 To create a production order, follow these steps:
 
-1. Go to **Supply and Demand** in the main menu.
+1. [Address a build demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md#build-demand) Question: What type of demand should be addressed to create a production order?
 2. Select **Demand Batch List** under **Supply and Demand**.
 3. Click the expand button (>) next to your generated demand.
 

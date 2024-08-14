@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,12 +161,12 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/04 Products/Create Products.md",
-    "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/04 Products/Create Products.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/00 Assets/26_procedure_tab.png",
     "Horizon User Guide/00 Assets/25_demand_batch_list.png",
     "Horizon User Guide/00 Assets/24_production_order.png",
@@ -194,7 +195,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Vendor Record.md",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/02 All Parties",
