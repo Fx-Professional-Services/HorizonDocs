@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/05 Orders/Address Demand.md"
               }
             }
           }
@@ -160,16 +160,17 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/00 Assets/01_create_sales_orders.png",
     "Horizon User Guide/00 Assets/21_async_tasks.png",
     "Horizon User Guide/00 Assets/20_view_order_generate_demand_2.png",
     "Horizon User Guide/00 Assets/19_generate_demand_2.png",
     "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/04 Products/Create Products.md",
-    "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
@@ -196,8 +197,6 @@
     "Horizon User Guide/00 Assets/14_confirm_process_save_add_payment.png",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/00 Assets/12_confirm_print_sales_estimate.png",
-    "12_confirm_print_sales_estimate.png",
-    "Horizon User Guide/00 Assets/11_manage_line_items_sales_estimate.png",
     "^launch/horizon",
     "^launch",
     "Horizon User Guide/03 Customers",
