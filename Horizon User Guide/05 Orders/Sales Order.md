@@ -72,11 +72,24 @@ ___
 ___
 14. **Generating Demand:**
 
-- Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
+14.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
- 💡 Tip: To delete all demand records at once, select the "delete all" option. Confirm carefully, as this action is irreversible.
+14.2. 
+
+a. To make demand generation asynchronous, click **generate demand 2**. This allows you to continue working in other modules without waiting for demand generation to complete.  
+
+b. Click OK when you receive the notification that the asynchronous process has started. 
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/19_generate_demand_2.png" width="350" height="300">
+
+c. When the demand generation has been completed, in the dialogue box click **view order.**
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/20_view_order_generate_demand_2.png" width="350" height="300">
+
+
+ 💡 Tip: To delete all demand records at once, select the **delete all** option. Confirm carefully, as this action is irreversible.
 
 15. **Generating Sales Invoice:**
 

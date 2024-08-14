@@ -9,4 +9,4 @@
 	b. For a specific type of demand, click **build all**, **demand all**, **pick all**, or **purchase all**.
 	c. To address all demands, click **address all x demands**.
 6. Confirmation pop-ups will appear at the start and end of batch demand generation. Click OK to proceed.
-
+7. To view the batch name and its first value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will be listed as the latest item.
