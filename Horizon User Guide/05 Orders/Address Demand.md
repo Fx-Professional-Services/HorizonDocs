@@ -25,7 +25,6 @@
 
 ##### Demand
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
-
 ###### **Build Demand**  
 A quantity needs to be manufactured, assembled, or prepared.
 ###### **Demand Demand**  

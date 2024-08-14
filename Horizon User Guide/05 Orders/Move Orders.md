@@ -3,12 +3,15 @@ A move order directs relocating a specific quantity of items from one location t
 1. From the main menu, go to **Sales Orders**. 
 2. Click on **Order Management** and select **Move Order**. 
 3. Click on **New Record**. 
-		a. Select an employee. 
-		b. Add **Move Order Items**. 
-		c. Choose the current location and the new location. 
-		d. Enter the quantity of items you want to move. 
+	a. Select an employee. 
+	b. Add **Move Order Items**. 
+	c. Choose the current and new locations.
+	
+	⚠️ Note: If the location name is unavailable, only the location serial will be displayed.
+	
+	d. Enter the quantity of items you want to move. 
 		
-4.
+4. Verify the location transfer by going to **Item Management** > **Locations** and clicking on **Inventory**.
 
 
 
