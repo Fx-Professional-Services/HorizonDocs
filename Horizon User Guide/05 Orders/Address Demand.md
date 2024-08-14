@@ -19,7 +19,7 @@
 6. Confirmation pop-ups will appear at the start and end of batch demand generation. Click OK to proceed.
 7. To view the batch name and its first value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will be listed as the latest item.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/23_demand_batch_name.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/23_demand_batch_name.png" width="500" height="200">
 
 ### Definition of Terms
 
