@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
+  "active": "22b6989c1ca2ac75",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/00 Assets/28_delete_pick_order_item.png",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/04 Products/Create Products.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
@@ -172,7 +173,6 @@
     "Horizon User Guide/00 Assets/24_production_order.png",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/00 Assets/23_demand_batch_name.png",
     "Horizon User Guide/00 Assets/22_address_demand.png",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
