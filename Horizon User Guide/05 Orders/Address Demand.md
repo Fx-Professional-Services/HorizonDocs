@@ -11,7 +11,7 @@
 6. Confirmation pop-ups will appear at the start and end of batch demand generation. Click OK to proceed.
 7. To view the batch name and its first value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will be listed as the latest item.
 
-# Definition of Terms
+### Definition of Terms
 
 ##### Demand
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
