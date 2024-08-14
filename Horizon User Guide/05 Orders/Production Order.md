@@ -26,7 +26,7 @@ To create a production order, follow these steps:
 11. Tap the i icon for more information.
 12. Click **confirm** to confirm the details in your production order. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/24_production_order.png" width="350" height="270">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/24_production_order.png" width="350" height="250">
 
 13. Under the **Procedure** tab, add step-by-step production instructions.
 14. Track production time by using the **play button** to start and pause, and click the flag icon to finish.
