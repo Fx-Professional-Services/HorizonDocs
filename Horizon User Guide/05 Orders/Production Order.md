@@ -9,6 +9,9 @@ To create a production order, follow these steps:
 1. Go to **Supply and Demand** in the main menu.
 2. Select **Demand Batch List** under **Supply and Demand**.
 3. Click the expand button (>) next to your generated demand.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/25_demand_batch_list.png" width="350" height="300">
+
 4. In the Production Orders window, click **Create Order** for the desired production order.
 5. After the order is created, it will change to **View Order**—click on it.
 6. In the Production Order under the **Order** tab, assign an employee responsible for the order by clicking on 'click here to select employee.'
