@@ -80,10 +80,9 @@ ___
 
 a. To run demand generation asynchronously, click **Generate Demand 2**. This lets you work in other modules while the process runs.
 
- 💡 Tip: To view running asynchronous tasks, go to **Sales Order** > **Order Tab** and click on **Async Tasks**. You’ll see a list of all processes with their names, start times, and current statuses.
+ 💡 Tip: To view running asynchronous tasks, go to **Sales Order** > **Order Tab** and click on **Async Tasks**. You’ll see a list of all processes with their names, start times, and current statuses, which helps in monitoring completion and handling any errors
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/21_async_tasks.png" width="350" height="250">
-
 
 b. Click OK when you see the notification that the asynchronous process has started.
 
