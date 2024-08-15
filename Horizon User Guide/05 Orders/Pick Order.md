@@ -14,7 +14,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 	6.1. a serial number and
 	6.2. its status will change to **View Order**—click it to proceed.
 	
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="250">
 
 10. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'
 
