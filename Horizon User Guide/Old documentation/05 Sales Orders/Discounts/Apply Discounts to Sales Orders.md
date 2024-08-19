@@ -1,6 +1,5 @@
 ### Apply Percentage Discounts to Sales Orders
 _________________________________
-
 Applying discounts is crucial for ensuring competitive pricing and effective management. Follow these steps:
 
 1. Go to the **main menu** and choose **Sales Orders**.

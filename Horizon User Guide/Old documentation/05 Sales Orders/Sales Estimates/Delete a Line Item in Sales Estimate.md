@@ -9,7 +9,7 @@ _________________________________
 
 4. Find the sales estimate item you want to remove and click the delete button (✖︎).
 
-⚠️ Note: You can only delete line items if the sales estimate hasn't been confirmed yet. If you need to make changes, click on **delete all** and [create new sales estimate order item](Create%20a%20Sales%20Estimate%20Order%20Item.md).
+⚠️ Note: You can only delete line items if the sales estimate hasn't been confirmed yet. If you need to make changes, click on **delete all** and [create new sales estimate order item](Create%20a%20Sales%20Estimate.md).
 
 5. Confirm the deletion by clicking **YES** in the dialogue box. The total cost will automatically adjust.
 

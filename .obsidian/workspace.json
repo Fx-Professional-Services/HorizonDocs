@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "7eff1dc390620c0b",
+    "id": "2602b6e7d2884026",
     "type": "split",
     "children": [
       {
-        "id": "bce00090e5cd62fe",
+        "id": "72b2a2f7198fd860",
         "type": "tabs",
         "children": [
           {
-            "id": "b3451ada06c617c6",
+            "id": "aecf4d523e13c151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04ecf2071ae163bc",
+    "id": "4e7b835490e44ae3",
     "type": "split",
     "children": [
       {
-        "id": "7254babbed6e8ae8",
+        "id": "1f17f7a7eb2d444c",
         "type": "tabs",
         "children": [
           {
-            "id": "22b6989c1ca2ac75",
+            "id": "ba2c2bc2e581790b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "03e480591f6385b2",
+            "id": "5207ecf2172f501c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "cc1c67bf547299a7",
+            "id": "8d873b67ff27afb3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
-    "id": "d66a91847eddf6fc",
+    "id": "2af8c40c5d8b7667",
     "type": "split",
     "children": [
       {
-        "id": "a2288c4837a27fdd",
+        "id": "076fb0d6cda61f43",
         "type": "tabs",
         "children": [
           {
-            "id": "00365e05d741aac6",
+            "id": "82db8697296f9516",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "5ee3f0928e335d18",
+            "id": "04e1ed15a92db908",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "96166362b8b1f5f0",
+            "id": "39261ee94bd6e4f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "f7940a7fb5e4d85c",
+            "id": "a47abb57475fda90",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Horizon User Guide/01 Sales Order/SALES ORDER.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,54 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
-  "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/01 Sales Order/SALES ORDER.md",
-    "Horizon User Guide/01 Sales Order",
-    "Horizon User Guide/00 Table of Contents/01",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/00 Table of Contents.md",
-    "Horizon User Guide/00 Table of Contents",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
-    "Horizon User Guide/00 Table of Contents",
-    "Horizon User Guide/Old documentation/Untitled",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Unconfirm a Sales Order.md",
-    "Horizon User Guide/Old documentation",
-    "Horizon User Guide/10 Test Folder/Test Note.md",
-    "Horizon User Guide/10 Test Folder",
-    "Horizon User Guide/05 Sales Orders/Sales Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Confirm a Sales Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Generate Sales Order Invoices.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
-    "Horizon User Guide/0000 Sales Orders/SALES ORDERS.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
-    "assets/17_search_by_category.png",
-    "assets/17_search_by_categpry.png",
-    "16_customer_facing_name.png",
-    "Screenshot 2024-07-11 at 19.34.33.png",
-    "assets/16_customer_facing_name.png",
-    "assets/15_search_an_item.png",
-    "assets/12_add_payment_plan.png",
-    "assets/10_add_payment_card.png",
-    "assets/14_unconfirm_payment_record.png",
-    "assets/11_create_payment_record.png",
-    "Untitled.canvas"
-  ]
+  "active": "aecf4d523e13c151",
+  "lastOpenFiles": []
 }

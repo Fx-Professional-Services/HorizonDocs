@@ -1,8 +1,6 @@
 ### Generate a Sales Order Invoice
 _______________________________
-An invoice is like a receipt you get when you buy something or use a service. It lists what you bought, with each item on a separate line, along with its price and quantity. The invoice adds up the cost for each item and calculates the total amount you need to pay.
-
-This article describes how to invoice a sales order. 
+An invoice is a detailed receipt for a purchase or service that lists each item, its price, quantity, and calculates the total amount due. This guide explains how to create an invoice for a sales order.
 
 1. Go to the main menu and choose **Sales Orders**.
 2. Find the customer's name on the left pane, using [Find Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Find%20Mode.md) or [Browse Mode](https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/Horizon%20User%20Guide/VIII.%20Searching%20on%20Horizon/Browse%20Mode.md). 
