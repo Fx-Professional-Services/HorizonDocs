@@ -12,7 +12,6 @@ Adding a new product to your system is easy! Just follow these simple steps:
     - **Name**: Enter the name of the product.
     - **Replenishment Method**: Select a method for restocking inventory. Choose from options like **build**, **purchase**, **stock,** or **pick**.
     - **Preferred Vendor**: Select your vendor from the provided list.
-    - **Product Flag Options**: Tick off the boxes **Need Pick**, **Consumable**, and/or **Sale Item** to modify the product's flag options
     - **Stock to Keep**: Set the desired stock level for this product.
     - **Unit of Measure**: Specify the unit of measurement for the product.
     - **Active BOM**: Add any relevant bills of materials, if applicable. 

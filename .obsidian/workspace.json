@@ -11,8 +11,12 @@
             "id": "aecf4d523e13c151",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/04 Products/Create Products.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/04 Products/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/04 Products/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Horizon User Guide/04 Products/Create Products.md"
+              }
             }
           }
         ]
@@ -139,5 +147,52 @@
     }
   },
   "active": "aecf4d523e13c151",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Add Minimum and Maximum Values.md",
+    "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Quantity and Unit of Measure in the Upload Vendor Prices.md",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/Old documentation/08 Leads/Leads.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/Old documentation/04 Products/C. Services",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon",
+    "Horizon User Guide/Old documentation/08 Leads",
+    "Horizon User Guide/00 Assets/29_view_order.png",
+    "Horizon User Guide/00 Assets/28_delete_pick_order_item.png",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/00 Assets/26_procedure_tab.png",
+    "Horizon User Guide/00 Assets/25_demand_batch_list.png",
+    "Horizon User Guide/00 Assets/24_production_order.png",
+    "Horizon User Guide/00 Assets/23_demand_batch_name.png",
+    "Horizon User Guide/00 Assets/22_address_demand.png",
+    "Horizon User Guide/00 Assets/21_async_tasks.png",
+    "Horizon User Guide/00 Assets/20_view_order_generate_demand_2.png"
+  ]
 }
