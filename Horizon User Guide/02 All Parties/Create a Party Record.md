@@ -28,7 +28,7 @@ To create a record for a particular type of party, click one of the links below:
     
     - Choose **Person** or **Organization** in the Type field. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="300" height="500">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="300" height="500">
 
 4. **Enter Customer Information**:
     
@@ -58,7 +58,7 @@ Follow these steps to create a new employee record:
     
     ⚠️ Input a two-digit country code in addresses.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/17_create_employee_record.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_employee_record.png" width="400" height="300">
 
 4. **Choose Primary Contact Method**:
     
@@ -85,7 +85,7 @@ Follow these steps to create a new vendor record:
     
     - Navigate to the Vendors section and click **New Record**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/18_create_vendor_record.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/18_create_vendor_record.png" width="350" height="300">
 
 3. **Select Vendor Type**:
     

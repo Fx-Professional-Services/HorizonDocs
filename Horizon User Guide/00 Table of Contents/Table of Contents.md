@@ -9,11 +9,11 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Parties
 
-[Create a Party Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/02%20All%20Parties/Create%20a%20Party%20Record.md)
+[Create a Party Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/02%20All%20Parties/Create%20a%20Party%20Record.md)
 
 ## Customers
 
-[Create and Manage Customer and Payment Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md)
+[Create and Manage Customer and Payment Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md)
 
 ## Items
 
@@ -22,9 +22,9 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Order Management
 
-[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Order.md)
+[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Order.md)
 
-[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Estimate.md)
+[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Estimate.md)
 
 [Address Demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md)
 

@@ -11,20 +11,20 @@ To create a production order, follow these steps:
 3. Find your user account. Choose the demand you just generated, then click the expand button (>) next to the item. <br>
  💡 Tip: The first item in the list under your account should be the demand you just generated.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/25_demand_batch_list.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/25_demand_batch_list.png" width="350" height="250">
 
 4. In the Production Orders window, click **Create Order** for the desired production order.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/30_create_order.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/30_create_order.png" width="350" height="250">
 
 5. Once created, the order will have: <br>
 	5.1. a serial number and <br> 
 	5.2. its status will change to **View Order**—click it to proceed. <br>
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="350" height="250">
 
 6. In the Production Order under the **Order** tab, assign an employee responsible for the order by clicking on 'click here to select employee.'
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
 
 7. Enter the dates for when you **Started** and **Finished** the production order.
 8.  To select the **Location** where the yielded items will be stored go to **Sales Order**, click **Options**, then select **Feature Flags** and choose Production Order.  
@@ -57,7 +57,7 @@ To create a production order, follow these steps:
 
 15. Go to the **Procedure** tab, add step-by-step production instructions. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/26_procedure_tab.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/26_procedure_tab.png" width="350" height="250">
 
 16. You can input the estimated time duration for each step and check them off as they are completed.
 17. Track the production time by using the **play button** to start and pause the timer, and click the flag icon to mark the process as finished.
