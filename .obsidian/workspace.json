@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/04 Items/Create Products.md",
     "Horizon User Guide/00 Assets/31_production_order_tab.png",
     "Horizon User Guide/00 Assets/30_create_order.png",
@@ -178,7 +179,6 @@
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/00 Assets/26_procedure_tab.png",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/00 Assets/23_demand_batch_name.png",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
