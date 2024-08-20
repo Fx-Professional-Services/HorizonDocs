@@ -1,6 +1,6 @@
-[Add a Product](add-a-product)
-[Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services)
-[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive)
+[Add a Product](add-a-product) <br>
+[Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 
 # Add a Product
 
