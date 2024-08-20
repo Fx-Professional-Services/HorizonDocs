@@ -27,7 +27,7 @@ To create a production order, follow these steps:
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
 
 7. Enter the dates for when you **Started** and **Finished** the production order.
-8.  To select the **Location** where the yielded items will be stored go to **Sales Order**, click **Options**, then select **Feature Flags** and choose Production Order.  
+8.  To select the **Location** where the yielded items will be stored. 
 9. TO BE UPDATED: LOT #. 
 10. In the **Production Order Items** section, you can select the product type (yield or source) and adjust the product quantity. 
 11. Tap the reverse button 🔄 to revert recent changes and restore previous settings.
@@ -41,19 +41,18 @@ To create a production order, follow these steps:
 12. TO BE UPDATED: Tap the gear icon to access additional settings and  the i icon for more information.
 13. To delete or modify a specific line item, click the delete button located next to that item. If you wish to delete or change all line items at once, click the delete button above the list of line items.
 14. Click **confirm** to complete the following actions:
-- Confirm the production order.
-- Assign yielded items to "Built in Inventory" (+).
-- Assign sourced items to "Consumed in Inventory" (+).
-- Address demand for line items.
-- Assign the yielded item to the specified location (+).
+	- Confirm the production order.
+	- Assign yielded items to "Built in Inventory" (+).
+	- Assign sourced items to "Consumed in Inventory" (+).
+	- Address demand for line items.
+	- Assign the yielded item to the specified location (+).
 
-⚠️ Note: If the item does not exist at the location, a new location will be created. If the item already exists, the quantity will be updated.
-
- 💡 Tip: Click **Unconfirm** to reverse all actions:
-
-- Deduct added items.
-- Delete created locations.
-- Reverse updates.
+	⚠️ Note: If the item does not exist at the location, a new location will be created. If the item already exists, the quantity will be updated.
+	
+	 💡 Tip: Click **Unconfirm** to reverse all actions
+	- Deduct added items.
+	- Delete created locations.
+	- Reverse updates.
 
 15. Go to the **Procedure** tab, add step-by-step production instructions. 
 
