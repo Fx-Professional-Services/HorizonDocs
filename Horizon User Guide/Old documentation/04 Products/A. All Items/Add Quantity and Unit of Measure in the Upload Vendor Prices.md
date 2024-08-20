@@ -6,8 +6,8 @@ _________________
 3. Choose your **Party** from the options on the left side of the screen.
 4. Next to your selected party, locate and click on the following fields to make the necessary changes:
     - **Item Quantity**
-    - **Item Unit**: In the pop-up picker, select a unit of measure by clicking the add button (✚) next to it, then click **Done** to confirm.
+    - **Item Unit**: In the picker, select a unit of measure by clicking the add button (✚) next to it, then click **Done** to confirm.
     - **Vendor Quantity**
-    - **Vendor Unit**: In the pop-up picker, select a unit of measure by clicking the add button (✚) next to it, then click **Done** to confirm.
+    - **Vendor Unit**: In the picker, select a unit of measure by clicking the add button (✚) next to it, then click **Done** to confirm.
 
 That's it! You have successfully added quantity and units of measure to **Upload Vendor Prices**. If you need further assistance, please don't hesitate to reach out to our support team.

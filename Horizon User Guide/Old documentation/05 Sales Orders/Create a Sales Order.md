@@ -8,7 +8,7 @@ A sales order is a document that initiates the process of fulfilling a customer'
 
 2. Click **New Record**.
 
-3. Click on the **Customer** box to select party. In the pop-up web picker, type the party's name in the search bar and press Return (Mac), or scroll down, then click **Add**. Finally, click **Done** at the bottom to save.
+3. Click on the **Customer** box to select party. In the picker, type the party's name in the search bar and press Return (Mac), or scroll down, then click **Add**. Finally, click **Done** at the bottom to save.
 
 4. Set your **Receive** **Date** and **Start At**. **End At** date is automatically scheduled based on the **Start At** date.
 

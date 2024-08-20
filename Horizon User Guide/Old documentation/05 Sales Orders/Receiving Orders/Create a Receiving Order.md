@@ -13,7 +13,7 @@ ___________________________
 
 5. Determine the item type: **purchase order item** or **item**.
 
-6. Click on the box labeled **click to select in the picker** to choose the item/s you want to add. In the pop-up picker, click the add button (✚), and/or click **Done** at the bottom.
+6. Click on the box labeled **click to select in the picker** to choose the item/s you want to add. In the picker, click the add button (✚), and/or click **Done** at the bottom.
 
 7. Click on **Save Changes** to keep your changes.  Click on **Undo Changes** to discard them. 
 

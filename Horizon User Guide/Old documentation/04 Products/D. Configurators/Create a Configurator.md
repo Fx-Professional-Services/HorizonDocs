@@ -7,6 +7,6 @@ Follow these steps to create a configurator:
 3. Click on **New Record**.
 4. Enter **Details**.
     - Input the **name** of the configurator.
-    - Choose the unit of measure from the pop-up picker. 
+    - Choose the unit of measure from the picker. 
 
 That's it! You have successfully created a configurator. If you have further questions, feel free to reach out to our support team.
