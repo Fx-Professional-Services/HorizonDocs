@@ -12,6 +12,7 @@ Adding a new product to your system is easy! Just follow these simple steps:
     - **Name**: Enter the name of the product.
     - **Replenishment Method**: Select a method for restocking inventory. Choose from options like **build**, **purchase**, **stock,** or **pick**.
     - **Preferred Vendor**: Select your vendor from the provided list.
+    - **Product Flag Options**: Tick off the boxes **Need Pick**, **Consumable**, and/or **Sale Item** to modify the product's flag options.
     - **Stock to Keep**: Set the desired stock level for this product.
     - **Unit of Measure**: Specify the unit of measurement for the product.
     - **Active BOM**: Add any relevant bills of materials, if applicable. 
@@ -51,3 +52,17 @@ Managing outdated pricing information is crucial for keeping your records accura
 5. **Setting Inactive Prices:** Look for the **Active** column and set the vendor price as inactive by entering 0.
 
 
+  
+
+#### Definition of Terms
+
+##### Need Pick
+
+An item flagged as "Need Pick" is retrieved from inventory based on a pick order and transported to a designated location for processing or assembly.
+##### Consumable
+
+An item flagged as "Consumable" is intended to be used up or depleted over time.
+
+##### Sale Item
+
+An item flagged as a sale item is available for purchase, distinguishing it from items not intended for sale.
