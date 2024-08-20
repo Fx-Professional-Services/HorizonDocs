@@ -61,7 +61,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the payment record you wish to remove. Confirm **Deletion** by clicking **Delete** in the dialogue box. Deleted records are permanent. To recreate, follow Create a Payment Record.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png">
 
 ## Add Payment Card
 
@@ -80,7 +80,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	⚠️ Once saved, you cannot make changes to the payment card.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
 
 ## Add Payment Plan
 
@@ -92,7 +92,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
     
     - Review the details and click **Save and Close** to finalize your payment plan.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/16_add_payment_plan.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/16_add_payment_plan.png" width="350" height="300">
 
 ## Merge Customer Records
 
