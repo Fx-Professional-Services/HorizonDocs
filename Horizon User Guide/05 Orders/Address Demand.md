@@ -12,7 +12,7 @@
 
 	5.3. For a specific type of demand, click **build all**, **demand all**, **pick all**, or **purchase all**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/22_address_demand.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/22_address_demand.png" width="350" height="300">
 
  💡 Tip: To unhide addressed demands, uncheck **Hide Addressed Demands**.
 

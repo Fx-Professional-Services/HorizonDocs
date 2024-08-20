@@ -18,7 +18,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 6. **Select Estimate Status**: Choose from Draft, Sent, Accepted, Rejected, or Confirmed.
 7. **Add Opportunity for Customer**: Click the expand button (>) for  related opportunity details.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/10_create_sales_estimate.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/10_create_sales_estimate.png" width="350" height="300">
 
 ### Add Items to the Estimate
 
@@ -53,7 +53,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 	💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
 ### Confirm and Print the Sales Estimate
 
@@ -67,4 +67,4 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 16. **Create a Contract**: Optionally, click **Create Contract** to generate a contract based on the confirmed sales estimate.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
