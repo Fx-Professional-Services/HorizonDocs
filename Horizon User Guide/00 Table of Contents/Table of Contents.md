@@ -22,9 +22,9 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Order Management
 
-[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Order.md)
+[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Order.md)
 
-[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Sales%20Order/Sales%20Estimate.md)
+[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Estimate.md)
 
 [Address Demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md)
 
