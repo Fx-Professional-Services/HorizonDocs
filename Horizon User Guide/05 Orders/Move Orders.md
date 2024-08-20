@@ -9,7 +9,7 @@ A move order directs relocating a specific quantity of items from one location t
 	a. Select an employee. <br>
 	b. Add **Move Order Items**. <br>
 	c. Choose the current and new locations. <br>
-	⚠️ Note: If the location name is unavailable, only the location serial will be displayed. <br>
+	⚠️ Note: If the location name is unavailable, only the location serial will be shown. <br>
 	d. Enter the quantity of items you want to move. <br>
 4. Verify the location transfer by going to **Item Management** > **Locations** and clicking on **Inventory**.
 
