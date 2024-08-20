@@ -9,7 +9,7 @@ A sales order initiates fulfilling a customer's request for [products](#products
 [Definition of Terms](#definition-of-terms)
 ### **Create a Sales Order**
 ___
-1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/03%20Customers/Create%20a%20New%20Customer%20Record.md).
+1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md).
 2. Navigate to **Sales Orders** in the main menu. 
 3. Click **New Record**. 
 4. Click the **Customer** box to select party. In the pop-up web picker, type the party's name in the search bar and press **Enter**, or scroll down, then click **Add**.
