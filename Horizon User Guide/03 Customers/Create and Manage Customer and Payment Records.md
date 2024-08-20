@@ -18,7 +18,7 @@
     
     - Choose **Person** or **Organization** in the Type field. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="100" height="100">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="300" height="500">
 
 4. **Enter Customer Information**:
     
@@ -61,7 +61,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the payment record you wish to remove. Confirm **Deletion** by clicking **Delete** in the dialogue box. Deleted records are permanent. To recreate, follow Create a Payment Record.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="500">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="100" height="200">
 
 ## Add Payment Card
 
