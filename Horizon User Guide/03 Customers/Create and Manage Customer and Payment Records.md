@@ -61,7 +61,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the payment record you wish to remove. Confirm **Deletion** by clicking **Delete** in the dialogue box. Deleted records are permanent. To recreate, follow Create a Payment Record.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
 ## Add Payment Card
 
