@@ -18,7 +18,7 @@
     
     - Choose **Person** or **Organization** in the Type field. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="300" height="500">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/13_create_a_new_customer_record.png" width="300" height="200">
 
 4. **Enter Customer Information**:
     
