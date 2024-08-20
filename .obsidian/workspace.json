@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "date filter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md"
+                "file": "Horizon User Guide/04 Items/Create Products.md"
               }
             }
           }
@@ -149,11 +148,12 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
@@ -169,7 +169,6 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/00 Assets/34_log_in.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
