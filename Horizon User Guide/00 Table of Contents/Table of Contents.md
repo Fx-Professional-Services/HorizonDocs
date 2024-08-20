@@ -5,7 +5,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Getting Started
 
-[Start Using Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/01%20Start%20Using%20Horizon/Start%20Using%20Horizon.md)
+[Start Using Horizon](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/01%20Start%20Using%20Horizon/Start%20Using%20Horizon.md)
 
 ## Parties
 
