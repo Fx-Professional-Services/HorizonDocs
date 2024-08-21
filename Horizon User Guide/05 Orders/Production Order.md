@@ -27,7 +27,7 @@ To create a production order, follow these steps:
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
 
 7. Enter the dates for when you **Started** and **Finished** the production order.
-8.  To select the **Location** where the yielded items will be stored go to **Sales Order**, click **Options**, then select **Feature Flags** and choose Production Order.  
+8.  To select the **Location** where the yielded items will be stored, go to **Sales Order**, click **Options**, then select **Feature Flags** and choose Production Order.  
 9. TO BE UPDATED: LOT #. 
 10. In the **Production Order Items** section, you can select the product type (yield or source) and adjust the product quantity. 
 11. Tap the reverse button 🔄 to revert recent changes and restore previous settings.
