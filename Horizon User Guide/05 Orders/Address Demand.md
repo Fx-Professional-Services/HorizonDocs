@@ -1,6 +1,7 @@
 # Address Demand
 
-
+1. Go to **Supply and Demand** on the main menu.
+2. In the [demand](#demand) list, uncheck the types of demand you don’t need ([build demand](#build-demand), [demand demand](#demand-demand), [pick demand](#pick-demand), and [purchase demand](#purchase-demand)) until only the relevant type remains checked, then click **Search**. 
 3. To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 4. You can address either a specific demand item, a specific type of demand, or all demands:
 
