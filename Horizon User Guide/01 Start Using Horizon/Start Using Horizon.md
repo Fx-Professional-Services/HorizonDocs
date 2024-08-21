@@ -44,6 +44,7 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     - Open the **Request for Horizon Access** email.
     - Copy and paste the link into your browser. <br>
     ⚠️ Link expires in 15 minutes.
+    
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
@@ -129,7 +130,9 @@ Use this menu to manage all [items](#items) in the system, including [products](
 
 ---
 #### Items
-An item is a fundamental unit that can be included in various types of orders. It encompasses everything that can be added to an order, such as products, configurators, equipment, and discounts. Each type of item has distinct attributes and leads to the creation of different demand records when ordered. All types of items are categorized as "Items" and are stored in the main item database table.
+
+An item is a basic unit that can be added to orders, including products, configurators, equipment, and discounts. Each type has unique attributes and generates different demand records. All items are categorized in the main item database table.
+
 
 ---
 #### Products
@@ -138,7 +141,7 @@ Products are consumable physical items that can be created or purchased, each wi
 ---
 
 #### Services
-Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
+Services refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 
 ---
 
