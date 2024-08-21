@@ -27,10 +27,22 @@ An item is a basic unit that can be added to orders, including products, configu
 ### **Lead**  
 A lead is a recorded instance of a potential customer who has shown interest in a product or service, with details including their name, inquiry specifics, and source of contact. Leads are crucial in sales and marketing as they represent prospects that may convert into customers.
 
+### **Orders**
+
+###### **Pick Order**
+A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
+###### **Production Order**
+A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
+###### **Sales Order**
+A sales order initiates fulfilling a customer's request for [products](#products) or [services](#services). Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](#demand) and [invoice](#invoice) generation and allow for printing the record for documentation.
+
+
+### **Products**
+
 ### **Parties**
 A party refers to any individual or entity—such as a customer, vendor, or employee—that is associated with the business or organizational record.
 
-### **Products**
+
 Products are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling.
 
 ### **Services**
