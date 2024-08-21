@@ -16,7 +16,7 @@
  💡 Tip: To unhide addressed demands, uncheck **Hide Addressed Demands**.
 
 6. Confirmation pop-ups will appear at the start and end of batch demand generation. Click OK to proceed.
-7.  To view the batch name to its first value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will be listed as the latest item.
+7. To view the batch name set to its initial value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will appear as the most recent item.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/23_demand_batch_name.png" width="300" height="100">
 
