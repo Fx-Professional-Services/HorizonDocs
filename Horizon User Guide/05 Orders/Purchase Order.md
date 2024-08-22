@@ -9,13 +9,13 @@
 	 💡 Tip: The first item in the list under your account should be the demand you just generated.
 5. In the Purchase Orders window, click **Create Order** for the desired pick order.
 
-	<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/35_create_purchase_order.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/35_create_purchase_order.png" width="300" height="200">
 
 6. Once created, the order will have: <br>
 	6.1. a serial number and <br> 
 	6.2. its status will change to **View Order**—click it to proceed. <br>
 	
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/36_view_purchase_order.png" width="300" height="200"
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/36_view_purchase_order.png" width="300" height="200">
 
 7. In the Purchase Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'
 
