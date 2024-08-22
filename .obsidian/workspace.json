@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demand",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
     "assets/sales_order_gear_icon.png",
     "assets/9_create_vendor_record.png",
     "assets/8_create_employee_record.png",
@@ -156,8 +156,8 @@
     "Horizon User Guide/08 Leads/Leads.md",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
-    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
