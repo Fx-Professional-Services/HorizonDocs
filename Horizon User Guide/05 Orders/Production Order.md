@@ -2,7 +2,7 @@
 
 ## Create a Production Order
 
-A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation. To create a production order, follow these steps:
+A production order details the item to be produced, its required materials, and the timeframe for production to ensure proper resource allocation. To create a production order based on demand, follow these steps:
 
 1. [Address a build demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md#build-demand) 
 2. Select **Demand Batch List** under **Supply and Demand**.
