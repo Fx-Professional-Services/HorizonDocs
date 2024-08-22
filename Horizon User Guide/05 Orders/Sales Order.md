@@ -88,7 +88,7 @@ b. Click OK when you see the notification that the asynchronous process has star
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/19_generate_demand_2.png" width="350" height="300">
 
-c. After demand generation is complete, click **View Order** in the dialog box to see the generated demand in your sales order.
+c. Once demand generation is complete, click **View Order** in the dialog box to see the generated demand in your sales order.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/20_view_order_generate_demand_2.png" width="350" height="300">
 
