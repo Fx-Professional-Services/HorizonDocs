@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Address Demand.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Address Demand.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Address Demand.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Address Demand.md"
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -148,6 +164,13 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+>>>>>>> Stashed changes
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/06 Definition of Terms",
     "Horizon User Guide/05 Orders/Move Orders.md",
@@ -155,10 +178,7 @@
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/04 Items/Create Products.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
