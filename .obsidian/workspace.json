@@ -11,12 +11,8 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demand",
+                "query": "tip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +141,6 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Address Demand.md",
-<<<<<<< HEAD
-=======
-    "Horizon User Guide/05 Orders/Pick Order.md",
->>>>>>> pick_order
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
@@ -181,10 +169,8 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
-<<<<<<< HEAD
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
-=======
->>>>>>> pick_order
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
@@ -199,13 +185,8 @@
     "Horizon User Guide/00 Assets/29_view_order.png",
     "Horizon User Guide/00 Assets/28_delete_pick_order_item.png",
     "Horizon User Guide/00 Assets/27_pick_order.png",
-<<<<<<< HEAD
     "Horizon User Guide/00 Assets/26_procedure_tab.png",
     "Horizon User Guide/00 Assets/25_demand_batch_list.png",
-=======
-    "Horizon User Guide/00 Assets/25_demand_batch_list.png",
-    "Horizon User Guide/00 Assets/26_procedure_tab.png",
->>>>>>> pick_order
     "Untitled.canvas"
   ]
 }
