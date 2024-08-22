@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe5e70d4ece1789a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md"
+                "file": "Horizon User Guide/05 Orders/Pick Order.md"
               }
             }
           }
@@ -159,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe5e70d4ece1789a",
+  "active": "b3451ada06c617c6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
     "Purchase Order.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
@@ -189,8 +178,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
