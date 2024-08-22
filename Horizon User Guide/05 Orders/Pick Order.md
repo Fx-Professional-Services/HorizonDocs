@@ -8,7 +8,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 2. Select **Demand Batch List** under **Supply and Demand**.
 3. Find your user account. 
 4. Choose the demand you just generated, then click the expand button (>) next to the item. <br>
- 💡 Tip: The first item in the list under your account should be the demand you just generated.
+	 💡 Tip: The first item in the list under your account should be the demand you just generated.
 5. In the Pick Orders window, click **Create Order** for the desired pick order.
 6. Once created, the order will have: <br>
 	6.1. a serial number and <br> 
@@ -22,11 +22,6 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 8. Enter the **Finished** date.
 9. In the **Pick Order Items** section, you can add more items and adjust the quantity of each. 
-10. To remove a pick order item, simply click the delete (x) icon. <br>
-⚠️ **Note**: This action will automatically return the order item to the pick order. Repeat steps 2 through 5 and click **add pick order item** to include the item. 
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">
-
 11. Tap the i icon for more information.
 12. Click **Confirm** to verify and finalize the details.
 13. Click **Save Changes** to keep your modifications.
