@@ -214,7 +214,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/38_reset_password.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/assets/38_reset_password.png" width="350" height="300">
 5. Click OK after receiving the email-sent notification.
 
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
@@ -249,6 +249,6 @@ To permanently delete your account:
 
 5. Click **Delete Account** to remove the employee's account from all Horizon files.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/39_delete_account.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/assets/39_delete_account.png" width="400" height="300">
 
 
