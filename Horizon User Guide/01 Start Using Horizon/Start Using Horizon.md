@@ -212,7 +212,6 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png" width="350" height="300">
 5. Click OK after receiving the email-sent notification.
 
