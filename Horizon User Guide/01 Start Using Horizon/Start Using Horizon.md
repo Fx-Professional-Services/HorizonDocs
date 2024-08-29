@@ -1,6 +1,6 @@
 # Start Using Horizon
 
-Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#sales-orders) to ensure precise demand tracking and effective resource planning.
+Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4-sales-orders) to ensure precise demand tracking and effective resource planning.
 
 
 [Launch Horizon File](#launch-horizon-file)
