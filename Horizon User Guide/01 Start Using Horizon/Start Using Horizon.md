@@ -44,11 +44,11 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     - Open the **Request for Horizon Access** email.
     - Copy and paste the link into your browser. <br>
     ⚠️ Link expires in 15 minutes.
-    
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
 7. **Set Password**: Enter your password and click **Continue**.  <br>
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
+
 8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
 9. **Save Contact Method:** Tick the **Primary** box and click **Save**.  <br>
 10. **Account Created**: Click **OK**. 
@@ -160,7 +160,7 @@ Select this menu when recording the sale of products or services to a customer. 
 ### 5 **Invoices**  
 Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
 
-### 6 **Bill of Materials 
+### 6 **Bill of Materials**
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
 
 ### 7 **Lead**s
