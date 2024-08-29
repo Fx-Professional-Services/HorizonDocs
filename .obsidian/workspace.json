@@ -11,11 +11,9 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/5_delete_account.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/00 Assets/5_delete_account.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/00 Assets/5_delete_account.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
+                "file": "Horizon User Guide/00 Assets/5_delete_account.png"
               }
             }
           }
@@ -148,11 +146,13 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/39_delete_account.png",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/00 Assets/4_reset_password.png",
+    "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents",
-    "assets/4_reset_password.png",
     "Horizon User Guide/00 Assets/09_main_menu.png",
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/34_log_in.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
     "Horizon User Guide/00 Assets/09_main_menu 1.png",
@@ -167,7 +167,6 @@
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
     "Purchase Order.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
@@ -188,7 +187,6 @@
     "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
