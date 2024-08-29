@@ -148,6 +148,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Horizon User Guide/00 Assets/5_delete_account.png",
     "Horizon User Guide/00 Assets/4_reset_password.png",
     "Horizon User Guide/00 Assets/39_delete_account.png",
@@ -155,8 +156,17 @@
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+=======
+>>>>>>> start_using_horizon
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents",
+    "Horizon User Guide/00 Assets/5_delete_account.png",
+    "Horizon User Guide/00 Assets/4_reset_password.png",
+    "Horizon User Guide/00 Assets/39_delete_account.png",
+    "Horizon User Guide/00 Assets/38_reset_password.png",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/09_main_menu.png",
     "Horizon User Guide/00 Assets/34_log_in.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
@@ -164,7 +174,10 @@
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+<<<<<<< HEAD
     "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
+=======
+>>>>>>> start_using_horizon
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
