@@ -11,9 +11,11 @@
             "id": "b3451ada06c617c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/5_delete_account.png"
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/5_delete_account.png",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/5_delete_account.png",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Assets/5_delete_account.png"
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
               }
             }
           }
@@ -146,6 +148,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/5_delete_account.png",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/4_reset_password.png",
@@ -166,7 +169,6 @@
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Purchase Order.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
