@@ -26,7 +26,11 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 These steps will launch the Horizon file in FileMaker Pro.
 ## Create a Horizon Account
 
+<<<<<<< Updated upstream
 With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials-(BOM)**-), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
+=======
+With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#4-sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
+>>>>>>> Stashed changes
 
 [Create Your Own Horizon Account](#create-your-own-horizon-account)
 
@@ -160,7 +164,7 @@ Select this menu when recording the sale of products or services to a customer. 
 ### 5 **Invoices**  
 Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
 
-### 6 **Bill of Materials (BOM)**  
+### 6 **Bill of Materials 
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
 
 ### 7 **Lead**  
