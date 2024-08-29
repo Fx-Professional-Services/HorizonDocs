@@ -71,7 +71,8 @@ ___
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/33_create_account_for_another_user.png" width="350" height="300">
-5. **Add Account**: <br>
+5. **Add Account**: 
+
 	* Click **Add Account**.
 
 6. **Email Confirmation**:
