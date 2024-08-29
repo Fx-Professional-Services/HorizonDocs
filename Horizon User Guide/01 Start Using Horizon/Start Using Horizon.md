@@ -46,7 +46,6 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     ⚠️ Link expires in 15 minutes.
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
-
 7. **Set Password**: Enter your password and click **Continue**.  <br>
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
@@ -72,7 +71,7 @@ ___
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/33_create_account_for_another_user.png" width="350" height="300">
-5. **Add Account**:
+5. **Add Account**: <br>
 	* Click **Add Account**.
 
 6. **Email Confirmation**:
@@ -215,8 +214,8 @@ Select this option to reset data and display the installed plug-ins when the app
 4. Click on **Reset Password**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
-5. Click OK after receiving the email-sent notification.
 
+5. Click OK after receiving the email-sent notification. <br>
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
 
 	⚠️ Note: The link expires in 15 minutes.
