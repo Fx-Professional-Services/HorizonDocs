@@ -26,7 +26,7 @@ Follow these steps will launch the Horizon file in FileMaker Pro.
 4. Find and click the Horizon file, then confirm by clicking OK.
 ## Create a Horizon Account
 
-With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#4-sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
+With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#4-sales-orders), [Invoices](#6-invoices), [Bill of Materials](#7-bill-of-materials), and [Leads](#8-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
 
 [Create Your Own Horizon Account](#create-your-own-horizon-account)
 
@@ -156,13 +156,15 @@ Equipment refers to essential items used in various aspects of product creation 
 ---
 ### 4 **Sales Orders**
 Select this menu when recording the sale of products or services to a customer. Sales Order records specify the transaction time, specific details of the ordered goods or services, and a comprehensive list of items sold, including any configurations.
+### 5 **Supply and Demand**
+Use this menu to oversee and manage various demand types—such as purchase, build, or pick—and to monitor and adjust supply levels accordingly.
 
-### 5 **Invoices**  
+### 6 **Invoices**  
 Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
 
-### 6 **Bill of Materials**
+### 7 **Bill of Materials**
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
-### 7 **Leads**
+### 8 **Leads**
 A lead is a recorded instance of a potential customer expressing interest in a product, service, or opportunity. It includes the individual's name, details of their inquiry (e.g., inquiring for a wedding party), and the source of the lead (e.g., phone call). Additional information such as contact details and specifics about the opportunity they are interested in (e.g., planning a wedding) are also typically included. Leads are pivotal in sales and marketing, representing prospects that may convert into customers with further engagement.
 
 ---
@@ -170,12 +172,12 @@ A lead is a recorded instance of a potential customer expressing interest in a p
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
 ---
-### 8 **Re-Login**  
+### 9 **Re-Login**  
 Select this menu if you're asked to log in again due to inactivity or an expired session. This button ensures that only authorized users can access the system and facilitates switching between multiple accounts, maintaining security and convenience.
 
 ---
 
-### 9 **Settings**  
+### 10 **Settings**  
 Select this option to reset data and display the installed plug-ins when the app starts up.
 
 ## Reset Your Password
@@ -212,7 +214,11 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
+<<<<<<< HEAD
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png" width="350" height="300">
+=======
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/38_reset_password.png" width="350" height="300">
+>>>>>>> start_using_horizon
 5. Click OK after receiving the email-sent notification.
 
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
@@ -246,6 +252,7 @@ To permanently delete your account:
 4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
 
 5. Click **Delete Account** to remove the employee's account from all Horizon files.
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/5_delete_account.png" width="400" height="300">
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/39_delete_account.png" width="400" height="300">
 
 
