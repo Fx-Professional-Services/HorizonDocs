@@ -167,7 +167,7 @@ Invoices are accounting documents issued to customers and clients to record sale
 ### 6 **Bill of Materials 
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
 
-### 7 **Lead**  
+### 7 **Lead**s
 A lead is a recorded instance of a potential customer expressing interest in a product, service, or opportunity. It includes the individual's name, details of their inquiry (e.g., inquiring for a wedding party), and the source of the lead (e.g., phone call). Additional information such as contact details and specifics about the opportunity they are interested in (e.g., planning a wedding) are also typically included. Leads are pivotal in sales and marketing, representing prospects that may convert into customers with further engagement.
 
 ---
