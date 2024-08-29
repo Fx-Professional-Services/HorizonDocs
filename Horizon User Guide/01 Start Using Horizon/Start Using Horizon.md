@@ -26,13 +26,8 @@ Follow these steps will launch the Horizon file in FileMaker Pro.
 4. Find and click the Horizon file, then confirm by clicking OK.
 ## Create a Horizon Account
 
-<<<<<<< HEAD
-With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](4-sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials-(BOM)), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
-=======
 With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#4-sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
->>>>>>> definition_of_terms
 
-4 **Sales Orders**
 [Create Your Own Horizon Account](#create-your-own-horizon-account)
 
 [Create an Account for Another User in Horizon](#create-an-account-for-another-user-in-horizon)
@@ -51,11 +46,9 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     ⚠️ Link expires in 15 minutes.
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
-<<<<<<< HEAD
-7. **Set Password**: Enter your password and click **Continue**. <br>
-=======
+
 7. **Set Password**: Enter your password and click **Continue**.  <br>
->>>>>>> definition_of_terms
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
 8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
@@ -171,12 +164,7 @@ Invoices are accounting documents issued to customers and clients to record sale
 
 ### 6 **Bill of Materials**
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
-
-<<<<<<< HEAD
-### 7 **Leads
-=======
-### 7 **Lead**s
->>>>>>> definition_of_terms
+### 7 **Leads**
 A lead is a recorded instance of a potential customer expressing interest in a product, service, or opportunity. It includes the individual's name, details of their inquiry (e.g., inquiring for a wedding party), and the source of the lead (e.g., phone call). Additional information such as contact details and specifics about the opportunity they are interested in (e.g., planning a wedding) are also typically included. Leads are pivotal in sales and marketing, representing prospects that may convert into customers with further engagement.
 
 ---
