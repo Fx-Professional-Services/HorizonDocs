@@ -148,6 +148,7 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Horizon User Guide/00 Assets/31_production_order_tab.png",
     "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
@@ -155,14 +156,26 @@
     "Horizon User Guide/00 Assets/36_view_purchase_order.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
     "Horizon User Guide/00 Assets/34_log_in.png",
+=======
+    "Horizon User Guide/00 Assets/09_main_menu.png",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/00 Assets/09_main_menu 1.png",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/00 Assets/34_log_in.png",
+    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
+    "Horizon User Guide/00 Assets/31_production_order_tab.png",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
+>>>>>>> Stashed changes
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/05 Orders/Pick Order.md",
     "Purchase Order.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
@@ -183,7 +196,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
@@ -191,8 +203,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/00 Assets/30_create_order.png",
-    "Horizon User Guide/00 Assets/29_view_order.png",
-    "Horizon User Guide/00 Assets/28_delete_pick_order_item.png",
     "Untitled.canvas"
   ]
 }
