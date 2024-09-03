@@ -12,6 +12,7 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 3. Choose the demand you just generated, then click the expand button (>) next to it.  
    💡 **Tip:** The first item in the list under your account should be the demand you just generated.
 
+4. In the Temporary Order Item list, pick orders are grouped by date and order number. Click **Create Order** next to the desired pick order.
 
 5. Once created, the order will have:  
    5.1. A serial number and  
