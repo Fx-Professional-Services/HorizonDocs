@@ -20,7 +20,8 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
 
-6. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'  
+6. Click **View Order** to proceed.
+7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'  
 
    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
 
