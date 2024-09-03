@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,19 +149,45 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Horizon User Guide/05 Orders/Address Demand.md",
+=======
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+>>>>>>> Stashed changes
+>>>>>>> id_680
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/36_view_purchase_order.png",
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
+<<<<<<< HEAD
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+=======
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+>>>>>>> Stashed changes
+>>>>>>> id_680
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents",
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+=======
+>>>>>>> Stashed changes
+>>>>>>> id_680
     "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/05 Orders/Production Order.md"
   ]
