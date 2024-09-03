@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leads.md",
+                "file": "Horizon User Guide/04 Items/Search for an Item.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leads.md",
+                "file": "Horizon User Guide/04 Items/Search for an Item.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leads.md",
+                "file": "Horizon User Guide/04 Items/Search for an Item.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leads.md"
+                "file": "Horizon User Guide/04 Items/Search for an Item.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/40_search_an_item.png",
     "Horizon User Guide/04 Items/Search for an Item.md",
     "Leads.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
@@ -180,7 +181,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
