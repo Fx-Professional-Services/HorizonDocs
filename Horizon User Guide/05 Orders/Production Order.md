@@ -2,7 +2,9 @@
 
 ## Create a Production Order
 
-A production order details the item to be produced, its required materials, and the timeframe for production to ensure proper resource allocation. To create a production order based on demand, follow these steps:
+A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
+
+To create a production order, follow these steps:
 
 1. [Address a build demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/sales_order/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md#build-demand) 
 2. Select **Demand Batch List** under **Supply and Demand**.
@@ -39,16 +41,15 @@ A production order details the item to be produced, its required materials, and 
 12. TO BE UPDATED: Tap the gear icon to access additional settings and  the i icon for more information.
 13. To delete or modify a specific line item, click the delete button located next to that item. If you wish to delete or change all line items at once, click the delete button above the list of line items.
 14. Click **confirm** to complete the following actions:
-- Confirm the production order.
-- Assign yielded items to "Built in Inventory" (+).
-- Assign sourced items to "Consumed in Inventory" (+).
-- Address demand for line items.
-- Assign the yielded item to the specified location (+).
+	- Confirm the production order.
+	- Assign yielded items to "Built in Inventory" (+).
+	- Assign sourced items to "Consumed in Inventory" (+).
+	- Address demand for line items.
+	- Assign the yielded item to the specified location (+).
 
 	⚠️ Note: If the item does not exist at the location, a new location will be created. If the item already exists, the quantity will be updated.
-
-	 💡 Tip: Click **Unconfirm** to reverse all actions:
-
+	
+	 💡 Tip: Click **Unconfirm** to reverse all actions
 	- Deduct added items.
 	- Delete created locations.
 	- Reverse updates.
