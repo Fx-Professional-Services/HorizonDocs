@@ -11,8 +11,12 @@
             "id": "282afb4ac4d6f39e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+              }
             }
           }
         ]
@@ -140,21 +148,14 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
-    "Horizon User Guide/04 Items/Search for an Item.md",
-    "assets/15_search_an_item.png",
-    "Horizon User Guide/00 Assets/40_search_an_item.png",
-    "Leads.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/06 Definition of Terms",
-    "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/06 Leads",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
+    "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/Old documentation/00 Table of Contents",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
@@ -174,9 +175,16 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
@@ -184,6 +192,7 @@
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
     "Horizon User Guide/00 Assets/34_log_in.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png"
+    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
+    "Horizon User Guide/00 Assets/31_production_order_tab.png"
   ]
 }
