@@ -1,36 +1,33 @@
 # Pick Order
 
-A pick order is an instruction to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment.
+A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
 
 ### Create a Pick Order:
 
-1. To address a specific pick demand item, click **pick (item x)** (e.g., Lemon Meringue Tart). To address all pick demands at once, click **pick all.**  
-   ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click OK to continue.
+1. [Address a pick demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md)
+2. Select **Demand Batch List** under **Supply and Demand**.
+3. Find your user account. 
+4. Choose the demand you just generated, then click the expand button (>) next to the item. <br>
+	 💡 Tip: The first item in the list under your account should be the demand you just generated.
+5. In the Pick Orders window, click **Create Order** for the desired pick order.
+6. Once created, the order will have: <br>
+	6.1. a serial number and <br> 
+	6.2. its status will change to **View Order**—click it to proceed. <br>
+	
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
 
-2. To view the batch name, which is set to its initial value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. The most recent item will be the batch you just generated.
+7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'
 
-3. Choose the demand you just generated, then click the expand button (>) next to it.  
-   💡 **Tip:** The first item in the list under your account should be the demand you just generated.
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
 
-4. In the Temporary Order Item list, pick orders are grouped by date and order number. Click **Create Order** next to the desired pick order.
+8. Enter the **Finished** date.
+9. In the **Pick Order Items** section, you can add more items and adjust the quantity of each. 
+10. To remove a pick order item, click the delete (x) icon. This action will automatically return the item to the pick order.**
 
-5. Once created, the order will have:  
-   5.1. A serial number and  
-   5.2. Its status will change to **View Order**—click it to proceed.  
+	💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
+  
+**<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
-
-6. Click **View Order** to proceed.
-7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'  
-
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
-
-7. Enter the **Finished** date.
-
-8. In the **Pick Order Items** section, you can add more items and adjust the quantity of each.
-
-9. Tap the i icon for more information.
-
-10. Click **Confirm** to verify and finalize the details.
-
-11. Click **Save Changes** to keep your modifications.
+11. Tap the i icon for more information.
+12. Click **Confirm** to verify and finalize the details.
+13. Click **Save Changes** to keep your modifications.
