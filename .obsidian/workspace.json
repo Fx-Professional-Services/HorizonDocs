@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/05 Orders/Address Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md"
+                "file": "Horizon User Guide/05 Orders/Address Demand.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b6989c1ca2ac75",
+  "active": "dc3832e01b49bab8",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/04 Items/Create Products.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "assets/15_search_an_item.png",
     "Horizon User Guide/04 Items/Search for an Item.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
