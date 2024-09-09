@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,6 +149,8 @@
   },
   "active": "dc3832e01b49bab8",
   "lastOpenFiles": [
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
+    "Horizon User Guide/04 Items/Create Products.md",
     "assets/15_search_an_item.png",
     "Horizon User Guide/04 Items/Search for an Item.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
@@ -165,14 +168,12 @@
     "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/36_view_purchase_order.png",
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/04 Items/Create Products.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/00 Table of Contents",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/46_remove_account_settings.png",
-    "Horizon User Guide/00 Assets/45_change_password_settings.png",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/06 Definition of Terms",
@@ -186,7 +187,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
     "Horizon User Guide/Old documentation/08 Leads",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
