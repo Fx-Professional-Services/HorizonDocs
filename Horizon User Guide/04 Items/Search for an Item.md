@@ -4,7 +4,7 @@
 
 2. Navigate to **Item Management > All Items**.
 
-3. In the search field, type what you're looking for
+3. In the search field, type what you're looking for.
 
 4. Click  the **Find** button 🔎. Relevant information will appear based on your search.
 
