@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Search for an Item.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/Search for an Item.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/Search for an Item.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/Search for an Item.md"
+                "file": "Horizon User Guide/04 Items/Create Products.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "dc3832e01b49bab8",
   "lastOpenFiles": [
+    "Horizon User Guide/04 Items/Search for an Item.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/04 Items/Search for an Item.md",
     "Horizon User Guide/00 Assets/40_search_an_item.png",
     "Leads.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
