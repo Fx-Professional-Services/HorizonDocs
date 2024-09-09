@@ -17,16 +17,16 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 
 ## Launch Horizon File
 
-1. **Open FileMaker Pro**: Start the FileMaker Pro application.
+Follow these steps will launch the Horizon file in FileMaker Pro.
+
+1.  Start the FileMaker Pro application.
 2. **Access Hosts Menu**:
     - **Mac**: Go to the top menu bar, select **File**, then **Hosts**.
-3. **Select Your Server**: Choose the server hosting your database from the list.
-4. **Open the Horizon File**: Find and click the Horizon file, then confirm by clicking OK.
-
-These steps will launch the Horizon file in FileMaker Pro.
+3. Choose the server hosting your database from the list.
+4. Find and click the Horizon file, then confirm by clicking OK.
 ## Create a Horizon Account
 
-With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#sales-orders), [Invoices](#invoices), [Bill of Materials](#6-bill-of-materials-(BOM)**-), and [Leads](#7-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
+With your Horizon account, you can access all Horizon files, including Parties, [Products](#products), [Sales Orders](#4-sales-orders), [Invoices](#6-invoices), [Bill of Materials](#7-bill-of-materials), and [Leads](#8-leads). You can create sales orders, generate [demand](#demand), generate invoices, create Bills of Materials, and more.
 
 [Create Your Own Horizon Account](#create-your-own-horizon-account)
 
@@ -44,10 +44,11 @@ With your Horizon account, you can access all Horizon files, including Parties, 
     - Open the **Request for Horizon Access** email.
     - Copy and paste the link into your browser. <br>
     ⚠️ Link expires in 15 minutes.
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
 7. **Set Password**: Enter your password and click **Continue**.  <br>
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
+
 8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
 9. **Save Contact Method:** Tick the **Primary** box and click **Save**.  <br>
 10. **Account Created**: Click **OK**. 
@@ -70,8 +71,7 @@ ___
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/33_create_account_for_another_user.png" width="350" height="300">
-
-5. **Add Account**:
+5. Add Account: <br>
 	* Click **Add Account**.
 
 6. **Email Confirmation**:
@@ -129,7 +129,9 @@ Use this menu to manage all [items](#items) in the system, including [products](
 
 ---
 #### Items
-An item is a fundamental unit that can be included in various types of orders. It encompasses everything that can be added to an order, such as products, configurators, equipment, and discounts. Each type of item has distinct attributes and leads to the creation of different demand records when ordered. All types of items are categorized as "Items" and are stored in the main item database table.
+
+An item is a basic unit that can be added to orders, including products, configurators, equipment, and discounts. Each type has unique attributes and generates different demand records. All items are categorized in the main item database table.
+
 
 ---
 #### Products
@@ -138,7 +140,7 @@ Products are consumable physical items that can be created or purchased, each wi
 ---
 
 #### Services
-Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
+Services refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 
 ---
 
@@ -153,14 +155,15 @@ Equipment refers to essential items used in various aspects of product creation 
 ---
 ### 4 **Sales Orders**
 Select this menu when recording the sale of products or services to a customer. Sales Order records specify the transaction time, specific details of the ordered goods or services, and a comprehensive list of items sold, including any configurations.
+### 5 **Supply and Demand**
+Use this menu to oversee and manage various demand types—such as purchase, build, or pick—and to monitor and adjust supply levels accordingly.
 
-### 5 **Invoices**  
+### 6 **Invoices**  
 Invoices are accounting documents issued to customers and clients to record sales transactions and request payment. They specify the agreed-upon prices, quantities, and terms of the sale as detailed in the sales order and include any discounts and taxes applied.
 
-### 6 **Bill of Materials (BOM)**  
+### 7 **Bill of Materials**
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
-
-### 7 **Lead**  
+### 8 **Leads**
 A lead is a recorded instance of a potential customer expressing interest in a product, service, or opportunity. It includes the individual's name, details of their inquiry (e.g., inquiring for a wedding party), and the source of the lead (e.g., phone call). Additional information such as contact details and specifics about the opportunity they are interested in (e.g., planning a wedding) are also typically included. Leads are pivotal in sales and marketing, representing prospects that may convert into customers with further engagement.
 
 ---
@@ -168,12 +171,12 @@ A lead is a recorded instance of a potential customer expressing interest in a p
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
 ---
-### 8 **Re-Login**  
+### 9 **Re-Login**  
 Select this menu if you're asked to log in again due to inactivity or an expired session. This button ensures that only authorized users can access the system and facilitates switching between multiple accounts, maintaining security and convenience.
 
 ---
 
-### 9 **Settings**  
+### 10 **Settings**  
 Select this option to reset data and display the installed plug-ins when the app starts up.
 
 ## Reset Your Password
@@ -210,10 +213,14 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
+<<<<<<< HEAD
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/4_reset_password.png" width="350" height="300">
 5. Click OK after receiving the email-sent notification.
+=======
+>>>>>>> start_using_horizon
 
+5. Click OK after receiving the email-sent notification. <br>
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
 
 	⚠️ Note: The link expires in 15 minutes.
@@ -245,6 +252,5 @@ To permanently delete your account:
 4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
 
 5. Click **Delete Account** to remove the employee's account from all Horizon files.
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/main/assets/5_delete_account.png" width="400" height="300">
 
-
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
