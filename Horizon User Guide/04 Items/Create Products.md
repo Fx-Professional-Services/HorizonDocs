@@ -1,7 +1,6 @@
 [Add a Product](add-a-product) <br>
 [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
 [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
-
 # Add a Product
 
 Adding a new product to your system is easy! Just follow these simple steps:
@@ -9,16 +8,24 @@ Adding a new product to your system is easy! Just follow these simple steps:
 1. Go to the main menu and select **Products**.
 2. Click on **New Record**.
 3. Fill in the following details:
-    - **Name**: Enter the name of the product.
-    - **Replenishment Method**: Select a method for restocking inventory. Choose from options like **build**, **purchase**, **stock,** or **pick**.
-    - **Preferred Vendor**: Select your vendor from the provided list.
-    - **Stock to Keep**: Set the desired stock level for this product.
-    - **Unit of Measure**: Specify the unit of measurement for the product.
-    - **Active BOM**: Add any relevant bills of materials, if applicable. 
+    A.  **Name**: Enter the product name.
+    B. **Replenishment Method**: Select a restocking method from the following options: Build, Purchase, Stock, or Pick.
+    C. **Preferred Vendor**: Choose a vendor from the list provided.
+	D. **Stock to Keep**: Set the desired inventory level for this product.
+	E. **Unit of Measure**: Specify the unit of measurement for the product.
+    F.  **Active BOM**: Add relevant bills of materials (BOM), if applicable.
+    G. **Lead Time**: The lead time is the total time required to fulfill an order, including pick, build, and purchase. It is automatically calculated based on your selections. Specify lead time using one of the following methods:
+    
+    - **Time in Advance**: Enter the number of days or amount of time before the order must be fulfilled.
+    - **Day of the Week**: Enter one or more days of the week (separated by commas) when the lead time applies. Use numbers 1 through 7, where 1 represents Sunday.
+    - **Day of the Month**: Enter one or more days of the month (separated by commas) when the lead time applies. Use numbers 1 through 31.
+💡 Tip: To select multiple days, separate the numbers with commas.
+    
+* **Example 1**: Selecting "2" for the day of the week and "15:00" for the time will set the lead time to Monday at 3:00 PM.
+* **Example 2**: Selecting "31" for the day of the month and "15:00" for the time will set the lead time to the 31st of the month at 3:00 PM.
+* **Example 3**: Selecting "2, 4" for the days of the week and "15:00" for the time will set the lead time for both Monday and Wednesday at 3:00 PM. If the lead time could be on either Monday or Wednesday and the demand time is Thursday, the system will default to Wednesday. This ensures the product is prepared as fresh as possible by choosing the closest date to the deadline.
 
-	⚠️ **Note**: Lead time (including pick, build, and purchase) is the time required before fulfilling the order. It will be automatically calculated based on your selections.
-
-	💡 Tip: To delete a product record, click **Delete Record**. Confirm your deletion by selecting **Delete** in the dialogue box. 
+⚠️ Note: To delete a product record, click **Delete Record**. Confirm your deletion by selecting **Delete** in the dialogue box. 
 
 # Create a New Product in the Upload Vendor Prices
 
