@@ -59,7 +59,7 @@ Follow these steps to create a new employee record:
     
     ⚠️ Input a two-digit country code in addresses.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_employee_record.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_employee_record.png" width="350" height="300">
 
 4. **Choose Primary Contact Method**:
     
@@ -73,7 +73,6 @@ Follow these steps to create a new employee record:
 That's it! You've created a new employee record. Contact our support team for any questions.
 
 ## Create a New Vendor Record
-
 
 Vendors are external suppliers who provide goods or services under contractual agreements, crucial for a company's supply chain and operational success.
 
@@ -95,13 +94,13 @@ Follow these steps to create a new vendor record:
     
     -  Provide name, email, phone, URLs, and address details.
     
-    ⚠️ Input a two-digit country code in your mailing and/or billing address.
+    ⚠️ **Note:** Input a two-digit country code in your mailing and/or billing address.
     
 5. **Choose Primary Contact Method**:
     
     - Select a preferred contact method by checking the box under **Primary**. 
     
-    ⚠️ Must select a primary contact method to save.
+    ⚠️ **Note:** Must select a primary contact method to save.
     
 6. **Save the Record**:
     
