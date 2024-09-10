@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
+                "file": "Horizon User Guide/04 Items/Create Products.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Leads.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
@@ -186,7 +187,6 @@
     "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
