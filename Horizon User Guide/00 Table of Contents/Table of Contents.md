@@ -18,7 +18,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 ## Items
 
 #### Products
-[Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Create%20Products.md)
+[Create Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/create_products/Horizon%20User%20Guide/04%20Items/Create%20Products.md)
 
 ## Order Management
 
@@ -34,4 +34,5 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 [Production Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Production%20Order.md)
 
+[Purchase Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Purchase%20Order.md)
 
