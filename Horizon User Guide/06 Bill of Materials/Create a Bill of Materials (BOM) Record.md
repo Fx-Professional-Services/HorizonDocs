@@ -42,16 +42,17 @@
    - Click on the **quantity** type box and input the quantity for each source/yield item.
 
    💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
+  
 7. **Add Procedural Steps**: 
 
-	7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
+7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
 
-	7.2. In the Procedure tab, input the following details for each step. 
+7.2. In the Procedure tab, input the following details for each step. 
 
-	 A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
+A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
 
-	B. **Instructions**: Provide clear and concise instructions for executing each step.
+B. **Instructions**: Provide clear and concise instructions for executing each step.
 
-	C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
+C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
