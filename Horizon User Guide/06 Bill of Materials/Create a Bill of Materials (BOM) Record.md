@@ -32,12 +32,13 @@
 5. **Confirm Unit of Measure**:
 
    - The unit of measure for each yield and source item will be automatically set. To change the unit of measure, click on the **unit** type box. In the pop-up form, select the unit of measure and click **Done**.
-   
+
+
 6. **Input the Quantity**:
 
    - Click on the **quantity** type box and input the quantity for each source/yield item.
 
-   💡 **Tip**: Use the up and down arrow keys to easily navigate between fields.
+  💡 **Tip**: Use the up and down arrow keys to easily navigate between fields.
 
 7. **Add Procedural Steps**: 
 
