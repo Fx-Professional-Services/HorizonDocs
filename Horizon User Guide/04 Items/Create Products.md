@@ -15,7 +15,7 @@ Adding a new product to your system is easy! Just follow these simple steps:
     - **Preferred Vendor**: Select your vendor from the provided list.
     - **Stock to Keep**: Set the desired stock level for this product.
     - **Unit of Measure**: Specify the unit of measurement for the product.
-    - **Active BOM**: Add any relevant bills of materials, if applicable. 
+    - **Active BOM**: Click on the **Active BOM** box. In the pop-up form, choose an item by either clicking the **Add** button (✚) next to it or typing its name in the search box. Once selected, click **Done**. This will take you back to the original layout, and the active BOM will be set.
 
 	⚠️ **Note**: Lead time (including pick, build, and purchase) is the time required before fulfilling the order. It will be automatically calculated based on your selections.
 
