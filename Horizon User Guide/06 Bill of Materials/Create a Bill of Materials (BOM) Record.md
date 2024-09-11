@@ -1,7 +1,7 @@
 # Create a Bill of Materials (BOM) Record
 
   Follow these simple steps to create a new Bill of Materials (BOM) record:
-
+  
 1. **Access BOM Section**:
 
    - Open the **Bill of Materials** file from the main menu.
@@ -20,8 +20,8 @@
 	- **Browse**: Scroll through the list and click on the item.
 	- Click **Done** to return.
 💡**Tips:** 
-1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
-2. To delete a BOM yield item: Click on the delete button (✖︎) next to the item. A confirmation dialogue will appear; click **Delete** to confirm.
+	1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
+	2. To delete a BOM yield item: Click on the delete button (✖︎) next to the item. A confirmation dialogue will appear; click **Delete** to confirm.
 
 4. **Set BOM Name and Type**:
 
