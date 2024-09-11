@@ -4,8 +4,7 @@
 
 1. **Access BOM Section**:
 
-   - Open the **Bill of Materials** file from the main menu.
-   
+   - Open the **Bill of Materials** file from the main menu. <br>
 2. **Initiate New Record**:
 
    - Click **New Record** to start a blank record.
@@ -42,15 +41,14 @@
 
    - Click on the **quantity** type box and input the quantity for each source/yield item.
 
-   💡 **Tip**: Use the up and down arrow keys to easily navigate between fields.
-   
+   💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
 7. **Add Procedural Steps**: 
 
 	7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
 
 	7.2. In the Procedure tab, input the following details for each step. 
 
-	A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
+	 A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
 
 	B. **Instructions**: Provide clear and concise instructions for executing each step.
 
