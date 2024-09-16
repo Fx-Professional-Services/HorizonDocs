@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md"
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md"
               }
             }
           }
@@ -148,18 +148,28 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
     "Leads.md",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/06 Definition of Terms",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
@@ -171,19 +181,9 @@
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
-    "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
