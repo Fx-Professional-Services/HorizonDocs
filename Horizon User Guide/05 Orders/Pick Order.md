@@ -34,3 +34,17 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 10. Click **Confirm** to verify and finalize the details.
 
 11. Click **Save Changes** to keep your modifications.
+
+### Change Customer Picker to Employee Picker:
+
+1. In the main menu, click on **Sales Order**, then select **Pick Order**.
+
+2. Click **New Record**.
+
+3. Click the **Employee** field. Choose an employee by either typing their name or browsing through the list, then click the **Add** button (+).
+
+4. Set the **Need By** and **Finished Dates**.
+
+5. Select a pick order item.
+
+6. Click **Save Changes**.
