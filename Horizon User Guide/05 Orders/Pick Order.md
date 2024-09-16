@@ -34,9 +34,5 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
 10. Click **Confirm** to verify and finalize the details.
 
-<<<<<<< HEAD
 11. Click **Save Changes** to keep your modifications.
->>>>>>> Stashed changes
-=======
-11. Click **Save Changes** to keep your modifications.
->>>>>>> id_680
+
