@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/05 Orders/Pick Order.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8718dba23bd8e8",
+  "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
