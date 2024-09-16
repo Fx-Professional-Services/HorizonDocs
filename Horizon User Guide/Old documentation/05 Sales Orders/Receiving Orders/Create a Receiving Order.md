@@ -15,5 +15,12 @@ ___________________________
 
 6. Click on the box labeled **click to select in the picker** to choose the item/s you want to add. In the picker, click the add button (✚), and/or click **Done** at the bottom.
 
-7. Click on **Save Changes** to keep your changes.  Click on **Undo Changes** to discard them. 
+7. Click the **Confirm** button. This action will increment the inventory, mark the purchase items as received, and set the order status to "confirmed".
 
+	⚠️ Note: To unconfirm the receiving order, cick the **unconfirm** button. This action will decrement the inventory and mark the purchase items as pending.
+
+8. Click on **Save Changes** to keep your changes.  Click on **Undo Changes** to discard them. 
+
+9. If you wish to delete a specific order, select **Delete Record**. 
+
+	⚠️ Note: You can only delete a receiving order item if the order has been confirmed. To confirm the order, simply click on **Confirm**. Confirm the deletion by clicking **Yes** in the dialogue box.

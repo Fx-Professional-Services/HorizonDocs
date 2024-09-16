@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md"
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
