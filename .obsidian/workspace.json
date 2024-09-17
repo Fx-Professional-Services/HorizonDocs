@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md"
+                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
     "Horizon User Guide/04 Items/Configurators",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
     "Horizon User Guide/04 Items/Products/Untitled",
     "Leads.md",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
@@ -179,7 +179,6 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
