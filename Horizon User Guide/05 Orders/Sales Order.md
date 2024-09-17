@@ -33,7 +33,10 @@ ___
     - Choose the line item to edit its customer-facing name and description, based on default settings. Adjust the name as needed.
 10. **Configuring Sales Order Items:**
     
-    - Customize a sales order item by clicking the gear icon (⚙️) and then selecting **DONE** to save your changes.
+    - **Customize a Sales Order Item**: Click the gear icon (⚙️) and then selecting **DONE** to save your changes.
+    
+	  💡 Tip: To search for items by category in the item picker, cick on the order line items to open the item picker viewer. In the category column, enter keywords found in the category. This search will return results based on the entered keywords within the category.
+    
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/03_sales_order_manage_line_items.png" width="350" height="300">
 
