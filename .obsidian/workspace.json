@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "97b25b7409a7c2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generate a Sales Invoice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generate a Sales Invoice.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generate a Sales Invoice.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generate a Sales Invoice.md"
+                "file": "Horizon User Guide/05 Orders/Sales Order.md"
               }
             }
           }
@@ -159,9 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b25b7409a7c2db",
+  "active": "eb8718dba23bd8e8",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Generate a Sales Invoice.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
@@ -176,6 +162,8 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Add Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
@@ -190,7 +178,6 @@
     "Leads.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/06 Definition of Terms",
