@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97b25b7409a7c2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generate a Sales Invoice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Generate a Sales Invoice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Generate a Sales Invoice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Generate a Sales Invoice.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8718dba23bd8e8",
+  "active": "97b25b7409a7c2db",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Generate a Sales Invoice.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -169,7 +184,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
@@ -178,7 +192,6 @@
     "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/06 Definition of Terms",
     "Horizon User Guide/Old documentation/08 Leads",
