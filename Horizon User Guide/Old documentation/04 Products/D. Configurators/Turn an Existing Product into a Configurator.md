@@ -1,5 +1,5 @@
-### Turning an Existing Product into a Configurator
-________
+# Turning an Existing Product into a Configurator
+
 Here's a simple guide to turn a product into a configurator: 
 
 1. Begin by navigating to the main menu and selecting **Products**.
