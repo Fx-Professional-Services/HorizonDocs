@@ -11,8 +11,12 @@
             "id": "282afb4ac4d6f39e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md"
+              }
             }
           }
         ]
@@ -140,6 +148,18 @@
   },
   "active": "282afb4ac4d6f39e",
   "lastOpenFiles": [
+    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
+    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/08 Leads/Leads.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Add Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
@@ -156,23 +176,11 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
-    "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/06 Definition of Terms",
-    "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
-    "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
-    "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
-    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
-    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/Old documentation/06 Invoices",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
