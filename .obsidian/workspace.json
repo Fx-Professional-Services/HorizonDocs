@@ -149,10 +149,6 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "assets/3_log_in.png",
@@ -186,6 +182,9 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Print Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Omit a Sales Order Record.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
@@ -194,6 +193,7 @@
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png"
+    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
+    "Horizon User Guide/00 Assets/34_log_in.png"
   ]
 }
