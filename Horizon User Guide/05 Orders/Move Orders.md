@@ -1,6 +1,5 @@
 # Move Orders
 
-
 A move order directs relocating a specific quantity of items from one location to another within a warehouse, detailing both the source and destination locations. Follow the step-by-step instructions below on how to move an order: 
 
 1. From the main menu, go to **Sales Orders**. 
