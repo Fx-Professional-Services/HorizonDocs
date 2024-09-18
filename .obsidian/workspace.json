@@ -11,9 +11,11 @@
             "id": "0d03798ee454ed7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
               }
             }
           }
