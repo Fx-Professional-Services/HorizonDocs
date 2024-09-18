@@ -4,7 +4,13 @@ A party refers to any individual or entity that interacts with or is represented
 - **Employee**: A person who works for or is employed by the organization managing or using the system.
 - **Vendor**: A person or organization that provides goods or services to the organization using the system.
 
-Each party has different roles, permissions, and interactions within the system. Follow the steps below to create a new party record: 
+Each party has distinct roles, permissions, and interactions within the system:
+
+- A **customer party record** is essential for managing sales orders and customer payment records.
+- An **employee party record** is necessary for creating a Horizon account, granting access to all Horizon files and enabling the creation of sales orders, generation of demand and invoices, and development of Bills of Materials.
+- A **vendor party record** is vital for managing purchase orders.
+
+Follow the steps below to create a new party record:
 
 # Create a New Party Record
 
