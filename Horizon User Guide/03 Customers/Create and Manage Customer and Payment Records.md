@@ -38,17 +38,16 @@
 2. Click **Add Payment**.
 3. **Enter Payment Details**: Enter the amount and choose the payment type: ACH, Card, or Check.
 
-#### For ACH:
+	#### For ACH:
 
-A. **Select Account Type**: Choose between **Checking** and **Savings**. <br>
-B. **Enter Payment Info**: Provide the routing number, account number, and an optional memo. <br>
-#### For Card:
+	A. **Select Account Type**: Choose between **Checking** and **Savings**. <br>
+	B. **Enter Payment Info**: Provide the routing number, account number, and an optional memo. <br>
+	#### For Card:
 
-**Enter Payment Info**: Provide card type, expiration date, card number, and an optional memo. <br>
-#### For Check:
+	**Enter Payment Info**: Provide card type, expiration date, card number, and an optional memo. <br>
+	#### For Check:
 
-**Enter Payment Info**: Provide the check number. <br>
-
+	**Enter Payment Info**: Provide the check number. <br>
 4. To confirm a payment record, click the expand button (>) to view the existing payment record. Click **Confirmed** to proceed.
 
 	⚠️ Note: Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
@@ -59,7 +58,7 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
     
     - Review your details. Click **Save and Close** to save changes or **Cancel Payment** to discard.
 
-	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the payment record you wish to remove. Confirm **Deletion** by clicking **Delete** in the dialogue box. Deleted records are permanent. To recreate, follow Create a Payment Record.
+	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the record you wish to remove. Confirm by clicking **Delete** in the dialog box. Please note that deleted records are permanent. To recreate a record, follow the steps in **Create a Payment Record**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
@@ -96,6 +95,6 @@ B. **Enter Payment Info**: Provide the routing number, account number, and an op
 
 ## Merge Customer Records
 
-1. From the left panel, select the customer whose records you want to merge.
-2. In the menu layout, navigate to **Scripts** in the menu layout and select **Merge Customer**.
-3. Choose the customer into which you want to merge the selected records from the list. The records of both customers will now be merged and combined.
+1. From the left pane, select the customer whose records you want to merge.
+2. Click **Scripts** in the navigation bar and select **Merge Customer**.
+3. Choose the customer to merge with from the list. The records of both customers will be combined.
