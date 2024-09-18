@@ -11,11 +11,9 @@
             "id": "0d03798ee454ed7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/17_create_a_new_party_record.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md"
+                "file": "Horizon User Guide/00 Assets/17_create_a_new_party_record.png"
               }
             }
           }
@@ -148,6 +146,11 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/16_add_payment_plan.png",
+    "Horizon User Guide/00 Assets/15_add_payment_card.png",
+    "Horizon User Guide/00 Assets/14_confirm_process_save_add_payment.png",
+    "Horizon User Guide/02 All Parties/Create a Party Record.md",
+    "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Leads.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
@@ -178,8 +181,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
@@ -190,9 +191,6 @@
     "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
-    "assets/5_delete_account.png",
-    "assets/4_reset_password.png",
-    "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png"
+    "assets/5_delete_account.png"
   ]
 }
