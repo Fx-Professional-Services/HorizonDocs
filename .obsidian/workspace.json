@@ -11,11 +11,9 @@
             "id": "0d03798ee454ed7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/37_purchase_order.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/00 Assets/37_purchase_order.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/00 Assets/37_purchase_order.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md"
+                "file": "Horizon User Guide/00 Assets/37_purchase_order.png"
               }
             }
           }
@@ -146,10 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8718dba23bd8e8",
+  "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/00 Assets/37_purchase_order.png",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -184,15 +184,12 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
     "Horizon User Guide/00 Assets/36_view_purchase_order.png",
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
     "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
-    "assets/5_delete_account.png",
-    "assets/4_reset_password.png"
+    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png"
   ]
 }
