@@ -1,6 +1,6 @@
 # Create a Party Record
 
-## **Party**
+# **Party**
 A party refers to any individual or entity that interacts with or is represented within the system. This includes:
 - **Customer**: An individual or organization that purchases or uses the products or services offered by the system.
 - **Employee**: A person who works for or is employed by the organization managing or using the system.
@@ -14,7 +14,7 @@ Each party type has different roles, permissions, and interactions within the sy
 
 [Create a New Vendor Record](#create-a-new-vendor-record)
 
-## Create a New Customer Record
+# Create a New Customer Record
 
 1. **Access Customer Section**:
     
@@ -40,7 +40,7 @@ Each party type has different roles, permissions, and interactions within the sy
     
     - Click **Save** at the bottom right corner of the form.
 
-## Create a New Employee Record
+# Create a New Employee Record
 
 Follow these steps to create a new employee record:
 
@@ -69,7 +69,7 @@ Follow these steps to create a new employee record:
 
 That's it! You've created a new employee record. Contact our support team for any questions.
 
-## Create a New Vendor Record
+# Create a New Vendor Record
 
 Vendors are external suppliers who provide goods or services under contractual agreements, crucial for a company's supply chain and operational success.
 
