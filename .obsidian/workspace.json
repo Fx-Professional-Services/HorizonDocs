@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md"
               }
             }
           }
@@ -149,35 +148,27 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/05 Orders/Receiving Order.md",
-    "Horizon User Guide/05 Orders/Purchase Order.md",
-    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/04 Items/Services",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
-    "Horizon User Guide/04 Items/Products",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
-    "Horizon User Guide/04 Items/Equipment",
-    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
-    "Horizon User Guide/04 Items/Configurators",
-    "Horizon User Guide/04 Items/All Items/Managing and Categorizing Items.md",
-    "Horizon User Guide/04 Items/All Items",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Add Taxable Line Items to a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Adjust Prices and Quantities in Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Sales Order Line Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Omit a Sales Order Record.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Print Sales Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
+    "assets/3_log_in.png",
+    "assets/2_create_account_for_another_user.png",
+    "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
@@ -190,10 +181,18 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/Old documentation/04 Products/C. Services",
+    "Horizon User Guide/00 Assets/39_delete_account.png",
+    "Horizon User Guide/00 Assets/38_reset_password.png",
+    "Horizon User Guide/00 Assets/37_purchase_order.png",
+    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
+    "Horizon User Guide/00 Assets/35_create_purchase_order.png"
   ]
 }
