@@ -28,12 +28,13 @@ ___
     
     - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option.
 
-	 💡 Tip: To delete a product from a Sales Order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
+	 💡 Tip: To delete a product from a sales order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
 	
 9. **Editing Customer-Facing Details:**
     
     - Click the hamburger menu button (☰) to access the item picker.
     - Choose the line item to edit its customer-facing name and description, based on default settings. Adjust the name as needed.
+    
 10. **Configuring Sales Order Items:**
     
     - **Customize a Sales Order Item**: Click the gear icon (⚙️) and then selecting **DONE** to save your changes.
