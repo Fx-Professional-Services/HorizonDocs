@@ -11,11 +11,9 @@
             "id": "0d03798ee454ed7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md",
+                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Create a Party Record.md"
+                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
               }
             }
           }
@@ -148,6 +146,7 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
@@ -169,7 +168,6 @@
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
-    "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
