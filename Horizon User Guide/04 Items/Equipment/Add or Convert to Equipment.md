@@ -1,3 +1,5 @@
+# Add or Convert to Equipment
+
 This guide will help you either add new equipment or convert an existing product into equipment.
 # Add New Equipment
 
