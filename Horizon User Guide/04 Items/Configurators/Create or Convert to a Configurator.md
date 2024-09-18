@@ -1,4 +1,5 @@
-# Create a New Configurator
+# Create or Convert to a Configurator
+## Create a New Configurator
 
 Follow these steps to create a configurator:
 
@@ -11,8 +12,7 @@ Follow these steps to create a configurator:
 5. **Set Minimum and Maximum Values:**
     - Navigate to the **Options** tab.
     - Enter the minimum and maximum values next to the product category.
-
-# Convert an Existing Product into a Configurator
+## Convert an Existing Product into a Configurator
 
 1. **Go to Products:** Navigate to the main menu and select **Products**.
 2. **Access Configurators:** Click **Item Management**, then select **Configurators**.
