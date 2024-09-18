@@ -16,11 +16,12 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
 5. Once created, the order will have:  
    5.1. A serial number and  
-   5.2. Its status will change to **View Order**—click it to proceed.  
+
+   5.2. Its status will change to **View Order**. 
 
    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
 
-6. Click **View Order** to proceed.
+6. Click View Order to proceed. 
 7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'  
 
    <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
@@ -34,3 +35,4 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 10. Click **Confirm** to verify and finalize the details.
 
 11. Click **Save Changes** to keep your modifications.
+
