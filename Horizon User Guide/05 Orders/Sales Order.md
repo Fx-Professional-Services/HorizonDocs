@@ -27,6 +27,7 @@ ___
 8. **Deleting Items:**
     
     - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option.
+	 💡 Tip: To delete a product from a Sales Order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm by selecting **Delete** in the dialog box.
 9. **Editing Customer-Facing Details:**
     
     - Click the hamburger menu button (☰) to access the item picker.
