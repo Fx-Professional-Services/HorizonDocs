@@ -7,9 +7,7 @@ A party refers to any individual or entity that interacts with or is represented
 - **Employee**: A person who works for or is employed by the organization managing or using the system.
 - **Vendor**: A person or company that provides goods or services to the organization using the system.
 
-Each Party type has different roles, permissions, and interactions within the system.
-
-To create a record for a particular type of party, click one of the links below:
+Each party type has different roles, permissions, and interactions within the system. To create a record for a particular type of party, click one of the links below:
 
 [Create a New Customer Record](#create-a-new-customer-record)
 
