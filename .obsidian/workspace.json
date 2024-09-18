@@ -174,10 +174,6 @@
     "Horizon User Guide/00 Assets/34_log_in.png",
     "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
     "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
@@ -194,6 +190,10 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md"
   ]
 }
