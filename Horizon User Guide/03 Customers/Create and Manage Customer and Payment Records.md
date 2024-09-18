@@ -38,17 +38,16 @@
 2. Click **Add Payment**.
 3. **Enter Payment Details**: Enter the amount and choose the payment type: ACH, Card, or Check.
 
-#### For ACH:
+	#### For ACH:
 
-A. **Select Account Type**: Choose between **Checking** and **Savings**. <br>
-B. **Enter Payment Info**: Provide the routing number, account number, and an optional memo. <br>
-#### For Card:
+	A. **Select Account Type**: Choose between **Checking** and **Savings**. <br>
+	B. **Enter Payment Info**: Provide the routing number, account number, and an optional memo. <br>
+	#### For Card:
 
-**Enter Payment Info**: Provide card type, expiration date, card number, and an optional memo. <br>
-#### For Check:
+	**Enter Payment Info**: Provide card type, expiration date, card number, and an optional memo. <br>
+	#### For Check:
 
-**Enter Payment Info**: Provide the check number. <br>
-
+	**Enter Payment Info**: Provide the check number. <br>
 4. To confirm a payment record, click the expand button (>) to view the existing payment record. Click **Confirmed** to proceed.
 
 	⚠️ Note: Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
