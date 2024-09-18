@@ -26,15 +26,18 @@ Each party has different roles, permissions, and interactions within the system.
 5. **Enter Party Information**:
     
     - Provide the party's name, email, phone number, URLs, and address details. <br>
+    
 	 💡 **Tip:** To delete any information entered, click the delete button (**x**) next to it. <br>
+	 
 	⚠️ **Note:** Include a two-digit country code in the mailing and/or billing address. <br>
 6. **Choose Primary Contact Method**:
 
 	* Select a preferred contact method by checking the box under **Primary**. <br>
+	
 	⚠️ Note: A primary contact method must be selected to save the record. <br>
 7. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="300" height="300">
 
