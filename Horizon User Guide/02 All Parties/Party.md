@@ -1,5 +1,3 @@
-# Create a Party Record
-
 # **Party**
 A party refers to any individual or entity that interacts with or is represented within the system, including: 
 - **Customer**: An person or organization that purchases or uses the products or services offered by the system.
