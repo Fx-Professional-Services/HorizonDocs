@@ -5,11 +5,11 @@
 2. Click on **Item Management**, then choose **All Items**.
 3. Enter **Find Mode** to locate the item you wish to categorize. 
 
-	<img src="hhttps://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/40_assign_categories_to_items_2_3.png" width="350" height="300">
+<img src="hhttps://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/40_assign_categories_to_items_2_3.png" width="350" height="300">
 
-4. Use the search icon (🔎) to type the item's name.
-5. Once you find the item, go to the **Categories** tab.
-6. Click **click to select categories**.
+7. Use the search icon (🔎) to type the item's name.
+8. Once you find the item, go to the **Categories** tab.
+9. Click **click to select categories**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="350" height="300">
 
