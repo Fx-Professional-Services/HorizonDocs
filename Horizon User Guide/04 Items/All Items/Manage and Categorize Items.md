@@ -11,7 +11,7 @@
 8. Once you find the item, go to the **Categories** tab.
 9. Click **click to select categories**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="350" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="300" height="280">
 
 7. In the category picker, type the category name in the search bar and click the search icon (🔎). Click the add button (✚) next to the category, then click **Done** to close the picker.
 8. A dialog box will prompt you to apply the selected category to all records in the found set. Click **Yes** to apply it to all items, or **No** to apply it only to the specific item.
