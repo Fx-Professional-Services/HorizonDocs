@@ -11,11 +11,11 @@
 
 3. **Add Yield or Source Item**:
 
-	3.1. Navigate to the Source/Yield tab.  Click on the **add yield item** and/or **add source item** field.
+	3.1. Navigate to the Sources/Yields tab.  Click on the **add yield item** and/or **add source item** field.
 
-	3.2.**Select Items**:
+	3.2. **Select Items**:
 
-	- **Search**: Type the item name and click the search icon **(**🔎**)**.
+	- **Search**: Type the item name and click the search icon (🔎).
 
 	- **Browse**: Scroll through the list and click on the item.
 
@@ -23,29 +23,29 @@
 
 	💡**Tips:** 
 
-	1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
+	A. To add a new source and/or yield item, click the add button (✚) at the top right corner of the picker window. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
 
-	2. To delete a BOM yield item: Click on the delete button (✖︎) next to the item. A confirmation dialogue will appear; click **Delete** to confirm.
+	B. To delete a yield/source line item: Click on the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box. 
 
 4. **Set BOM Name and Type**:
 
-   - The name of the BOM will be automatically set based on the list of item names of the yield. Still, you may choose to add a BOM name.
+   - The BOM name is automatically set based on the list of item names of the yield, but you can customize it in the details tab. 
 
-   - Select the appropriate type for the BOM: **substitution** or **standard**.
+   - Select the appropriate BOM type: **substitution** or **standard**.
 
 5. **Confirm Unit of Measure**:
 
-   - The unit of measure for each yield and source item will be automatically set. To change the unit of measure, click on the **unit** type box. In the pop-up form, select the unit of measure and click **Done**.
+   - The unit of measure for each item is automatically set. To change it, click the **unit** type box, select the new unit of measure, and click **Done**.
 
 6. **Input the Quantity**:
 
-   - Click on the **quantity** type box and input the quantity for each source/yield item.
+   - Click on the **quantity** type box and enter the quantity for each source/yield item.
 
-   💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
+   💡 **Tip**: Use the up and down arrow keys to navigate between fields. <br>
 
 7. **Add Procedural Steps**: 
 
-	7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
+	7.1. Go to the **Procedure** tab next to the **Sources/Yields** tab.
 
 	7.2. In the Procedure tab, input the following details for each step. 
 
