@@ -148,6 +148,12 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
+    "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
+    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
+    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
@@ -163,7 +169,6 @@
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
     "Horizon User Guide/05 Orders/Receiving Order.md",
-    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/04 Items/Services",
     "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -172,7 +177,6 @@
     "Horizon User Guide/04 Items/Equipment",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/Configurators",
-    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "Horizon User Guide/04 Items/All Items",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Leads.md",
@@ -185,13 +189,10 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
     "assets/5_delete_account.png",
-    "assets/4_reset_password.png",
-    "Horizon User Guide/00 Assets/16_add_payment_plan.png",
-    "Horizon User Guide/00 Assets/15_add_payment_card.png"
+    "assets/4_reset_password.png"
   ]
 }
