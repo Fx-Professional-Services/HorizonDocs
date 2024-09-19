@@ -18,7 +18,7 @@
 9. To review the changes, navigate to **Units and Categories**, then select **Categories**.
 10. In the left panel, select the assigned category. The items in the found set should now be categorized accordingly.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_assign_categories_to_items_9_10.png" width="300" height="290">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_assign_categories_to_items_9_10.png" width="300" height="350">
 
 ## Add Existing Items to Categories
 
