@@ -148,12 +148,6 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
-    "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
-    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
-    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
-    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
@@ -163,8 +157,14 @@
     "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
+    "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
+    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
+    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
@@ -192,7 +192,6 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/00 Assets/39_delete_account.png",
     "Horizon User Guide/00 Assets/38_reset_password.png",
-    "assets/5_delete_account.png",
-    "assets/4_reset_password.png"
+    "assets/5_delete_account.png"
   ]
 }
