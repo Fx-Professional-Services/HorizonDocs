@@ -12,8 +12,11 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
 - In the demand list, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**.
 
-	💡 **Tip:** 
-1. **Select Pick Demand**
+	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_address_pick_demand.png" width="300" height="200">
+
+3. **Select Pick Demand**
 
 - To address a specific pick demand item, click **Pick** next to the item (e.g., Lemon Meringue Tart). To address all pick demands at once, click **Pick All**.  
     ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
@@ -21,6 +24,8 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 4. **View Batch Name**
 
 - To view the batch name (initially set after generating demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_view_batch_name_pick_order.png" width="350" height="250">
 
 5. **Choose Demand**
 
@@ -35,7 +40,7 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
 - Once created, the order will have a serial number and its status will change to **View Order**.
 
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
+   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/45_view_pick_order.png" width="350" height="250">
 
 8. **Proceed to View Order**
 
@@ -44,8 +49,6 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 9. **Assign Employee**
 
 - In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
-
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
 
 10. **Enter Finished Date**
     

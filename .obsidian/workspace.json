@@ -148,8 +148,12 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/00 Assets/46_view_pick_order.png",
+    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png",
+    "Horizon User Guide/00 Assets/27_address_pick_demand.png",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/06 Definition of Terms",
     "Horizon User Guide/05 Orders/Purchase Order.md",
@@ -165,10 +169,8 @@
     "Leads.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
-    "assets/15_search_an_item.png",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/04 Items/Search for an Item.md",
-    "Horizon User Guide/00 Assets/40_search_an_item.png",
     "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
@@ -191,7 +193,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
-    "Horizon User Guide/00 Assets/18_create_vendor_record.png"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders"
   ]
 }
