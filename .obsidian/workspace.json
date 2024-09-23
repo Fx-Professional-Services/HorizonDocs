@@ -157,8 +157,8 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
     "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
@@ -186,13 +186,13 @@
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
-    "Horizon User Guide/00 Assets/46_view_pick_order.png",
-    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png",
-    "Horizon User Guide/00 Assets/27_address_pick_demand.png",
     "Horizon User Guide/00 Assets/44_add_existing_items_4.png",
     "Horizon User Guide/00 Assets/43_add_existing_items_2_3.png",
     "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
     "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
-    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png"
+    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
+    "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
+    "Horizon User Guide/00 Assets/46_view_pick_order.png",
+    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png"
   ]
 }
