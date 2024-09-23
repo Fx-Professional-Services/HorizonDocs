@@ -148,6 +148,8 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png",
+    "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -178,9 +180,7 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Print Sales Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
@@ -192,7 +192,6 @@
     "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
     "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
     "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
-    "Horizon User Guide/00 Assets/46_view_pick_order.png",
-    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png"
+    "Horizon User Guide/00 Assets/46_view_pick_order.png"
   ]
 }
