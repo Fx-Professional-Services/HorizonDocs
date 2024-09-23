@@ -4,38 +4,67 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 
 ### Create a Pick Order:
 
-1. Go to **Supply and Demand** in the main menu. 
-2. Address a specific pick demand item by clicking pick (item x, e.g., Lemon Meringue Tart). To address all pick demands at once, click **pick all.  
-   
-   ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click OK to continue.
+1. **Navigate to Supply and Demand**
 
-2. To view the batch name, which is set to its initial value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account.
+- Open the main menu and select **Supply and Demand**.
 
-3. Choose the demand you just generated, then click the expand button (>) next to it.  
-   💡 **Tip:** The first item in the list under your account should be the demand you just generated.
+2. **Filter Demand Types**
 
-4. In the Temporary Order Item list, pick orders are grouped by date and order number. Click **Create Order** next to the desired pick order.
+- In the demand list, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**.
 
-5. Once created, the order will have:  
-   5.1. A serial number and  
+	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 
-   5.2. Its status will change to **View Order**. 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_address_pick_demand.png" width="300" height="200">
 
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
+3. **Select Pick Demand**
 
-6. Click View Order to proceed. 
-7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'  
+- To address a specific pick demand item, click **Pick** next to the item (e.g., Lemon Meringue Tart). To address all pick demands at once, click **Pick All**.  
+    ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
+    
+4. **View Batch Name**
 
-   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
+- To view the batch name (initially set after generating demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
 
-8. Enter the **Finished** date.
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_view_batch_name_pick_order.png" width="350" height="250">
 
-9. In the **Pick Order Items** section, you can add more items and adjust the quantity of each.
+5. **Choose Demand**
 
-10. To delete a pick order line item, click the delete button (**x**) next to it. 
-11. Tap the i icon for more information.
+- Select the demand you just generated, then click the expand button (>) next to it.  
+    💡 **Tip:** The first item in the list should be the demand you just generated.
 
-12. Click **Confirm** to verify and finalize the details.
+6. **Create Pick Order**
 
-13. Click **Save Changes** to keep your modifications.
+- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
 
+7. **Order Status**
+
+- Once created, the order will have a serial number and its status will change to **View Order**.
+
+   <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/45_view_pick_order.png" width="350" height="250">
+
+8. **Proceed to View Order**
+
+- Click **View Order** to continue.** 
+
+9. **Assign Employee**
+
+- In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
+
+10. **Enter Finished Date**
+    
+    - Input the **Finished** date.
+11. **Adjust Pick Order Items**
+    
+    - In the **Pick Order Items** section, you can add items and adjust their quantities.
+12. **Delete Line Item**
+    
+    - To remove a line item, click the delete button (**x**) next to it.
+13. **Additional Information**
+    
+    - Tap the **i** icon for more details.
+14. **Confirm Details**
+    
+    - Click **Confirm** to verify and finalize the details.
+15. **Save Changes**
+    
+    - Click **Save Changes** to keep your modifications.
