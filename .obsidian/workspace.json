@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,10 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8718dba23bd8e8",
+  "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -180,19 +178,21 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Print Sales Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
-    "assets/5_delete_account.png",
-    "assets/4_reset_password.png"
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/44_add_existing_items_4.png",
+    "Horizon User Guide/00 Assets/43_add_existing_items_2_3.png",
+    "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
+    "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
+    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
+    "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
+    "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
+    "Horizon User Guide/00 Assets/39_delete_account.png"
   ]
 }
