@@ -51,20 +51,22 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 - In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
 
 10. **Enter Finished Date**
-    
-    - Input the **Finished** date.
+- Input the **Finished** date.
+
 11. **Adjust Pick Order Items**
-    
-    - In the **Pick Order Items** section, you can add items and adjust their quantities.
+
+- In the **Pick Order Items** section, you can add items and adjust their quantities.
+
 12. **Delete Line Item**
-    
-    - To remove a line item, click the delete button (**x**) next to it.
+
+- To remove a line item, click the delete button (**x**) next to it.
+
 13. **Additional Information**
-    
-    - Tap the **i** icon for more details.
+
+- Tap the **i** icon for more details.
+
 14. **Confirm Details**
-    
-    - Click **Confirm** to verify and finalize the details.
+- Click **Confirm** to verify and finalize the details.
+
 15. **Save Changes**
-    
-    - Click **Save Changes** to keep your modifications.
+- Click **Save Changes** to keep your modifications.
