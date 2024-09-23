@@ -2,8 +2,16 @@
 
   Follow these simple steps to create a new Bill of Materials (BOM) record:
 
+<<<<<<< Updated upstream
   
   1. **Access BOM Section**:
+=======
+<<<<<<< Updated upstream
+1. **Access BOM Section**:
+=======
+  1. **Access BOM Section**:
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
    - Open the **Bill of Materials** file from the main menu. <br>
    2. **Initiate New Record**:
