@@ -5,6 +5,7 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 ### Create a Pick Order:
 
 1. To address a specific pick demand item, click **pick (item x)** (e.g., Lemon Meringue Tart). To address all pick demands at once, click **pick all.**  
+   
    ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click OK to continue.
 
 2. To view the batch name, which is set to its initial value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. The most recent item will be the batch you just generated.
