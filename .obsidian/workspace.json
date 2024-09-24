@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Pick Order.md"
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d03798ee454ed7d",
+  "active": "2c5a6dec864a3024",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png",
-    "Horizon User Guide/05 Orders/Pick Order.md",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -180,18 +180,19 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/45_view_batch_name_pick_order.png",
     "Horizon User Guide/00 Assets/44_add_existing_items_4.png",
     "Horizon User Guide/00 Assets/43_add_existing_items_2_3.png",
     "Horizon User Guide/00 Assets/42_assign_categories_to_items_9_10.png",
     "Horizon User Guide/00 Assets/41_assign_categories_to_items_4_5_6.png",
-    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png",
-    "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
-    "Horizon User Guide/00 Assets/46_view_pick_order.png"
+    "Horizon User Guide/00 Assets/40_assign_categories_to_items_2_3.png"
   ]
 }
