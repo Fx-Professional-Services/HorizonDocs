@@ -9,16 +9,25 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Parties
 
-[Create a Party Record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/02%20All%20Parties/Create%20a%20Party%20Record.md)
+[Party](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/02%20All%20Parties/Party.md)
 
 ## Customers
 
 [Create and Manage Customer and Payment Records](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md)
 
+
 ## Items
 
+#### All Items
+[Manage and Categorize Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/All%20Items/Manage%20and%20Categorize%20Items.md)
 #### Products
 [Create Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/create_products/Horizon%20User%20Guide/04%20Items/Create%20Products.md)
+#### Configurators
+[Create or Convert to a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Configurators/Create%20or%20Convert%20to%20a%20Configurator.md)
+#### Equipment
+[Add New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Equipment/Add%20or%20Convert%20to%20Equipment.md)
+#### Service
+[Add a Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Services/Add%20or%20Convert%20to%20a%20Service.md)
 
 ## Order Management
 
@@ -36,3 +45,8 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 [Purchase Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Purchase%20Order.md)
 
+[Generate a Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Generate%20a%20Sales%20Invoice.md)
+
+## Definition of Terms
+
+[Definition of Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/07%20Definition%20of%20Terms/Definition%20of%20Terms.md)
