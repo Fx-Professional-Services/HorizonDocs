@@ -1,4 +1,5 @@
-# Add a Service
+# Add or Convert to a Service
+## Add a Service
 
 To add a new service:
 
@@ -14,11 +15,16 @@ To add a new service:
 4. **Enter Service Details**:
     
     - Fill in the necessary information: service name, replenishment method, unit of measure, role name, and equipment category.
-5. **Verify the New Service**:
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/53_add_a_new_service.png" width="350" height="250">
+
+1. **Verify the New Service**:
     
-    - Return to **Item Management** and select **All Items**.
-    - Switch to **Find Mode**, type the service name, and press **Return** (Mac) or **Enter** (Windows). Confirm that the new service appears in the search results.
-# Convert an Existing Product into a Service
+    5.1. Return to **Item Management** and select **All Items**.
+    5.2. Switch to **Find Mode**, type the service name, and press **Return** (Mac) or **Enter** (Windows). Confirm that the new service appears in the search results.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/54_verify_the_new_service.png" width="350" height="250">
+## Convert an Existing Product into a Service
 
 To convert an existing product into a service:
 
