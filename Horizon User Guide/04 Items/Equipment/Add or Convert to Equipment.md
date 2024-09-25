@@ -15,7 +15,6 @@ This guide will help you either add new equipment or convert an existing product
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="350" height="250">
 
-
 # Convert an Existing Product to Equipment
 
 1. Access the main menu and select **Products**.
