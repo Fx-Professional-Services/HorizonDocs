@@ -20,6 +20,8 @@ Follow these steps to create a configurator:
     
     - Go to the **Options** tab.
     - Enter the minimum and maximum values next to the product category.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/47_create_a_new_configurator.png" width="350" height="300">
 ## Convert an Existing Product into a Configurator
 
 1. **Navigate to Products:**
