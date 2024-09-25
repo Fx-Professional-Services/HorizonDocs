@@ -38,13 +38,13 @@ Follow these steps to create a configurator:
     
     - Return to the **Configurators** page and enter the **unit of measure** for the selected item.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/48_convert_product_into_configurator.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/48_convert_product_into_a_configurator.png" width="350" height="300">
 
 5. **Verify Changes:**
     
     - Go to **Item Management** and select **All Items**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/49_cconfirm_configuration.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/49_confirm_configuration.png" width="350" height="300">
 
 6. **Find the Configurator:**
     
