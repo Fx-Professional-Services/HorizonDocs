@@ -1,6 +1,8 @@
 # Create a Bill of Materials (BOM) Record
 
-  Follow these simple steps to create a new Bill of Materials (BOM) record:
+A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
+
+Follow these simple steps to create a new Bill of Materials (BOM) record:
 
   1. **Access BOM Section**:
    - Open the **Bill of Materials** file from the main menu. <br>
