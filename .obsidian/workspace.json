@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
@@ -192,7 +193,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md"
   ]
 }
