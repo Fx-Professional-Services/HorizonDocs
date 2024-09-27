@@ -2,17 +2,7 @@
 
   Follow these simple steps to create a new Bill of Materials (BOM) record:
 
-<<<<<<< Updated upstream
-  
   1. **Access BOM Section**:
-=======
-<<<<<<< Updated upstream
-1. **Access BOM Section**:
-=======
-  1. **Access BOM Section**:
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-
    - Open the **Bill of Materials** file from the main menu. <br>
    2. **Initiate New Record**:
 
@@ -36,22 +26,19 @@
 
 	B. To delete a yield/source line item: Click on the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box.
 
-  4. **Set BOM Name and Type**:
-
-   - The BOM name is automatically set based on the list of item names of the yield, but you can customize it in the details tab. 
-
-   - Select the appropriate BOM type: **substitution** or **standard**.
-
-  5. **Confirm Unit of Measure**:
+  4. **Confirm Unit of Measure**:
 
    - The unit of measure for each item is automatically set. To change it, click the **unit** type box, select the new unit of measure, and click **Done**.
+
+  5. **Set BOM Name:
+
+   - The BOM name is automatically set based on the list of item names of the yield, but you can customize it in the details tab. 
 
 6. **Input the Quantity**:
 
    - Click on the **quantity** type box and enter the quantity for each source/yield item.
 
    💡 **Tip**: Use the up and down arrow keys to navigate between fields. <br>
-
 7. **Add Procedural Steps**: 
 
 	7.1. Go to the **Procedure** tab next to the **Sources/Yields** tab.
@@ -66,3 +53,6 @@
 
 	  
 	  ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
+
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/55_create_a_BOMpng" width="350" height="250">
