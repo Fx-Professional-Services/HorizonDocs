@@ -59,17 +59,21 @@ This will permanently remove the product from your records, so proceed with caut
 
 1. **Navigate to Products**: Open the main menu and select **Products**.
 2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
+
 3. **Select Your Party**: Choose your **Party** from the options on the left and click the item field next to it.
 4. **Add New Product**: In the upper right corner, tap the add button (✚).
-5. **Enter Product Details**: Fill in the product name, description, and replenishment method.
-6. **Modify Item Fields**:
-    - **Item Quantity**
-    - **Item Unit**: Click the add button (✚) next to it, select a unit of measure, then click **Done**.
-    - **Vendor Quantity**
-    - **Vendor Unit**: Click the add button (✚) next to it, select a unit of measure, then click **Done**.
-7. **Save Changes**: Click **Save** to confirm your changes and exit the **Quick Add: Product** window.
-8. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
-9. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/58_add_product_upload_vendor_prices.png" width="350" height="250">
+
+5. **Enter Product Details**: Provide the product name, description, replenishment method, and unit of measure. Indicate the product type and select "Yes" or "No" for the following: consumable, sale item, or need pick.
+6. **Save Changes**: Click **Save** to confirm your changes and exit the **Quick Add: Product** window.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
+
+7. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
+8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
 
 # Set Vendor Prices as Inactive
 
