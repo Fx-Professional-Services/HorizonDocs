@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tip",
+                "query": "Note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,11 +149,12 @@
   },
   "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Address Demand.md",
-    "Horizon User Guide/04 Items/Create Products.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
+    "Horizon User Guide/04 Items/Create Products.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
@@ -178,7 +179,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",

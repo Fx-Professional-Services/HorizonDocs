@@ -47,15 +47,14 @@ Products are consumable physical items that can be created or purchased, each wi
 		- **Consumable**: Items used up after use (e.g., food, supplies).
 		- **Sale Item**: Products intended for resale to customers.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/56_create_products.png" width="350" height="250">
 
+⚠️ Note: If you need to delete a product record:
 
+1. Click **Delete Record**.
+2. Confirm your action by selecting **Delete** in the dialogue box.
 
-### Deleting a Product Record
-
-To delete a product record:
-
-- Click **Delete Record**.
-- Confirm by selecting **Delete** in the dialogue box.
+This will permanently remove the product from your records, so proceed with caution.
 # Create a New Product in the Upload Vendor Prices
 
 1. **Navigate to Products**: Open the main menu and select **Products**.
