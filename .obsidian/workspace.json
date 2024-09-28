@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md",
+                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Address Demand.md"
+                "file": "Horizon User Guide/04 Items/Products/Create Products.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8718dba23bd8e8",
+  "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/00 Assets/56_create_products.png",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
@@ -173,7 +174,6 @@
     "Horizon User Guide/00 Assets/49_confirm_configuration.png",
     "Horizon User Guide/00 Assets/48_convert_product_into_a_configurator.png",
     "Horizon User Guide/00 Assets/47_create_a_new_configurator.png",
-    "Horizon User Guide/00 Assets/46_view_pick_order.png",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
