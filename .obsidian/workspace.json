@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "282afb4ac4d6f39e",
+            "id": "0d03798ee454ed7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "search for items by category",
+                "query": "Tip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+                "file": "Horizon User Guide/04 Items/Create Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md"
+                "file": "Horizon User Guide/04 Items/Create Products.md"
               }
             }
           }
@@ -146,21 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "282afb4ac4d6f39e",
+  "active": "0d03798ee454ed7d",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Add Minimum and Maximum Values.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/04 Items/Create Products.md",
-    "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Existing Items to Products, Services, Configurators, Equipment, or Discount.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
     "Horizon User Guide/Old documentation/04 Products/C. Services/Add a Service.md",
-    "Horizon User Guide/Old documentation/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
-    "Horizon User Guide/Old documentation/04 Products/A. All Items/Add Quantity and Unit of Measure in the Upload Vendor Prices.md",
-    "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
-    "Leads.md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
-    "Horizon User Guide/Old documentation/09 Searching on Horizon",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
@@ -168,31 +162,38 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
+    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
+    "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
-    "Horizon User Guide/Old documentation/06 Invoices",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/06 Definition of Terms",
-    "Horizon User Guide/Old documentation/08 Leads",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
-    "Horizon User Guide/00 Assets/31_production_order_tab.png",
-    "Horizon User Guide/00 Assets/30_create_order.png"
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items",
+    "Horizon User Guide/Old documentation/04 Products/C. Services",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/54_verify_the_new_service.png",
+    "Horizon User Guide/00 Assets/53_add_a_new_service.png",
+    "Horizon User Guide/00 Assets/52_product_to_equipment.png",
+    "Horizon User Guide/00 Assets/51_convert_product_to_equipment.png",
+    "Horizon User Guide/00 Assets/50_add_new_equipment.png",
+    "Horizon User Guide/00 Assets/49_confirm_configuration.png",
+    "Horizon User Guide/00 Assets/48_convert_product_into_a_configurator.png"
   ]
 }
