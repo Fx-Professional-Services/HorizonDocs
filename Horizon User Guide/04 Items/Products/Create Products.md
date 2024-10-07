@@ -31,6 +31,7 @@ Products are consumable physical items that can be created or purchased, each wi
             - Clicking the **Add** button (✚) or <br>
             - Typing its name in the search box. <br>
         - Click **Done** to return to the main layout. <br>
+		💡 Tip: After adding an active BOM, click the > button to view the related BOM record.
     H. **Lead Type**: Specify the time needed before fulfilling an order. It will be calculated based on your selections. You can specify lead type in one of the following ways: <br> 
         - **Days in Advance**: Enter the number of days before fulfillment. <br>
         - **Day of the Week**: Enter a number (1-7) for the day(s) of the week, where 1 is Sunday. Separate multiple days with commas. <br>
