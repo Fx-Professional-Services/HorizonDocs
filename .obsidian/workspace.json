@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
+=======
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
+=======
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
+=======
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Sales Order.md"
+=======
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -148,7 +164,22 @@
   },
   "active": "ac8ffa4fd8ea9f66",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+=======
+    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/56_create_products.png",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/00 Assets/09_main_menu.png",
+>>>>>>> Stashed changes
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
