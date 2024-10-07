@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active bom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/Products/Create Products.md"
+                "file": "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
               }
             }
           }
@@ -149,6 +148,8 @@
   },
   "active": "ac8ffa4fd8ea9f66",
   "lastOpenFiles": [
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
@@ -166,10 +167,8 @@
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/05 Orders",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
