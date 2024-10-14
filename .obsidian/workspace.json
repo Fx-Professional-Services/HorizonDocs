@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "items",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,8 +149,9 @@
   },
   "active": "6856b9e23d999a96",
   "lastOpenFiles": [
-    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
