@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,19 +148,8 @@
   },
   "active": "6856b9e23d999a96",
   "lastOpenFiles": [
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
-    "Horizon User Guide/02 All Parties/Create a Party Record.md",
-    "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
-    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
@@ -171,6 +159,17 @@
     "Horizon User Guide/00 Assets/55_create_a_BOM.png",
     "Horizon User Guide/00 Assets/54_verify_the_new_service.png",
     "Horizon User Guide/00 Assets/53_add_a_new_service.png",
+    "Horizon User Guide/00 Assets/52_product_to_equipment.png",
+    "Horizon User Guide/00 Assets/51_convert_product_to_equipment.png",
+    "Horizon User Guide/00 Assets/50_add_new_equipment.png",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
+    "Horizon User Guide/02 All Parties/Create a Party Record.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",

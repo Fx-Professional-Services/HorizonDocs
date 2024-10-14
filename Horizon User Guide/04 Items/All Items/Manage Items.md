@@ -18,7 +18,7 @@ An item is a basic unit that can be added to orders, including products, configu
 - **Stock to Keep**: Set the desired stock level.
 - **Lead Time**: Enter the total time required to fulfill an order (includes pick, build, and purchase).
 - **Best by (Time)**: Enter the expiration time.
--  **Customer Facing Name**: Enter the display name for customers.
+- **Customer Facing Name**: Enter the display name for customers.
 - **Consumable, Sale Item, or Need Pick**: Tick the appropriate box.
 - **Categorize the Item**: Select if it’s a Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
 
