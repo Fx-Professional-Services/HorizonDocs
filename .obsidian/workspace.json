@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md"
+                "file": "Horizon User Guide/05 Orders/Sales Order.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "6856b9e23d999a96",
   "lastOpenFiles": [
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "Horizon User Guide/02 All Parties/Party.md",
