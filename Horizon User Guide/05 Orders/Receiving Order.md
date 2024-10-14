@@ -18,8 +18,9 @@
 7. **Confirm the Order**:
     
     - Click the **Confirm** button. This updates the inventory, marks the purchase items as received, and sets the order status to **confirmed.**
-    -  
-8. **Save or Undo Changes**:
+    -  ⚠️ **Note**: To unconfirm the order, click the **Unconfirm** button. This will decrease the inventory and mark the items as pending.
+    - To verify that the received quantity for specific items has been adjusted, go to **Item Management**, select **All Items**, switch to **Find Mode**, and enter the item's name. Check the **Received** field to see the updated quantity.
+1. **Save or Undo Changes**:
     
     - Click **Save Changes** to keep your modifications.
     - Click **Undo Changes** to discard them.
