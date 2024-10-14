@@ -75,14 +75,37 @@ This will permanently remove the product from your records, so proceed with caut
 7. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
 8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
 
-# Set Vendor Prices as Inactive
 
-To manage outdated pricing information and maintain accurate records, follow these steps:
+# **Managing Vendor Prices**
 
-1. **Access Products Menu**: Navigate to the main menu and click on **Products**.
-2. **Select Item Management**: Choose **Item Management**, then click on **All Products**.
-3. **Choose the Product**: From the list, click on the specific product you want to modify.
-4. **Navigate to Costs**: Switch to the **Costs** tab for the selected product.
-5. **Set Prices Inactive**: In the **Active** column, enter 0 to set the vendor price as inactive.
+Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Set Vendor Prices as Inactive
+
+To mark outdated prices as inactive:
+
+1. **Access Products Menu**: Click **Products** in the main menu.
+2. **Select Item Management**: Choose **Item Management** and click **All Products**.
+3. **Choose the Product**: Select the product to modify.
+4. **Navigate to Costs**: Click the **Costs** tab.
+5. **Set Prices Inactive**: Enter 0 in the **Active** column to deactivate the price.
+
+By following these steps, you can maintain accurate vendor pricing information.
 
 
