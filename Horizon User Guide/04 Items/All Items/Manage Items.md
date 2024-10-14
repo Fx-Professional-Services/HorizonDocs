@@ -1,4 +1,27 @@
-# Manage and Categorize Items
+# Manage Items
+
+### **Items Overview**
+
+An item is a basic unit that can be added to orders, including products, configurators, equipment, and discounts. Each type has unique attributes and generates different demand records. All items are categorized in the main item database.
+
+* [Manage Item Details](manage-item-details)
+* [Assign Categories to Items](assign-categories-to-items)
+* [Add Existing Items to Categories](add-existing-items-to-categories)
+## Manage Item Details
+
+1. Go to the main menu and select **Products**.
+2. Click **Item Management**, then select **All Items**.
+3. Fill in the following details:
+- **Name**: Enter the item name.
+- **Replenishment Method**: Choose a restocking method from **build**, **purchase**, **stock**, or **pick**.
+- **Preferred Vendor**: Select your vendor from the list.
+- **Stock to Keep**: Set the desired stock level.
+- **Lead Time**: Enter the total time required to fulfill an order (includes pick, build, and purchase).
+- **Best by (Time)**: Enter the expiration time.
+-  **Customer Facing Name**: Enter the display name for customers.
+- **Consumable, Sale Item, or Need Pick**: Tick the appropriate box.
+- **Categorize the Item**: Select if it’s a Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
+
 ## Assign Categories to Items
 
 1. Navigate to the main menu and select **Products**.
