@@ -16,6 +16,8 @@ ___
 5. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
 6. **Click to select item** to choose a **Sale Order Item**. In the picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
 
+⚠️ Note: When you add a line item in sales order, the customer-facing name and description will be automatically displayed if available. 
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/01_create_sales_orders.png" width="350" height="300">
 
 ### **Manage Line Items**
