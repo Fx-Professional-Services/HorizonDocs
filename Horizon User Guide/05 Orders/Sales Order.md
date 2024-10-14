@@ -62,7 +62,7 @@ ___
 
 💡 **Tips:**
 
-- You can add more sales order items after applying discounts, and the discount values will update accordingly.
+- 
 - To remove a discount, click on the (x) icon next to the discount, and the total cost will adjust automatically.
 
 #### Adding Conditions
