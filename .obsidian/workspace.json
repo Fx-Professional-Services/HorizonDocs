@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "items",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md"
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md"
               }
             }
           }
@@ -148,6 +149,9 @@
   },
   "active": "6856b9e23d999a96",
   "lastOpenFiles": [
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
@@ -158,8 +162,15 @@
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/56_create_products.png",
+    "Horizon User Guide/00 Assets/55_create_a_BOM.png",
+    "Horizon User Guide/00 Assets/54_verify_the_new_service.png",
+    "Horizon User Guide/00 Assets/53_add_a_new_service.png",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
@@ -167,7 +178,6 @@
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
     "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/Old documentation",
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
@@ -180,19 +190,9 @@
     "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/05 Orders",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
-    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/Services",
     "Horizon User Guide/04 Items/Products",
     "Horizon User Guide/04 Items/Equipment",
-    "Horizon User Guide/04 Items/Configurators",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
-    "Horizon User Guide/00 Assets/59_quick_add_products.png",
-    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
-    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
-    "Horizon User Guide/00 Assets/56_create_products.png",
-    "Horizon User Guide/00 Assets/55_create_a_BOM.png",
-    "Horizon User Guide/00 Assets/54_verify_the_new_service.png",
-    "Horizon User Guide/00 Assets/53_add_a_new_service.png"
+    "Horizon User Guide/04 Items/Configurators"
   ]
 }
