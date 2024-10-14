@@ -18,7 +18,7 @@
 7. **Confirm the Order**:
     
     - Click the **Confirm** button. This updates the inventory, marks the purchase items as received, and sets the order status to **confirmed.**
-    - ⚠️ **Note**: To unconfirm the order, click the **Unconfirm** button. This will decrement the inventory and mark the items as pending.
+    -  
 8. **Save or Undo Changes**:
     
     - Click **Save Changes** to keep your modifications.
