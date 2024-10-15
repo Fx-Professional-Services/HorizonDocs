@@ -173,7 +173,7 @@ Demand represents the quantity of an item required by a specific date or time. I
 ---
 ### **9 My Tasks**
 
-Select this menu to access your project management files.
+Select this menu to access the tasks assigned to you.
 
 💡 **Tip**: To return to the Main Menu from Horizon Project Management, click the Main Menu navigation button.
 
