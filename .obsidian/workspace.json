@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "6856b9e23d999a96",
   "lastOpenFiles": [
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "assets/3_log_in.png",
@@ -183,10 +187,6 @@
     "Horizon User Guide/Old documentation/04 Products/C. Services",
     "Horizon User Guide/Old documentation/04 Products/A. All Items",
     "Horizon User Guide/Old documentation/04 Products",
-    "Horizon User Guide/Old documentation/03 Customers/VIII. Delete a Customer Tier,  Sales Channel, and Payment Terms.md",
-    "Horizon User Guide/Old documentation/03 Customers/VII. Delete a Payment Record.md",
-    "Horizon User Guide/Old documentation/03 Customers/VI. Merge Customer Records.md",
-    "Horizon User Guide/Old documentation/03 Customers/V. Add a Payment Plan.md",
     "Horizon User Guide/Old documentation/03 Customers",
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
