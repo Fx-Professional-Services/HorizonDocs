@@ -77,6 +77,23 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/04_sales_orders_apply_taxes_discounts_conditions.png" width="350" height="300">
 
+#### Adding Custom Attributes
+
+14. Adding Custom Attributes
+
+* **Navigate to the Custom Attributes Tab**.
+    
+- **Enter Values**: For each custom attribute, input the corresponding value (e.g., **Event Date:** 8/15/2025).
+
+💡 **Tip**: To add a new custom attribute:
+    - Click **Options** in the navigation menu.
+    - Select **Custom Attribute**.
+    - Click **New Record** and enter the name of your custom attribute.
+    - Optionally, add details such as variable and default value.
+
+The new custom attribute will appear in the list thereafter.
+
+
 ### **Generate Demand and Invoice**
 ___
 14. **Generating Demand:**
