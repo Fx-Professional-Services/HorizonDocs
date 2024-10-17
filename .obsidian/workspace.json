@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sales Order"
+              "title": "Backlinks for Receiving Order"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sales Order"
+              "title": "Outgoing links from Receiving Order"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/05 Orders/Receiving Order.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sales Order"
+              "title": "Outline of Receiving Order"
             }
           }
         ]
@@ -221,7 +221,7 @@
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
-    "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/57_upload_vendor_prices.png"
