@@ -55,9 +55,7 @@ ___
 
 12. **Selecting Discounts:**
 
-- Navigate to the **Discounts** section and click **Select Discount**.
-- In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
-- The discount will automatically adjust the subtotal and total costs.
+
 
 💡 **Tips:**
 
