@@ -34,7 +34,14 @@
 
 ## Create a Payment Record
 
+#### Manage Payment Record
 
+6. **View Payment Record**: Click the **Expand** button (>) to access an existing record.  
+    
+7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
+8. **Cancel Payment**: Click **Cancel Payment** to cancel, even if confirmed.
+9. **Unconfirm Payment**: Click **Unconfirmed** to revert the confirmation.
+10. **Save Changes**: Click **Save and Close** when finished.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
