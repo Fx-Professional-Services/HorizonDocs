@@ -90,9 +90,6 @@ ___
 
 15. **Generating Sales Invoice:**
 
-- Return to the **Order** tab and click **confirm** to initiate the sales invoice generation process.
-
-⚠️ **Note**: Once a sales order is confirmed, changes to Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert, click **unconfirm**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
