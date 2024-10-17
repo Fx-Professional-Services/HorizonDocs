@@ -13,7 +13,9 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Manage Line Items
 
+10. **Delete Items:**
 
+    - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option. Confirm by clicking **YES** in the dialogue box. The total cost will adjust automatically.
 ### Apply Taxes and Conditions
 #### Taxes
 
