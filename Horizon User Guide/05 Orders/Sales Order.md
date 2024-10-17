@@ -93,7 +93,11 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
-- 
+
+
+⚠️ **Important**:
+
+- Only one invoice can be generated per sales order. Once generated, no additional invoices can be created for that order.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
