@@ -52,8 +52,7 @@ ___
 
 11. **Making Sales Orders Taxable:**
 
-- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
-- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+
 #### Discounts
 
 12. **Selecting Discounts:**
