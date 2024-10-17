@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "7d36a1a67f48141a",
+    "id": "54fe72afdd67cc52",
     "type": "split",
     "children": [
       {
-        "id": "95aef272960886a7",
+        "id": "c8152fe52fbd0f92",
         "type": "tabs",
         "children": [
           {
-            "id": "0d03798ee454ed7d",
+            "id": "6856b9e23d999a96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9163e0e686ec73bd",
+    "id": "3e9068611288b8fb",
     "type": "split",
     "children": [
       {
-        "id": "5215c3706babb8b1",
+        "id": "249c91abe73be714",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8718dba23bd8e8",
+            "id": "e947cae0fa0f0a9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +43,12 @@
             }
           },
           {
-            "id": "b0d9c29f6ec5956f",
+            "id": "39cd28f05c0bb999",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "315c098ea07ca1fc",
+            "id": "44288470b4dd3e9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bcaf00e193b31340",
+    "id": "c87a3f6aa36da9a2",
     "type": "split",
     "children": [
       {
-        "id": "eaef374a2762078a",
+        "id": "de1ae269d0c9d955",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5a6dec864a3024",
+            "id": "038ee19eb0e99619",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +97,19 @@
             }
           },
           {
-            "id": "8a8743158aa0300b",
+            "id": "ef31aa2ac04d2fe1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1ec73597ab318ff3",
+            "id": "ba49ca65f7ef4eb7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +120,12 @@
             }
           },
           {
-            "id": "6c0c6e404f7022ec",
+            "id": "398265fcf87d6403",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
               }
             }
           }
@@ -144,32 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d03798ee454ed7d",
+  "active": "6856b9e23d999a96",
   "lastOpenFiles": [
-    "Horizon User Guide/02 All Parties/Create a Party Record.md",
-    "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/05 Orders/Receiving Order.md",
-    "Horizon User Guide/05 Orders/Move Orders.md",
-    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/04 Items/Services",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
-    "Horizon User Guide/04 Items/Products",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
-    "Horizon User Guide/04 Items/Equipment",
-    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
-    "Horizon User Guide/04 Items/Configurators",
     "Horizon User Guide/04 Items/All Items/Managing and Categorizing Items.md",
-    "Horizon User Guide/04 Items/All Items",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
+    "Horizon User Guide/02 All Parties/Create a Party Record.md",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
+    "assets/3_log_in.png",
+    "assets/2_create_account_for_another_user.png",
+    "assets/1_create_your_own_horizon_account.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -182,14 +178,21 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
-    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
-    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Add Minimum and Maximum Values.md",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/Old documentation/04 Products/C. Services",
+    "Horizon User Guide/Old documentation/04 Products/A. All Items",
+    "Horizon User Guide/Old documentation/04 Products",
+    "Horizon User Guide/Old documentation/03 Customers",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
-    "Horizon User Guide/00 Assets/16_add_payment_plan.png",
-    "Horizon User Guide/00 Assets/15_add_payment_card.png"
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders"
   ]
 }

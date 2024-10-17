@@ -34,31 +34,6 @@
 
 ## Create a Payment Record
 
-1. Go to the **Customer** tab.
-2. Click **Add Payment**.
-3. **Enter Payment Details**: Enter the amount and choose the payment type: ACH, Card, or Check.
-
-	#### For ACH:
-
-	A. **Select Account Type**: Choose between **Checking** and **Savings**. <br>
-	B. **Enter Payment Info**: Provide the routing number, account number, and an optional memo. <br>
-	#### For Card:
-
-	**Enter Payment Info**: Provide card type, expiration date, card number, and an optional memo. <br>
-	#### For Check:
-
-	**Enter Payment Info**: Provide the check number. <br>
-4. To confirm a payment record, click the expand button (>) to view the existing payment record. Click **Confirmed** to proceed.
-
-	⚠️ Note: Negative payment amounts cannot be confirmed. Confirmed payments are irreversible; to revert, click **Unconfirm**.
-
-5.  Click **Process Payment**.
-
-6. **Save or Cancel**:
-    
-    - Review your details. Click **Save and Close** to save changes or **Cancel Payment** to discard.
-
-	💡 **Tip:** To delete a payment record, click the (✖︎) icon next to the record you wish to remove. Confirm by clicking **Delete** in the dialog box. Please note that deleted records are permanent. To recreate a record, follow the steps in **Create a Payment Record**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
