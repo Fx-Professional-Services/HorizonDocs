@@ -93,7 +93,7 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
-- 
+- If the sales order is confirmed, click **Generate Invoice** and wait until the status shows **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
