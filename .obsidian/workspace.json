@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Order"
+              "title": "Generate a Sales Invoice"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sales Order"
+              "title": "Backlinks for Generate a Sales Invoice"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sales Order"
+              "title": "Outgoing links from Generate a Sales Invoice"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sales Order"
+              "title": "Outline of Generate a Sales Invoice"
             }
           }
         ]
@@ -179,7 +179,6 @@
   },
   "active": "5b75fea68e6a04b5",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
     "Leads.md",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
@@ -213,6 +212,7 @@
     "Horizon User Guide/Old documentation/03 Customers/I. Create a New Customer Record.md",
     "Horizon User Guide/Old documentation/03 Customers",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Vendor Record.md",
+    "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/Old documentation/02 All Parties",
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
