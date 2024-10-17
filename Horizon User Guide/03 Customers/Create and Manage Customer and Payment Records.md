@@ -34,6 +34,11 @@
 
 ## Create a Payment Record
 
+#### Navigate to Customers
+
+1. Go to **Customer** in the main menu.
+2. Click the **Customers** tab.
+3. Click **Add Payment**.
 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
