@@ -34,7 +34,28 @@
 
 ## Create a Payment Record
 
+#### Navigate to Customers
 
+1. Go to **Customer** in the main menu.
+2. Click the **Customers** tab.
+3. Click **Add Payment**.
+
+#### Enter Payment Details
+
+4. **Amount**: Enter the payment amount.
+5. **Payment Type**: Choose from ACH, Card, or Check.
+
+- **For ACH**:
+    
+    - **Account Type**: Select **Checking** or **Savings**.
+    - **Payment Info**: Provide the routing number, account number, and an optional memo.
+    
+    **For Card**:
+    
+    - **Payment Info**: Enter card type, expiration date, card number, and an optional memo.
+    
+    **For Check**:
+    - **Payment Info**: Enter the check number.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
