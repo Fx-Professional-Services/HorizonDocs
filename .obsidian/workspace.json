@@ -27,11 +27,17 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+
+              "title": "Create and Manage Customer and Payment Records"
+
               "title": "Sales Order"
             }
           }
@@ -118,6 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for Create and Manage Customer and Payment Records"
               "title": "Backlinks for Sales Order"
             }
           },
@@ -132,6 +139,9 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+
+              "title": "Outgoing links from Create and Manage Customer and Payment Records"
+
               "title": "Outgoing links from Sales Order"
             }
           },
@@ -154,6 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Create and Manage Customer and Payment Records"
                 "file": "Horizon User Guide/05 Orders/Sales Order.md"
               },
               "icon": "lucide-list",
