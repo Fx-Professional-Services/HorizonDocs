@@ -52,15 +52,12 @@ ___
 
 11. **Making Sales Orders Taxable:**
 
-- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
-- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+
 #### Discounts
 
 12. **Selecting Discounts:**
 
-- Navigate to the **Discounts** section and click **Select Discount**.
-- In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
-- The discount will automatically adjust the subtotal and total costs.
+
 
 💡 **Tips:**
 
@@ -90,13 +87,10 @@ ___
 
 15. **Generating Sales Invoice:**
 
-- Return to the **Order** tab and click **confirm** to initiate the sales invoice generation process.
-
-⚠️ **Note**: Once a sales order is confirmed, changes to Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert, click **unconfirm**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
-- Click **generate invoice** and wait until the status displays **Invoiced: Yes**. Then, click **Save Changes** located at the bottom of the screen.
+- 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
