@@ -35,7 +35,6 @@
 ## Create a Payment Record
 
 #### Manage Payment Record
-
 6. **View Payment Record**: Click the **Expand** button (>) to access an existing record.  
     
 7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
@@ -51,7 +50,6 @@
 
 - **Permanence**: Deleted records cannot be recovered. To recreate a record, follow the steps in **Create a Payment Record**.
 - **Deletion Restrictions**: Only unconfirmed payment records can be deleted; confirmed payments cannot be removed.
-
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
