@@ -61,6 +61,7 @@
 6. **View Payment Record**: Click the **Expand** button (>) to access an existing record.  
     
 7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
+**Note ⚠️**: Payments cannot be confirmed if the payment amount is negative.
 8. **Cancel Payment**: Click **Cancel Payment** to cancel, even if confirmed.
 9. **Unconfirm Payment**: Click **Unconfirmed** to revert the confirmation.
 10. **Save Changes**: Click **Save and Close** when finished.
