@@ -89,7 +89,7 @@ ___
     - Click **Options** in the navigation menu.
     - Select **Custom Attribute**.
     - Click **New Record** and enter the name of your custom attribute.
-    - Optionally, add details such as variable and default value.
+    - Add details, such as the variable and, optionally, the default value.
 
 The new custom attribute will appear in the list thereafter.
 
