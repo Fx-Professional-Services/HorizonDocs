@@ -62,7 +62,7 @@
     
 7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
 8. **Cancel Payment**: Click **Cancel Payment** to cancel, even if confirmed.
-9. **Unconfirm Payment**: Click **Unconfirmed** to revert the confirmation.
+9. **Unconfirm Payment**: Confirmed Card and ACH payments cannot be reverted. You can unconfirm Check payments and modify details by clicking **Unconfirm**.
 10. **Save Changes**: Click **Save and Close** when finished.
 
 #### Deleting a Payment Record
