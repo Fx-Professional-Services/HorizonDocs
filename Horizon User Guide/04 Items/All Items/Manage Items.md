@@ -19,6 +19,8 @@ An item is a basic unit that can be added to orders, including products, configu
 - **Lead Time**: Enter the total time required to fulfill an order (includes pick, build, and purchase).
 - **Best by (Time)**: Enter the expiration time.
 - **Customer Facing Name**: Enter the display name for customers.
+- **Customer Facing Description**: Enter a description for customers.
+⚠️ Note: The customer-facing name and description are essential details that will be displayed in the sales order when the item is included.
 - **Consumable, Sale Item, or Need Pick**: Tick the appropriate box.
 - **Categorize the Item**: Select if it’s a Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
 
