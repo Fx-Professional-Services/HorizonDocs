@@ -24,6 +24,6 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Confirm and Print the Sales Estimate
 
-
+13. **Confirm the Estimate:** Click **confirm** and wait for the status to show **confirmed**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
