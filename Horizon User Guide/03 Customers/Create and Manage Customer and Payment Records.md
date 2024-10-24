@@ -97,13 +97,11 @@
 
 ## Add Payment Plan
 
-1. Click **Add Payment Plan**. <br>
+1. Click **Add Payment Plan**.
 2. **Enter Payment Details**:
-    
-    - Specify the **Amount** and the **Number of Payments**, then click **Create Payment Schedule**. A pop-up form will display your payment schedule. <br>
+    - Enter the **Amount** and the **Number of Payments**. Then, click **Create Payment Schedule**. A pop-up will display your payment schedule.
 3. **Save Payment Plan**:
-    
-    - Review the details and click **Save and Close** to finalize your payment plan.
+    - Review the details, then click **Save and Close** to finalize the payment plan.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/16_add_payment_plan.png" width="350" height="300">
 
