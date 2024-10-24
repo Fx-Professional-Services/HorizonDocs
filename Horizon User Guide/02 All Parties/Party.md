@@ -45,3 +45,74 @@ Follow the steps below to create a new party record:
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="200" height="300">
 
+# # Create a New Customer Record
+
+To create a sales order record, you first need to create a customer record. Follow these steps:
+
+1. **Access the Customer Section**:
+    
+    - In the main menu, go to **All Parties** and select **Customers**.
+2. **Open the New Record Form**:
+    
+    - Click **New Record** in the Customer section.
+3. **Select Customer Type**:
+    
+    - In the pop-up form, choose either **Person** or **Organization** in the Type field.
+4. **Enter Customer Information**:
+    
+    - Provide the name, email, phone, URLs, and address details.  
+        ⚠️ Enter a two-digit country code in the mailing and/or billing address.
+5. **Choose the Primary Contact Method**:
+    
+    - Select a preferred contact method by checking the box under **Primary**.  
+        ⚠️ You must select a primary contact method to save.
+6. **Save the Record**:
+    
+    - Click **Save** at the bottom right corner of the form after entering all details.
+
+# Create a New Employee Record
+
+Follow these steps to create a new employee record:
+
+1. **Access the Employee Section**:
+    
+    - In the main menu, go to **All Parties** and select **Employees**.
+2. **Open the New Record Form**:
+    
+    - Click **New Record** in the Employees section.
+3. **Enter Employee Information**:
+    
+    - In the pop-up form, provide the name, email, phone, URLs, and address details.  
+        ⚠️ Enter a two-digit country code in the address fields.
+4. **Choose the Primary Contact Method**:
+    
+    - Select a primary contact method by checking the box under **Primary**.  
+        ⚠️ You must select at least one primary contact method to save.
+5. **Save the Record**:
+    
+    - Click **Save** at the bottom right corner of the form after entering all details.
+
+# # Create a New Vendor Record
+
+Follow these steps to create a new vendor record:
+
+1. **Access the Vendor Section**:
+    
+    - In the main menu, go to **All Parties** and select **Vendors**.
+2. **Open the New Record Form**:
+    
+    - Click **New Record** in the Vendors section.
+3. **Select Vendor Type**:
+    
+    - In the pop-up form, click the **Type** box and choose either **Person** or **Organization** based on the vendor type.
+4. **Enter Vendor Information**:
+    
+    - Provide the name, email, phone, URLs, and address details.  
+        ⚠️ Enter a two-digit country code in your mailing and/or billing address.
+5. **Choose the Primary Contact Method**:
+    
+    - Select a preferred contact method by checking the box under **Primary**.  
+        ⚠️ You must select a primary contact method to save.
+6. **Save the Record**:
+    
+    - Click **Save** at the bottom right corner of the form after entering all details.
