@@ -25,7 +25,7 @@ ___
 
 7. **Adjusting Price and Quantity:**
     
-    - Modify the price or quantity of a sales order line item by entering new values. The subtotal and total costs will update automatically.
+    - To modify the price or quantity of a sales order line item, enter the new values. The subtotal and total costs will update automatically.
 8. **Deleting Items:**
     
     - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option.
