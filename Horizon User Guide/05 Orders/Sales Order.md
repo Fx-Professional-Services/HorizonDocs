@@ -64,9 +64,7 @@ E. Taxes will be calculated in real time, and the additional tax value will auto
 
 - Navigate to the **Discounts** section and click **Select Discount**.
 
-- In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
-
-- The discount will automatically adjust the subtotal and total costs.
+- Select either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and then **Done**. The discount will automatically update the subtotal and total costs.
 
 💡 **Tips:**
 
