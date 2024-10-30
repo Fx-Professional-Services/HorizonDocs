@@ -30,7 +30,7 @@ ___
     
     - Remove individual items by clicking the "x" icon. To delete all items, use the **delete all** option.
 
-	 💡 Tip: To delete a product from a sales order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
+	 💡 Tip: To delete a product from a sales order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**. This action will automatically update the discount line item, total discount, and discount amount in the discount portal.
 	
 9. **Editing Customer-Facing Details:**
     
