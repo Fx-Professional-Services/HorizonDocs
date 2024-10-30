@@ -26,4 +26,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
 
+15. **Print the Estimate**: Click the **Print** icon (🖨️) in the upper right corner of the screen.
+
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
