@@ -28,7 +28,7 @@ A Bill of Materials (BOM) is like a detailed recipe for creating a product. It o
 #### 💡 Tips
 
 - **Add New Item**: Click the add button (✚) at the top right corner of the picker window. Enter the product details (name, description, replenishment method, etc.) and click **Save**.
-- **Delete Item**: Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box.
+- **Delete Item**: Click the delete button (✖︎) next to the item, and confirm by selecting **Delete** in the dialog box.
 
 ### 4. Confirm Unit of Measure
 
