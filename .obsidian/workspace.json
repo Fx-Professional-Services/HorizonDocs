@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "54fe72afdd67cc52",
+    "id": "6be38b977ecc950b",
     "type": "split",
     "children": [
       {
-        "id": "c8152fe52fbd0f92",
+        "id": "83906240fd81fd0a",
         "type": "tabs",
         "children": [
           {
-            "id": "6856b9e23d999a96",
+            "id": "997f5452bce3f9a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Create and Manage Customer and Payment Records"
-            }
-          },
-          {
-            "id": "5b75fea68e6a04b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generate a Sales Invoice"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3e9068611288b8fb",
+    "id": "ea2891086a39a4ac",
     "type": "split",
     "children": [
       {
-        "id": "249c91abe73be714",
+        "id": "fb77ebaede8da88b",
         "type": "tabs",
         "children": [
           {
-            "id": "e947cae0fa0f0a9b",
+            "id": "9e95a8a39062e7db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +43,7 @@
             }
           },
           {
-            "id": "39cd28f05c0bb999",
+            "id": "ef1db907f2bf31c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +60,7 @@
             }
           },
           {
-            "id": "44288470b4dd3e9b",
+            "id": "6bf1968eddce1c97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "c87a3f6aa36da9a2",
+    "id": "4a0ebff620ed6207",
     "type": "split",
     "children": [
       {
-        "id": "de1ae269d0c9d955",
+        "id": "c6f2aae8f65a3f32",
         "type": "tabs",
         "children": [
           {
-            "id": "038ee19eb0e99619",
+            "id": "e57e4376df19b578",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Generate a Sales Invoice"
+              "title": "Backlinks for Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "ef31aa2ac04d2fe1",
+            "id": "4f0461e4c3585b26",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Generate a Sales Invoice"
+              "title": "Outgoing links from Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "ba49ca65f7ef4eb7",
+            "id": "39b1e23c29ddeadd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +130,15 @@
             }
           },
           {
-            "id": "398265fcf87d6403",
+            "id": "57d2cf5150fc14b4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Generate a Sales Invoice.md"
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Generate a Sales Invoice"
+              "title": "Outline of Create and Manage Customer and Payment Records"
             }
           }
         ]
@@ -177,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b75fea68e6a04b5",
+  "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/02 All Parties/Party.md",
     "Leads.md",
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
@@ -212,12 +194,11 @@
     "Horizon User Guide/Old documentation/03 Customers/I. Create a New Customer Record.md",
     "Horizon User Guide/Old documentation/03 Customers",
     "Horizon User Guide/Old documentation/02 All Parties/Create a New Vendor Record.md",
-    "Horizon User Guide/Old documentation/02 All Parties/Create a New Employee Record.md",
     "Horizon User Guide/Old documentation/02 All Parties",
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
-    "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
