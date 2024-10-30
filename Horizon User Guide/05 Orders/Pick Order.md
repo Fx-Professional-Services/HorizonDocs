@@ -4,30 +4,72 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 ### Create a Pick Order:
 
-1. [Address a pick demand.](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md)
-2. Select **Demand Batch List** under **Supply and Demand**.
-3. Find your user account. 
-4. Choose the demand you just generated, then click the expand button (>) next to the item. <br>
-	 💡 Tip: The first item in the list under your account should be the demand you just generated.
-5. In the Pick Orders window, click **Create Order** for the desired pick order.
-6. Once created, the order will have: <br>
-	6.1. a serial number and <br> 
-	6.2. its status will change to **View Order**—click it to proceed. <br>
-	
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="300" height="200">
+1. **Navigate to Supply and Demand**
 
-7. In the Pick Order under the **Order** tab, assign an employee by clicking 'click here to select employee.'
+- Open the main menu and select **Supply and Demand**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_pick_order.png" width="350" height="250">
+2. **Filter Demand Types**
 
-8. Enter the **Finished** date.
-9. In the **Pick Order Items** section, you can add more items and adjust the quantity of each. 
-10. To remove a pick order item, click the delete (x) icon. This action will automatically return the item to the pick order.**
+- In the demand list, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**.
 
-	💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
+	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_address_pick_demand.png" width="350" height="250">
+
+3. **Select Pick Demand**
+
+- To address a specific pick demand item, click **Pick** next to the item (e.g., Lemon Meringue Tart). To address all pick demands at once, click **Pick All**.  
+    ⚠️ **Note:** Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
+    
+4. **View Batch Name**
+
+- To view the batch name (initially set after generating demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/45_view_batch_name_pick_order.png" width="350" height="250">
+
+5. **Choose Demand**
+
+- Select the demand you just generated, then click the expand button (>) next to it.  
+    💡 **Tip:** The first item in the list should be the demand you just generated.
+
+6. **Create Pick Order**
+
+- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
+
+7. **Order Status**
+
+- Once created, the order will have a serial number and its status will change to **View Order**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_view_pick_order.png" width="350" height="250">
+
+8. **Proceed to View Order**
+
+- Click **View Order** to continue.** 
+
+9. **Assign Employee**
+
+- In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
+
+10. **Enter Finished Date**
+- Input the **Finished** date.
+
+11. **Adjust Pick Order Items**
+
+- In the **Pick Order Items** section, you can add items and adjust their quantities.
+
+12. **Delete Line Item**
+
+- To remove a line item, click the delete button (**x**) next to it.
+💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
   
 **<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
-11. Tap the i icon for more information.
-12. Click **Confirm** to verify and finalize the details.
-13. Click **Save Changes** to keep your modifications.
+13. **Additional Information**
+
+- Tap the **i** icon for more details.
+
+14. **Confirm Details**
+- Click **Confirm** to verify and finalize the details.
+
+15. **Save Changes**
+- Click **Save Changes** to keep your modifications.
