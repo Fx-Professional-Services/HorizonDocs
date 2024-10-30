@@ -25,12 +25,13 @@ Products are consumable physical items that can be created or purchased, each wi
     D. **Stock to Keep**: Set the desired stock level. <br>
     E. **Unit of Measure**: Specify the unit of measurement. <br>
     F. **Best By (Time):** Specify the product's best by time. <br>
-    G. **Active BOM**: <br>
-        - Check the **Active BOM** box. <br>
-        - In the pop-up, choose an item by: <br> 
-            - Clicking the **Add** button (✚) or <br>
-            - Typing its name in the search box. <br>
-        - Click **Done** to return to the main layout. <br>
+    G. **Active BOM**: Select an active BOM to use for demand generation.
+
+	- Click the **Active BOM** field.
+	- In the pop-up, choose an item by:
+	    - Clicking the **Add** button (✚), or
+	    - Typing its name in the search box.
+	- Click **Done** to return to the main layout.<br>
     H. **Lead Type**: Specify the time needed before fulfilling an order. It will be calculated based on your selections. You can specify lead type in one of the following ways: <br> 
         - **Days in Advance**: Enter the number of days before fulfillment. <br>
         - **Day of the Week**: Enter a number (1-7) for the day(s) of the week, where 1 is Sunday. Separate multiple days with commas. <br>
