@@ -109,10 +109,13 @@ ___
 ### Log Out of Horizon
 ___
 #### From the Main Menu:
-- Click **Log Out** at the bottom of the main menu.
+
+- Click **Log Out** at the bottom of the menu.
+
 #### From Other Pages:
-- Click **Main Menu** at the top left.
-- Then, click **Log Out** at the bottom of the main menu.
+
+- Click **Main Menu** in the top left corner.
+- Then, click **Log Out** at the bottom of the menu.
 ## Navigate the Main Menu
 
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
