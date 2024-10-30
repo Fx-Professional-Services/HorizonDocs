@@ -51,7 +51,7 @@ To create a sales order record, you first need to create a customer record. Foll
 
 1. **Access the Customer Section**:
     
-    - In the main menu, go to **All Parties** and select **Customers**.
+    - In the main menu, go to **Customers.**
 2. **Open the New Record Form**:
     
     - Click **New Record** in the Customer section.
