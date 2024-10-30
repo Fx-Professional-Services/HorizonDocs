@@ -25,7 +25,7 @@ A production order details the item to be produced, its required materials, and 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
 
 7. Enter the dates for when you **Started** and **Finished** the production order.
-8.  To select the **Location** where the yielded items will be stored, click **Options**, then select **Feature Flags** and choose Production Order.  
+8.  To select the **Location** for storing the yielded items, click **Options**, then select **Feature Flags**, and choose **Production Order**.
 9. In the **Production Order Items** section, you can select the product type (yield or source) and adjust the product quantity. 
 10. Tap the reverse button 🔄 to revert recent changes and restore previous settings.
 
@@ -38,7 +38,8 @@ A production order details the item to be produced, its required materials, and 
 11. TO BE UPDATED: Tap the gear icon to access additional settings and  the i icon for more information.
 12. To delete or modify a specific line item, click the delete button located next to that item. If you wish to delete or change all line items at once, click the delete button above the list of line items.
 13. Click **confirm** to complete the following actions:
-- **Confirm the production order.**
+- **Confirm the production order.** A successful production will display a location and lot number in the Location Module. To review this, navigate to **Item Management**, select **Location**, and choose the specific location from the left pane. Verify that the yielded item is displayed.
+	⚠️ **Note:** An unsuccessful production is often caused by not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
 - **Assign yielded items to "Built in Inventory" (+).**
 - **Assign sourced items to "Consumed in Inventory" (+).**
 - **Address demand for line items.**
