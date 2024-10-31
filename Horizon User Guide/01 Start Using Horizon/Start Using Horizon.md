@@ -79,7 +79,10 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
-    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+    A. Open the **Request for Horizon Access** email.
+    B.  Click the provided link to open FileMaker Pro within 15 minutes.
+    C. Set a new password.
+    D. Click **Continue**.
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
