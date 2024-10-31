@@ -52,14 +52,20 @@ ___
 
 11. **Making Sales Orders Taxable:**
 
-- Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
-- Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
+A. Click the expand button (**>**) next to the customer’s name.  
+B. In the customer layout, go to the **Customers** tab.  
+C. Enter the tax rate.  
+D. Return to your sales order and click the **Tax** box next to each line item until a checkmark (✔️) appears.  
+E. Taxes will be calculated in real time, and the additional tax value will automatically update the **total cost**.
+
 #### Discounts
 
 12. **Selecting Discounts:**
 
 - Navigate to the **Discounts** section and click **Select Discount**.
+
 - In the pop-up window, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and/or Done.
+
 - The discount will automatically adjust the subtotal and total costs.
 
 💡 **Tips:**
@@ -107,13 +113,21 @@ ___
 
 15. **Generating Sales Invoice:**
 
-- Return to the **Order** tab and click **confirm** to initiate the sales invoice generation process.
-
-⚠️ **Note**: Once a sales order is confirmed, changes to Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert, click **unconfirm**.
+To generate a sales invoice, return to the **Order** tab and click **Confirm**.
+    
+⚠️ **Notes**:
+    
+- A sales invoice cannot be generated unless the sales order is confirmed.
+- Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To revert the confirmation, click **Unconfirm**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
-- Click **generate invoice** and wait until the status displays **Invoiced: Yes**. Then, click **Save Changes** located at the bottom of the screen.
+
+- If the sales order is confirmed, click **Generate Invoice** and wait until the status shows **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
+
+⚠️ **Important**:
+
+- Only one invoice can be generated per sales order. Once generated, no additional invoices can be created for that order.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
