@@ -18,3 +18,7 @@ A **move order** directs relocating a specific quantity of items from one locati
 ##### Pick Order
 
 A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
+
+To be included: 
+A lot number is a unique identifier assigned to a batch of items produced or received together. It groups items from the same production run or shipment, facilitating inventory management, tracking, and quality control. Each batch gets a distinct lot number for effective traceability and record-keeping.
+
