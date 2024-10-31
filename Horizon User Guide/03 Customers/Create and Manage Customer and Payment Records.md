@@ -34,7 +34,46 @@
 
 ## Create a Payment Record
 
+#### Navigate to Customers
 
+1. Go to **Customer** in the main menu.
+2. Click the **Customers** tab.
+3. Click **Add Payment**.
+
+#### Enter Payment Details
+
+4. **Amount**: Enter the payment amount.
+5. **Payment Type**: Choose from ACH, Card, or Check.
+
+- **For ACH**:
+    
+    - **Account Type**: Select **Checking** or **Savings**.
+    - **Payment Info**: Provide the routing number, account number, and an optional memo.
+    
+    **For Card**:
+    
+    - **Payment Info**: Enter card type, expiration date, card number, and an optional memo.
+    
+    **For Check**:
+    - **Payment Info**: Enter the check number.
+
+#### Manage Payment Record
+6. **View Payment Record**: Click the **Expand** button (>) to access an existing record.  
+    
+7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
+**Note ⚠️**: Payments cannot be confirmed if the payment amount is negative or the payment type is empty.
+8. **Cancel Payment**: Click **Cancel Payment** to cancel, even if confirmed.
+9. **Unconfirm Payment**: Confirmed Card and ACH payments cannot be reverted. You can unconfirm Check payments and modify details by clicking **Unconfirm**.
+10. **Save Changes**: Click **Save and Close** when finished.
+
+#### Deleting a Payment Record
+
+💡 **Tip**: To delete a payment record, click the (✖︎) icon next to the record and confirm by clicking **Delete** in the dialog box.
+
+#### Important Notes:
+
+- **Permanence**: Deleted records cannot be recovered. To recreate a record, follow the steps in **Create a Payment Record**.
+- **Deletion Restrictions**: Only unconfirmed payment records can be deleted; confirmed payments cannot be removed.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/14_confirm_process_save_add_payment.png" width="300" height="250">
 
@@ -43,12 +82,12 @@
 1. Click on **Add Payment Card**.
 2. **Enter Payment Card Details**:
     - Fill out the payment details in the pop-up form:
-        - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
-        - **Card Number**: Enter your card number.
-        - **Security Code**: Enter the security code.
-        - **Expiration Date (MM/YY)**: Enter the expiration date.
-        - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
-        - **Last 4 Digits**: Enter the last four digits of your card number.
+    - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
+    - **Card Number**: Enter your card number.
+    - **Security Code**: Enter the security code.
+    - **Expiration Date (MM/YY)**: Enter the expiration date.
+    - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
+    - **Last 4 Digits**: Enter the last four digits of your card number.
 3. **Save Payment Card**:
     
     - Review the details and click **Save and Close** to store the payment card.
