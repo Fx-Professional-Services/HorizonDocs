@@ -2,7 +2,6 @@
 
 Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4-sales-orders) to ensure precise demand tracking and effective resource planning.
 
-
 [Launch Horizon File](#launch-horizon-file)
 
 [Create a Horizon Account](#create-a-horizon-account)
@@ -117,6 +116,8 @@ ___
 
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
+⚠️ Note: When in other Horizon files, such as All Parties, Customers, Products, Sales Orders, Invoices, or Bill of Materials, click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
 
 ### 1 **All Parties**
@@ -172,12 +173,19 @@ A lead is a recorded instance of a potential customer expressing interest in a p
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
 ---
-### 9 **Re-Login**  
+### **9 My Tasks**
+
+Select this menu to access the tasks assigned to you.
+
+💡 **Tip**: To return to the Main Menu from Horizon Project Management, click the Main Menu navigation button.
+
+_______________
+### 10 **Re-Login**  
 Select this menu if you're asked to log in again due to inactivity or an expired session. This button ensures that only authorized users can access the system and facilitates switching between multiple accounts, maintaining security and convenience.
 
 ---
 
-### 10 **Settings**  
+### 11 **Settings**  
 Select this option to reset data and display the installed plug-ins when the app starts up.
 
 ## Reset Your Password
