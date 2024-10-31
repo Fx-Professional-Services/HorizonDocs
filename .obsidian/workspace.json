@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e95a8a39062e7db",
+  "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/07 Definition of Terms/Test only.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials",
@@ -208,7 +209,6 @@
     "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/Old documentation/06 Invoices",
     "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md"
   ]
 }
