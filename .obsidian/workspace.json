@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "7eff1dc390620c0b",
+    "id": "6be38b977ecc950b",
     "type": "split",
     "children": [
       {
-        "id": "a406f0bb187597d2",
+        "id": "83906240fd81fd0a",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3832e01b49bab8",
+            "id": "997f5452bce3f9a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Start Using Horizon"
             }
           }
         ]
@@ -25,68 +27,73 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04ecf2071ae163bc",
+    "id": "ea2891086a39a4ac",
     "type": "split",
     "children": [
       {
-        "id": "7254babbed6e8ae8",
+        "id": "fb77ebaede8da88b",
         "type": "tabs",
         "children": [
           {
-            "id": "22b6989c1ca2ac75",
+            "id": "9e95a8a39062e7db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "03e480591f6385b2",
+            "id": "ef1db907f2bf31c6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "cc1c67bf547299a7",
+            "id": "6bf1968eddce1c97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300
   },
   "right": {
-    "id": "d66a91847eddf6fc",
+    "id": "4a0ebff620ed6207",
     "type": "split",
     "children": [
       {
-        "id": "a2288c4837a27fdd",
+        "id": "c6f2aae8f65a3f32",
         "type": "tabs",
         "children": [
           {
-            "id": "00365e05d741aac6",
+            "id": "e57e4376df19b578",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,40 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "5ee3f0928e335d18",
+            "id": "4f0461e4c3585b26",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "96166362b8b1f5f0",
+            "id": "39b1e23c29ddeadd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "f7940a7fb5e4d85c",
+            "id": "57d2cf5150fc14b4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/04 Items/Create Products.md"
-              }
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Create and Manage Customer and Payment Records"
             }
           }
         ]
@@ -147,53 +162,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc3832e01b49bab8",
+  "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
-    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
-    "Horizon User Guide/04 Items/Create Products.md",
-    "assets/15_search_an_item.png",
-    "Horizon User Guide/04 Items/Search for an Item.md",
-    "Horizon User Guide/05 Orders/Sales Estimate.md",
-    "Horizon User Guide/05 Orders/Purchase Order.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/05 Orders/Address Demand.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/00 Assets/40_search_an_item.png",
     "Leads.md",
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "assets/5_delete_account.png",
-    "assets/4_reset_password.png",
-    "Horizon User Guide/Old documentation/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/Old documentation/00 Table of Contents",
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/00 Assets/46_remove_account_settings.png",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/06 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/06 Definition of Terms",
-    "Horizon User Guide/02 All Parties/Create a Party Record.md",
-    "Horizon User Guide/05 Orders/Move Orders.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Create a Sales Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/Old documentation/04 Products/A. All Items/Create a New Product in the Upload Vendor Prices.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
+    "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
+    "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
+    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
     "Horizon User Guide/Old documentation/06 Invoices",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Use the Item Picker to Select and Edit Customer-Facing Names.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Swap Units of Measure in Find Mode.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Print Sales Estimates.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete a Line Item in Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Create a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
-    "Untitled.canvas"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/56_create_products.png",
+    "Horizon User Guide/00 Assets/55_create_a_BOM.png",
+    "Horizon User Guide/00 Assets/54_verify_the_new_service.png",
+    "Horizon User Guide/00 Assets/53_add_a_new_service.png"
   ]
 }
