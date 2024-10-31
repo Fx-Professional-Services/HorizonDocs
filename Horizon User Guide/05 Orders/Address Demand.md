@@ -7,7 +7,7 @@
 5. You can address either a specific demand item, a specific type of demand, or all demands:
 
 	5.1. To address all demands, click **address all x demands**.
-	
+	 💡 **Tip:** If you're working in another module, such as **Sales Order,** simply click **Supply and Demand** from the navigation buttons without returning to the Main Menu. Then, select **Demand List.**
 	5.2. For a specific demand item, click **build (Item)**, **demand (Item)**, **pick (Item)**, or **purchase (Item)**.
 
 	5.3. For a specific type of demand, click **build all**, **demand all**, **pick all**, or **purchase all**.
@@ -18,7 +18,6 @@
 
 6. Confirmation pop-ups will appear at the start and end of batch demand generation. Click OK to proceed.
 7. To view the batch name set to its initial value after generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account. It will appear as the most recent item.
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/23_demand_batch_name.png" width="300" height="100">
 
 
