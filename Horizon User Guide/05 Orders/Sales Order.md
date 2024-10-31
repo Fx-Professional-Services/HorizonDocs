@@ -71,7 +71,7 @@ E. Taxes will be calculated in real time, and the additional tax value will auto
 💡 **Tips:**
 
 - 
-- To remove a discount, click on the (x) icon next to the discount, and the total cost will adjust automatically.
+- To remove an applied percentage discount, click the (x) icon next to the discount. The total cost will adjust automatically.
 
 #### Adding Conditions
 
@@ -82,6 +82,23 @@ E. Taxes will be calculated in real time, and the additional tax value will auto
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/04_sales_orders_apply_taxes_discounts_conditions.png" width="350" height="300">
+
+#### Adding Custom Attributes
+
+14. Adding Custom Attributes
+
+* **Navigate to the Custom Attributes Tab**.
+    
+- **Enter Values**: For each custom attribute, input the corresponding value (e.g., **Event Date:** 8/15/2025).
+
+💡 **Tip**: To add a new custom attribute:
+    - Click **Options** in the navigation menu.
+    - Select **Custom Attribute**.
+    - Click **New Record** and enter the name of your custom attribute.
+    - Add details, such as the variable and, optionally, the default value.
+
+The new custom attribute will appear in the list thereafter.
+
 
 ### **Generate Demand and Invoice**
 ___
@@ -101,7 +118,7 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 ⚠️ **Notes**:
     
 - A sales invoice cannot be generated unless the sales order is confirmed.
-- Once a sales order is confirmed, changes to the Sales Channel, Customer Tier, or Payment Terms cannot be made. To revert the confirmation, click **Unconfirm**.
+- Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To revert the confirmation, click **Unconfirm**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
