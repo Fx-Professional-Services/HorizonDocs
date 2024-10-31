@@ -2,7 +2,6 @@
 
 Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4-sales-orders) to ensure precise demand tracking and effective resource planning.
 
-
 [Launch Horizon File](#launch-horizon-file)
 
 [Create a Horizon Account](#create-a-horizon-account)
@@ -17,7 +16,7 @@ Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for a
 
 ## Launch Horizon File
 
-Follow these steps will launch the Horizon file in FileMaker Pro.
+Follow these steps to launch the Horizon file in FileMaker Pro:
 
 1.  Start the FileMaker Pro application.
 2. **Access Hosts Menu**:
@@ -71,7 +70,8 @@ ___
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/33_create_account_for_another_user.png" width="350" height="300">
-5. Add Account: <br>
+
+5. **Add Account**: <br>
 	* Click **Add Account**.
 
 6. **Email Confirmation**:
@@ -167,6 +167,8 @@ ___
 
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
 
+⚠️ Note: When in other Horizon files, such as All Parties, Customers, Products, Sales Orders, Invoices, or Bill of Materials, click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
 
 ### 1 **All Parties**
@@ -222,12 +224,19 @@ A lead is a recorded instance of a potential customer expressing interest in a p
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
 ---
-### 9 **Re-Login**  
+### **9 My Tasks**
+
+Select this menu to access the tasks assigned to you.
+
+💡 **Tip**: To return to the Main Menu from Horizon Project Management, click the Main Menu navigation button.
+
+_______________
+### 10 **Re-Login**  
 Select this menu if you're asked to log in again due to inactivity or an expired session. This button ensures that only authorized users can access the system and facilitates switching between multiple accounts, maintaining security and convenience.
 
 ---
 
-### 10 **Settings**  
+### 11 **Settings**  
 Select this option to reset data and display the installed plug-ins when the app starts up.
 
 ## Reset Your Password
@@ -264,7 +273,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
 
 5. Click OK after receiving the email-sent notification. <br>
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
@@ -329,3 +338,5 @@ To permanently delete your account:
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_remove_account_settings.png" width="350" height="300">
 5. A notification will confirm that your account has been deleted. Click **OK**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
