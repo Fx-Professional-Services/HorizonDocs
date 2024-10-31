@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "54fe72afdd67cc52",
+    "id": "6be38b977ecc950b",
     "type": "split",
     "children": [
       {
-        "id": "c8152fe52fbd0f92",
+        "id": "83906240fd81fd0a",
         "type": "tabs",
         "children": [
           {
@@ -40,11 +40,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e9068611288b8fb",
+    "id": "ea2891086a39a4ac",
     "type": "split",
     "children": [
       {
-        "id": "249c91abe73be714",
+        "id": "fb77ebaede8da88b",
         "type": "tabs",
         "children": [
           {
@@ -104,11 +104,11 @@
     "width": 300
   },
   "right": {
-    "id": "c87a3f6aa36da9a2",
+    "id": "4a0ebff620ed6207",
     "type": "split",
     "children": [
       {
-        "id": "de1ae269d0c9d955",
+        "id": "c6f2aae8f65a3f32",
         "type": "tabs",
         "children": [
           {
@@ -137,6 +137,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for Sales Order"
+            }
+          },
+          {
               "title": "Backlinks for Create and Manage Customer and Payment Records"
             }
           },
@@ -153,6 +157,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from Sales Order"
+            }
+          },
+          {
               "title": "Outgoing links from Create and Manage Customer and Payment Records"
             }
           },
@@ -177,6 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Order.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sales Order"
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md"
               }
                 "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
@@ -202,8 +214,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6856b9e23d999a96",
+  "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md"
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
