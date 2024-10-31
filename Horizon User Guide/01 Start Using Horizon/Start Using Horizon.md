@@ -94,9 +94,9 @@ This process efficiently sets up a new user account in Horizon.
 ___
 1. **[Launch Horizon file](#launch-horizon-file).**
 2. **Open Login Page:**
-    - Go to the Horizon login page.
-3. **Enter Credentials:**
-    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+    - Navigate to the Horizon login page.
+3. **Enter Your Credentials:**
+    - **Account Name:** Enter the email address associated with your Horizon account (e.g., xxx@gmail.com).
     - **Password:** Enter your password.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
