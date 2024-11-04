@@ -4,6 +4,9 @@ Products are consumable physical items that can be created or purchased, each wi
 
 [Add a Product](add-a-product) <br>
 [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+# Manage Vendor Prices
+
+[Import Vendor Prices](import-vendor-prices)
 [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 ## Add a Product
 
@@ -76,25 +79,19 @@ This will permanently remove the product from your records, so proceed with caut
 8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
 
 
-# **Managing Vendor Prices**
+# **Manage Vendor Prices**
 
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
 
+## Import Vendor Prices
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Click **Sales Order** on the main menu.
+2. In the top left corner, click the **Options** button, then select **Vendor Prices**.
+3. In the **Upload Vendor Prices** layout, click **Import Vendor Price**.
+4. Select the file containing the vendor prices, then click **Open**.
+5. Specify the import order for the target fields.
+6. Click **Import**.
+7. Wait for the import to finish. Review the **Import Summary**, then click **OK**.
 
 ## Set Vendor Prices as Inactive
 
