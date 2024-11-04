@@ -20,7 +20,7 @@ A production order details the item to be produced, its required materials, and 
 	5.2. its status will change to **View Order**—click it to proceed. <br>
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/29_view_order.png" width="350" height="250">
 
-6. In the Production Order under the **Order** tab, assign an employee responsible for the order by clicking on 'click here to select employee.'
+6. In the **Production Order** under the **Order** tab, assign a responsible employee by clicking **Click here to select employee**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/24_production_order_tab.png" width="350" height="250">
 
