@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start Using Horizon"
+              "title": "Create and Manage Customer and Payment Records"
             }
           }
         ]
@@ -164,16 +164,13 @@
   },
   "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
-    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/06 Bill of Materials",
-    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/07 Definition of Terms/Test only.md",
     "Leads.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
@@ -209,6 +206,9 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)"
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
+    "Horizon User Guide/Old documentation/06 Invoices/Generate Sales Order Invoices.md",
+    "Horizon User Guide/Old documentation/06 Invoices/Cancel a Sales Invoice.md",
+    "Horizon User Guide/Old documentation/06 Invoices"
   ]
 }
