@@ -194,23 +194,23 @@ Select this option to reset data and display the installed plug-ins when the app
 
 1. [Launch Horizon file.](#launch-horizon-file)
 
-2. Enter your **account name** (email) on the Horizon login page.
+2. On the Horizon login page, enter your **account name** (email).
 
 3. Click **Reset Password**.
 
-4. Click **OK** after receiving the **Email Sent** notification.
+4. After receiving the **Email Sent** notification, click **OK**.
 
-5. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
+5. Check your email for a message titled **Request for Password Reset**. Copy the link provided, paste it into your browser's address bar, and press **Return** (Mac) to open FileMaker Pro.
 
-   ⚠️ Note: The link expires in 15 minutes.
+   ⚠️ **Note**: The link expires in 15 minutes.
 
-6. Enter your new password, deleting any system-generated one if necessary.
+6. Enter your new password. If a system-generated password appears, delete it before entering your new password.
 
-   💡 Tip: Use the tab key to move to the next field easily.
+   💡 Tip: Use the **Tab** key to move to the next field.
 
 7. Click **Change Password**.
 
-8. Click **OK** upon seeing the successful **Password Reset** notification.
+8. Click **OK** when you see the **Password Reset Successful** notification.
 
 **To reset your password if you're logged in to Horizon**:
 
