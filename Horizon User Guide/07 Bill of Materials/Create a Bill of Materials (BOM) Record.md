@@ -8,7 +8,7 @@ A Bill of Materials (BOM) is like a detailed recipe for creating a product. It o
 
 - Open the **Bill of Materials** file from the main menu.
 
- 💡 Tip: When in other modules like Products, Sales Orders, or Supply and Demand, you can access the BOM module by clicking Item Management > BOM.
+ 💡 **Tip:** To access the BOM module from other modules, such as **Products**, **Sales Orders**, or **Supply and Demand**, click **Item Management** and then select **BOM**.
 ### 2. Initiate New Record
 
 - Click **New Record** to start a blank record.
