@@ -77,7 +77,7 @@ E. Taxes will be calculated in real time, and the additional tax value will auto
 
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
 
-- Locate the respective fields labeled **click here to add sales channel**, **click here to add customer tier**, and **click here to add payment terms** within the sales order.
+- Locate the field labeled **Click here to add Sales Channel** within the sales order.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 
