@@ -1,18 +1,24 @@
 {
   "main": {
-    "id": "7eff1dc390620c0b",
+    "id": "6be38b977ecc950b",
     "type": "split",
     "children": [
       {
-        "id": "bce00090e5cd62fe",
+        "id": "83906240fd81fd0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3451ada06c617c6",
+            "id": "997f5452bce3f9a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Horizon User Guide/01 Getting Started/II. Create a Horizon Account.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "II. Create a Horizon Account"
             }
           }
         ]
@@ -21,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04ecf2071ae163bc",
+    "id": "ea2891086a39a4ac",
     "type": "split",
     "children": [
       {
-        "id": "7254babbed6e8ae8",
+        "id": "fb77ebaede8da88b",
         "type": "tabs",
         "children": [
           {
-            "id": "22b6989c1ca2ac75",
+            "id": "9e95a8a39062e7db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "03e480591f6385b2",
+            "id": "ef1db907f2bf31c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,37 +58,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "cc1c67bf547299a7",
+            "id": "6bf1968eddce1c97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300
   },
   "right": {
-    "id": "d66a91847eddf6fc",
+    "id": "4a0ebff620ed6207",
     "type": "split",
     "children": [
       {
-        "id": "a2288c4837a27fdd",
+        "id": "c6f2aae8f65a3f32",
         "type": "tabs",
         "children": [
           {
-            "id": "00365e05d741aac6",
+            "id": "e57e4376df19b578",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,37 +101,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "5ee3f0928e335d18",
+            "id": "4f0461e4c3585b26",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Create and Manage Customer and Payment Records"
             }
           },
           {
-            "id": "96166362b8b1f5f0",
+            "id": "39b1e23c29ddeadd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "f7940a7fb5e4d85c",
+            "id": "57d2cf5150fc14b4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Create and Manage Customer and Payment Records"
             }
           }
         ]
@@ -138,13 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3451ada06c617c6",
+  "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "assets/sales_order_gear_icon.png",
     "assets/9_create_vendor_record.png",
     "assets/8_create_employee_record.png",
     "assets/6_main_menu.png",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
     "assets/3_log_in.png",
     "assets/2_create_account_for_another_user.png",
     "assets/1_create_your_own_horizon_account.png",
@@ -156,8 +182,8 @@
     "Horizon User Guide/08 Leads/Leads.md",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
-    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
+    "Horizon User Guide/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Add a Source or Yield Item to the Picker Window.md",
     "Horizon User Guide/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
@@ -170,22 +196,19 @@
     "Horizon User Guide/05 Sales Orders/Sales Estimates/Delete Sales Channels, Customer Tiers, or Payment Terms.md",
     "Horizon User Guide/05 Sales Orders/Sales Estimates/Create a Sales Estimate Order Item.md",
     "Horizon User Guide/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
-    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
     "Horizon User Guide/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
+    "Horizon User Guide/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/05 Sales Orders/Discounts/Remove Applied Discounts to Sales Order Line Items.md",
     "Horizon User Guide/05 Sales Orders/Discounts/Apply Discounts to Sales Orders.md",
     "Horizon User Guide/05 Sales Orders/Sales Estimates",
-    "Horizon User Guide/05 Sales Orders/Return Orders",
     "Horizon User Guide/05 Sales Orders/Receiving Orders",
+    "Horizon User Guide/05 Sales Orders/Return Orders",
     "Horizon User Guide/05 Sales Orders/Discounts",
     "Horizon User Guide/05 Sales Orders",
     "Horizon User Guide/04 Products/E. All Equipment",
-    "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
-    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
-    "Untitled.canvas"
+    "Horizon User Guide/00 Assets/59_quick_add_products.png"
   ]
 }
