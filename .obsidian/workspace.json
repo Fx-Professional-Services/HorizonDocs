@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Create and Manage Customer and Payment Records"
+=======
+              "title": "Sales Estimate"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -164,7 +172,11 @@
   },
   "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Horizon User Guide/02 All Parties/Party.md",
+=======
+    "Horizon User Guide/05 Orders/Sales Order.md",
+>>>>>>> Stashed changes
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
@@ -172,6 +184,10 @@
     "Leads.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials",
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+>>>>>>> Stashed changes
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
