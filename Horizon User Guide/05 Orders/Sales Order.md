@@ -12,7 +12,7 @@ ___
 1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md).
 2. Navigate to **Sales Orders** in the main menu. 
 3. Click **New Record**. 
-4. Click the **Customer** box to select party. In the picker, type the party's name in the search bar and press **Enter**, or scroll down, then click **Add**.
+4. Click the **Customer** box to select a party. In the picker, type the party's name in the **Search** field and press **Enter**, or scroll down and click **Add**.
 5. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
 6. **Click to select item** to choose a **Sale Order Item**. In the picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
 
