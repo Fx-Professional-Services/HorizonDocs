@@ -20,7 +20,11 @@
 4. Once found, go to the **Categories** tab.
 5. Click **Click to select categories**.
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
-
+7. To review your changes, go to **Units and Categories** and click **Categories**.
+8. In the left pane, select the category you assigned. The list of items linked to the selected category will appear.
+9. To verify, navigate to **Item Management > All Items**, and enter the item name in **Find Mode**.
+10. Click the **Categories** tab.
+11. Verify that the correct category is linked to the item and check its type. 
 
 
 
