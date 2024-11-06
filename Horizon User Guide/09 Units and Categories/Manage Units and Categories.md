@@ -11,7 +11,17 @@
 
 6. Enter the conversion rate.
 
+## Assign Categories to All Items in Found Set 
 
+1. Navigate to the main menu and select **Products**.
+2. Choose **Item Management**, then click **All Items**.
+3. Enter **Find Mode** and use the search icon (🔎) to locate the item by name.
+4. Once found, go to the **Categories** tab.
+5. Click **Click to select categories**.
+6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
+7. A dialog box will prompt you to apply the category to all records in the found set. Choose **Yes** to apply it to all items or **No** to apply it only to the selected item.
+8. To review your changes, go to **Units and Categories**, then select **Categories**.
+9. In the left panel, select the category you assigned. The items should now be categorized as selected.
 
 ### Definition of Terms:  
 
