@@ -11,6 +11,7 @@
 
 6. Enter the conversion rate.
 
+9. **Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
 
 ### Definition of Terms:  
