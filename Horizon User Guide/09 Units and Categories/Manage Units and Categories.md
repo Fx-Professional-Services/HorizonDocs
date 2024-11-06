@@ -21,6 +21,7 @@
 5. Click **Click to select categories**.
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
 
+⚠️ **Note:** You cannot edit items in the selected category in **Units and Categories > Categories**. To add items to the category, go to **Item Management > All Items**, then repeat steps 3 through 8.
 
 
 
