@@ -10,7 +10,7 @@
 
 
 6. Enter the conversion rate.
-
+7. **Select the item**: Choose the item for which you want to apply the conversion factor.
 
 
 ### Definition of Terms:  
