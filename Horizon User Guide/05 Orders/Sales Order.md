@@ -123,7 +123,7 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
 
-- If the sales order is confirmed, click **Generate Invoice** and wait until the status shows **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
+- If the sales order is confirmed, click **Generate Invoice** and wait for the status to update to **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
 
 ⚠️ **Important**:
 
@@ -131,7 +131,7 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
-- Return to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name on the left side. The generated sales invoices for the selected customer will be listed.
+- Return to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name on the left. The sales invoices for the selected customer will be listed.
 
 ### **Finalize and Print**
 _____
