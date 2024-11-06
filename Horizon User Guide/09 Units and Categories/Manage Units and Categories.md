@@ -12,6 +12,20 @@
 6. Enter the conversion rate.
 
 
+## Add Products in a Category
+
+1. Navigate to the **main menu** and select **Products**.
+2. Choose **Item Management**, then click **All Items**.
+3. Enter **Find Mode** and use the search icon (🔎) to locate the item by name.
+4. Once found, go to the **Categories** tab.
+5. Click **Click to select categories**.
+6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
+
+
+
+
+
+
 
 ### Definition of Terms:  
 
