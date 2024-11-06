@@ -9,7 +9,7 @@
 5. In the **To** field, specify the unit of measure you want to convert to.
 
 
-
+6. Enter the conversion rate.
 
 
 
