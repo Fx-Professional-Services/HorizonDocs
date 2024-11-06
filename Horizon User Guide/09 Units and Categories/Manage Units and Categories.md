@@ -10,6 +10,7 @@
 
 
 6. Enter the conversion rate.
+8. **Select the vendor**: Choose the vendor from whom the item will be purchased.
 
 
 
