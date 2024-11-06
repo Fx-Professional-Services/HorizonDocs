@@ -57,7 +57,7 @@ Products are consumable physical items that can be created or purchased, each wi
 This will permanently remove the product from your records, so proceed with caution.
 # Create a New Product in the Upload Vendor Prices
 
-1. **Navigate to Products**: Open the main menu and select **Products**.
+1. **Navigate to Products**: From the main menu, select **Products**.
 2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
