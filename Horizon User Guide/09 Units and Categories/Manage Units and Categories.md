@@ -9,9 +9,7 @@
 5. In the **To** field, specify the unit of measure you want to convert to.
 
 
-
-
-
+* **Using Find Mode**: To quickly find units of measure, click **Find Mode**, enter the units in the search field for the **From** and **To** fields, select the conversion factor from the left pane, then click the **Swap** button (🔄).
 
 ### Definition of Terms:  
 
