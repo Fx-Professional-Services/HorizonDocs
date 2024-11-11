@@ -8,9 +8,10 @@
 4. In the **From** field, enter the unit of measure you want to convert from.
 5. In the **To** field, specify the unit of measure you want to convert to.
 
-💡 Tips: 
 
-**Swap Units of Measure**: To quickly swap units of measure without reselecting values in conversion factors, click the **Swap** button (🔄) to instantly interchange the two units.
+6. Enter the conversion rate.
+8. **Select the vendor**: Choose the vendor from whom the item will be purchased.
+
 
 
 ### Definition of Terms:  
