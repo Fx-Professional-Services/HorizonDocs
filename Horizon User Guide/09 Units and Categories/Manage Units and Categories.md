@@ -8,23 +8,9 @@
 4. In the **From** field, enter the unit of measure you want to convert from.
 5. In the **To** field, specify the unit of measure you want to convert to.
 
+💡 Tips: 
 
-6. Enter the conversion rate.
-
-
-## Add Products in a Category
-
-1. Navigate to the **main menu** and select **Products**.
-2. Choose **Item Management**, then click **All Items**.
-3. Enter **Find Mode** and use the search icon (🔎) to locate the item by name.
-4. Once found, go to the **Categories** tab.
-5. Click **Click to select categories**.
-6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
-
-
-
-
-
+**Swap Units of Measure**: To quickly swap units of measure without reselecting values in conversion factors, click the **Swap** button (🔄) to instantly interchange the two units.
 
 
 ### Definition of Terms:  
