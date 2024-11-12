@@ -25,6 +25,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
+💡 **Tip:** To clear selections in the **Sales Channel**, **Customer Tier**, and **Payment Terms** fields, click the delete (x) symbol next to the item you want to remove. Confirm the deletion by clicking **Yes** in the dialog box that appears.
 ### Confirm and Print the Sales Estimate
 
 ⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
