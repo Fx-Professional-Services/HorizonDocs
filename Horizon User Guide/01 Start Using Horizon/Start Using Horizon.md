@@ -61,11 +61,11 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Fill in the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. Click **Save**.
 3. **Edit Employee Record:**
     
-    - Click on the new record and enter a valid email under **FileMaker user name**.
-4. **Assign Privilege:**
+    - Click the new record and enter a valid email address under **FileMaker User Name**.
+4. **Assign Privileges:**
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
@@ -79,10 +79,14 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
-    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+    - Open the **Request for Horizon Access** email, click the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
+
+To verify the account creation:
+
+- Go to **Horizon Party** > **File** > **Manage** > **Security**. A window will appear, displaying your email address with the assigned user privilege.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
