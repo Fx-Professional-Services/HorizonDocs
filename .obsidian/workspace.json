@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Order"
+              "title": "Create and Manage Customer and Payment Records"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "negative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,6 +165,7 @@
   },
   "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
     "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
@@ -175,7 +177,6 @@
     "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Bill of Materials",
-    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
