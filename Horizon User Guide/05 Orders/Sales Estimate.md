@@ -16,7 +16,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Manage Line Items
 
-
+⚠️ **Note**: After confirmation, the **Delete All** button will no longer be available for removing line items.
 ### Apply Taxes and Conditions
 #### Taxes
 

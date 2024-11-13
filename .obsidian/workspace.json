@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
 
@@ -23,7 +23,8 @@
                 "source": false
               },
               "icon": "lucide-file",
-
+              "title": "Sales Estimate"
+              "title": "Sales Order"
               "title": "Create Products"
               "title": "Start Using Horizon"
 
@@ -174,7 +175,12 @@
   },
   "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/04 Items/Create Products.md",
@@ -191,7 +197,8 @@
     "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/05 Orders",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/04 Items/Services",
+    "Horizon User Guide/04 Items/Products",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
