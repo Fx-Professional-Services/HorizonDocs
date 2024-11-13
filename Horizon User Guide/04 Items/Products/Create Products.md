@@ -49,12 +49,12 @@ Products are consumable physical items that can be created or purchased, each wi
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/56_create_products.png" width="350" height="250">
 
-⚠️ Note: If you need to delete a product record: <br>
+⚠️ **Note:** To delete a product record:
 
-1. Click **Delete Record**. <br>
-2. Confirm your action by selecting **Delete** in the dialogue box. <br>
+1. Click **Delete Record**.
+2. Confirm your action by selecting **Delete** in the dialog box.
 
-This will permanently remove the product from your records, so proceed with caution.
+This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
 # Create a New Product in the Upload Vendor Prices
 
 1. **Navigate to Products**: Open the main menu and select **Products**.
