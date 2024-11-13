@@ -8,7 +8,10 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 [Apply Taxes and Conditions](#apply-taxes-and-conditions) <br>
 [Confirm and Print the Sales Estimate](#confirm-and-print-the-sales-estimate) <br>
 ## Create a Sales Estimate
-
+1. **Open Sales Orders**: Access this from the main menu.
+2. **Navigate to Sales Estimates**: Go to **Order Management** > **Sales Estimate**.
+3. **Start a New Record**: Begin creating a new sales estimate.
+4. **Select Customer**: Click the hamburger menu (☰) to add a customer's name.
 ### Add Items to the Estimate
 
 ### Manage Line Items
