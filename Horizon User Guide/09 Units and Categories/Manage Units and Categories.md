@@ -7,9 +7,9 @@
 3. Click **New Record**.
 4. In the **From** field, enter the unit of measure you want to convert from.
 5. In the **To** field, specify the unit of measure you want to convert to.
-
-
 6. Enter the conversion rate.
+7.**Select the vendor**: Choose the vendor from whom the item will be purchased.
+8.**Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
 ## Assign Categories to All Items in Found Set 
 
@@ -22,6 +22,7 @@
 7. A dialog box will prompt you to apply the category to all records in the found set. Choose **Yes** to apply it to all items or **No** to apply it only to the selected item.
 8. To review your changes, go to **Units and Categories**, then select **Categories**.
 9. In the left panel, select the category you assigned. The items should now be categorized as selected.
+
 
 ### Definition of Terms:  
 
