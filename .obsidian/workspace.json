@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "file": "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md",
                 "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -22,6 +23,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create a Bill of Materials (BOM) Record"
               "title": "Manage Units and Categories"
               "title": "Sales Estimate"
               "title": "Sales Order"
@@ -174,6 +176,9 @@
   },
   "active": "997f5452bce3f9a8",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md",
@@ -235,6 +240,7 @@
     "Horizon User Guide/00 Assets/52_product_to_equipment.png",
     "Horizon User Guide/00 Assets/51_convert_product_to_equipment.png",
     "Horizon User Guide/00 Assets/50_add_new_equipment.png",
+    "Leads.md",
     "Horizon User Guide/04 Products/A. All Items/Assign Categories to All Items in Found Set.md",
     "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md"
   ]
