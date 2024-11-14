@@ -33,4 +33,6 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
  💡 **Tip:** Click the expand button (>) in the Customer field to view the customer’s profile.
 
+15. **Print the Estimate**: Click the **Print** icon (🖨️) in the upper right corner of the screen.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">

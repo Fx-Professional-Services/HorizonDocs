@@ -139,7 +139,7 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 ### **Finalize and Print**
 _____
 16. Click **Save Changes** to apply updates.
-17. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
+17. To print a hard copy of the sales order record, click **Print** (🖨️) in the top right corner of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
 
