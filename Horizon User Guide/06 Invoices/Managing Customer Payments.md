@@ -14,7 +14,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 4. **Select a Customer:**
     
     - Click **Party Display Name** to select a customer.
-    - In the customer picker, scroll down to find the customer's name or enter the name in the search field and click the **Search** button. (Insert magnifying icon here.)
+    - In the customer picker, scroll down to find the customer's name or enter the name in the search field and click the **Search** button 🔎. 
 5. **Enter Payment Details:**
     
     - Enter the payment details, including the **amount** and **payment type** (choose from Check, Card, or ACH).
