@@ -110,6 +110,21 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
+14.2. 
+
+a. To run demand generation asynchronously, click **Generate Demand 2**. This lets you work in other modules while the process runs.
+
+ 💡 Tip: To view running asynchronous tasks, go to Sales Order > Order Tab. In the Options button at the far right of the layout, select Async Tasks. A list of processes will appear, showing their names, start times, and current statuses. This helps you monitor progress and address any errors.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/21_async_tasks.png" width="350" height="250">
+
+b. Click OK when you see the notification that the asynchronous process has started.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/19_generate_demand_2.png" width="350" height="300">
+
+c. Once demand generation is complete, click **View Order** in the dialog box to see the generated demand in your sales order.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/20_view_order_generate_demand_2.png" width="350" height="300">
 
  💡 Tip: To delete all demand records at once, select the **delete all** option. Confirm carefully, as this action is irreversible.
 
