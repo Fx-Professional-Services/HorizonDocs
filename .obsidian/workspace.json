@@ -162,11 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7528af958b43141f",
+  "active": "9e95a8a39062e7db",
   "lastOpenFiles": [
     "Untitled.md",
-    "Leads.md",
+    "Untitled 1.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Leads.md",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -208,7 +209,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md"
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md"
   ]
 }
