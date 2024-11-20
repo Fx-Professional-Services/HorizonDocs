@@ -17,7 +17,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 A. **Select Opportunity**:
     - Click on the **Opportunity** field and choose an opportunity from the list.
 B. **View Opportunity Details**:
-    - After selecting the opportunity, click the expand button (>) to view detailed information about the opportunity. This will display the following fields:
+    - After selecting the opportunity, click the expand button (>) to view detailed information about the [opportunity](#opportunity) This will display the following fields:
         
     - **Party Display Name**:
         
@@ -64,3 +64,20 @@ B. **View Opportunity Details**:
 15. **Print the Estimate**: Click the **Print** icon (🖨️) in the upper right corner of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+## Definition of Terms
+
+#**Opportunity**
+
+An _Opportunity_ represents a potential sale of a specific product or service to a specific prospect or customer. It typically indicates a stage in the sales pipeline where there is a recognized possibility to generate revenue based on the prospect’s interest or need.
+
+**Key characteristics of an Opportunity:**
+
+- **Specific Product/Service**: The opportunity is linked to a particular product or service that is being considered for sale.
+- **Specific Prospect/Customer**: The opportunity is associated with a specific individual or organization who is a potential buyer.
+- **Status**: Opportunities can have different statuses:
+    - _Open_: The opportunity is actively being pursued.
+    - _Closed_: The opportunity has been concluded, either as a win or a loss.
+
+**Example:**
+
+"John Smith’s Wedding Party" could represent an opportunity to sell event-related products or services to John Smith. The opportunity might be marked as _Open_ if negotiations are ongoing, or _Closed_ if the deal is finalized.
