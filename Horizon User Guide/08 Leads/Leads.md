@@ -12,7 +12,7 @@
 - **Guests**: Enter the number of guests associated with the lead.
 - **Representative**: Assign the sales representative responsible for this lead.
 - **Prospect**: Indicate whether the lead is a prospect (Yes or No).
-- **Opportunity**: Link the lead to an opportunity by selecting an opportunity from the picker or [create a new opportunity](#create-opportunities). 
+- **Opportunity**: 
 - **Done:** 
 
 💡 **Tip:**  To review the opportunity linked to your lead, click the expand button (>) in the **Opportunity** field. The lead linked to the opportunity will be displayed in the **Leads** tab of the portal.
