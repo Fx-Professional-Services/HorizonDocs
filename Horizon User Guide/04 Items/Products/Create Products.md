@@ -1,30 +1,35 @@
 # Create Products
 
-Products are consumable physical items that can be created or purchased, each with associated prices (e.g., vendor prices) for picking and selling. Clink on the links below to: 
+Products are consumable physical items that can be created or purchased. Each product has associated prices (e.g., vendor prices) for picking and selling.
 
-[Add a Product](add-a-product) <br>
-[Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+Clink on the links below to: 
+
+* [Add a Product](add-a-product) <br>
+* [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
 # Manage Vendor Prices
 
-[Import Vendor Prices](import-vendor-prices)
-[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
+* [Import Vendor Prices](import-vendor-prices) <br>
+* [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 ## Add a Product
 
 ### Steps to Add a New Product
 
 1. **Navigate to Products**
     
-    - Go to the main menu and select **Products**.
-2. **Initiate New Record**
+    - From the main menu, select **Products**.
+2. **Initiate a New Product Record**
     
-    - Click on **New Record**.
-3. **Fill in Product Details**
-    
+    - Click **New Record** to begin adding a product.
+3. **Enter Product Details**
     Complete the following fields:
-
-    A.  **Name**: Enter the product name. <br>
-    B. **Replenishment Method**: Choose a restocking method (e.g., **build**, **purchase**, **stock**, **pick**). <br>
-    C.  **Preferred Vendor**: Select your vendor from the list. <br>
+    
+	A. **Name**: Enter the product name.
+    B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
+    
+    C. **Preferred Vendor**:
+            1. Click the **Preferred Vendor** field.
+            2. In the vendor picker, either scroll to find the vendor's name or use the **Search** field.
+            3. Click the **Search** button 🔎 to search for a vendor.<br>
     D. **Stock to Keep**: Set the desired stock level. <br>
     E. **Unit of Measure**: Specify the unit of measurement. <br>
     F. **Best By (Time):** Specify the product's best by time. <br>
