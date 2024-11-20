@@ -164,9 +164,11 @@
   },
   "active": "7528af958b43141f",
   "lastOpenFiles": [
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/08 Leads/Leads.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/08 Leads/Leads.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/08 Leads",
     "Untitled.md",
     "Leads.md",
@@ -206,7 +208,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md"
+    "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md"
   ]
 }
