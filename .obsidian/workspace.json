@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
+                "file": "Horizon User Guide/08 Leads/Leads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Estimate"
+              "title": "Leads"
             }
           }
         ]
@@ -164,9 +164,11 @@
   },
   "active": "7528af958b43141f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Leads.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/08 Leads/Leads.md",
+    "Untitled.md",
+    "Horizon User Guide/08 Leads",
+    "Leads.md",
     "Horizon User Guide/08 Leads",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -205,10 +207,8 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for an Item.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Search for Items by Category in the Item Picker.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md"
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md"
   ]
 }
