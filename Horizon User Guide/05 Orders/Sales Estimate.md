@@ -12,6 +12,34 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 2. **Navigate to Sales Estimates**: Go to **Order Management** > **Sales Estimate**.
 3. **Start a New Record**: Begin creating a new sales estimate.
 4. **Select Customer**: Click the hamburger menu (☰) to add a customer's name.
+7. To add an opportunity for a customer, follow the steps below:
+
+A. **Select Opportunity**:
+    - Click on the **Opportunity** field and choose an opportunity from the list.
+B. **View Opportunity Details**:
+    - After selecting the opportunity, click the expand button (>) to view detailed information about the opportunity. This will display the following fields:
+        
+    - **Party Display Name**:
+        
+        - The name of the individual or organization associated with the opportunity. This represents the customer or client you are engaging with for this sale.
+    - **Channel**:
+        
+        - The platform or method through which the opportunity was initiated. Examples may include online sales, in-person meetings, phone inquiries, etc.
+    - **Value**:
+        
+        - The monetary value of the opportunity, either estimated or actual. This reflects the potential revenue that could be generated from the sale or project.
+    - **End Date**:
+        
+        - The date by which the opportunity is expected to be closed or completed, helping track timelines and expected completion dates.
+    - **Closed Status**:
+        
+        - Indicates whether the opportunity has been closed. It may be marked as **Yes** if the opportunity has been won or completed, or **No** if the opportunity is still open or has been lost.
+    - **Assigned Sales Representative**:
+        
+        - The sales representative responsible for managing and driving the opportunity. This person is typically the main point of contact for the customer during the sales process.
+    - **Stage**:
+        
+        - The current phase or stage of the opportunity in the sales process. Stages may include **Prospecting**, **Negotiation**, **Closed-Won**, or other defined steps in your pipeline.
 ### Add Items to the Estimate
 
 ### Manage Line Items
