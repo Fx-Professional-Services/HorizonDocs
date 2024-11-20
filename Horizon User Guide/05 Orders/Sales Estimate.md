@@ -66,7 +66,7 @@ B. **View Opportunity Details**:
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
 ## Definition of Terms
 
-#Opportunity
+# Opportunity
 
 An _Opportunity_ represents a potential sale of a specific product or service to a specific prospect or customer. It typically indicates a stage in the sales pipeline where there is a recognized possibility to generate revenue based on the prospect’s interest or need.
 
