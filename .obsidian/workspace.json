@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
+                "file": "Horizon User Guide/08 Leads/Leads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Estimate"
+              "title": "Leads"
             }
           }
         ]
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e95a8a39062e7db",
+  "active": "7528af958b43141f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
+    "Horizon User Guide/08 Leads/Leads.md",
+    "Untitled.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Leads.md",
     "Horizon User Guide/08 Leads",
@@ -208,7 +209,6 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Delete a Product in Sales Orders.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md"
+    "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md"
   ]
 }
