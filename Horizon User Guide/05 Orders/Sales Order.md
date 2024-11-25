@@ -73,7 +73,7 @@ E. Taxes will be calculated in real time, and the additional tax value will auto
 💡 **Tips:**
 
 - 
-- To remove an applied percentage discount, click the (x) icon next to the discount. The total cost will adjust automatically.
+- To remove a discount, click the (x) icon next to the discount. The total cost updates automatically.
 
 #### Adding Conditions
 
