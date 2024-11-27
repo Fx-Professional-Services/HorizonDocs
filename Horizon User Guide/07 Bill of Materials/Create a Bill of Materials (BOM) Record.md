@@ -45,14 +45,23 @@
   
 7. **Add Procedural Steps**: 
 
-7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
+7.1. Navigate to the **Procedure** tab, located next to the **Sources/Yields** tab.
 
 7.2. In the Procedure tab, input the following details for each step. 
 
 A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
 
-B. **Instructions**: Provide clear and concise instructions for executing each step.
+B. **Instructions**: Provide clear and concise instructions for completing each step.
 
 C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
 
+D. **Create a Task**: To use the procedure in the Bill of Materials as ad-hoc tasks for a project in **Horizon Project Management**:
+
+1. Click **Create Task** in the upper-right corner of the module.
+2. In the window that appears, enter the task name or title.
+3. Click **OK** to create the task.
+4. To review the newly created ad-hoc task, go to the **Main Menu**, select **My Tasks**, and choose **Projects**.
+5. You should see the ad-hoc task listed there.
+
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
+ 
