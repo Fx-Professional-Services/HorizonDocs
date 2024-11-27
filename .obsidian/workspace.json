@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Tasks"
+              "title": "Start Using Horizon"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Tasks"
+              "title": "Backlinks for Start Using Horizon"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My Tasks"
+              "title": "Outgoing links from Start Using Horizon"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/09 My Tasks/My Tasks.md"
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of My Tasks"
+              "title": "Outline of Start Using Horizon"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "9c43843eed7e31b4",
   "lastOpenFiles": [
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/09 My Tasks/My Tasks.md",
-    "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/09 My Tasks"
+    "Horizon User Guide/09 My Tasks",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md"
   ]
 }
