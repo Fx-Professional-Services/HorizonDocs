@@ -1,5 +1,14 @@
 {
   "main": {
+    "id": "46b0a59a5f1dcee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "23aeff3c56ec9a48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e88f9317bdc2233",
     "id": "c6b13bb6440c26f6",
     "type": "split",
     "children": [
@@ -14,12 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/06 Invoices/Payment Terms.md",
                 "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Sales Estimate"
               "title": "Payment Terms"
             }
           },
@@ -45,6 +56,15 @@
     "direction": "vertical"
   },
   "left": {
+    "id": "289950f003f04805",
+    "type": "split",
+    "children": [
+      {
+        "id": "026425cb4a71c3dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08300ccc929af30",
     "id": "4e72e7251021952c",
     "type": "split",
     "children": [
@@ -65,6 +85,7 @@
             }
           },
           {
+            "id": "7cf163b893fdfb1d",
             "id": "0bed577a2224db29",
             "type": "leaf",
             "state": {
@@ -82,6 +103,7 @@
             }
           },
           {
+            "id": "d59e4c2f0aa99374",
             "id": "42b0297f7649f1ea",
             "type": "leaf",
             "state": {
@@ -98,6 +120,15 @@
     "width": 300
   },
   "right": {
+    "id": "dc0cc0753b60c2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0ea94bd58d4e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c74c740dadb0cc",
     "id": "78b79f769583f625",
     "type": "split",
     "children": [
@@ -111,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -121,6 +153,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for Sales Estimate"
+            }
+          },
+          {
+            "id": "ed723ebb7465577c",
               "title": "Backlinks for Create a Bill of Materials (BOM) Record"
             }
           },
@@ -130,11 +167,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from Sales Estimate"
+            }
+          },
+          {
+            "id": "2cd4dac56287cb9e",
               "title": "Outgoing links from Create a Bill of Materials (BOM) Record"
             }
           },
@@ -152,11 +195,16 @@
             }
           },
           {
+            "id": "8883840c9f9af323",
             "id": "d6c7bf08b1727a4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sales Estimate"
                 "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
               },
               "icon": "lucide-list",
@@ -180,6 +228,8 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "3e88f9317bdc2233",
+  "lastOpenFiles": []
   "active": "f5dbf6f91e58de50",
   "lastOpenFiles": [
     "Untitled.md",

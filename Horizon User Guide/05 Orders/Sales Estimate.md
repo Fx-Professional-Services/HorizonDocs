@@ -36,3 +36,5 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 15. **Print the Estimate**: Click the **Print** icon (🖨️) in the upper right corner of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+
+16. **Create a Contract**: Click **Create Contract** to generate a contract based on the confirmed sales estimate. In the window that appears, select **CBU - Food Service Contract**. The contract will be generated with the party name, email, and line item details from the estimate.
