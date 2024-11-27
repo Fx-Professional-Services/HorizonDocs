@@ -58,7 +58,7 @@ A production order details the item to be produced, its required materials, and 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/26_procedure_tab.png" width="350" height="250">
 
 15. You can input the estimated time duration for each step and check them off as they are completed.
-16. Track the production time by using the **play button** to start and pause the timer, and click the flag icon to mark the process as finished.
+16. To track production time, click the **Play** button to start the timer and the **Pause** button to stop it. When the process is complete, click the **Flag** icon to mark it as finished. The **Production Order Duration** will update automatically based on the time logs.
 17. Click **Copy Procedure** to duplicate the entire production order procedure for reuse or modification.
 18. Click **Save Changes** to keep your modifications. 
 
