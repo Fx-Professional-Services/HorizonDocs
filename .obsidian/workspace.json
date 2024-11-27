@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create a Bill of Materials (BOM) Record"
+              "title": "My Tasks"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tips",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Create a Bill of Materials (BOM) Record"
+              "title": "Backlinks for My Tasks"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/09 My Tasks/My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Create a Bill of Materials (BOM) Record"
+              "title": "Outgoing links from My Tasks"
             }
           },
           {
@@ -140,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md"
+                "file": "Horizon User Guide/09 My Tasks/My Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Create a Bill of Materials (BOM) Record"
+              "title": "Outline of My Tasks"
             }
           }
         ]
@@ -165,6 +164,7 @@
   },
   "active": "9c43843eed7e31b4",
   "lastOpenFiles": [
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/09 My Tasks/My Tasks.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/09 My Tasks",
