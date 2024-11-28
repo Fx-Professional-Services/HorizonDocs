@@ -29,7 +29,7 @@
 
 4. **Set BOM Name and Type**:
 
-   - The name of the BOM will be automatically set based on the list of item names of the yield. Still, you may choose to add a BOM name.
+   - The BOM name is automatically set based on the list of item names in the yield. To change the BOM name, go to the **Details** tab and edit the name.
 
    - Select the appropriate type for the BOM: **substitution** or **standard**.
 
