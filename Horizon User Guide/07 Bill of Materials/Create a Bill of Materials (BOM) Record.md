@@ -19,7 +19,7 @@
 
 	- **Browse**: Scroll through the list and click on the item.
 
-	- Click **Done** to return.
+	- Click **Done** to return. This will add the selected item to the source/yield portal, along with its corresponding unit of measure.
 
 	💡**Tips:** 
 
