@@ -15,7 +15,7 @@
 
 	3.2.**Select Items**:
 
-	- **Search**: Type the item name and click the search icon **(**🔎**)**.
+	- **Search**: In the picker, type the name of the yield or source item in the search field and click the search icon (🔎) or press Enter (Windows) or Return (Mac).
 
 	- **Browse**: Scroll through the list and click on the item.
 
