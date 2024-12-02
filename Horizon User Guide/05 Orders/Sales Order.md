@@ -16,7 +16,9 @@ ___
 5. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
 6. **Click to select item** to choose a **Sale Order Item**. In the picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
 
-⚠️ Note: When you add a line item in sales order, the customer-facing name and description will be automatically displayed if available. 
+**💡 Tip:** Refine your item search by entering a category name in the **Category** field in the item picker.
+
+**⚠️ Note:** When you add a line item in sales order, the customer-facing name and description will be automatically displayed if available. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/01_create_sales_orders.png" width="350" height="300">
 
@@ -108,6 +110,21 @@ ___
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
+14.2. 
+
+a. To run demand generation asynchronously, click **Generate Demand 2**. This lets you work in other modules while the process runs.
+
+ 💡 Tip: To view running asynchronous tasks, go to Sales Order > Order Tab. In the Options button at the far right of the layout, select Async Tasks. A list of processes will appear, showing their names, start times, and current statuses. This helps you monitor progress and address any errors.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/21_async_tasks.png" width="350" height="250">
+
+b. Click OK when you see the notification that the asynchronous process has started.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/19_generate_demand_2.png" width="350" height="300">
+
+c. Once demand generation is complete, click **View Order** in the dialog box to see the generated demand in your sales order.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/20_view_order_generate_demand_2.png" width="350" height="300">
 
  💡 Tip: To delete all demand records at once, select the **delete all** option. Confirm carefully, as this action is irreversible.
 
@@ -118,12 +135,13 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 ⚠️ **Notes**:
     
 - A sales invoice cannot be generated unless the sales order is confirmed.
-- Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To revert the confirmation, click **Unconfirm**.
+- Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To revert the confirmation, click **Unconfirm**.
+- After confirmation, the **Delete All** button will no longer be available for removing line items.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
 
-- If the sales order is confirmed, click **Generate Invoice** and wait until the status shows **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
+- If the sales order is confirmed, click **Generate Invoice** and wait for the status to update to **Invoiced: Yes**. Then, click **Save Changes** at the bottom of the screen.
 
 ⚠️ **Important**:
 
@@ -131,12 +149,12 @@ To generate a sales invoice, return to the **Order** tab and click **Confirm*
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
-- Return to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name on the left side. The generated sales invoices for the selected customer will be listed.
+- Return to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name on the left. The sales invoices for the selected customer will be listed.
 
 ### **Finalize and Print**
 _____
 16. Click **Save Changes** to apply updates.
-17. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
+17. To print a hard copy of the sales order record, click **Print** (🖨️) in the top right corner of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
 
