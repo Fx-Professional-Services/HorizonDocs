@@ -92,17 +92,17 @@ This process efficiently sets up a new user account in Horizon.
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
-1. **[Launch Horizon file](#launch-horizon-file).**
-2. **Open Login Page:**
+1. **[Launch the Horizon file](#launch-horizon-file).**
+2. **Open the Login Page:**
     - Go to the Horizon login page.
-3. **Enter Credentials:**
-    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+3. **Enter Your Credentials:**
+    - **Account Name:** Enter the email address associated with your Horizon account (e.g., xxx@gmail.com) or your user ID (e.g., johndoe123).
     - **Password:** Enter your password.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). After you log in successfully, you will be redirected to the main menu.
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
 ### Log Out of Horizon
