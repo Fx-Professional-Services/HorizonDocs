@@ -27,7 +27,7 @@
 	
 		**⚠️ Note:** If the same item appears in both the yield and source portals, an error will be displayed upon commit. To resolve this, remove the item from either portal. 
 
-	2. To delete a BOM yield item: Click on the delete button (✖︎) next to the item. A confirmation dialogue will appear; click **Delete** to confirm.
+	2. To **delete a BOM yield or source item**, click the **Delete** button (✖︎) next to the item. A confirmation dialog will appear. Click **Delete** to confirm. If a BOM yield item is deleted, the BOM name in the left pane will update automatically.
 
 4. **Set BOM Name and Type**:
 
