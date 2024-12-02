@@ -86,7 +86,7 @@ ___
 
 To verify the account creation:
 
-- Go to **Horizon Party** > **File** > **Manage** > **Security**. A window will appear, displaying your email address with the assigned user privilege.
+- Log in to Horizon to verify your account access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
