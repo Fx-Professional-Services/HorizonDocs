@@ -40,6 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/06 Invoices/Payment Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Payment Cards"
+                "currentVersion": "1.7.6"
                 "file": "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
                 "file": "Horizon User Guide/06 Invoices/Managing Customer Payments.md",
                 "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
@@ -241,6 +248,9 @@
   "lastOpenFiles": []
   "active": "f5dbf6f91e58de50",
   "lastOpenFiles": [
+    "Horizon User Guide/06 Invoices/Payment Cards.md",
+    "Horizon User Guide/06 Invoices/Payment ACH.md",
+    "Horizon User Guide/06 Invoices/Untitled.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
     "Horizon User Guide/06 Invoices",
