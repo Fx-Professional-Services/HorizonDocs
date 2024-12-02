@@ -24,6 +24,8 @@
 	💡**Tips:** 
 
 	1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
+	
+		**⚠️ Note:** If the same item appears in both the yield and source portals, an error will be displayed upon commit. To resolve this, remove the item from either portal. 
 
 	2. To **delete a BOM yield or source item**, click the **Delete** button (✖︎) next to the item. A confirmation dialog will appear. Click **Delete** to confirm. If a BOM yield item is deleted, the BOM name in the left pane will update automatically.
 
