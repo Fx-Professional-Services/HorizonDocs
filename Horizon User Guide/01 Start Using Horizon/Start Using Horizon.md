@@ -2,7 +2,6 @@
 
 Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4-sales-orders) to ensure precise demand tracking and effective resource planning.
 
-
 [Launch Horizon File](#launch-horizon-file)
 
 [Create a Horizon Account](#create-a-horizon-account)
@@ -39,19 +38,19 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 3. **Enter Email**:
     - Type your email username and select your domain.
     - Click **Send Request** to validate.
-4. **Confirm Email Sent**: Click **OK**.
+4. **Confirm Email Sent**: Click **OK** when the **Email Sent** notification appears.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
-    - Copy and paste the link into your browser. <br>
-    ⚠️ Link expires in 15 minutes.
+    - Copy the link and paste it into your browser. <br>
+    ⚠️ **Note**: The link expires in 15 minutes.
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
 7. **Set Password**: Enter your password and click **Continue**.  <br>
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
-8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
-9. **Save Contact Method:** Tick the **Primary** box and click **Save**.  <br>
-10. **Account Created**: Click **OK**. 
+8. **Enter Details**: Fill in your name and contact information. Select a preferred contact method.  <br>
+9. **Save Contact Method:** Check the **Primary** box and click **Save**.  <br>
+10. **Account Created**: Click **OK** to complete the process. 
 
 ### Create an Account for Another User in Horizon
 ___
@@ -62,11 +61,11 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Fill in the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. Click **Save**.
 3. **Edit Employee Record:**
     
-    - Click on the new record and enter a valid email under **FileMaker user name**.
-4. **Assign Privilege:**
+    - Click the new record and enter a valid email address under **FileMaker User Name**.
+4. **Assign Privileges:**
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
@@ -80,10 +79,14 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
-    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+    - Open the **Request for Horizon Access** email, click the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
+
+To verify the account creation:
+
+- Log in to Horizon to verify your account access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
@@ -93,17 +96,19 @@ This process efficiently sets up a new user account in Horizon.
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
-1. **[Launch Horizon file](#launch-horizon-file).**
-2. **Open Login Page:**
+1. **[Launch the Horizon file](#launch-horizon-file).**
+2. **Open the Login Page:**
     - Go to the Horizon login page.
-3. **Enter Credentials:**
-    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+3. **Enter Your Credentials:**
+    - **Account Name:** Enter the email address associated with your Horizon account (e.g., xxx@gmail.com) or your user ID (e.g., johndoe123).
     - **Password:** Enter your password.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
+- Click **Log In** or press Enter (Windows) / Return (Mac).
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). After you log in successfully, you will be redirected to the main menu.
+
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
 ### Log Out of Horizon
@@ -116,6 +121,8 @@ ___
 ## Navigate the Main Menu
 
 The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
+
+⚠️ Note: When in other Horizon files, such as All Parties, Customers, Products, Sales Orders, Invoices, or Bill of Materials, click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
 
@@ -172,12 +179,19 @@ A lead is a recorded instance of a potential customer expressing interest in a p
 Demand represents the quantity of an item required by a specific date or time. It is categorized by types such as purchase, build, or pick, which dictate how the demand should be fulfilled. Sales orders are a primary source of generating demand in this context.
 
 ---
-### 9 **Re-Login**  
+### **9 My Tasks**
+
+Select this menu to access the tasks assigned to you.
+
+💡 **Tip**: To return to the Main Menu from Horizon Project Management, click the Main Menu navigation button.
+
+_______________
+### 10 **Re-Login**  
 Select this menu if you're asked to log in again due to inactivity or an expired session. This button ensures that only authorized users can access the system and facilitates switching between multiple accounts, maintaining security and convenience.
 
 ---
 
-### 10 **Settings**  
+### 11 **Settings**  
 Select this option to reset data and display the installed plug-ins when the app starts up.
 
 ## Reset Your Password
@@ -214,7 +228,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 4. Click on **Reset Password**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
 
 5. Click OK after receiving the email-sent notification. <br>
 6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
@@ -249,4 +263,4 @@ To permanently delete your account:
 
 5. Click **Delete Account** to remove the employee's account from all Horizon files.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/start_using_horizon/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
