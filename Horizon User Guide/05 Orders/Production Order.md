@@ -40,6 +40,8 @@ A production order details the item to be produced, its required materials, and 
 13. Click **confirm** to complete the following actions:
 - **Confirm the production order.** A successful production will display a location and lot number in the Location Module. To review this, navigate to **Item Management**, select **Location**, and choose the specific location from the left pane. Verify that the yielded item is displayed.
 	⚠️ **Note:** An unsuccessful production is often caused by not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
+
+* **Increase the Built inventory count.** To check this, go to **Item Management**, select **All Items**, and use **Find Mode** to locate the source or yield item. The **Built** inventory count should have increased.
 - **Assign yielded items to "Built in Inventory" (+).**
 - **Assign sourced items to "Consumed in Inventory" (+).**
 - **Address demand for line items.**
@@ -52,6 +54,7 @@ A production order details the item to be produced, its required materials, and 
 	- Deduct added items.
 	- Delete created locations.
 	- Reverse updates.
+	- Decrement the inventory.
 
 14. Go to the **Procedure** tab, add step-by-step production instructions. 
 

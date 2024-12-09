@@ -28,5 +28,7 @@
 	💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **purchase item** in the Purchase window. Finally, click **View Order** to see the order with the newly added purchase item.
 	
 11. Tap the i icon for more information.
-12. Click **Confirm** to verify and finalize the details.
+12. Click **Confirm** to increase the **Purchase** inventory count. To verify this, go to **Item Management**, select **All Items**, and use **Find Mode** to locate the source or yield item. The **Purchase** inventory count should be updated. 
+
+	Click **Unconfirm** to decrement the inventory.
 13. Click **Save Changes** to keep your modifications.

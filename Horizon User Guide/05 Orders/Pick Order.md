@@ -69,7 +69,8 @@ A pick order is a directive to retrieve specific items from inventory and transp
 - Tap the **i** icon for more details.
 
 14. **Confirm Details**
-- Click **Confirm** to verify and finalize the details.
+- Click **Confirm** to increase the **Pick** inventory count. To verify this, go to **Item Management**, select **All Items**, and use **Find Mode** to locate the source or yield item. The **Purchase** inventory count should be updated.
 
+	💡 **Tip:** Click **Unconfirm** to decrement the inventory.
 15. **Save Changes**
 - Click **Save Changes** to keep your modifications.
