@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7d36a1a67f48141a",
+    "id": "ac56ee39d5a44de4",
     "type": "split",
     "children": [
       {
-        "id": "95aef272960886a7",
+        "id": "6c43a2546ad7e26a",
         "type": "tabs",
         "children": [
           {
-            "id": "0d03798ee454ed7d",
+            "id": "c4fae77df0ff2b72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/37_purchase_order.png"
-              }
+                "file": "Horizon User Guide/05 Orders/Purchase Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Purchase Order"
             }
           }
         ]
@@ -23,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9163e0e686ec73bd",
+    "id": "b1b77ce63edf5bc6",
     "type": "split",
     "children": [
       {
-        "id": "5215c3706babb8b1",
+        "id": "fe5d21fa793e2127",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8718dba23bd8e8",
+            "id": "0af8de66a72831e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "b0d9c29f6ec5956f",
+            "id": "b13cc60e125d0e48",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +58,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "315c098ea07ca1fc",
+            "id": "bf452b8e79218608",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -70,20 +80,19 @@
     "width": 300
   },
   "right": {
-    "id": "bcaf00e193b31340",
+    "id": "3b222f5fcd62ecf5",
     "type": "split",
     "children": [
       {
-        "id": "eaef374a2762078a",
+        "id": "3ada1275a1f88dee",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5a6dec864a3024",
+            "id": "ddde3409d3ac0404",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/00 Assets/37_purchase_order.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,40 +100,45 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8a8743158aa0300b",
+            "id": "25be91d8cc1cfc23",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/00 Assets/37_purchase_order.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "1ec73597ab318ff3",
+            "id": "ede9d55c6eaa0c52",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "6c0c6e404f7022ec",
+            "id": "728a7c386edff6d5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Horizon User Guide/00 Assets/37_purchase_order.png"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -144,12 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d03798ee454ed7d",
+  "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/00 Assets/37_purchase_order.png",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
+    "assets/15_search_an_item.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon",
@@ -180,16 +193,18 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators",
     "Horizon User Guide/00 Assets/27_pick_order.png",
-    "Horizon User Guide/00 Assets/39_delete_account.png",
-    "Horizon User Guide/00 Assets/38_reset_password.png",
-    "Horizon User Guide/00 Assets/36_view_purchase_order.png",
-    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
-    "Horizon User Guide/00 Assets/34_log_in.png",
-    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png"
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/56_create_products.png",
+    "Horizon User Guide/00 Assets/55_create_a_BOM.png"
   ]
 }
