@@ -38,12 +38,12 @@ A production order details the item to be produced, its required materials, and 
 
 7. **Order Status**
 
-- Once the production order is created: <br>
+- After the production order is created: <br>
 	7.1. The BOM yield items will be added. 
 	
-	7.2. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+	7.2. To address a demand, click **View 1 Demand** next to the line item, then click the add button **(+)**. This will prevent the line item from being deleted in the Production Order. To unaddress a demand, click the **Remove** button (-). 
 
-
+	7.3. The order will be assigned a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
 9. **Assign Employee**
 
 * In the the **Order** tab, assign an employee responsible for the order by clicking **Click here to select employee**.
@@ -73,6 +73,8 @@ A production order details the item to be produced, its required materials, and 
 15. **Delete or Modify Line Items**
 
 * To delete or modify a specific line item, click the delete button (x) next to that item.
+
+	⚠️ Note: The deletion will not proceed if there is an addressed line item on the demand, even if all demands were addressed or only a part of it  To unaddress a demand, see step 7.2.
 
 * To delete or modify all line items at once, click the **Delete** button above the list of line items.
  
