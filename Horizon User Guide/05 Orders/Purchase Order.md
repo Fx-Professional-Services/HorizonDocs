@@ -42,7 +42,7 @@
 
 - After the purchase order is created:
     
-    1. 
+    1. You can now address multiple demands. To address the demands, click **View x Demands** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the purchase order. To unaddress the demands, click the **Remove** button (-).
     2. The order will be assigned a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
 
 8. **Assign Employee**
