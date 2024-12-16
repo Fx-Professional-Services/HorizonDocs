@@ -9,12 +9,28 @@ A sales order initiates fulfilling a customer's request for [products](#products
 [Definition of Terms](#definition-of-terms)
 ### **Create a Sales Order**
 ___
-1. Ensure the customer's record exists. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md).
-2. Navigate to **Sales Orders** in the main menu. 
-3. Click **New Record**. 
-4. Click the **Customer** box to select a party. In the picker, type the party's name in the **Search** field and press **Enter**, or scroll down and click **Add**.
-5. Set **Receive** **Date** and **Start At**; **End At** date is auto-scheduled.
-6. **Click to select item** to choose a **Sale Order Item**. In the picker, type the product name in the **search nam**e bar or type a category as shown in the category column in **search category** bar. Click **Select** after choosing the product, adjust **Quantity**, and click **Done**. 
+1.  **Ensure the Customer Record Exists**:
+    
+    - Make sure the customer’s record is already created. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md).
+2. **Navigate to Sales Orders**:
+    
+    - In the main menu, go to **Sales Orders**.
+3. **Create a New Record**:
+    
+    - Click **New Record**.
+4. **Select the Customer**:
+    
+    - Click the **Customer** field to select a party.
+    - In the picker, type the party’s name in the **Search** field and press **Enter**, or scroll through the list and click **Add**.
+5. Set the Dates**:
+    
+    - Set the **Receive Date** and **Start At** date.
+    - The **End At** date will be auto-scheduled based on the system’s settings.
+6. **Select Sale Order Items**:
+    
+    - Click to select an item and choose a **Sale Order Item**.
+    - In the picker, type the product name in the **Search Name** field or type a category name in the **Search Category** field.
+    - After selecting the product, adjust the **Quantity**, then click **Done** to finalize the item selection.
 
 **💡 Tip:** Refine your item search by entering a category name in the **Category** field in the item picker.
 
