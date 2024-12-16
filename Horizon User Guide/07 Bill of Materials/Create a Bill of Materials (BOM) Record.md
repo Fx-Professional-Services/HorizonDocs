@@ -62,3 +62,7 @@ B. **Instructions**: Provide clear and concise instructions for executing each s
 C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
+
+8. **Duplicate a BOM Record**:
+
+- To duplicate a BOM record, click **Duplicate Record** in the secondary navigation tabs.
