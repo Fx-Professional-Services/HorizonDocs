@@ -32,6 +32,17 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Confirm and Print the Sales Estimate
 
+13. **Confirm the Estimate**: Click **Confirm** and wait for the status to change to **Confirmed**.
+
+When you click the **Confirm** button, the sales order is created, and the payment terms are set based on the sales estimate selections. To view the sales order:
+
+1. From the primary navigation at the top of the Sales Estimate layout, click **Order Management**.
+2. Select **Sales Order**.
+3. Click **Find Mode** from the secondary navigation.
+4. Enter the customer's name in the **Customer** field.
+
+The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+
 ⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
 
 14. **Save Changes**: Click **Save Changes** to finalize modifications.
