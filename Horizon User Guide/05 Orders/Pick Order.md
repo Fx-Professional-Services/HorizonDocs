@@ -10,7 +10,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 2. **Filter Demand Types**
 
-- In the demand list, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**.
+- In the **Demand List**, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**. Alternatively, press **Ctrl + F** (Windows) or **Cmd + F** (Mac) and type "pick" in the **Source** field. 
 
 	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 
@@ -23,7 +23,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
     
 4. **View Batch Name**
 
-- To view the batch name (initially set after generating demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
+- To view the batch name (which is set after generating the demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/45_view_batch_name_pick_order.png" width="350" height="250">
 
@@ -34,9 +34,9 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 6. **Create Pick Order**
 
-- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
+- In the **Temporary Order Item** list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
 
-7. **Order Status**
+7. **Check Order Status**
 
 - Once created, the order will have a serial number and its status will change to **View Order**.
 
@@ -44,13 +44,14 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 8. **Proceed to View Order**
 
-- Click **View Order** to continue.** 
+- Click **View Order** to continue. In the **Pick Order** layout, under the **Pick Order Items** section, you will see the selected pick order item and its purpose in the **For** field.
 
 9. **Assign Employee**
 
 - In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
 
 10. **Enter Finished Date**
+
 - Input the **Finished** date.
 
 11. **Adjust Pick Order Items**
@@ -64,7 +65,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
   
 **<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
-13. **Additional Information**
+13. **View Additional Information**
 
 - Tap the **i** icon for more details.
 
