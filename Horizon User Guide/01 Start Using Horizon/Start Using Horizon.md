@@ -38,19 +38,19 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 3. **Enter Email**:
     - Type your email username and select your domain.
     - Click **Send Request** to validate.
-4. **Confirm Email Sent**: Click **OK**.
+4. **Confirm Email Sent**: Click **OK** when the **Email Sent** notification appears.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
-    - Copy and paste the link into your browser. <br>
-    ⚠️ Link expires in 15 minutes.
+    - Copy the link and paste it into your browser. <br>
+    ⚠️ **Note**: The link expires in 15 minutes.
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
 7. **Set Password**: Enter your password and click **Continue**.  <br>
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
-8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
-9. **Save Contact Method:** Tick the **Primary** box and click **Save**.  <br>
-10. **Account Created**: Click **OK**. 
+8. **Enter Details**: Fill in your name and contact information. Select a preferred contact method.  <br>
+9. **Save Contact Method:** Check the **Primary** box and click **Save**.  <br>
+10. **Account Created**: Click **OK** to complete the process. 
 
 ### Create an Account for Another User in Horizon
 ___
@@ -61,11 +61,11 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Fill in the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. Click **Save**.
 3. **Edit Employee Record:**
     
-    - Click on the new record and enter a valid email under **FileMaker user name**.
-4. **Assign Privilege:**
+    - Click the new record and enter a valid email address under **FileMaker User Name**.
+4. **Assign Privileges:**
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
@@ -79,10 +79,14 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
-    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+    - Open the **Request for Horizon Access** email, click the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
+
+To verify the account creation:
+
+- Log in to Horizon to verify your account access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
@@ -92,17 +96,19 @@ This process efficiently sets up a new user account in Horizon.
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
-1. **[Launch Horizon file](#launch-horizon-file).**
-2. **Open Login Page:**
+1. **[Launch the Horizon file](#launch-horizon-file).**
+2. **Open the Login Page:**
     - Go to the Horizon login page.
-3. **Enter Credentials:**
-    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+3. **Enter Your Credentials:**
+    - **Account Name:** Enter the email address associated with your Horizon account (e.g., xxx@gmail.com) or your user ID (e.g., johndoe123).
     - **Password:** Enter your password.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
+- Click **Log In** or press Enter (Windows) / Return (Mac).
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). After you log in successfully, you will be redirected to the main menu.
+
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
 ### Log Out of Horizon
