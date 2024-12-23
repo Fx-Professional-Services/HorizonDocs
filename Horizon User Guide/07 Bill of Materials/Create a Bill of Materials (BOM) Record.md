@@ -1,66 +1,64 @@
 # Create a Bill of Materials (BOM) Record
 
-A Bill of Materials (BOM) is like a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, though typically only one is used at any time for production.
+  Follow these simple steps to create a new Bill of Materials (BOM) record:
 
-## Steps to Create a BOM Record
+1. **Access BOM Section**:
 
-### 1. Access BOM Section
+   - Open the **Bill of Materials** file from the main menu. <br>
+2. **Initiate New Record**:
 
-- Open the **Bill of Materials** file from the main menu.
+   - Click **New Record** to start a blank record.
 
- 💡 Tip: When in other modules like Products, Sales Orders, or Supply and Demand, you can access the BOM module by clicking Item Management > BOM.
-### 2. Initiate New Record
+3. **Add Yield or Source Item**:
 
-- Click **New Record** to start a blank record.
+	3.1. Navigate to the Source/Yield tab.  Click on the **add yield item** and/or **add source item** field.
 
-### 3. Add Yield or Source Item
+	3.2.**Select Items**:
 
-#### 3.1 Navigate to Sources/Yields Tab
+	- **Search**: Type the item name and click the search icon **(**🔎**)**.
 
-- Click on the **add yield item** and/or **add source item** field.
+	- **Browse**: Scroll through the list and click on the item.
 
-#### 3.2 Select Items
+	- Click **Done** to return.
 
-- **Search**: Type the item name and click the search icon (🔎).
-- **Browse**: Scroll through the list and click on the item.
-- Click **Done** to return.
+	💡**Tips:** 
 
-#### 💡 Tips
+	1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
+	
+		**⚠️ Note:** If the same item appears in both the yield and source portals, an error will be displayed upon commit. To resolve this, remove the item from either portal. 
 
-- **Add New Item**: Click the add button (✚) at the top right corner of the picker window. Enter the product details (name, description, replenishment method, etc.) and click **Save**.
-- **Delete Item**: Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box.
+	2. **To delete a BOM yield or source item**:
+    
+    - Click the **Delete** button (✖︎) next to the item.
+    - A confirmation dialog will appear. Click **Delete** to confirm.
+    - When a BOM yield item is deleted, the BOM name in the left pane will update automatically.
 
-### 4. Confirm Unit of Measure
+4. **Set BOM Name and Type**:
 
-- The unit of measure for each item is automatically set. To change it, click the **unit** type box, select the new unit of measure, and click **Done**.
+   - The name of the BOM will be automatically set based on the list of item names of the yield. Still, you may choose to add a BOM name.
 
-### 5. Set BOM Name
+   - Select the appropriate type for the BOM: **substitution** or **standard**.
 
-- The BOM name is automatically generated based on the list of item names. You can customize it in the details tab.
+5. **Confirm Unit of Measure**:
 
-### 6. Input the Quantity
+   - The unit of measure for each yield and source item will be automatically set. To change the unit of measure, click on the **unit** type box. In the pop-up form, select the unit of measure and click **Done**.
 
-- Click on the **quantity** type box and enter the quantity for each source/yield item.
+6. **Input the Quantity**:
 
-#### 💡 Tip
+   - Click on the **quantity** type box and input the quantity for each source/yield item.
 
-- Use the up and down arrow keys to navigate between fields.
+   💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
+  
+7. **Add Procedural Steps**: 
 
-### 7. Add Procedural Steps
+7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
 
-#### 7.1 Go to Procedure Tab
+7.2. In the Procedure tab, input the following details for each step. 
 
-- Navigate to the **Procedure** tab next to the **Sources/Yields** tab.
+A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
 
-#### 7.2 Input Step Details
+B. **Instructions**: Provide clear and concise instructions for executing each step.
 
-- **Step Numbers**: Assign sequential numbers for clarity.
-- **Instructions**: Provide clear and concise instructions for each step.
-- **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
+C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
 
-### ⚠️ Note
-
-To delete the BOM record, click on **Delete Record** in the navigation buttons. Confirm the deletion in the dialogue box by selecting **Delete**.
-
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/55_create_a_BOM.png" width="350" height="250">
+  ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.

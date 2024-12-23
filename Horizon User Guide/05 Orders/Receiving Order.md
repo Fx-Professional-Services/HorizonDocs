@@ -25,4 +25,3 @@
     - In the picker, select the items you want to add.
 
     - Click the add button (✚) and/or **Done** at the bottom.
-
