@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
+                "file": "Horizon User Guide/06 Invoices/Invoices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create a Payment Plan"
+              "title": "Invoices"
             }
           }
         ]
@@ -161,8 +161,8 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
-    "Horizon User Guide/06 Invoices/Invoices.md",
     "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/06 Invoices/Invoices.md",
     "Horizon User Guide/06 Invoices/Payment Terms.md",
     "Horizon User Guide/06 Invoices/Payment Cards.md",
     "Horizon User Guide/06 Invoices/Payment ACH.md",
