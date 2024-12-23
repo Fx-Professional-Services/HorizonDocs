@@ -14,11 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Receiving Order"
+              "title": "Production Order"
             }
           }
         ]
@@ -196,6 +198,12 @@
     "Horizon User Guide/04 Items/Configurators",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/02 All Parties/Party.md",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
+    "assets/15_search_an_item.png",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
@@ -208,5 +216,6 @@
     "Horizon User Guide/00 Assets/50_add_new_equipment.png",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/Old documentation/09 Searching on Horizon/Browse Mode.md"
+    "Horizon User Guide/00 Assets/55_create_a_BOM.png"
   ]
 }
