@@ -42,7 +42,7 @@
 
 - After the purchase order is created:
     
-    1. 
+    1. The order will not have any purchase order items. Click **add purchase order items** or **add all items** to include items.
     2. The order will be assigned a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
 
 ### 8. Assign Employee
