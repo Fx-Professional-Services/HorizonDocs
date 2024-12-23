@@ -5,4 +5,18 @@
 
 7. **Confirm the Order:**
 
-- Click the **Confirm** button to update inventory. 
+	1. Click the **Confirm** button to confirm the receiving order.
+    
+    - This will change the order status from **Pending** to **Confirmed**.
+    - It will also update the inventory.
+    
+	2. To verify the inventory update:
+    
+    - Go to **Item Management** > **All Items**.
+    - Switch to **Find Mode** and enter the item name in the **Name** field.
+    - The **Received** field should display the updated value.
+    
+	3. To unconfirm the order, click **Unconfirm**.
+    
+    - This will change the order status back from **Confirmed** to **Pending** and decrease the inventory.
+    - Verify the inventory update by following the same steps outlined above.
