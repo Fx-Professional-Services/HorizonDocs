@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Receiving Order"
+=======
+              "title": "Sales Order"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -162,6 +170,11 @@
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
     "Horizon User Guide/05 Orders/Return Order.md",
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+>>>>>>> Stashed changes
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Untitled",
     "Horizon User Guide/05 Orders/Address Demand.md",
