@@ -107,7 +107,12 @@ The new custom attribute will appear in the list thereafter.
 ___
 14. **Generating Demand:**
 
-14.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
+14.1.  **Generating Demand:**
+
+- Navigate to **Demand > Generate Demand**.
+    - A notification will appear when demand generation starts and completes.
+- Click **OK** when the notification appears.
+- Click **Save Changes** to finalize the process.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
