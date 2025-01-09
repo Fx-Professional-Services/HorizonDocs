@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Production Order"
+              "title": "Pick Order"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Not",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,6 +161,13 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+    "Horizon User Guide/06 Supply and Demand/Address Demand.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/06 Supply and Demand/Untitled",
+    "Horizon User Guide/06 Supply and Demand",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
     "assets/15_search_an_item.png",
@@ -191,21 +198,14 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Sales Estimates",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders/Navigate to Return Orders.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Return Orders",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Unconfirm a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Delete a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Create a Receiving Order.md",
-    "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders/Confirm a Receiving Order.md",
     "Horizon User Guide/Old documentation/05 Sales Orders/Receiving Orders",
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts",
-    "Horizon User Guide/Old documentation/04 Products/D. Configurators",
-    "Horizon User Guide/Old documentation/04 Products/E. All Equipment",
     "Horizon User Guide/00 Assets/27_pick_order.png",
     "Horizon User Guide/00 Assets/18_create_vendor_record.png",
     "Horizon User Guide/00 Assets/17_create_employee_record.png",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
-    "Horizon User Guide/00 Assets/56_create_products.png",
-    "Horizon User Guide/00 Assets/55_create_a_BOM.png"
+    "Horizon User Guide/00 Assets/56_create_products.png"
   ]
 }
