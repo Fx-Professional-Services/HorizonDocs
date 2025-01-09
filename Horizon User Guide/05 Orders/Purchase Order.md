@@ -5,7 +5,7 @@
 ### 1. Navigate to Supply and Demand
 
 - From the main menu, select **Supply and Demand**.
-- Click **Supply and Demand** from the primary navigation tabs, then select **Demand List**.
+- Click **Supply and Demand** from the primary menu bar, then select **Demand List**.
 
 ### 2. Filter Demand Types
 
@@ -27,7 +27,7 @@
 
 ### 4. View Batch Name
 
-- To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
+- To view the batch name (set after generating demand), go to **Supply and Demand** from the primary menu bar and select **Demand Batch List** under your user account.
 
 ### 5. Choose Demand
 

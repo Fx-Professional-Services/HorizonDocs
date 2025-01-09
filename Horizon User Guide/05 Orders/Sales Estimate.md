@@ -36,9 +36,9 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 When you click the **Confirm** button, the sales order is created, and the payment terms are set based on the sales estimate selections. To view the sales order:
 
-1. From the primary navigation at the top of the Sales Estimate layout, click **Order Management**.
+1. From the primary menu bar at the top of the Sales Estimate layout, click **Order Management**.
 2. Select **Sales Order**.
-3. Click **Find Mode** from the secondary navigation.
+3. Click **Find Mode** from the secondary menu bar.
 4. Enter the customer's name in the **Customer** field.
 
 The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
