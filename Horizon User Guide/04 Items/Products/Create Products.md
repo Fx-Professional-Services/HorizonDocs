@@ -96,14 +96,22 @@ Efficient management of vendor prices is essential for accurate records. This gu
 
 ## Set Vendor Prices as Inactive
 
-To mark outdated prices as inactive:
+To mark outdated prices as inactive, follow these steps:
 
-1. **Access Products Menu**: Click **Products** in the main menu.
-2. **Select Item Management**: Choose **Item Management** and click **All Products**.
-3. **Choose the Product**: Select the product to modify.
-4. **Navigate to Costs**: Click the **Costs** tab.
-5. **Set Prices Inactive**: Enter 0 in the **Active** column to deactivate the price.
+1. **Access the Products Menu**  
+    Click **Products** in the main menu.
+    
+2. **Select Item Management**  
+    Choose **Item Management**, then click **All Products**.
+    
+3. **Choose the Product**  
+    Select the product for which you want to modify the price.
+    
+4. **Navigate to the Costs Tab**  
+    Click the **Costs** tab to view the price details.
+    
+5. **Set the Price as Inactive**  
+    In the **Active** column, enter **0** to deactivate the price.
+    
 
-By following these steps, you can maintain accurate vendor pricing information.
-
-
+By following these steps, you can keep your vendor pricing information up-to-date and accurate.
