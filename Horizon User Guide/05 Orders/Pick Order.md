@@ -32,19 +32,17 @@ A pick order is a directive to retrieve specific items from inventory and transp
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
 
-6. **Create Pick Order**
+6. **Create the Pick Order**
 
-- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
+- In the Temporary Order Item list, find the pick orders grouped by date and order number. Click **Create Order** next to the desired pick order, then click **Add Pick Order Item**. After the order is created, it will be assigned a serial number and its status will change to **View Order**.
 
-7. **Order Status**
+7. **View Demand**
 
-- Once created, the order will have a serial number and its status will change to **View Order**.
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_view_pick_order.png" width="350" height="250">
+* Click **View X Demands**, then click the (+) button in the **View Demand X** popover to view the selected demand.
 
 8. **Proceed to View Order**
 
-- Click **View Order** to continue.** 
+- Click **View Order** to continue. If you click the i icon of the newly added addressed item, you will see the same details  as those in the **View Demand X** popover. 
 
 9. **Assign Employee**
 

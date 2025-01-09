@@ -14,7 +14,6 @@
 - Alternatively, press Command + F (Mac) or Control + F (Windows), and type **Purchase** in the **Source** field.
     
     💡 **Tip**: To find demand from a specific customer, enter the customer’s name or order number in the search fields.
-    
 
 ### 3. Select Purchase Demand
 
@@ -36,7 +35,7 @@
 
 ### 6. Create Purchase Order
 
-- In the Temporary Order Item list, purchase orders are grouped by date and order number. Click **Create Order** for the desired purchase order.
+- In the Temporary Order Item list, purchase orders are grouped by date and order number. Click **Create Order** next to the desired purchase order, then click **Add Purchase Order Item**.
 
 ### 7. Order Status
 
@@ -44,36 +43,43 @@
     
     1. 
     2. The order will be assigned a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
+### 8. View Demand
 
-### 8. Assign Employee
+* Click **View X Demands**, then click the (+) button from the view x demand popover to view the selected demand.
+
+### 9. Proceed to View Order
+
+- Click **View Order** to continue. If you click the i icon of the newly added addressed item, you will see the same details  as those in the **View Demand X** popover. 
+
+### 10. Assign Employee
 
 - In the **Order** tab, assign an employee responsible for the order by clicking **Click here to select employee**.
 
-### 9. Enter Purchased Finished Dates
+### 11. Enter Purchased Finished Dates
 
 - Enter the **Finished** date for the purchase order.
 
-### 10. Adjust Purchase Order Items
+### 12. Adjust Purchase Order Items
 
 - In the **Purchase Order Items** section, you can:
     1. Add more items.
     2. Adjust the quantity of each item.
 
-### 11. Remove Items from the Purchase Order
+### 13. Remove Items from the Purchase Order
 
 - To remove a purchase order item, click the delete (x) icon. The item will automatically return to the purchase order.
     
     💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **Purchase Item** in the **Purchase** window. Finally, click **View Order** to see the updated order with the newly added item.
     
 
-### 12. Access Additional Information
+### 14. Access Additional Information
 
 - Tap the **i** icon for more information.
 
-### 13. Confirm the Purchase Order
+### 15. Confirm the Purchase Order
 
 - Click **Confirm** to verify and finalize the details of the purchase order.
 
-### 14. Save Changes
+### 16. Save Changes
 
 - Click **Save Changes** to keep your modifications.
