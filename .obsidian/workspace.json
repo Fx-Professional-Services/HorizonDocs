@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Horizon User Guide/05 Orders/Pick Order.md",
+=======
+                "file": "Horizon User Guide/05 Orders/Purchase Order.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Pick Order"
+=======
+              "title": "Purchase Order"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -161,6 +169,22 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/09 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/09 Definition of Terms",
+    "Horizon User Guide/08 Invoices/Payment Terms.md",
+    "Horizon User Guide/08 Invoices/Payment ACH.md",
+    "Horizon User Guide/08 Invoices/Payment Cards.md",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/08 Invoices/Invoices.md",
+    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/08 Invoices",
+>>>>>>> Stashed changes
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/06 Supply and Demand/Untitled",
