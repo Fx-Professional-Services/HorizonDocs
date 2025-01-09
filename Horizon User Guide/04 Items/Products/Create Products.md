@@ -59,15 +59,18 @@ Products are consumable physical items that can be created or purchased, each wi
 2. Confirm your action by selecting **Delete** in the dialog box.
 
 This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
-# Create a New Product in the Upload Vendor Prices
+
+
+# Manage Product in the Upload Vendor Prices
+## Create a New Product in the Upload Vendor Prices
 
 1. **Navigate to Products**: Open the main menu and select **Products**.
 2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
-3. **Select Your Party**: Choose your **Party** from the options on the left and click the item field next to it.
-4. **Add New Product**: In the upper right corner, tap the add button (✚).
+3. **Select Your Party**: Choose your **Party** from the options on the left.  
+4. **Add New Product**: Click the item field next to the chosen party, then in the upper right corner, tap the add button (✚).
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/58_add_product_upload_vendor_prices.png" width="350" height="250">
 
@@ -79,7 +82,26 @@ This action will permanently remove the product from your records, so proceed wi
 7. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
 8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
 
+## Input Product Details in Upload Vendor Prices
 
+Follow these steps to input product details in the **Upload Vendor Prices**:
+
+1. **Navigate to Products**  
+    Open the main menu and select **Products**.
+    
+2.  **Access Upload Vendor Prices**  
+    In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
+    
+3. **Select Your Party**  
+    Choose your **Party** from the options on the left.
+    
+4. **Enter Product Details**  
+    Input the following details:
+    
+    - **Item Quantity**
+    - **Item Unit**
+    - **Vendor Quantity**
+    - **Vendor Unit**
 # **Manage Vendor Prices**
 
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
@@ -106,4 +128,4 @@ To mark outdated prices as inactive:
 
 By following these steps, you can maintain accurate vendor pricing information.
 
-
+## Enter Details in Upload Vendor P
