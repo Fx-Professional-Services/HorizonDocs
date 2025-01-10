@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Order"
+              "title": "Create or Convert to a Configurator"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Options",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fae77df0ff2b72",
+  "active": "0af8de66a72831e6",
   "lastOpenFiles": [
-    "Horizon User Guide/05 Orders/Sales Estimate.md",
-    "Horizon User Guide/05 Orders/Sales Order.md",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/08 Invoices/Payment Terms.md",
@@ -191,10 +193,8 @@
     "Horizon User Guide/05 Orders/Return Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
-    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/04 Items/Services",
     "Horizon User Guide/04 Items/Products",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Equipment",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/00 Assets/55_create_a_BOM.png",
