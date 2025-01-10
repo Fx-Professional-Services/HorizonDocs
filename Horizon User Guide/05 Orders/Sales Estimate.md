@@ -19,8 +19,6 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 ### Manage Line Items
 
 9. **Adjust Price and Quantity:** To modify the price or quantity of a line item, enter the new values. The subtotal and total costs will update automatically.
-
-⚠️ **Note**: After confirmation, the **Delete All** button will no longer be available for removing line items.
 ### Apply Taxes and Conditions
 #### Taxes
 
@@ -32,18 +30,27 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Confirm and Print the Sales Estimate
 
-13. **Confirm the Estimate**: Click **Confirm** and wait for the status to change to **Confirmed**.
+13. **Confirm the Estimate**: 
 
-When you click the **Confirm** button, the sales order is created, and the payment terms are set based on the sales estimate selections. To view the sales order:
+Click **Confirm** and wait for the status to change to **Confirmed**.
 
-1. From the primary menu bar at the top of the Sales Estimate layout, click **Order Management**.
+When you click the **Confirm** button, a sales order is created, and the payment terms are set based on the sales estimate selections. 
+
+To view the sales order:
+
+1. From the primary menu bar at the top of the **Sales Estimate** layout, click **Order Management**.
 2. Select **Sales Order**.
 3. Click **Find Mode** from the secondary menu bar.
-4. Enter the customer's name in the **Customer** field.
+4. In the **Customer** field, enter the customer's name .
 
 The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+_________________________
+**Important Notes:**
 
-⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+* ⚠️ Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+
+* ⚠️ After confirming the sales estimate, the **Delete All** button will no longer be available for removing line items.
+_________________
 
 14. **Save Changes**: Click **Save Changes** to finalize modifications.
 
