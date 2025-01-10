@@ -20,6 +20,12 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 9. **Adjust Price and Quantity:** To modify the price or quantity of a line item, enter the new values. The subtotal and total costs will update automatically.
 
+10. **Delete Items:**
+    To remove items from the list:
+    - Click the **"x"** icon next to the item to delete it.
+	- To delete all items, click **Delete All**.
+	- In the confirmation prompt, click **Yes** to confirm deletion.
+
 ⚠️ **Note**: After confirmation, the **Delete All** button will no longer be available for removing line items.
 ### Apply Taxes and Conditions
 #### Taxes
