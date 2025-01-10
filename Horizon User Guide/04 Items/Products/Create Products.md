@@ -87,7 +87,7 @@ Efficient management of vendor prices is essential for accurate records. This gu
 ## Import Vendor Prices
 
 1. Click **Sales Order** on the main menu.
-2. In the top left corner, click the **Options** button, then select **Vendor Prices**.
+2. In the secondary menu bar, click the **Options** button, then select **Vendor Prices**.
 3. In the **Upload Vendor Prices** layout, click **Import Vendor Price**.
 4. Select the file containing the vendor prices, then click **Open**.
 5. Specify the import order for the target fields.
