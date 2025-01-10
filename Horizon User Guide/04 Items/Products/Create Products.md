@@ -61,24 +61,41 @@ Products are consumable physical items that can be created or purchased, each wi
 This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
 # Create a New Product in the Upload Vendor Prices
 
-1. **Navigate to Products**: Open the main menu and select **Products**.
-2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
+Follow these steps to create a new product in the **Upload Vendor Prices** through the picker window: 
+
+1. **Navigate to Products**  
+    From the main menu, select **Products**.
+    
+2. **Access Upload Vendor Prices**  
+    In the upper-left corner, click **Layout**, then select **User**. From the dropdown, choose **Upload Vendor Prices**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
-3. **Select Your Party**: Choose your **Party** from the options on the left and click the item field next to it.
-4. **Add New Product**: In the upper right corner, tap the add button (✚).
+3. **Select the Party**  
+    On the left, choose your **Party**, then click the item field next to it.
+4.  **Add a New Product**  
+    In the upper-right corner, click the **Add** button (✚).
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/58_add_product_upload_vendor_prices.png" width="350" height="250">
 
-5. **Enter Product Details**: Provide the product name, description, replenishment method, and unit of measure. Indicate the product type and select "Yes" or "No" for the following: consumable, sale item, or need pick.
-6. **Save Changes**: Click **Save** to confirm your changes and exit the **Quick Add: Product** window.
+5. **Enter Product Details**  
+    Fill in the following fields:
+    
+    - **Product Name**
+    - **Description**
+    - **Replenishment Method**
+    - **Unit of Measure**  
+        Then, specify whether the product is a **Consumable**, **Sales Item**, or **Need Pick** by selecting "Yes" or "No."
+6. **Save the Product**  
+    Click **Save** to apply your changes and close the **Quick Add: Product** window.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
 
-7. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
-8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
-
+7. **Verify the New Product**  
+    In the item picker, type the product name in the search box and click the search icon (🔎). The new product should appear in the results.
+    
+8. **Complete the Process**  
+    Click **Done** to finish. The newly created product will appear in the item column next to the **Party**.
 
 # **Manage Vendor Prices**
 
