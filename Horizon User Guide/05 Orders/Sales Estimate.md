@@ -24,7 +24,8 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 #### Set Conditions
 
-12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel. 
+
+12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel, Customer Tier, or Payment Terms.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
