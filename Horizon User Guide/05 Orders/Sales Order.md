@@ -79,6 +79,7 @@ ___
 
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
 
+- Locate the field labeled **Click here to add Sales Channel** within the sales order.
 - At the bottom-left of the sales order layout, locate **Sales Channel**, **Customer Tier**, and **Payment Terms** fields. 
 - Click each field to add the corresponding information. In the picker, click the **Add** button (+) next to the chosen item, then click **Done**.
 
