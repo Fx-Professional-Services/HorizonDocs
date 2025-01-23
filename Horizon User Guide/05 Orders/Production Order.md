@@ -63,7 +63,7 @@ A production order details the item to be produced, its required materials, and 
 
 	- **Adjusting Quantities:** If you change the quantity of an item (e.g., from 20.16 to 30 ounces), clicking the **Reverse** button will prompt you to confirm the update. After confirmation, the system will adjust the BOM to reflect the specified quantity.
 	
-	- **Restoring Deleted Items:** If you accidentally delete an item, the **Reverse** button will restore it with the correct quantity once you confirm the action.
+	- **Restore Deleted Items:** - If you accidentally delete an item, clicking the **Reverse** button will restore it with the correct quantity after you confirm the action.
 	
 	- **Handling Changes:** The **Reverse** button will revert modified quantities to their previous values. Newly added items will not be affected or removed.
 	
