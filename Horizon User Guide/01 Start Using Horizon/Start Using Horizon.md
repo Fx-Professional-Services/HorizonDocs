@@ -34,23 +34,23 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 ### Create Your Own Horizon Account
 
 1. **Open Horizon**: [Follow the steps to launch the Horizon file](#launch-horizon-file).
-2. **Add Account**: Click **Add Account** on the login page.
+2. **Add Account**: On the login page, click **Add Account**.
 3. **Enter Email**:
     - Type your email username and select your domain.
     - Click **Send Request** to validate.
-4. **Confirm Email Sent**: Click **OK**.
+4. **Confirm Email Sent**: When the **Email Sent** notification appears, click **OK**.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
-    - Copy and paste the link into your browser. <br>
-    ⚠️ Link expires in 15 minutes.
+    - Copy the link and paste it into your browser. <br>
+    ⚠️ **Note**: The link expires in 15 minutes.
 
 6. **Select Privilege**: Choose your privilege (e.g., manager, chef), or your role in the system. <br>
 7. **Set Password**: Enter your password and click **Continue**.  <br>
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
-8. **Enter Details**: Fill in your name and contact info. Select a preferred contact method.  <br>
-9. **Save Contact Method:** Tick the **Primary** box and click **Save**.  <br>
-10. **Account Created**: Click **OK**. 
+8. **Enter Details**: Fill in your name and contact information. Select a preferred contact method.  <br>
+9. **Save Contact Method:** Check the **Primary** box and click **Save**.  <br>
+10. **Account Created**: Click **OK** to complete the process. 
 
 ### Create an Account for Another User in Horizon
 ___
@@ -61,11 +61,12 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Fill in the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. 
+    - Click **Save**.
 3. **Edit Employee Record:**
     
-    - Click on the new record and enter a valid email under **FileMaker user name**.
-4. **Assign Privilege:**
+    - Click the new record and enter a valid email address under **FileMaker User Name**.
+4. **Assign Privileges:**
     
     - Select a **FileMaker privilege** based on the user's role (e.g., manager, chef). 
 
@@ -79,10 +80,14 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
-    - Open the **Request for Horizon Access** email, use the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+    - Open the **Request for Horizon Access** email, click the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
+
+To verify the account creation:
+
+- Log in to Horizon to confirm the new user's access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
@@ -92,17 +97,18 @@ This process efficiently sets up a new user account in Horizon.
 [Log Out of Horizon](#log-out-of-horizon)
 ### Log into Your Horizon Account
 ___
-1. **[Launch Horizon file](#launch-horizon-file).**
-2. **Open Login Page:**
+1. **[Launch the Horizon file](#launch-horizon-file).**
+2. **Open the Login Page:**
     - Go to the Horizon login page.
-3. **Enter Credentials:**
-    - **Account Name:** Enter the email associated with your Horizon account (e.g., xxx@gmail.com).
+3. **Enter Your Credentials:**
+    - **Account Name:** Enter the email address associated with your Horizon account (e.g., xxx@gmail.com) or your user ID (e.g., johndoe123).
     - **Password:** Enter your password.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac).
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). AAfter logging in successfully, you will be redirected to the main menu.
+
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
 ### Log Out of Horizon
@@ -192,48 +198,48 @@ Select this option to reset data and display the installed plug-ins when the app
 
 **To reset your password if you're not logged in to Horizon:** 
 
-1. [Launch Horizon file.](#launch-horizon-file)
+1. [Launch the Horizon file.](#launch-horizon-file)
 
-2. Enter your **account name** (email) on the Horizon login page.
+2. On the Horizon login page, enter your **account name** (email).
 
 3. Click **Reset Password**.
 
-4. Click **OK** after receiving the **Email Sent** notification.
+4. After receiving the **Email Sent** notification, click **OK**.
 
-5. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
+5. Open the email titled **Request for Password Reset**. Copy the link, paste it into your browser's address bar, and press **Return** (Mac) to **Open FileMaker Pro**.
 
    ⚠️ Note: The link expires in 15 minutes.
 
-6. Enter your new password, deleting any system-generated one if necessary.
+6. Enter your new password. If needed, delete the system-generated password.
 
-   💡 Tip: Use the tab key to move to the next field easily.
+   💡 Tip: Use the **Tab** key to move to the next field.
 
 7. Click **Change Password**.
 
-8. Click **OK** upon seeing the successful **Password Reset** notification.
+8. Once you see the successful **Password Reset** notification, click **OK**.
 
-**To reset your password if you're logged in to Horizon**:
+**To reset your own or another user's password when you're logged in to Horizon:**
 
-1. Go to the main menu, and click on **All Parties.**
+1. In the main menu, click **All Parties**.
 
-2.  Click **Employees** tab. 
+2.  Click the **Employees** tab. 
 
-3. Find your employee record by using **Find Mode** or **Browse Mode** option — scrolling through the list of employees in the left pane. Click on the record to open it. 
+3. Find the employee record by using either **Find Mode** or **Browse Mode**, or by scrolling through the list in the left pane. Click the record to open it.
 
-4. Click on **Reset Password**.
+4. Click **Reset Password**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
 
-5. Click OK after receiving the email-sent notification. <br>
-6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
+5. After receiving the **Email Sent** notification, click **OK**.<br>
+6. Open the **Request for Password Reset** email. Copy the link, paste it into your browser’s address bar, and press **Return** (Mac) or **Enter** (Windows) to **Open FileMaker Pro**. 
 
 	⚠️ Note: The link expires in 15 minutes.
 
-7. Enter your **new password**, if needed, delete any system-generated one.
+7. Enter the **new password**, and delete any system-generated password if necessary.
 
 8. Click **Change Password**.
 
-9. Click **OK** upon receiving the successful **Password Reset** notification.
+9. After seeing the **Password Reset** notification, click **OK**.
 ## Delete Your Account
 
 #### What happens if I permanently delete my Horizon account? 
@@ -253,8 +259,10 @@ To permanently delete your account:
 
 3. Navigate to the **Employees** tab.
 
-4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
-
-5. Click **Delete Account** to remove the employee's account from all Horizon files.
+4. Locate and click the employee record of the person whose account you want to delete. You can find it by:
+    - Searching their name in **Find Mode**, or
+    - Scrolling through the list in **Browse Mode**.
+    
+5. Click **Delete Account** to permanently remove the employee's account from all Horizon files.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
