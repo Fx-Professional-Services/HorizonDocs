@@ -34,11 +34,11 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 ### Create Your Own Horizon Account
 
 1. **Open Horizon**: [Follow the steps to launch the Horizon file](#launch-horizon-file).
-2. **Add Account**: Click **Add Account** on the login page.
+2. **Add Account**: On the login page, click **Add Account**.
 3. **Enter Email**:
     - Type your email username and select your domain.
     - Click **Send Request** to validate.
-4. **Confirm Email Sent**: Click **OK** when the **Email Sent** notification appears.
+4. **Confirm Email Sent**: When the **Email Sent** notification appears, click **OK**.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
     - Copy the link and paste it into your browser. <br>
@@ -61,7 +61,8 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Complete the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. 
+    - Click **Save**.
 3. **Edit Employee Record:**
     
     - Click the new record and enter a valid email address under **FileMaker User Name**.
@@ -86,7 +87,7 @@ ___
 
 To verify the account creation:
 
-- Log in to Horizon to verify your account access.
+- Log in to Horizon to confirm the new user's access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
@@ -106,8 +107,7 @@ ___
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press Enter (Windows) / Return (Mac).
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). After you log in successfully, you will be redirected to the main menu.
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). AAfter logging in successfully, you will be redirected to the main menu.
 
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
@@ -259,8 +259,10 @@ To permanently delete your account:
 
 3. Navigate to the **Employees** tab.
 
-4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
-
-5. Click **Delete Account** to remove the employee's account from all Horizon files.
+4. Locate and click the employee record of the person whose account you want to delete. You can find it by:
+    - Searching their name in **Find Mode**, or
+    - Scrolling through the list in **Browse Mode**.
+    
+5. Click **Delete Account** to permanently remove the employee's account from all Horizon files.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
