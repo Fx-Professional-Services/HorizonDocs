@@ -30,7 +30,9 @@ ___
     - Modify the price or quantity of a line item by entering new values. The subtotal and total costs will update automatically.
 8. **Deleting Items:**
     
-    - To remove individual items, click the "x" icon next to the item. To delete all items, click **Delete All.** 
+    - **To remove individual items**: Click the "x" icon next to the item. 
+	- **To delete all items**: Click **Delete All**, then click **Yes** in the confirmation dialog to confirm the deletion.
+
 
 **💡 Tip:** To delete a product from the sales order, click **Item Management** > **Products**. In the left pane, find the product, click **Delete Record**, and confirm.
 
