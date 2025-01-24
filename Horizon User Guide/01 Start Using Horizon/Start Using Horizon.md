@@ -120,9 +120,10 @@ ___
 - Then, click **Log Out** at the bottom of the main menu.
 ## Navigate the Main Menu
 
-The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
+When you log into Horizon, the **main menu** is the first thing you’ll see. Use the menus on the left side to select commands and perform tasks within the application.
 
-⚠️ Note: When in other Horizon files, such as All Parties, Customers, Products, Sales Orders, Invoices, or Bill of Materials, click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
+⚠️ **Note**:  
+When you're in other Horizon files (e.g., **All Parties**, **Customers**, **Products**, **Sales Orders**, **Invoices**, or **Bill of Materials**), click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
 
