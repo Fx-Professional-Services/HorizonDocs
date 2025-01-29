@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/08 Invoices/Payments.md",
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payments"
+              "title": "Discount"
             }
           }
         ]
@@ -161,8 +161,8 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
-    "Horizon User Guide/04 Items/Discount/Discount.md",
     "Horizon User Guide/08 Invoices/Payments.md",
+    "Horizon User Guide/04 Items/Discount/Discount.md",
     "Horizon User Guide/04 Items/Discount",
     "Horizon User Guide/04 Items/Disocunt/Discount.md",
     "Horizon User Guide/04 Items/Disocunt",
