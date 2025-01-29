@@ -266,3 +266,10 @@ To permanently delete your account:
 5. Click **Delete Account** to permanently remove the employee's account from all Horizon files.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
+
+## Reset Data
+
+To clear data in specific parts of the application:
+
+1. From the main menu, click **Settings**.
+2. In the **Settings** layout, click **Reset Data**.
