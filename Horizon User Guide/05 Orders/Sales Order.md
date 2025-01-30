@@ -14,7 +14,7 @@ ___
 3. Click **New Record**. 
 4. In the **Customer** field, select a customer by typing the name in the **Search** field and pressing **Enter** (Windows) or **Return** (Mac), or scroll down and click **Add** to add a new customer. 
 5. Set the **Receive** **Date** and **Start At**. The **End At** date is auto-scheduled.
-6. **Click select item** to choose a **Sale Order Item**. In the item picker, search by product name or category. Select the product, adjust the **Quantity, and click **Done**. 
+6. **Click select item** to choose a **Sale Order Item**. In the item picker, search by product name or category. Select the product, adjust the **Quantity, and click **Done**.
 
 **💡 Tip:** Refine your item search by entering a category name in the **Category** field in the item picker.
 
@@ -185,3 +185,4 @@ An **invoice** is an accounting document issued to customers to record sales tra
 - Event coordination and guest service
 
 These services are customized to meet the specific needs of each event or gathering.
+
