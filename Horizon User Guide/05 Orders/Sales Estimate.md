@@ -32,20 +32,24 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 13. **Confirm the Estimate**: 
 
-Click **Confirm** and wait for the status to change to **Confirmed**.
+Click Confirm and wait for the status to change to Confirmed.
 
-When you click the **Confirm** button, a sales order is created.
+When you click Confirm, a sales order is created.
 
 To view the sales order:
 
-1. From the primary menu bar at the top of the **Sales Estimate** layout, click **Order Management**.
-2. Select **Sales Order**.
-3. Click **Find Mode** from the secondary menu bar.
-4. In the **Customer** field, enter the customer's name .
+From the primary menu bar at the top of the Sales Estimate layout, click Order Management.
+Select Sales Order.
+Click Find Mode from the secondary menu bar.
+In the Customer field, enter the customer's name.
+The Party, Items, and Payment Terms in the sales order should match the values from the estimate.
 
-The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+Note: Once the estimate is confirmed, you cannot modify the following elements in the sales order:
 
-⚠️ Note: Once confirmed, the following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+Line items
+Customer tier
+Sales channel
+Payment terms
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
 
