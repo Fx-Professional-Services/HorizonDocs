@@ -34,11 +34,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 Click **Confirm** and wait for the status to change to **Confirmed**.
 
-⚠️ Note: Once confirmed, a sales order is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
-
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
-
-When you click the **Confirm** button, a sales order is created, and the payment terms are set based on the sales estimate selections. 
+When you click the **Confirm** button, a sales order is created.
 
 To view the sales order:
 
@@ -48,6 +44,11 @@ To view the sales order:
 4. In the **Customer** field, enter the customer's name .
 
 The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+
+⚠️ Note: Once confirmed, the following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+
 _________________________
 **Important Notes:**
 
