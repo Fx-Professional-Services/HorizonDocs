@@ -139,6 +139,12 @@ To generate a sales invoice, go to the **Order** tab and click **Confirm**.
 - Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To undo the confirmation, click **Unconfirm**.
 - The **Delete All** button will no longer be available once the order is confirmed.
 
+Inventory Update
+Confirming the sales order updates the inventory.
+
+To view the inventory, click Item Management, then select Products.
+In the left pane, select the product from your sales order items.
+Once the sales order is confirmed, the values in the Sold and Demand fields will automatically update.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
