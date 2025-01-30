@@ -9,7 +9,7 @@
 
 2. Create a New Payment Card
 
-- In the **Invoices module**, click **Options** in the secondary navigation. Then, select **New Record**.
+- In the **Invoices module**, click **Options** in the secondary menu bar. Then, select **New Record**.
 
 3. Select a Customer
 
