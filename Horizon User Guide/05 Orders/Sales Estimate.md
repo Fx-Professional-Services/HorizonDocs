@@ -41,13 +41,14 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 ### Apply Taxes and Conditions
 #### Taxes
-11. **Making Sales Orders Taxable:**
+
+10. **Making Sales Orders Taxable:**
 - Click the **tax** box next to each sales order line item until a checkmark (✔️) appears.
 
 - Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
 #### Set Conditions
 
-12. **Setting Sales Channel, Customer Tier, and Payment Terms:**
+11. **Setting Sales Channel, Customer Tier, and Payment Terms:**
 - Use the hamburger button (☰) next to each field in the sales estimate to adjust or select sales channel, customer tier, or payment terms.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
