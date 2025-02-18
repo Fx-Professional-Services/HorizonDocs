@@ -9,8 +9,9 @@
 
    - Click **New Record** to start a blank record.
 
-3. **Add Yield or Source Item**:
+ 💡 **Tip:** To access the BOM module from other modules, such as **Products**, **Sales Orders**, or **Supply and Demand**, click **Item Management** and then select **BOM**.
 
+3. **Add Yield or Source Item**:
 	3.1. Navigate to the Source/Yield tab.  Click on the **add yield item** and/or **add source item** field.
 
 	3.2.**Select Items**:
