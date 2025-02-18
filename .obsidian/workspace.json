@@ -13,12 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Start Using Horizon"
               "title": "Managing Customer Payments"
               "title": "Receiving Order"
             }
@@ -163,6 +165,8 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/08 Invoices/Payment ACH.md",
     "Horizon User Guide/08 Invoices/Payment Cards.md",
     "Horizon User Guide/08 Invoices/Payment Plan.md",

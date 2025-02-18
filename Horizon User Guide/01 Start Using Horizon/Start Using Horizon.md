@@ -49,9 +49,8 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/32_create_your_own_horizon_account.png" width="300" height="500">
 
 8. **Enter Details**: Fill in your name and contact information. Select a preferred contact method.  <br>
-9. **Save Contact Method:** Check the **Primary** box and click **Save**.  <br>
+9. **Save Contact Method:** Check the **Primary** box and click **Save**.  
 10. **Account Created**: Click **OK** to complete the process. 
-
 ### Create an Account for Another User in Horizon
 ___
 ##### To create an account for another user if you're logged in to Horizon:
