@@ -34,11 +34,11 @@ With your Horizon account, you can access all Horizon files, including Parties, 
 ### Create Your Own Horizon Account
 
 1. **Open Horizon**: [Follow the steps to launch the Horizon file](#launch-horizon-file).
-2. **Add Account**: Click **Add Account** on the login page.
+2. **Add Account**: On the login page, click **Add Account**.
 3. **Enter Email**:
     - Type your email username and select your domain.
     - Click **Send Request** to validate.
-4. **Confirm Email Sent**: Click **OK** when the **Email Sent** notification appears.
+4. **Confirm Email Sent**: When the **Email Sent** notification appears, click **OK**.
 5. **Validate Email**:
     - Open the **Request for Horizon Access** email.
     - Copy the link and paste it into your browser. <br>
@@ -61,7 +61,8 @@ ___
     - Go to **All Parties** > **Employees** > **New Record**.
 2. **Enter Employee Details:**
     
-    - Complete the required fields, including the first name and primary contact method. Click **Save**.
+    - Complete the required fields, including the first name and primary contact method. 
+    - Click **Save**.
 3. **Edit Employee Record:**
     
     - Click the new record and enter a valid email address under **FileMaker User Name**.
@@ -86,7 +87,7 @@ ___
 
 To verify the account creation:
 
-- Log in to Horizon to verify your account access.
+- Log in to Horizon to confirm the new user's access.
 
 This process efficiently sets up a new user account in Horizon.
 ## Log In and Out of Horizon
@@ -106,8 +107,7 @@ ___
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press Enter (Windows) / Return (Mac).
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). After you log in successfully, you will be redirected to the main menu.
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). AAfter logging in successfully, you will be redirected to the main menu.
 
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
@@ -120,9 +120,10 @@ ___
 - Then, click **Log Out** at the bottom of the main menu.
 ## Navigate the Main Menu
 
-The first thing you see when you're logged into Horizon is the _main menu_. Use the menus on the left side to choose commands and perform tasks in the application. 
+When you log into Horizon, the **main menu** is the first thing you’ll see. Use the menus on the left side to select commands and perform tasks within the application.
 
-⚠️ Note: When in other Horizon files, such as All Parties, Customers, Products, Sales Orders, Invoices, or Bill of Materials, click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
+⚠️ **Note**:  
+When you're in other Horizon files (e.g., **All Parties**, **Customers**, **Products**, **Sales Orders**, **Invoices**, or **Bill of Materials**), click the **Main Menu** button in the top left corner to return to the main menu or the Horizon launcher.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/09_main_menu.png" width="400" height="300">
 
@@ -196,50 +197,52 @@ Select this option to reset data and display the installed plug-ins when the app
 
 ## Reset Your Password
 
-**To reset your password if you're not logged in to Horizon:** 
+### If you're not logged into Horizon:
 
-1. [Launch Horizon file.](#launch-horizon-file)
+1. [Launch the Horizon file.](#launch-horizon-file)
 
-2. Enter your **account name** (email) on the Horizon login page.
-
+2. On the Horizon login page, enter your **account name** (email).
+    
 3. Click **Reset Password**.
-
-4. Click **OK** after receiving the **Email Sent** notification.
-
-5. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
-
-   ⚠️ Note: The link expires in 15 minutes.
-
-6. Enter your new password, deleting any system-generated one if necessary.
-
-   💡 Tip: Use the tab key to move to the next field easily.
-
+    
+4. After receiving the **Email Sent** notification, click **OK**.
+    
+5. Open the email titled **Request for Password Reset**. Copy the link and paste it into your browser's address bar. Press **Return** (Mac) or **Enter** (Windows) to open FileMaker Pro.
+    
+    ⚠️ **Note**: The link expires in 15 minutes.
+    
+6. Enter your new password. If necessary, delete the system-generated password.
+    
+    💡 **Tip**: Use the **Tab** key to move to the next field.
+    
 7. Click **Change Password**.
+    
+8. Once you see the **Password Reset** confirmation, click **OK**.
+### Reset a Password (for yourself or another user) when Logged into Horizon
 
-8. Click **OK** upon seeing the successful **Password Reset** notification.
-
-**To reset your password if you're logged in to Horizon**:
-
-1. Go to the main menu, and click on **All Parties.**
-
-2.  Click **Employees** tab. 
-
-3. Find your employee record by using **Find Mode** or **Browse Mode** option — scrolling through the list of employees in the left pane. Click on the record to open it. 
-
-4. Click on **Reset Password**.
+1. In the main menu, click **All Parties**.
+    
+2. Click the **Employees** tab.
+    
+3. Find the employee record:
+    
+    - Use **Find Mode** or **Browse Mode**, or scroll through the list in the left pane.
+    - Click the record to open it.
+4. Click **Reset Password**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/38_reset_password.png" width="350" height="300">
 
-5. Click OK after receiving the email-sent notification. <br>
-6. Open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser's address bar, and press Return (Mac) to **Open FileMaker Pro**.
-
-	⚠️ Note: The link expires in 15 minutes.
-
-7. Enter your **new password**, if needed, delete any system-generated one.
-
+5. After receiving the **Email Sent** notification, click **OK**.
+    
+6. Open the **Request for Password Reset** email. Copy the link, paste it into your browser's address bar, and press **Return** (Mac) or **Enter** (Windows) to open FileMaker Pro.
+    
+    ⚠️ **Note**: The link expires in 15 minutes.
+    
+7.  Enter the **new password** and delete any system-generated password, if needed.
+    
 8. Click **Change Password**.
-
-9. Click **OK** upon receiving the successful **Password Reset** notification.
+    
+9. After the **Password Reset** notification appears, click **OK**.
 ## Delete Your Account
 
 #### What happens if I permanently delete my Horizon account? 
@@ -259,8 +262,17 @@ To permanently delete your account:
 
 3. Navigate to the **Employees** tab.
 
-4. Locate and click on the Employee record of the person whose account you want to delete. You can find it by searching their name in **Find Mode** or scrolling through the list in Browse Mode.
-
-5. Click **Delete Account** to remove the employee's account from all Horizon files.
+4. Locate and click the employee record of the person whose account you want to delete. You can find it by:
+    - Searching their name in **Find Mode**, or
+    - Scrolling through the list in **Browse Mode**.
+    
+5. Click **Delete Account** to permanently remove the employee's account from all Horizon files.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/39_delete_account.png" width="400" height="300">
+
+## Reset Data
+
+To clear data in specific parts of the application:
+
+1. From the main menu, click **Settings**.
+2. In the **Settings** layout, click **Reset Data**.

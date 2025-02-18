@@ -5,4 +5,4 @@ The **Payment Terms** section in Horizon Accounting allows you to define and man
 To access **Payment Terms**:
 
 1. From the main menu, select **Invoices** to open Horizon Accounting.
-2. In the secondary navigation bar, click **Options**, then choose **Payment Terms**.
+2. In the secondary menu bar, click **Options**, then choose **Payment Terms**.
