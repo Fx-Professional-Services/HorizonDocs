@@ -20,12 +20,11 @@
     - Click the **Confirm** button. This updates the inventory, marks the purchase items as received, and sets the order status to **confirmed.**
     -  ⚠️ **Note**: To unconfirm the order, click the **Unconfirm** button. This will decrease the inventory and mark the items as pending.
     - To verify that the received quantity for specific items has been adjusted, go to **Item Management**, select **All Items**, switch to **Find Mode**, and enter the item's name. Check the **Received** field to see the updated quantity.
-1. **Save or Undo Changes**:
+9. **Save or Undo Changes**:
     
     - Click **Save Changes** to keep your modifications.
     - Click **Undo Changes** to discard them.
-9. **Delete an Order**:
+10. **Delete an Order**:
     
     - To delete a specific order, select **Delete Record**.
     - ⚠️ **Note**: You can only delete a receiving order if it has been confirmed. To confirm the order, click **Confirm**. Confirm the deletion by clicking **Yes** in the dialogue box.
-
