@@ -1,6 +1,6 @@
 # Pick Order
 
-A pick order is an instruction to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment.
+A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
 
 ### Create a Pick Order:
 
@@ -60,6 +60,9 @@ A pick order is an instruction to retrieve specific items from inventory and tra
 12. **Delete Line Item**
 
 - To remove a line item, click the delete button (**x**) next to it.
+💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
+  
+**<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
 13. **Additional Information**
 
