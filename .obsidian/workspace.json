@@ -24,6 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
@@ -39,6 +40,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Sales Estimate"
               "title": "Production Order"
               "title": "New tab"
               "type": "markdown",
@@ -312,6 +314,18 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "c4fae77df0ff2b72",
+  "lastOpenFiles": [
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/08 Invoices/Payments.md",
+    "Horizon User Guide/04 Items/Discount/Discount.md",
+    "Horizon User Guide/04 Items/Discount",
+    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/08 Invoices/Payment ACH.md",
+    "Horizon User Guide/08 Invoices/Payment Cards.md",
+    "Horizon User Guide/08 Invoices/Payment Plan.md",
+    "Horizon User Guide/08 Invoices/Payment Terms.md",
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
     "Horizon User Guide/00 Assets/46_remove_account_settings.png",
@@ -493,6 +507,8 @@
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/06 Supply and Demand",
     "Horizon User Guide/05 Orders/Return Order.md",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/04 Items/Discount/Discount.md",
     "Horizon User Guide/04 Items/Discount",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
@@ -740,4 +756,5 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts"
     "Horizon User Guide/00 Assets/48_convert_product_into_a_configurator.png",
     "Horizon User Guide/00 Assets/47_create_a_new_configurator.png",
+    "Horizon User Guide/00 Assets/46_view_pick_order.png"
     "Horizon User Guide/00 Assets/46_view_pick_order.png"
