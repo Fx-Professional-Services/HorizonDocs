@@ -65,6 +65,8 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 - Navigate to the **Discounts** section and click **Select Discount**.
 
+- Select either a percentage discount (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and then **Done**. The discount will automatically adjust the subtotal and total costs.
+
 - In the pop-up, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) and click the add button (✚) and/or Done.
 
 - The discount will automatically update the subtotal and total costs.
