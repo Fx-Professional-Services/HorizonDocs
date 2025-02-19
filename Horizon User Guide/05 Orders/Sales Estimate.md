@@ -65,6 +65,10 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 
 Click **Confirm** and wait for the status to change to **Confirmed**.
 
+⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
+
 When you click the **Confirm** button, a sales order is created, and the payment terms are set based on the sales estimate selections. 
 
 To view the sales order:
