@@ -4,6 +4,8 @@ Products are consumable physical items that can be created or purchased, each wi
 
 [Add a Product](add-a-product) <br>
 [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+[Manage Vendor Prices](manage-vendor-prices)
+
 # Manage Vendor Prices
 
 [Import Vendor Prices](import-vendor-prices)
@@ -61,18 +63,18 @@ Products are consumable physical items that can be created or purchased, each wi
 This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
 # Create a New Product in the Upload Vendor Prices
 
-1. **Navigate to Products**: Open the main menu and select **Products**.
-2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
+1. **Navigate to Products**: From the main menu, select **Products**.
+2. **Access Upload Vendor Prices**: In the upper-left corner, click **Layout**, then select **User**. From the dropdown, choose **Upload Vendor Prices**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
-3. **Select Your Party**: Choose your **Party** from the options on the left and click the item field next to it.
-4. **Add New Product**: In the upper right corner, tap the add button (✚).
+3. **Select the Party**: On the left, choose your **Party**. Then, click the item field next to it.
+4. **Add a New Product**: In the upper-right corner, click the **Add button** (✚).
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/58_add_product_upload_vendor_prices.png" width="350" height="250">
 
-5. **Enter Product Details**: Provide the product name, description, replenishment method, and unit of measure. Indicate the product type and select "Yes" or "No" for the following: consumable, sale item, or need pick.
-6. **Save Changes**: Click **Save** to confirm your changes and exit the **Quick Add: Product** window.
+5. **Enter Product Details**: Fill in the product **name**, **description**, **replenishment method**, and **unit of measure**. Indicate whether the the product is a **Consumable**, **Sales Item**, or **Need Pick** by selecting "Yes" or "No."
+6. **Save the Product**: Click **Save** to apply your changes and close the **Quick Add: Product** window.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
 
@@ -85,7 +87,7 @@ This action will permanently remove the product from your records, so proceed wi
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
 
 ## Import Vendor Prices
-
+To import vendor prices:
 1. Click **Sales Order** on the main menu.
 2. In the top left corner, click the **Options** button, then select **Vendor Prices**.
 3. In the **Upload Vendor Prices** layout, click **Import Vendor Price**.
