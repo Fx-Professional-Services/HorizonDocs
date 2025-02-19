@@ -24,6 +24,9 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
@@ -51,6 +54,9 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Sales Order"
+              "title": "Start Using Horizon"
+              "title": "Start Using Horizon"
               "title": "Create and Manage Customer and Payment Records"
               "title": "Sales Order"
               "title": "Start Using Horizon"
