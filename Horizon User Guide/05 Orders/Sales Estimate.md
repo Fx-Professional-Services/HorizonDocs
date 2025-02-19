@@ -42,20 +42,44 @@ B. **View Opportunity Details**:
         - The current phase or stage of the opportunity in the sales process. Stages may include **Prospecting**, **Negotiation**, **Closed-Won**, or other defined steps in your pipeline.
 ### Add Items to the Estimate
 
+8. **Add items to the Estimate:** Under **Sales Estimate Items**, click the **hamburger menu** (☰) to add one or more items to the estimate. In the web picker, click **Select** next to the desired item, then click **Done**.
+
 ### Manage Line Items
 
-⚠️ **Note**: After confirmation, the **Delete All** button will no longer be available for removing line items.
+9. **Adjust Price and Quantity:** To modify the price or quantity of a line item, enter the new values. The subtotal and total costs will update automatically.
 ### Apply Taxes and Conditions
 #### Taxes
 
 #### Set Conditions
 
 
+12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel, Customer Tier, or Payment Terms.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
 ### Confirm and Print the Sales Estimate
 
-⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+13. **Confirm the Estimate**: 
+
+Click **Confirm** and wait for the status to change to **Confirmed**.
+
+When you click the **Confirm** button, a sales order is created, and the payment terms are set based on the sales estimate selections. 
+
+To view the sales order:
+
+1. From the primary menu bar at the top of the **Sales Estimate** layout, click **Order Management**.
+2. Select **Sales Order**.
+3. Click **Find Mode** from the secondary menu bar.
+4. In the **Customer** field, enter the customer's name .
+
+The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+_________________________
+**Important Notes:**
+
+* ⚠️ Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+
+* ⚠️ After confirming the sales estimate, the **Delete All** button will no longer be available for removing line items.
+_________________
 
 14. **Save Changes**: Click **Save Changes** to finalize modifications.
 
@@ -80,3 +104,5 @@ An _Opportunity_ represents a potential sale of a specific product or service to
 **Example:**
 
 "John Smith’s Wedding Party" could represent an opportunity to sell event-related products or services to John Smith. The opportunity might be marked as _Open_ if negotiations are ongoing, or _Closed_ if the deal is finalized.
+
+16. **Create a Contract**: Click **Create Contract** to generate a contract based on the confirmed sales estimate. In the window that appears, select **CBU - Food Service Contract**. The contract will be generated with the party name, email, and line item details from the estimate.
