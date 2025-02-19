@@ -54,11 +54,10 @@ ___
 
 11. **Making Sales Orders Taxable:**
 
-	A. Click the expand button (**>**) next to the customer’s name.  
-	B. In the customer layout, go to the **Customers** tab.  
-	C. Enter the tax rate.  
-	D. In the slaes order, click the **Tax** box next to each line item. A checkmark (✔️) will appear.  
-	E. Taxes are calculated in real-time, and the total cost will update automatically. 
+A. Click the expand button (**>**) next to the customer’s name.  
+B. In the customer layout, go to the **Customers** tab.  
+C. Enter the tax rate.  
+D. Return to your sales order and click the **Tax** box next to each line item until a checkmark (✔️) is displayed. Taxes will be calculated in real time, and the additional tax value will automatically update the **total cost**.
 
 #### Discounts
 
