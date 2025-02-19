@@ -134,7 +134,7 @@ c. Once demand generation is complete, click **View Order** to see the generated
 To generate a sales invoice, go to the **Order** tab and click **Confirm**.
     
 ⚠️ **Important:**
-    
+
 - You cannot generate an invoice until the sales order is confirmed.
 - Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To undo the confirmation, click **Unconfirm**.
 - The **Delete All** button will no longer be available once the order is confirmed.
@@ -161,7 +161,7 @@ Once the sales order is confirmed, the values in the Sold and Demand fields will
 - To view the invoice, navigate to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name  and view the associated invoices. 
 
 ### Finalize and Print
-_____
+
 16. Click **Save Changes** to apply updates.
 17. To print a hard copy of the sales order, click **Print** (🖨️) in the top right corner/ 
 
