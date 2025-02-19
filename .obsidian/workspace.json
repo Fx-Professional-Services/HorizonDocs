@@ -25,6 +25,10 @@
               "type": "markdown",
               "state": {
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
@@ -40,6 +44,8 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Sales Estimate"
+              "title": "Start Using Horizon"
               "title": "Production Order"
               "title": "New tab"
               "type": "markdown",
@@ -313,8 +319,55 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "c4fae77df0ff2b72",
+  "lastOpenFiles": [
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/08 Invoices/Payments.md",
+    "Horizon User Guide/04 Items/Discount/Discount.md",
+    "Horizon User Guide/04 Items/Discount",
+    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/08 Invoices/Payment ACH.md",
+    "Horizon User Guide/08 Invoices/Payment Cards.md",
+    "Horizon User Guide/08 Invoices/Payment Plan.md",
+    "Horizon User Guide/08 Invoices/Payment Terms.md",
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/05 Sales Orders/Sales Estimates/Confirm a Sales Estimate.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
+    "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
+    "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
+    "Horizon User Guide/Old documentation",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/06 Bill of Materials",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/05 Orders",
+    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Services",
+    "Horizon User Guide/04 Items/Products",
+    "Horizon User Guide/04 Items/Equipment",
+    "Horizon User Guide/04 Items/Configurators",
+    "Horizon User Guide/04 Items/All Items",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/04 Items/Create Products.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/00 Assets/46_remove_account_settings.png",
     "Horizon User Guide/00 Assets/45_change_password_settings.png",
     "Horizon User Guide/00 Assets/44_reset_password_settings.png",
@@ -501,6 +554,8 @@
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/06 Supply and Demand",
     "Horizon User Guide/05 Orders/Return Order.md",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/04 Items/Discount/Discount.md",
     "Horizon User Guide/04 Items/Discount",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
@@ -648,6 +703,7 @@
     "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
     "Horizon User Guide/To be continued QBO Integration (Push and Pull).md",
+    "Horizon User Guide/09 Searching on Horizon/Find Mode.md"
     "Horizon User Guide/09 Searching on Horizon/Find Mode.md",
     "Horizon User Guide/09 Searching on Horizon/Browse Mode.md"
     "Horizon User Guide/06 Invoices/Payment Plans.md",
@@ -754,4 +810,5 @@
     "Horizon User Guide/Old documentation/05 Sales Orders/Discounts"
     "Horizon User Guide/00 Assets/48_convert_product_into_a_configurator.png",
     "Horizon User Guide/00 Assets/47_create_a_new_configurator.png",
+    "Horizon User Guide/00 Assets/46_view_pick_order.png"
     "Horizon User Guide/00 Assets/46_view_pick_order.png"

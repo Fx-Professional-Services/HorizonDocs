@@ -55,17 +55,18 @@ ___
 
 11. **Making Sales Orders Taxable:**
 
-	A. Click the expand button (**>**) next to the customer’s name.  
-	B. In the customer layout, go to the **Customers** tab.  
-	C. Enter the tax rate.  
-	D. In the slaes order, click the **Tax** box next to each line item. A checkmark (✔️) will appear.  
-	E. Taxes are calculated in real-time, and the total cost will update automatically. 
+A. Click the expand button (**>**) next to the customer’s name.  
+B. In the customer layout, go to the **Customers** tab.  
+C. Enter the tax rate.  
+D. Return to your sales order and click the **Tax** box next to each line item until a checkmark (✔️) is displayed. Taxes will be calculated in real time, and the additional tax value will automatically update the **total cost**.
 
 #### Discounts
 
 12. **Applying Discounts:**
 
 - Navigate to the **Discounts** section and click **Select Discount**.
+
+- Select either a percentage discount (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and then **Done**. The discount will automatically adjust the subtotal and total costs.
 
 - In the pop-up, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) and click the add button (✚) and/or Done.
 
@@ -135,10 +136,17 @@ c. Once demand generation is complete, click **View Order** to see the generated
 To generate a sales invoice, go to the **Order** tab and click **Confirm**.
     
 ⚠️ **Important:**
-    
+
 - You cannot generate an invoice until the sales order is confirmed.
 - Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To undo the confirmation, click **Unconfirm**.
 - The **Delete All** button will no longer be available once the order is confirmed.
+
+Inventory Update
+Confirming the sales order updates the inventory.
+
+To view the inventory, click Item Management, then select Products.
+In the left pane, select the product from your sales order items.
+Once the sales order is confirmed, the values in the Sold and Demand fields will automatically update.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
@@ -147,14 +155,15 @@ To generate a sales invoice, go to the **Order** tab and click **Confirm**.
 
 ⚠️ **Important**:
 
-- Only one invoice can be generated per sales order. No additional invoices can be created after the first one. 
+- Only one invoice can be generated per sales order. Once generated, no additional invoices can be created for that order.
+- After an invoice has been generated for the order, you can no longer unconfirm the sales order. To proceed, first unconfirm the sales invoice.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
 - To view the invoice, navigate to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name  and view the associated invoices. 
 
 ### Finalize and Print
-_____
+
 16. Click **Save Changes** to apply updates.
 17. To print a hard copy of the sales order, click **Print** (🖨️) in the top right corner/ 
 
