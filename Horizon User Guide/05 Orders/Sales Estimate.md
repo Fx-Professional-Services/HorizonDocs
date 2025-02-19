@@ -14,7 +14,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 4. **Select Customer**: Click the hamburger menu (☰) to add a customer's name.
 ### Add Items to the Estimate
 
-8. **Add items to the Estimate:** Under **Sales Estimate Items**, click the hamburger menu (☰) to add items to the estimate. In the web picker, click **Select** next to the desired item, then click **Done**.
+8. **Add items to the Estimate:** Under **Sales Estimate Items**, click the **hamburger menu** (☰) to add one or more items to the estimate. In the web picker, click **Select** next to the desired item, then click **Done**.
 
 ### Manage Line Items
 
@@ -27,29 +27,40 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 	- In the confirmation prompt, click **Yes** to confirm deletion.
 
 ⚠️ **Note**: After confirmation, the **Delete All** button will no longer be available for removing line items.
+
 ### Apply Taxes and Conditions
 #### Taxes
 
 #### Set Conditions
 
-12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel. 
+
+12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel, Customer Tier, or Payment Terms.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
 ### Confirm and Print the Sales Estimate
 
-13. **Confirm the Estimate**: Click **Confirm** and wait for the status to change to **Confirmed**.
+13. **Confirm the Estimate**: 
 
-When you click the **Confirm** button, the sales order is created, and the payment terms are set based on the sales estimate selections. To view the sales order:
+Click **Confirm** and wait for the status to change to **Confirmed**.
 
-1. From the primary menu bar at the top of the Sales Estimate layout, click **Order Management**.
+When you click the **Confirm** button, a sales order is created, and the payment terms are set based on the sales estimate selections. 
+
+To view the sales order:
+
+1. From the primary menu bar at the top of the **Sales Estimate** layout, click **Order Management**.
 2. Select **Sales Order**.
 3. Click **Find Mode** from the secondary menu bar.
-4. Enter the customer's name in the **Customer** field.
+4. In the **Customer** field, enter the customer's name .
 
 The **Party**, **Items**, and **Payment Terms** in the Sales Order should match the values from the estimate.
+_________________________
+**Important Notes:**
 
-⚠️ Note: Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+* ⚠️ Once confirmed, a sales estimate is automatically generated and can be printed. The following elements cannot be modified: line items, customer tier, sales channel, and payment terms.
+
+* ⚠️ After confirming the sales estimate, the **Delete All** button will no longer be available for removing line items.
+_________________
 
 14. **Save Changes**: Click **Save Changes** to finalize modifications.
 

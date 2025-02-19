@@ -33,6 +33,11 @@
     - A confirmation dialog will appear. Click **Delete** to confirm.
     - When a BOM yield item is deleted, the BOM name in the left pane will update automatically.
 
+- **Add New Item**: Click the add button (✚) at the top right corner of the picker window. Enter the product details (name, description, replenishment method, etc.) and click **Save**.
+- **Navigate Between Items:** After selecting and adding new line items, use the up and down arrow keys to navigate between them.
+- **Delete Item**: Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box.
+- **View Item Information:** Click the **i** icon next to the item to see more detailed information.
+
 4. **Set BOM Name and Type**:
 
    - The name of the BOM will be automatically set based on the list of item names of the yield. Still, you may choose to add a BOM name.
