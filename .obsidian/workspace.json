@@ -18,11 +18,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "997f5452bce3f9a8",
             "id": "c4fae77df0ff2b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
@@ -48,6 +51,9 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create and Manage Customer and Payment Records"
+              "title": "Sales Order"
+              "title": "Start Using Horizon"
               "title": "Start Using Horizon"
               "title": "Managing Customer Payments"
               "title": "Receiving Order"
@@ -77,6 +83,7 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9e95a8a39062e7db",
             "id": "0af8de66a72831e6",
             "type": "leaf",
             "state": {
@@ -152,6 +159,15 @@
     "width": 200
   },
   "right": {
+    "id": "4a0ebff620ed6207",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f2aae8f65a3f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57e4376df19b578",
     "id": "3b222f5fcd62ecf5",
     "type": "split",
     "children": [
@@ -180,6 +196,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for Create and Manage Customer and Payment Records"
+            }
+          },
+          {
+            "id": "4f0461e4c3585b26",
               "title": "Backlinks for Sales Order"
             }
           },
@@ -204,6 +225,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from Create and Manage Customer and Payment Records"
+            }
+          },
+          {
+            "id": "39b1e23c29ddeadd",
               "title": "Outgoing links"
             }
           },
@@ -224,6 +250,7 @@
             }
           },
           {
+            "id": "57d2cf5150fc14b4",
             "id": "f7940a7fb5e4d85c",
             "id": "398265fcf87d6403",
             "id": "57d2cf5150fc14b4",
@@ -464,6 +491,26 @@
     "Horizon User Guide/04 Items/Discount",
     "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md"
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
+    "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
+    "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
+    "Horizon User Guide/Old documentation",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Bill of Materials",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
@@ -482,6 +529,7 @@
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/04 Items/All Items/Manage and Categorize Items.md",
     "Horizon User Guide/04 Items/Services",
     "Horizon User Guide/04 Items/Products",
