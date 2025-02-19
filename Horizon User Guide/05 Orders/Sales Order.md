@@ -26,8 +26,9 @@ ___
 ___
 
 7. **Adjusting Price and Quantity:**
-    
+
     - Modify the price or quantity of a line item by entering new values. The subtotal and total costs will update automatically.
+
 8. **Deleting Items:**
     
     - To remove individual items, click the "x" icon next to the item. To delete all items, click **Delete All.** 
