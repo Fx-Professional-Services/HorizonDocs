@@ -14,7 +14,7 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 4. **Select Customer**: Click the hamburger menu (☰) to add a customer's name.
 ### Add Items to the Estimate
 
-8. **Add items to the Estimate:** Under **Sales Estimate Items**, click the hamburger menu (☰) to add items to the estimate. In the web picker, click **Select** next to the desired item, then click **Done**.
+8. **Add items to the Estimate:** Under **Sales Estimate Items**, click the **hamburger menu** (☰) to add one or more items to the estimate. In the web picker, click **Select** next to the desired item, then click **Done**.
 
 ### Manage Line Items
 
