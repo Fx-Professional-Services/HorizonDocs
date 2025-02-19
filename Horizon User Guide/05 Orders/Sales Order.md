@@ -34,6 +34,7 @@ ___
 
 **💡 Tip:** To delete a product from the sales order, click **Item Management** > **Products**. In the left pane, find the product, click **Delete Record**, and confirm.
 
+
 9. **Editing Customer-Facing Details:**
     
     - Click the hamburger menu button (☰) to access the item picker.
