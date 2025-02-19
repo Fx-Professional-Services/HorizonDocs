@@ -54,6 +54,8 @@ A **Sales Estimate** serves as a preliminary document used to outline potential 
 - Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
 #### Set Conditions
 
+💡 **Tip:** To modify the sales channel, customer tier, or payment terms, click the **Delete (x)** symbol next to the item you want to change. Then, confirm the deletion by clicking **Yes** in the confirmation dialog box.
+
 11. **Setting Sales Channel, Customer Tier, and Payment Terms:**
 - Use the hamburger button (☰) next to each field in the sales estimate to adjust or select sales channel, customer tier, or payment terms.
 
