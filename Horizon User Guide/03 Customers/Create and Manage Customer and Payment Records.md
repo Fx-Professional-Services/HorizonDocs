@@ -91,8 +91,7 @@
 3. **Save Payment Card**:
     
     - Review the details and click **Save and Close** to store the payment card.
-
-	⚠️ Once saved, you cannot make changes to the payment card.
+	⚠️ **Note:** Once saved, you cannot make changes to the payment card.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
 
