@@ -153,7 +153,8 @@ Once the sales order is confirmed, the values in the Sold and Demand fields will
 
 ⚠️ **Important**:
 
-- Only one invoice can be generated per sales order. No additional invoices can be created after the first one. 
+- Only one invoice can be generated per sales order. Once generated, no additional invoices can be created for that order.
+- After an invoice has been generated for the order, you can no longer unconfirm the sales order. To proceed, first unconfirm the sales invoice.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/07_generate_invoice.png" width="350" height="300">
 
