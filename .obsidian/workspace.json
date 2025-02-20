@@ -26,6 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "Horizon User Guide/05 Orders/Sales Order.md"
+                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
@@ -64,6 +66,8 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create a Bill of Materials (BOM) Record"
+              "title": "Create and Manage Customer and Payment Records"
               "title": "Sales Estimate"
               "title": "Sales Order"
             }
@@ -820,6 +824,7 @@
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Add Procedural Steps in Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Turn an Existing Product into an Equipment.md",
     "Horizon User Guide/Old documentation/04 Products/E. All Equipment/Add a New Equipment.md",
+    "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md"
     "Horizon User Guide/Old documentation/04 Products/D. Configurators/Turn an Existing Product into a Configurator.md",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators/Create a Configurator.md",
     "Horizon User Guide/Old documentation/04 Products/D. Configurators/Add Minimum and Maximum Values.md"
