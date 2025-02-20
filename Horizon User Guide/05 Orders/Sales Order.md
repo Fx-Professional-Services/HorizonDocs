@@ -75,8 +75,8 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 💡 **Tips:**
 
+- You can add more sales order items after applying discounts, and the discount values will update accordingly.
 - To remove an applied percentage or fixed amount discount, click the (x) icon next to the discount. The total cost will adjust automatically.
-- To remove an applied percentage discount, click the "x" next to the discount. The total cost will update accordingly.
 
 #### Adding Conditions
 
@@ -105,16 +105,16 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 The new custom attribute will appear in the list thereafter.
 
-
 ### Generate Demand and Invoice
 ___
-14. **Generating Demand:**
 
-14.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
+15. **Generating Demand:**
+
+15.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
-14.2. 
+15.2. 
 
 a. To generate demand asynchronously, click **Generate Demand 2**. This allows you to continue working in other modules while the process runs.
 
@@ -132,7 +132,7 @@ c. Once demand generation is complete, click **View Order** to see the generated
 
  💡 Tip: To delete all demand records, click **delete all**. Confirm carefully, as this action is irreversible.
 
-15. **Generating Sales Invoice:**
+16. **Generating Sales Invoice:**
 
 To generate a sales invoice, go to the **Order** tab and click **Confirm**.
     
@@ -163,10 +163,10 @@ Once the sales order is confirmed, the values in the Sold and Demand fields will
 
 - To view the invoice, navigate to the **Main Menu** and select **Invoices**. Use **Find Mode** or **Browse Mode** to locate the customer's name  and view the associated invoices. 
 
-### Finalize and Print
+### **Finalize and Print**
 
-16. Click **Save Changes** to apply updates.
-17. To print a hard copy of the sales order, click **Print** (🖨️) in the top right corner/ 
+17. Click **Save Changes** to apply updates.
+18. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
 
