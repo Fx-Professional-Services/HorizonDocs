@@ -143,6 +143,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "tag:#opportunity",
                 "query": "Options",
                 "query": "negative",
                 "query": "",
@@ -171,7 +172,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -347,6 +349,12 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "ef1db907f2bf31c6",
+  "lastOpenFiles": [
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/06 Invoices/Payment Cards.md",
+    "Horizon User Guide/06 Invoices/Untitled.md",
+    "Horizon User Guide/06 Invoices/Payment ACH.md",
   "active": "fa391a19081571e9",
   "lastOpenFiles": [
     "Horizon User Guide/06 Invoices/Untitled.md",
