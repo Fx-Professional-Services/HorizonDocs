@@ -79,17 +79,16 @@
 
 ## Add Payment Card
 
-1. Click on **Add Payment Card**.
+1. Click **Add Payment Card**.
 2. **Enter Payment Card Details**:
-    - Fill out the payment details in the pop-up form:
-    - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
-    - **Card Number**: Enter your card number.
-    - **Security Code**: Enter the security code.
-    - **Expiration Date (MM/YY)**: Enter the expiration date.
-    - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
-    - **Last 4 Digits**: Enter the last four digits of your card number.
+    - Complete the payment details in the pop-up form:
+        - **Type**: Select from Visa, MasterCard, American Express, Discover, Diners Club, or JCB.
+        - **Card Number**: Enter your card number.
+        - **Security Code**: Enter the security code.
+        - **Expiration Date (MM/YY)**: Enter the expiration date.
+        - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
+        - **Last 4 Digits**: Enter the last four digits of your card number.
 3. **Save Payment Card**:
-    
     - Review the details and click **Save and Close** to store the payment card.
 	⚠️ **Note:** Once saved, you cannot make changes to the payment card.
 
