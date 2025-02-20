@@ -18,11 +18,9 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 #### 3.1 Navigate to the Sources/Yields Tab
 
 - Click the **Add Yield Item** and/or **Add Source Item** field.
-	- **Search**: Type the item name and click the search icon **(**🔎**)**.
-
-	- **Browse**: Scroll through the list and click on the item.
-
-	- Click **Done** to return.
+- **Search**: Type the item name and click the search icon **(**🔎**)**.
+- **Browse**: Scroll through the list and click on the item.
+- Click **Done** to return.
 
 	3.2.**Select Items**:
 	
