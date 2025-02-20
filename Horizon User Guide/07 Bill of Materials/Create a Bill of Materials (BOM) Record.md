@@ -65,7 +65,7 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 5. **Confirm Unit of Measure**:
 
-   - The unit of measure for each yield and source item will be automatically set. To change the unit of measure, click on the **unit** type box. In the pop-up form, select the unit of measure and click **Done**.
+   - The unit of measure for each yield and source item is set automatically. To change it, click the **Unit** field. In the picker, select a new unit of measure by clicking the **Add** button (+), then click **Done**.
 
 6. **Input the Quantity**:
 
