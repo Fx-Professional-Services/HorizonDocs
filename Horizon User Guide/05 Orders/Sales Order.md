@@ -30,8 +30,9 @@ ___
     - Modify the price or quantity of a line item by entering new values. The subtotal and total costs will update automatically.
 
 8. **Deleting Items:**
-    To remove items from the list:
-    - Click the **"x"** icon next to the item to delete it.
+
+   To remove items from the list:
+  - Click the **"x"** icon next to the item to delete it.
 	- To delete all items, click **Delete All**.
 	- In the confirmation prompt, click **Yes** to confirm deletion.
 
