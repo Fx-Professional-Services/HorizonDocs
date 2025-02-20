@@ -75,6 +75,7 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 💡 **Tips:**
 
+- To remove a discount, click the (x) icon next to the discount. The total cost updates automatically.
 - You can add more sales order items after applying discounts, and the discount values will update accordingly.
 - To remove an applied percentage or fixed amount discount, click the (x) icon next to the discount. The total cost will adjust automatically.
 
