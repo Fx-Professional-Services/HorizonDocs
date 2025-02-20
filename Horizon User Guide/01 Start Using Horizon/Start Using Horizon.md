@@ -164,10 +164,13 @@ ___
 ### Log Out of Horizon
 ___
 #### From the Main Menu:
-- Click **Log Out** at the bottom of the main menu.
+
+- Click **Log Out** at the bottom of the menu.
+
 #### From Other Pages:
-- Click **Main Menu** at the top left.
-- Then, click **Log Out** at the bottom of the main menu.
+
+- Click **Main Menu** in the top left corner.
+- Then, click **Log Out** at the bottom of the menu.
 ## Navigate the Main Menu
 
 When you log into Horizon, the **main menu** is the first thing you’ll see. Use the menus on the left side to select commands and perform tasks within the application.
@@ -254,7 +257,25 @@ Select this option to reset data and display the installed plug-ins when the app
 2. On the Horizon login page, enter your **account name** (email).
     
 3. Click **Reset Password**.
-    
+
+4. If you used your email address, click **OK** when the **Email Sent** notification appears. Then, open the Horizon email titled **Request for Password Reset**, copy the link, paste it into your browser’s address bar, and press **Return** (Mac) or **Enter** (Windows) to open FileMaker Pro.
+
+   ⚠️ Note: The link expires in 15 minutes.
+
+5. Enter your new password, deleting any system-generated password if necessary.
+
+   💡 Tip: Use the **Tab** key to move to the next field easily.
+
+6. Click **Change Password**.
+
+7. Click **OK** when the successful **Password Reset** notification appears.
+
+**To reset your password if you're logged in to Horizon**:
+
+1. Go to the main menu, and click on **All Parties.**
+
+2.  Click **Employees** tab. 
+
 4. After receiving the **Email Sent** notification, click **OK**.
     
 5. Open the email titled **Request for Password Reset**. Copy the link and paste it into your browser's address bar. Press **Return** (Mac) or **Enter** (Windows) to open FileMaker Pro.
@@ -268,6 +289,7 @@ Select this option to reset data and display the installed plug-ins when the app
 7. Click **Change Password**.
     
 8. Once you see the **Password Reset** confirmation, click **OK**.
+
 ### Reset a Password (for yourself or another user) when Logged into Horizon
 
 1. In the main menu, click **All Parties**.
