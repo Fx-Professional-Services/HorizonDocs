@@ -24,6 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
                 "file": "Horizon User Guide/05 Orders/Sales Estimate.md",
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
@@ -63,6 +64,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create a Bill of Materials (BOM) Record"
               "title": "Create and Manage Customer and Payment Records"
               "title": "Sales Estimate"
               "title": "Sales Order"
