@@ -38,7 +38,10 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 	💡**Tips:** 
 
-	1. To add a source and/or yield item:  Click the add button (✚) at the top right corner. Enter the details of the product, including name, description, replenishment method, and any other relevant information, then click **Save.** 
+	1. **Quickly Add a Source and/or Yield Item:**  
+		Click the **Add** button (✚) in the top-right corner of the picker. Enter the product details, including the name, description, replenishment method, and unit of measure. Indicate whether the product is a Sale Item, Need Pick, or Consumable by entering **1** for Yes or **0** for No. When finished, click **Save**.
+		
+	2. To delete a BOM yield item: Click on the delete button (✖︎) next to the item. A confirmation dialogue will appear; click **Delete** to confirm.
 	
 	**⚠️ Note:** If the same item appears in both the yield and source portals, an error will be displayed upon commit. To resolve this, remove the item from either portal. 
 
@@ -47,11 +50,6 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
     - Click the **Delete** button (✖︎) next to the item.
     - A confirmation dialog will appear. Click **Delete** to confirm.
     - When a BOM yield item is deleted, the BOM name in the left pane will update automatically.
-
-- **Add New Item**: Click the add button (✚) at the top right corner of the picker window. Enter the product details (name, description, replenishment method, etc.) and click **Save**.
-- **Navigate Between Items:** After selecting and adding new line items, use the up and down arrow keys to navigate between them.
-- **Delete Item**: Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialogue box.
-- **View Item Information:** Click the **i** icon next to the item to see more detailed information.
 
 4. **Set BOM Name and Type**:
 
