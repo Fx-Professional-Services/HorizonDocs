@@ -70,7 +70,10 @@ Clink on the links below to:
 2. Confirm your action by selecting **Delete** in the dialog box.
 
 This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
-# Create a New Product in the Upload Vendor Prices
+
+
+# Manage Product in the Upload Vendor Prices
+## Create a New Product in the Upload Vendor Prices
 
 Follow these steps to create a new product in the **Upload Vendor Prices** through the picker window: 
 
@@ -101,6 +104,8 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
     Click **Save** to apply your changes and close the **Quick Add: Product** window.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
+
+## Input Product Details in Upload Vendor Prices
 
 7. **Verify the New Product**  
     In the item picker, type the product name in the search box and click the search icon (🔎). The new product should appear in the results.
@@ -134,4 +139,23 @@ To mark outdated prices as inactive:
 
 By following these steps, you can maintain accurate vendor pricing information.
 
+## Enter Details in Upload Vendor Prices
 
+Follow these steps to input product details in the **Upload Vendor Prices**:
+
+1. **Navigate to Products**  
+    Open the main menu and select **Products**.
+    
+2.  **Access Upload Vendor Prices**  
+    In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
+    
+3. **Select Your Party**  
+    Choose your **Party** from the options on the left.
+    
+4. **Enter Product Details**  
+    Input the following details:
+    
+    - **Item Quantity**
+    - **Item Unit**
+    - **Vendor Quantity**
+    - **Vendor Unit**
