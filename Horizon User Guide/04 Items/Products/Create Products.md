@@ -1,30 +1,41 @@
 # Create Products
 
-Products are consumable physical items that can be created or purchased, each with associated prices (e.g., vendor prices) for picking and selling. Clink on the links below to: 
+Products are consumable physical items that can be created or purchased. Each product has associated prices (e.g., vendor prices) for picking and selling.
 
+Clink on the links below to: 
+
+* [Add a Product](add-a-product) <br>
+* [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+=======
 [Add a Product](add-a-product) <br>
 [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+[Manage Vendor Prices](manage-vendor-prices)
+
 # Manage Vendor Prices
 
-[Import Vendor Prices](import-vendor-prices)
-[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
+* [Import Vendor Prices](import-vendor-prices) <br>
+* [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 ## Add a Product
 
 ### Steps to Add a New Product
 
 1. **Navigate to Products**
     
-    - Go to the main menu and select **Products**.
-2. **Initiate New Record**
+    - From the main menu, select **Products**.
+2. **Initiate a New Product Record**
     
-    - Click on **New Record**.
-3. **Fill in Product Details**
-    
+    - Click **New Record** to begin adding a product.
+3. **Enter Product Details**
     Complete the following fields:
-
-    A.  **Name**: Enter the product name. <br>
-    B. **Replenishment Method**: Choose a restocking method (e.g., **build**, **purchase**, **stock**, **pick**). <br>
-    C.  **Preferred Vendor**: Select your vendor from the list. <br>
+    
+	A. **Name**: Enter the product name.
+	
+    B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
+    
+    C. **Preferred Vendor**:
+            1. Click the **Preferred Vendor** field.
+            2. In the vendor picker, either scroll to find the vendor's name or use the **Search** field.
+            3. Click the **Search** button 🔎 to search for a vendor.<br>
     D. **Stock to Keep**: Set the desired stock level. <br>
     E. **Unit of Measure**: Specify the unit of measurement. <br>
     F. **Best By (Time):** Specify the product's best by time. <br>
@@ -64,50 +75,50 @@ This action will permanently remove the product from your records, so proceed wi
 # Manage Product in the Upload Vendor Prices
 ## Create a New Product in the Upload Vendor Prices
 
-1. **Navigate to Products**: Open the main menu and select **Products**.
-2. **Access Upload Vendor Prices**: In the upper left corner, click on **Layout**, choose **User**, then select **Upload Vendor Prices**.
+Follow these steps to create a new product in the **Upload Vendor Prices** through the picker window: 
+
+1. **Navigate to Products**  
+    From the main menu, select **Products**.
+    
+2. **Access Upload Vendor Prices**  
+    In the upper-left corner, click **Layout**, then select **User**. From the dropdown, choose **Upload Vendor Prices**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
-3. **Select Your Party**: Choose your **Party** from the options on the left.  
-4. **Add New Product**: Click the item field next to the chosen party, then in the upper right corner, tap the add button (✚).
+3. **Select the Party**  
+    On the left, choose your **Party**, then click the item field next to it.
+4.  **Add a New Product**  
+    In the upper-right corner, click the **Add** button (✚).
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/58_add_product_upload_vendor_prices.png" width="350" height="250">
 
-5. **Enter Product Details**: Provide the product name, description, replenishment method, and unit of measure. Indicate the product type and select "Yes" or "No" for the following: consumable, sale item, or need pick.
-6. **Save Changes**: Click **Save** to confirm your changes and exit the **Quick Add: Product** window.
+5. **Enter Product Details**  
+    Fill in the following fields:
+    
+    - **Product Name**
+    - **Description**
+    - **Replenishment Method**
+    - **Unit of Measure**  
+        Then, specify whether the product is a **Consumable**, **Sales Item**, or **Need Pick** by selecting "Yes" or "No."
+6. **Save the Product**  
+    Click **Save** to apply your changes and close the **Quick Add: Product** window.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
 
-7. **Verify New Product**: In the items picker, type the product name in the search box and click the search icon (🔎). Your new product should appear in the results.
-8. **Complete Process**: Click **Done** to finish. The newly created product will display in the item column next to the party.
-
 ## Input Product Details in Upload Vendor Prices
 
-Follow these steps to input product details in the **Upload Vendor Prices**:
+7. **Verify the New Product**  
+    In the item picker, type the product name in the search box and click the search icon (🔎). The new product should appear in the results.
+    
+8. **Complete the Process**  
+    Click **Done** to finish. The newly created product will appear in the item column next to the **Party**.
 
-1. **Navigate to Products**  
-    Open the main menu and select **Products**.
-    
-2.  **Access Upload Vendor Prices**  
-    In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
-    
-3. **Select Your Party**  
-    Choose your **Party** from the options on the left.
-    
-4. **Enter Product Details**  
-    Input the following details:
-    
-    - **Item Quantity**
-    - **Item Unit**
-    - **Vendor Quantity**
-    - **Vendor Unit**
 # **Manage Vendor Prices**
 
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
 
 ## Import Vendor Prices
-
+To import vendor prices:
 1. Click **Sales Order** on the main menu.
 2. In the top left corner, click the **Options** button, then select **Vendor Prices**.
 3. In the **Upload Vendor Prices** layout, click **Import Vendor Price**.
@@ -128,4 +139,23 @@ To mark outdated prices as inactive:
 
 By following these steps, you can maintain accurate vendor pricing information.
 
-## Enter Details in Upload Vendor P
+## Enter Details in Upload Vendor Prices
+
+Follow these steps to input product details in the **Upload Vendor Prices**:
+
+1. **Navigate to Products**  
+    Open the main menu and select **Products**.
+    
+2.  **Access Upload Vendor Prices**  
+    In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
+    
+3. **Select Your Party**  
+    Choose your **Party** from the options on the left.
+    
+4. **Enter Product Details**  
+    Input the following details:
+    
+    - **Item Quantity**
+    - **Item Unit**
+    - **Vendor Quantity**
+    - **Vendor Unit**
