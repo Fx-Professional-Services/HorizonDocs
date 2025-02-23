@@ -16,8 +16,8 @@ Follow these steps to create a configurator:
     - Click **New Record**.
 4. **Enter Configurator Details:**
     
-    - Input the **name** of the configurator.
-    - Select the **unit of measure** from the picker.
+    - Enter the **name** of the configurator.
+    - Select a **unit of measure** from the picker.
 5. **Set Minimum and Maximum Values:**
     
     - Go to the **Options** tab.
