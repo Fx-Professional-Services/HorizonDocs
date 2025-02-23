@@ -112,6 +112,13 @@ The new custom attribute will appear in the list thereafter.
 ### Generate Demand and Invoice
 ___
 
+14.1.  **Generating Demand:**
+
+- Navigate to **Demand > Generate Demand**.
+    - A notification will appear when demand generation starts and completes.
+- Click **OK** when the notification appears.
+- Click **Save Changes** to finalize the process.
+
 15. **Generating Demand:**
 
 15.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
