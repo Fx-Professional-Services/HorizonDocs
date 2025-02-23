@@ -53,7 +53,7 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 4. **Set BOM Name and Type**:
 
-   - The name of the BOM will be automatically set based on the list of item names of the yield. Still, you may choose to add a BOM name.
+   - The BOM name is automatically set based on the list of item names in the yield. To assign a descriptive name to the BOM, go to the **Details** tab and edit the name.
 
 - Click the **Quantity** type box and enter the quantity for each source/yield item.
 
