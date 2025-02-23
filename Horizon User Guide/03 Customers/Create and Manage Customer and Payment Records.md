@@ -79,20 +79,18 @@
 
 ## Add Payment Card
 
-1. Click on **Add Payment Card**.
+1. Click **Add Payment Card**.
 2. **Enter Payment Card Details**:
-    - Fill out the payment details in the pop-up form:
-    - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
-    - **Card Number**: Enter your card number.
-    - **Security Code**: Enter the security code.
-    - **Expiration Date (MM/YY)**: Enter the expiration date.
-    - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
-    - **Last 4 Digits**: Enter the last four digits of your card number.
+    - Complete the payment details in the pop-up form:
+        - **Type**: Select from Visa, MasterCard, American Express, Discover, Diners Club, or JCB.
+        - **Card Number**: Enter your card number.
+        - **Security Code**: Enter the security code.
+        - **Expiration Date (MM/YY)**: Enter the expiration date.
+        - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
+        - **Last 4 Digits**: Enter the last four digits of your card number.
 3. **Save Payment Card**:
-    
     - Review the details and click **Save and Close** to store the payment card.
-
-	⚠️ Once saved, you cannot make changes to the payment card.
+	⚠️ **Note:** Once saved, you cannot make changes to the payment card.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
 
