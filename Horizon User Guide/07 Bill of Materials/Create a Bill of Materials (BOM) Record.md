@@ -75,8 +75,17 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 A. **Step Number**: Assign a sequential number to each step for clarity.    
 
-B. **Instructions**: Write clear, concise instructions for performing each step.
+B. **Instructions**: Provide clear and concise instructions for completing each step.
 
 C. **Duration**: Specify the duration for each step in the hh:mm format (e.g., 02:20).
 
+D. **Create a Task**: To use the procedure in the Bill of Materials as ad-hoc tasks for a project in **Horizon Project Management**:
+
+1. Click **Create Task** in the upper-right corner of the module.
+2. In the window that appears, enter the task name or title.
+3. Click **OK** to create the task.
+4. To review the newly created ad-hoc task, go to the **Main Menu**, select **My Tasks**, and choose **Projects**.
+5. You should see the ad-hoc task listed there.
+
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
+ 
