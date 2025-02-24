@@ -2,7 +2,6 @@
 
 **Receiving Order** is the process of receiving Purchase Order items and other additional items, ensuring your stock levels are updated to reflect newly-arrived inventory. Follow these steps to create a receiving order:
 
-
 ### 1. Navigate to the Main Menu
 
 	* Select **Sales Orders**.
@@ -37,24 +36,18 @@
 
 ⚠️ Note: The purchase price and quantity must be displayed on the Receiving Order portal.   
 
-
 ### 7. Confirm the Order
 
-	* Click the **Confirm** button to confirm the receiving order.
+A. Click the **Confirm** button to confirm the receiving order.
     
-	    - This will change the order status from **Pending** to **Confirmed** and update the inventory.
-	
-	To verify the inventory update:
+    - This will change the order status from **Pending** to **Confirmed**.
+    - It will also update the inventory.
+
+B. To verify the inventory update:
     
-    1. Go to **Item Management** > **All Items**.
-    2. Switch to **Find Mode** and enter the item name in the **Name** field.
+    - Go to **Item Management** > **All Items**.
+    - Switch to **Find Mode** and enter the item name in the **Name** field.
     - The **Received** field should display the updated value.
-    
-	* Confirming the order will also update the **Received** field in the specific Purchase Order.
-
-		* To verify this, go to **Order Management**, then select **Purchase Order**. The quantity in the **Received** field will update based on the confirmed Receiving Order items.
-    
-
 ### 8. **Unconfirm the Order**
  
 	 * To unconfirm the order, click **Unconfirm**.
@@ -62,3 +55,11 @@
 	    - This will change the order status from **Confirmed** to **Pending** and decrease the inventory.
     - Verify the inventory update by following the same steps outlined above.
 
+### 9. **Save or Undo Changes**:
+    
+    - Click **Save Changes** to keep your modifications.
+    - Click **Undo Changes** to discard them.
+### 10. **Delete an Order**:
+    
+    - To delete a specific order, select **Delete Record**.
+    - ⚠️ **Note**: You can only delete a receiving order if it has been confirmed. To confirm the order, click **Confirm**. Confirm the deletion by clicking **Yes** in the dialogue box.
