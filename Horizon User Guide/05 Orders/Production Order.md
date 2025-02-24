@@ -42,7 +42,9 @@ A production order details the item to be produced, its required materials, and 
 	7.1. The **BOM** (Bill of Materials) yield items will be added.
 	
 	7.2. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+8. **View Production Order Details**
 
+*  Under the **Order** tab, you will see the production order details, including yield and source items, quantity, and unit of measure.
 
 ### 9. Assign Employee
 
