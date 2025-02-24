@@ -1,5 +1,14 @@
 {
   "main": {
+    "id": "ac56ee39d5a44de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c43a2546ad7e26a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fae77df0ff2b72",
     "id": "d411044599eaaf4d",
     "type": "split",
     "children": [
@@ -23,6 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/08 Invoices/Payment Terms.md",
                 "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -31,6 +41,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Production Order"
               "title": "Create a Bill of Materials (BOM) Record"
               "title": "Payment Terms"
               "title": "Create or Convert to a Configurator"
@@ -59,6 +70,15 @@
     "direction": "vertical"
   },
   "left": {
+    "id": "b1b77ce63edf5bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5d21fa793e2127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af8de66a72831e6",
     "id": "e4551eed117c589b",
     "type": "split",
     "children": [
@@ -89,6 +109,7 @@
             }
           },
           {
+            "id": "b13cc60e125d0e48",
             "id": "d8f69a537d0f52a8",
             "id": "a4b0240f0ab86475",
             "type": "leaf",
@@ -110,6 +131,7 @@
             }
           },
           {
+            "id": "bf452b8e79218608",
             "id": "bab6c1184071ce6a",
             "id": "c03a7a95ec877553",
             "type": "leaf",
@@ -127,6 +149,15 @@
     "width": 300
   },
   "right": {
+    "id": "3b222f5fcd62ecf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ada1275a1f88dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddde3409d3ac0404",
     "id": "2a6868fa60aa8e9b",
     "type": "split",
     "children": [
@@ -160,6 +191,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "25be91d8cc1cfc23",
               "title": "Backlinks for Create or Convert to a Configurator"
               "title": "Backlinks for Invoices"
             }
@@ -176,6 +212,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ede9d55c6eaa0c52",
               "title": "Outgoing links from Invoices"
             }
           },
@@ -196,6 +237,13 @@
             }
           },
           {
+            "id": "728a7c386edff6d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             "id": "ba12dab7bed758df",
             "id": "d68e215d80624333",
             "type": "leaf",
@@ -229,6 +277,18 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "c4fae77df0ff2b72",
+  "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Return Order.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/05 Orders/Return Order",
+    "Horizon User Guide/05 Orders/Address Demand.md"
   "active": "8116e1301862bc60",
   "lastOpenFiles": [
   "active": "c4fae77df0ff2b72",

@@ -23,11 +23,11 @@ A production order details the item to be produced, its required materials, and 
 
     ⚠️ Note: Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
     
-### 4. View Batch Name
+### 4. **View Batch Name**
 
-- After generating demand, go to **Supply and Demand** and select **Demand Batch List** under your user account to view the batch name.
+- To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
 
-### 5. Choose Demand
+### 5. **Choose Demand**
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
@@ -76,6 +76,7 @@ A production order details the item to be produced, its required materials, and 
 * To delete or modify a specific line item, click the delete button (x) next to that item.
 
 * To delete or modify all line items at once, click the **Delete** button above the list of line items.
+
 ### 16. Confirm Actions
  
 Click **confirm** to complete the following actions:
