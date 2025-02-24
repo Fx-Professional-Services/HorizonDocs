@@ -20,9 +20,10 @@ Clink on the links below to:
 [Manage Vendor Prices](manage-vendor-prices)
 
 # Manage Vendor Prices
+[Import Vendor Prices](import-vendor-prices) <br>
+[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
+[Set Active Vendor Price to Inactive During Import](set-active-vedor-price-to-inactive-during-import) <br>
 
-* [Import Vendor Prices](import-vendor-prices) <br>
-* [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 ## Add a Product
 
 ### Steps to Add a New Product
@@ -149,6 +150,26 @@ To mark outdated prices as inactive:
 5. **Set Prices Inactive**: Enter 0 in the **Active** column to deactivate the price.
 
 By following these steps, you can maintain accurate vendor pricing information.
+
+
+## Set Active Vendor Price to Inactive During Import
+
+1. Navigate to **Sales Order** > **Options** > **Vendor Prices**.
+2. In the upper right corner, click **Import Vendor Price**.
+3. Specify the **Import Order** for the target fields.  
+    **Note**: The **Source Fields** should match the **Target Fields**.
+4. Click **Import**.
+5. In the **Import Summary**, click **OK** to confirm the import.
+
+To display the toolbar:
+
+- Press **Option + Command + S** (on Mac) or **Control + Alt + S** (on Windows).
+- Click **Show All**.
+
+This will:
+
+- Automatically set the previously active vendor prices to inactive in the related data of the imported vendor price.
+- Update the prices based on the new vendor prices uploaded to the system.
 
 ## Enter Details in Upload Vendor Prices
 
