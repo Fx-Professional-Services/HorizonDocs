@@ -26,33 +26,26 @@ To add a new service:
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/54_verify_the_new_service.png" width="350" height="250">
 ## Convert an Existing Product into a Service
 
-Follow these steps to convert an existing product into a service:
+To convert an existing product into a service, follow these steps:
 
-1. **Access Services Management**  
-    Go to **Item Management** and select **Services**.
+1. **Access Services:**
     
-2. **Select Existing Product**  
-    Click **Select Existing**. In the window that appears, search for the product you want to convert. Click the **add** button (✚) next to the product to add it to the service list and close the window.
+    - Go to **Item Management** and select **Services**.
+2. **Select the Product to Convert**: 
     
-3. **Edit Service Information**  
-    In the **Services** file, complete any additional details, such as:
+    - Click **Select Existing**. In the window that appears, search for the product you want to convert. 
+    - Click the **Add** button (✚) next to the product. This will add the product to the service list and close the window.
+3. **Edit Service Information**:
     
-    - **Replenishment Method**
-    - **Unit of Measure**
-    - **Minimum Quantity**
-
-4. **Specify Role and Job Title**  
-    Enter the **Role Name** and select your **Job Title** using the picker icon. Choose your job title from the list and click **Done**.
+    - On the **Services** layout, provide any additional details such as **Replenishment Method**, **Unit of Measure**, and **Minimum Quantity**.
+4. **Specify Role and Job Title**:
     
-5. **Adjust Service Settings**  
-    Configure settings for the following as needed:
+    - Enter the **Role Name** and select your **Job Title** using the picker. Choose a job title from the list and click **Done**.
+5. **Adjust Service Subtypes**:
     
-    - **Consumable**
-    - **Sale Item**
-    - **Scale Quantity**
-6. **Verify Conversion**
+    - Modify the subtype for **Consumable**, **Sale Item**, and/or **Scale Quantity**, as necessary.
+6. **Verify Conversion**:
     
-    - Go to **Item Management** and select **All Items**.
-    - Switch to **Find Mode**, enter the name of your newly converted service, and confirm that the **Service** box is checked.
-    - Ensure the settings for **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections.
-
+    - Go back to **Item Management** and select **All Items**.
+    - Switch to **Find Mode**, enter the name of the  newly converted service, and confirm that the **Service** box is checked. 
+    - Ensure the settings for **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 

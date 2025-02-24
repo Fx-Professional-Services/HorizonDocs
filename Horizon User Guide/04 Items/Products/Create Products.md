@@ -1,5 +1,13 @@
 # Create Products
 
+Products are consumable physical items that can be built  or purchased, each with associated prices (e.g., vendor prices) for picking and selling. Use the links below to: 
+
+* [Add a Product](add-a-product) <br>
+* [Create a New Product in the Upload Vendor Prices](create-a-new-product-in-the-upload-vendor-services) <br>
+# Manage Vendor Prices
+
+* [Import Vendor Prices](import-vendor-prices)
+=======
 Products are consumable physical items that can be created or purchased. Each product has associated prices (e.g., vendor prices) for picking and selling.
 
 Clink on the links below to: 
@@ -22,46 +30,50 @@ Clink on the links below to:
 1. **Navigate to Products**
     
     - From the main menu, select **Products**.
+
 2. **Initiate a New Product Record**
     
     - Click **New Record** to begin adding a product.
+    
 3. **Enter Product Details**
     Complete the following fields:
     
 	A. **Name**: Enter the product name.
 	
-    B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
+  B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
     
-    C. **Preferred Vendor**:
+  C. **Preferred Vendor**:
             1. Click the **Preferred Vendor** field.
             2. In the vendor picker, either scroll to find the vendor's name or use the **Search** field.
             3. Click the **Search** button 🔎 to search for a vendor.<br>
-    D. **Stock to Keep**: Set the desired stock level. <br>
-    E. **Unit of Measure**: Specify the unit of measurement. <br>
-    F. **Best By (Time):** Specify the product's best by time. <br>
-    G. **Active BOM**: Select an active BOM to use for demand generation.
-	      - Click the **Active BOM** field.
-        - In the pop-up, choose an item by:
-	           - Clicking the **Add** button (✚), or
-	           - Typing its name in the search box.
-	           - Click **Done** to return to the main layout.<br>
+  D. **Stock to Keep**: Set the desired stock level. <br>
+  E. **Unit of Measure**: Specify the unit of measurement. <br>
+  F. **Best By (Time):** Specify the product's best by time. <br>
+  G. **Active BOM**: Select an active Bill of Materials (BOM) for demand generation.
+	* Click the **Active BOM** field.
+	- In the pop-up, choose an item by:
+	    * Clicking the **Add** button (✚), or
+	    * Typing the item's name in the search box.
+	    * Click **Done** to return to the main layout.<br>
 
-    H. **Lead Type**: Specify the time needed before fulfilling an order. It will be calculated based on your selections. You can specify lead type in one of the following ways: <br> 
+  H. **Lead Type**: Specify the time required before fulfilling an order. The lead time is calculated based on your selection: <br> 
         - **Days in Advance**: Enter the number of days before fulfillment. <br>
-        - **Day of the Week**: Enter a number (1-7) for the day(s) of the week, where 1 is Sunday. Separate multiple days with commas. <br>
+        - **Day of the Week**: Enter a number (1-7) for the day(s) of the wee (1 = Sunday). Separate multiple days with commas. <br>
         - **Day of the Month**: Enter a number (1-31) for the day(s) of the month. Separate multiple days with commas. <br>
-	💡 Tips for Setting Lead Time <br>
+	💡 Tips for Setting Lead Time: <br>
 	- To select multiple days, separate the numbers with commas. <br>
-	Examples: 
-- **Days of the Week**: Selecting "2" for the day and "15:00" sets the lead time to Monday at 3:00 PM. <br>
-- **Days of the Month**: Selecting "31" and "15:00" sets the lead time to the 31st of the month at 3:00 PM. <br>
-- **Multiple Days**: Selecting “2, 4” and "15:00" sets lead times for both Monday and Wednesday at 3:00 PM. If the best by time is Thursday, the system defaults to Wednesday for freshness. <br>
+	- Example 1: For **Days of the Week**: Selecting "2" for the day and "15:00" sets the lead time to Monday at 3:00 PM. <br>
+	- Example 2: For **Days of the Month**: Selecting "31" and "15:00" sets the lead time to the 31st of the month at 3:00 PM. <br>
+	- Example 3: For **Multiple Days**: Selecting “2, 4” and "15:00" sets lead times for both Monday and Wednesday at 3:00 PM. If the best-by time is Thursday, the system defaults to Wednesday for freshness. <br>
 
-	I. **Category**: Choose the category of the product by checking the box next to one of the following options: <br>
+I. Subtypes: Select the item subtype by checking the box next to one of the following options: <br>
 		- **Need Pick**: Items requiring manual retrieval for orders. <br>
 		- **Consumable**: Items used up after use (e.g., food, supplies). <br>
 		- **Sale Item**: Products intended for resale to customers. <br>
-
+	**⚠️ Note:** To verify if the item subtypes match your selections in the product layout: 
+	1. Go to **Item Management** > **All Items**. 
+	2. Click **Find Mode** to find the item from the left pane. 
+	3. The selected item subtypes should be appear Yes, reflecting your earlier choices. 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/56_create_products.png" width="350" height="250">
 
 ⚠️ **Note:** To delete a product record:
@@ -70,7 +82,6 @@ Clink on the links below to:
 2. Confirm your action by selecting **Delete** in the dialog box.
 
 This action will permanently remove the product from your records, so proceed with caution. To verify the deletion, go to **Item Management**, select **All Items**, click **Find Mode**, and enter the name of the deleted product in the name field. You should see no results.
-
 
 # Manage Product in the Upload Vendor Prices
 ## Create a New Product in the Upload Vendor Prices
