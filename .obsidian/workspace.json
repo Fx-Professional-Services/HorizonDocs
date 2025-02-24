@@ -14,6 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/08 Invoices/Payment Terms.md",
                 "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "file": "Horizon User Guide/06 Invoices/Payment Plans.md",
@@ -21,6 +22,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Payment Terms"
               "title": "Create or Convert to a Configurator"
               "title": "Create Products"
               "title": "Payment Plans"
@@ -73,6 +75,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "customer facing name",
                 "query": "note",
                 "query": "Upload Vendor",
                 "query": "",
@@ -196,6 +199,17 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/06 Supply and Demand/Address Demand.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -216,11 +230,9 @@
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
-    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/08 Invoices/Payment Terms.md",
     "Horizon User Guide/08 Invoices/Payment Cards.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
     "Untitled.md",
     "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/09 Units and Categories",
@@ -258,13 +270,14 @@
     "Horizon User Guide/08 Invoices/Payment ACH.md",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/08 Invoices/Invoices.md",
-    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
     "Horizon User Guide/08 Invoices",
     "Horizon User Guide/07 Bill of Materials",
-    "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/06 Supply and Demand",
     "Horizon User Guide/05 Orders/Return Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/04 Items/Services",
+    "Horizon User Guide/04 Items/Products",
+    "Horizon User Guide/04 Items/Equipment",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
     "Horizon User Guide/04 Items/Services",
     "Horizon User Guide/04 Items/Products",
