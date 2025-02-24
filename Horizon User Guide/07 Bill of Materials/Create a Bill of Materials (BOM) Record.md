@@ -67,24 +67,16 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 7. **Add Procedural Steps**: 
 
-7.1. Navigate to the **Procedure** tab located next to the **Sources/Yields** tab.
-
-- **Step Numbers:** Assign sequential numbers for clarity.
-- **Instructions:** Provide clear and concise instructions for each step.
-- **Duration:** Specify the duration for each step in hh:mm format (e.g., 02:20).
-
-### ⚠️ **Note**
-
-To delete the BOM record, click **Delete Record** in the navigation buttons. Confirm the deletion by selecting **Delete** in the dialog box.
+7.1. Go to the **Procedure** tab located next to the **Sources/Yields** tab.
 
    💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
    
 7.2. In the Procedure tab, input the following details for each step. 
 
-A. **Step Numbers**: Assign sequential numbers to each step for clarity.    
+A. **Step Number**: Assign a sequential number to each step for clarity.    
 
-B. **Instructions**: Provide clear and concise instructions for executing each step.
+B. **Instructions**: Write clear, concise instructions for performing each step.
 
-C. **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
+C. **Duration**: Specify the duration for each step in the hh:mm format (e.g., 02:20).
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
