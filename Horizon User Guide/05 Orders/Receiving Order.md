@@ -25,11 +25,19 @@ Receiving orders is the process of updating your stock levels by recording the a
     - In the picker, select the items you want to add.
     - Click the add button (✚), then click **Done**.
 
-7. **Confirm the Order**:
+7. Confirm the Order
+
+A. Click the **Confirm** button to confirm the receiving order.
     
-    - Click the **Confirm** button. This updates the inventory, marks the purchase items as received, and sets the order status to **confirmed.**
-    -  ⚠️ **Note**: To unconfirm the order, click the **Unconfirm** button. This will decrease the inventory and mark the items as pending.
-    - To verify that the received quantity for specific items has been adjusted, go to **Item Management**, select **All Items**, switch to **Find Mode**, and enter the item's name. Check the **Received** field to see the updated quantity.
+    - This will change the order status from **Pending** to **Confirmed**.
+    - It will also update the inventory.
+
+B. To verify the inventory update:
+    
+    - Go to **Item Management** > **All Items**.
+    - Switch to **Find Mode** and enter the item name in the **Name** field.
+    - The **Received** field should display the updated value.
+
 8. **Save or Undo Changes**:
     
     - Click **Save Changes** to keep your modifications.
