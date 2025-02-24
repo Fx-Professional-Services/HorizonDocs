@@ -114,7 +114,25 @@ Click **confirm** to complete the following actions:
 
 ### 20. Copy Production Procedure
 
-* Click **Copy Procedure** to duplicate the entire production order procedure for reuse or modification.
+To copy a procedure from a Bill of Materials (BOM):
+
+1. Go to **Item Management** and click **BOM**.
+    
+2. Select a BOM from the left pane.
+    
+3. In the **Procedure** tab, enter the following details for each step:
+    
+    - **Step Numbers**: Assign sequential numbers to each step for clarity.
+    - **Instructions**: Provide clear, concise instructions for each step.
+    - **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
+4. To duplicate the entire procedure for reuse or modification, follow these steps:
+    
+    1. Go back to the **Production Order** you were working on.
+    2. Click **Orders** from the primary navigation menu, then select **Production Order**.
+    3. Find the desired **Production Order**.
+    4. In the **Procedure** tab, click **Copy Procedure**.
+
+The procedure from the BOM is copied, and you can modify it as needed.
 
 ### 21. Save Changes
 
