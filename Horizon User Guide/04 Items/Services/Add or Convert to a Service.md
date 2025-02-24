@@ -49,4 +49,3 @@ To convert an existing product into a service, follow these steps:
     - Go back to **Item Management** and select **All Items**.
     - Switch to **Find Mode**, enter the name of the  newly converted service, and confirm that the **Service** box is checked. 
     - Ensure the settings for **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 
-

@@ -34,4 +34,26 @@ To convert an existing product to equipment, follow these steps:
 	* Return to **Item Management** and select **All Items**. 
 	* Switch to **Find Mode**, type in the product name, and verify that the **Equipment** field is checked.
 
+Follow these steps to convert a product to equipment:
+
+1. **Access the Main Menu**  
+    Open the main menu and select **Products**.
+    
+2. **Go to Item Management**  
+    In **Item Management**, click **Equipment**.
+    
+3. **Select Existing Product**  
+    Click **Select Existing**. In the pop-up window, find the product you want to convert. You can either scroll through the list or search by typing the item’s name and clicking the search icon (🔎). Select the item by clicking the **add** button (✚).
+    
+4. **Enter Equipment Details**  
+    Enter the **Unit of Measure** and **Turnaround Time** for the equipment.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/51_convert_product_to_equipment.png" width="350" height="250">
+
+5. **Save Changes**  
+    Return to **Item Management** and select **All Items** to save your changes.
+    
+6. **Verify the Conversion**  
+    Switch to **Find Mode**, type in the item’s name, and verify that the **Equipment** field is checked.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/52_product_to_equipment.png" width="350" height="250">
