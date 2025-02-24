@@ -39,9 +39,13 @@ A production order details the item to be produced, its required materials, and 
 ### 7. Order Status
 
 - Once the production order is created: <br>
-	7.1. The **BOM** (Bill of Materials) yield items will be added.
+
+	7.1. The **BOM** (Bill of Materials) yield items will be added. 
+
+	7.2. You can now address demands. To address a demand, click **View 1 Demand** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the production order. To unaddress the demand, click the **Remove** button (-).
 	
-	7.2. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+	7.3. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+	
 8. **View Production Order Details**
 
 *  Under the **Order** tab, you will see the production order details, including yield and source items, quantity, and unit of measure.
