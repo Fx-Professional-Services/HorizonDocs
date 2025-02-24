@@ -7,7 +7,7 @@ A production order details the item to be produced, its required materials, and 
 ### 1. Navigate to Supply and Demand
 
 - From the main menu, select **Supply and Demand**. 
-- Click **Supply and Demand** from the primary navigation tabs, then select **Demand List**. 
+- Click **Supply and Demand** from the primary menu bar, then select **Demand List**. 
 
 ###  2. Filter Demand Types
 
