@@ -34,42 +34,47 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 6. **Create Pick Order**
 
-- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
+- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 
 
 7. **Order Status**
 
 - Once created, the order will have a serial number and its status will change to **View Order**.
 
+
+8. **Add Pick Order Item**
+
+* In the Temporary Order Item list, click **Add Pick Order Item** or **Add All Items** to add selected items to the pick order. 
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_view_pick_order.png" width="350" height="250">
 
-8. **Proceed to View Order**
+9. **Proceed to View Order**
 
-- Click **View Order** to continue.** 
+- Click **View Order** to continue. The added pick order item will be displayed in the Pick Order layout.
 
-9. **Assign Employee**
+10. **Assign Employee**
 
 - In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
 
-10. **Enter Finished Date**
+11. **Enter Finished Date**
 - Input the **Finished** date.
 
-11. **Adjust Pick Order Items**
+12. **Adjust Pick Order Items**
 
 - In the **Pick Order Items** section, you can add items and adjust their quantities.
 
-12. **Delete Line Item**
+13. **Delete Line Item**
 
 - To remove a line item, click the delete button (**x**) next to it.
 💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
   
 **<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
-13. **Additional Information**
+14. **Additional Information**
 
 - Tap the **i** icon for more details.
 
-14. **Confirm Details**
+15. **Confirm Details**
 - Click **Confirm** to verify and finalize the details.
 
-15. **Save Changes**
+16. **Save Changes**
 - Click **Save Changes** to keep your modifications.

@@ -9,8 +9,9 @@
 5. In the **To** field, specify the unit of measure you want to convert to.
 * **Using Find Mode**: To quickly find units of measure, click **Find Mode**, enter the units in the search field for the **From** and **To** fields, select the conversion factor from the left pane, then click the **Swap** button (🔄).
 6. Enter the conversion rate.
-7.**Select the vendor**: Choose the vendor from whom the item will be purchased.
-8.**Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
+7. **Select the item**: Choose the item for which you want to apply the conversion factor.
+8.**Select the vendor**: Choose the vendor from whom the item will be purchased.
+9.**Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
 ## Assign Categories to All Items in Found Set 
 
@@ -22,7 +23,10 @@
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
 7. A dialog box will prompt you to apply the category to all records in the found set. Choose **Yes** to apply it to all items or **No** to apply it only to the selected item.
 8. To review your changes, go to **Units and Categories**, then select **Categories**.
-9. In the left panel, select the category you assigned. The items should now be categorized as selected.
+9. In the left pane, select the category you assigned. The items should now be categorized as selected.
+  - To verify, navigate to **Item Management > All Items**, and enter the item name in **Find Mode**.
+  - Click the **Categories** tab.
+  - Verify that the correct category is linked to the item and check its type. 
 
 
 ### Definition of Terms:  
