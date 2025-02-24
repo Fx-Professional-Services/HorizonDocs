@@ -1,7 +1,7 @@
 
 # Payment Cards
 
-## Create a Payment Card
+##### Create a Payment Card
 
 1. Access the Payment Cards Module
 
@@ -9,7 +9,7 @@
 
 2. Create a New Payment Card
 
-- In the **Invoices module**, click **Options** in the secondary navigation. Then, select **New Record**.
+- In the **Invoices module**, click **Options** in the secondary menu bar. Then, select **New Record**.
 
 3. Select a Customer
 
@@ -33,3 +33,10 @@
 - Enter the **Expiration Date** in MM/YY format.
 - Enter the **Zip Code**.
 - Enter the **Last 4 digits** of the card number.
+
+
+##### Delete a Payment Card
+
+6. In the left pane, select the payment card you want to delete.
+7. Click **Delete Record**.
+8.  In the confirmation dialog, click **Delete** to proceed.
