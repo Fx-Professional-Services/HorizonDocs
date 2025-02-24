@@ -1,5 +1,14 @@
 {
   "main": {
+    "id": "d411044599eaaf4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf930482d632028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8116e1301862bc60",
     "id": "4697b9a56d8c8d07",
     "type": "split",
     "children": [
@@ -22,6 +31,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create a Bill of Materials (BOM) Record"
               "title": "Payment Terms"
               "title": "Create or Convert to a Configurator"
               "title": "Create Products"
@@ -49,6 +59,15 @@
     "direction": "vertical"
   },
   "left": {
+    "id": "e4551eed117c589b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbf6b8001456141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba955890d78c8f6c",
     "id": "4fcfaaca9af073bc",
     "type": "split",
     "children": [
@@ -70,6 +89,7 @@
             }
           },
           {
+            "id": "d8f69a537d0f52a8",
             "id": "a4b0240f0ab86475",
             "type": "leaf",
             "state": {
@@ -90,6 +110,7 @@
             }
           },
           {
+            "id": "bab6c1184071ce6a",
             "id": "c03a7a95ec877553",
             "type": "leaf",
             "state": {
@@ -99,14 +120,22 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+    "id": "2a6868fa60aa8e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2cfba788fe2d79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17f26c14daa28736",
     "id": "38aed220cb2d9471",
     "type": "split",
     "children": [
@@ -136,6 +165,7 @@
             }
           },
           {
+            "id": "c44cdf34b001d92c",
             "id": "b4714db9430799a2",
             "type": "leaf",
             "state": {
@@ -150,6 +180,7 @@
             }
           },
           {
+            "id": "931d026d88aef9c1",
             "id": "9426e26c25253845",
             "type": "leaf",
             "state": {
@@ -165,6 +196,7 @@
             }
           },
           {
+            "id": "ba12dab7bed758df",
             "id": "d68e215d80624333",
             "type": "leaf",
             "state": {
@@ -197,6 +229,8 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "8116e1301862bc60",
+  "lastOpenFiles": [
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
     "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
@@ -246,6 +280,9 @@
     "Horizon User Guide/06 Invoices/Payment ACH.md",
     "Horizon User Guide/06 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/05 Orders/Address Demand.md"
     "Horizon User Guide/06 Invoices",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",

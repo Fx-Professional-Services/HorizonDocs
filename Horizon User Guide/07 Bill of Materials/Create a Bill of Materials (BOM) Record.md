@@ -88,4 +88,42 @@ D. **Create a Task**: To use the procedure in the Bill of Materials as ad-hoc ta
 5. You should see the ad-hoc task listed there.
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
- 
+
+8. **Update BOM Cost**:
+
+In the **Sources/Yields** tab, click **Update Cost** in the secondary navigation tabs to update BOM cost. This will update the **Subtotal** and **Total** costs. 
+
+To resolve issues that may arise when updating the BOM costs, follow these steps:
+
+1. **Missing Unit of Measure for BOM Cost Update**
+
+If a dialog appears stating that the unit cost cannot be calculated due to a missing unit of measure:
+
+1. Click the **Expand** button (>) next to the line item to open the **Products > Details** page.
+2. Click the **Costs** tab.
+3. Enter the unit of measure for the item. 
+___
+2. **Missing BOM Unit of Measure Conversion**
+
+If no BOM unit of measure conversion exists, you cannot update the BOM cost. To resolve this:
+
+1. Go to **Horizon Order > Units and Categories > Conversion Factors**.
+2. Click **New Record**.
+3. Add the conversion factor between the units of measure.
+4. In the **Specific** field, add the source item to apply the conversion to that product only.
+___
+3. **Updating BOM Cost After Source Item Quantity Change**
+
+After updating the quantity for each source item, you will be prompted to update the BOM cost:
+
+1. Click **OK** in the dialog box.
+2. Click **Update Cost**.
+3. The **Subtotal** and **Total Cost** will be updated.
+___
+4. **No BOM Set for Source Item**
+
+If no BOM is set for the source item and its replenishment method is **Build**, follow these steps:
+
+1. Click the **Expand** button (>) next to the line item to open the **Products > Details** page.
+2. In the **Details** tab, update the **Active BOM**.
+3. Return to the BOM page and click **Update Cost** to update the BOM price and total cost.
