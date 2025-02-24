@@ -4,85 +4,92 @@
 
 A production order details the item to be produced, its required materials, and the production timeframe, ensuring proper resource allocation. To create a production order based on demand, follow these steps:
 
-1. **Navigate to Supply and Demand**
+### 1. Navigate to Supply and Demand
 
 - From the main menu, select **Supply and Demand**. 
-- Click **Supply and Demand** from the primary navigation tabs, then select **Demand List**. 
+- Click **Supply and Demand** from the primary menu bar, then select **Demand List**. 
 
-2. **Filter Demand Types**
+###  2. Filter Demand Types
 
 - In the demand list, uncheck any irrelevant demand types (e.g., pick demand, purchase demand) until only **build demand** remains checked. Then click **Search**. 
-- Alternatively, press Command + F (Mac) or Control + F (Windows), and type **Build** in the **Source** field. 
+- Alternatively, press **Command + F** (Mac) or **Control + F** (Windows), and type **Build** in the **Source** field. 
 
 	💡 **Tip:** To find demand from a specific customer, **enter the customer’s name** or **order number** in the search fields.
 
-3. **Select Build Demand**
+### 3. Select Build Demand
 
 - To address a specific **Build Demand** item, click **build** x item (e.g., Lemon Meringue Tart). 
 - To address all build demands at once, click **address all x demands.** 
 
     ⚠️ Note: Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
     
-4. **View Batch Name**
+### 4. **View Batch Name**
 
 - To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
 
-5. **Choose Demand**
+### 5. **Choose Demand**
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
 
-6. **Create Production Order**
+### 6. Create Production Order
 
-- In the Temporary Order Item list, production orders are grouped by date and order number. Click **Create Order** for the desired production order.
+- In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** for the desired production order.
 
-7. **Order Status**
+### 7. Order Status
 
 - Once the production order is created: <br>
-	7.1. The BOM yield items will be added. 
+
+	7.1. The **BOM** (Bill of Materials) yield items will be added. 
+
+	7.2. You can now address demands. To address a demand, click **View 1 Demand** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the production order. To unaddress the demand, click the **Remove** button (-).
 	
-	7.2. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+	7.3. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
+	
+8. **View Production Order Details**
 
+*  Under the **Order** tab, you will see the production order details, including yield and source items, quantity, and unit of measure.
 
-9. **Assign Employee**
+### 9. Assign Employee
 
 * In the the **Order** tab, assign an employee responsible for the order by clicking **Click here to select employee**.
 
-10. **Enter Production Dates** 
+### 10. Enter Production Dates 
 * Enter the dates for when you **Started** and **Finished** the production order.
 
-11. **Select Location**
-* To select the **Location** for storing the yielded items, click **Options**, then select **Feature Flags**, and choose **Production Order**.
+### 11. Select Location
+* To select the **Location** for storing the yielded items, click **Options**, select **Feature Flags**, and choose **Production Order**.
 
-12. **Adjust Product Quantities**
+### 12. Adjust Product Quantities
 * In the **Production Order Items** section, select the product type (**Yield** or **Source**) and adjust the product quantity as needed. 
 
-13. **Use the Reverse Button** 🔄
-	Click the **Reverse** button  to revert recent changes and restore previous settings.
+### 13. Use the Reverse Button 🔄
 
-	- **Adjusting Quantities:** If you change the quantity of an item (e.g., from 20.16 to 30 ounces), clicking the **Reverse** button will prompt you to confirm the update. After confirmation, the system will adjust the BOM to reflect the specified quantity.
+* Click the **Reverse** button  to revert recent changes and restore previous settings.
+
+	- **Adjusting Quantities:** If you change the quantity of an item (e.g., from 20.16 to 30 ounces), click the **Reverse** button to confirm the update. After confirmation, the system will adjust the BOM with the new quantity.
 	
 	- **Restoring Deleted Items:** If you accidentally delete an item, the **Reverse** button will restore it with the correct quantity once you confirm the action.
 	
 	- **Handling Changes:** The **Reverse** button will revert modified quantities to their previous values. Newly added items will not be affected or removed.
 	
-14. **Access Additional Settings:**
+### 14. Access Additional Settings:
 
-* Click the gear icon to access additional settings or click the i icon for more information.
+* Click the gear icon to access additional settings, or click the i icon for more information.
 
-15. **Delete or Modify Line Items**
+### 15. Delete or Modify Line Items
 
 * To delete or modify a specific line item, click the delete button (x) next to that item.
 
 * To delete or modify all line items at once, click the **Delete** button above the list of line items.
- 
- 16. **Confirm Actions**
+
+### 16. Confirm Actions
  
 Click **confirm** to complete the following actions:
 
 - Confirm the Production Order. A successful production will display a **Location** and **Lot Number** in the Location Module. To review, go to **Item Management**, select **Location**, and choose the specific location from the left pane. Verify that the yielded item is displayed.
 
-	⚠️ **Note:** An unsuccessful production is often due to not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
+	⚠️ **Note:** If production is unsuccessful, it may be due to not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
 	
 - Assign yield items to **Built** in inventory (+).
 - Assign source items to **Consumed** in inventory (+).
@@ -97,23 +104,42 @@ Click **confirm** to complete the following actions:
 	- Delete created locations.
 	- Reverse updates.
 
-17. **Add Production Instructions**
+### 17. Add Production Instructions
 
 * Go to the **Procedure** tab and add step-by-step production instructions. 
 
-18. **Enter Time and Track Progress
+### 18. Enter Time and Track Progress
 
 * Enter the estimated time duration for each step and check them off as they are completed.
 
-19. **Track Production Time**
+### 19. Track Production Time
 
 * Use the **Play button** to start and pause the timer. Click the **Flag icon** to mark the process as finished.
 
-20. **Copy Production Procedure**
+### 20. Copy Production Procedure
 
-* Click **Copy Procedure** to duplicate the entire production order procedure for reuse or modification.
+To copy a procedure from a Bill of Materials (BOM):
 
-21. **Save Changes**
+1. Go to **Item Management** and click **BOM**.
+    
+2. Select a BOM from the left pane.
+    
+3. In the **Procedure** tab, enter the following details for each step:
+    
+    - **Step Numbers**: Assign sequential numbers to each step for clarity.
+    - **Instructions**: Provide clear, concise instructions for each step.
+    - **Duration**: Specify the duration for each step in hh:mm format (e.g., 02:20).
+4. To duplicate the entire procedure for reuse or modification, follow these steps:
+    
+    1. Go back to the **Production Order** you were working on.
+    2. Click **Orders** from the primary navigation menu, then select **Production Order**.
+    3. Find the desired **Production Order**.
+    4. In the **Procedure** tab, click **Copy Procedure**.
+
+The procedure from the BOM is copied, and you can modify it as needed.
+
+### 21. Save Changes
+
 * Click **Save Changes** to keep your modifications. 
 
 
