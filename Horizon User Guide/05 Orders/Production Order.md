@@ -114,7 +114,8 @@ Click **confirm** to complete the following actions:
 
 ### 19. Track Production Time
 
-* Use the **Play button** to start and pause the timer. Click the **Flag icon** to mark the process as finished.
+- Click the **Play** button to start or pause the timer.
+- Click the **Flag** icon to indicate that the process is complete.
 
 ### 20. Copy Production Procedure
 
