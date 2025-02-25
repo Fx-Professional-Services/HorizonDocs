@@ -1,5 +1,6 @@
 
 
+
 3. **Enter Lead Details**  
 Fill in the following information:
 
@@ -10,8 +11,14 @@ Fill in the following information:
 
 5. **Review Linked Opportunity**
     
-    - To review the opportunity linked to your lead, click the expand button (>) in the **Opportunity** field. The opportunity you just created will appear in the **Opportunities** tab. The lead linked to the opportunity will be displayed in the **Leads** tab of the portal.
-=======
+💡 **Tip:**  To review the opportunity linked to your lead, click the expand button (>) in the **Opportunity** field. The lead linked to the opportunity will be displayed in the **Leads** tab of the portal.
+
+- **Done:** This will be updated to **Yes** automatically, once the lead has been linked to an opportunity
+- **Representative**: Assign the sales representative responsible for this lead.
+- **Prospect**: Indicate whether the lead is a prospect (Yes or No).
+- **Opportunity**: Link the lead to an opportunity by selecting an opportunity from the picker or [create a new opportunity](#create-opportunities).  
+
+
 - **First Name**: Enter the lead’s first name.
 - **Last Name**: Enter the lead’s last name.
 - **Phone**: Enter the lead’s phone number.
@@ -21,12 +28,10 @@ Fill in the following information:
 - **Event Date**: Enter the date of the related event.
 - **Event Type**: Select the type of event (e.g., webinar, trade show).
 - **Guests**: Enter the number of guests associated with the lead.
-- **Done:** This will be updated to **Yes** automatically, once the lead has been linked to an opportunity
 - **Representative**: Assign the sales representative responsible for this lead.
 - **Prospect**: Indicate whether the lead is a prospect (Yes or No).
-- **Opportunity**: Link the lead to an opportunity by selecting an opportunity from the picker or [create a new opportunity](#create-opportunities).  
-
-💡 **Tip:**  To review the opportunity linked to your lead, click the expand button (>) in the **Opportunity** field. The lead linked to the opportunity will be displayed in the **Leads** tab of the portal.
+- **Opportunity**: Link the lead to an opportunity by selecting an opportunity from the picker or [create a new opportunity](#create-opportunities).
+- **Done:** 
 
 
 
