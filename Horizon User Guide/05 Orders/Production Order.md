@@ -2,6 +2,10 @@
 
 ## Create a Production Order
 
+A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
+
+To create a production order, follow these steps:
+
 A production order details the item to be produced, its required materials, and the production timeframe, ensuring proper resource allocation. To create a production order based on demand, follow these steps:
 
 ### 1. Navigate to Supply and Demand
@@ -97,9 +101,8 @@ Click **confirm** to complete the following actions:
 - Assign the yielded item to the specified location (+).
 
 	⚠️ Note: If the item does not exist at the location, a new location will be created. If the item already exists, the quantity will be updated.
-
-	 💡 Tip: Click **Unconfirm** to reverse all actions:
-
+	
+	 💡 Tip: Click **Unconfirm** to reverse all actions
 	- Deduct added items.
 	- Delete created locations.
 	- Reverse updates.
