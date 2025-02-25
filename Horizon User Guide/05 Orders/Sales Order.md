@@ -178,7 +178,10 @@ Once the sales order is confirmed, the values in the Sold and Demand fields will
 
 ### **Finalize and Print**
 
-17. Click **Save Changes** to apply updates.
+17. To print a hard copy of the sales order, click **Print** (🖨️) in the top-right corner of the screen.
+
+**⚠️ Note:** The print layout should include the customer-facing name and description for each item, if available.
+
 18. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
