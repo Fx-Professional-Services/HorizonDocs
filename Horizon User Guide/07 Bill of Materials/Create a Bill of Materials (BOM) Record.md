@@ -34,6 +34,7 @@ A Bill of Materials (BOM) serves as a detailed guide for creating a product. It 
 
 ### 5. Set the BOM Name
 
+- Click **Done** to return. This will add the selected item to the source/yield portal, along with its corresponding unit of measure.
 - The BOM name is automatically generated based on the list of item names. You can customize it in the details tab.
 
 	💡**Tips:** 
