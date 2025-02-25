@@ -41,7 +41,7 @@ Follow the steps below to create a new party record:
 	⚠️ Note: A primary contact method must be selected to save the record. <br>
 7. **Save the Record**:
     
-    - Click **Save** at the bottom right corner of the form.
+    - Click **Save** at the bottom right corner of the form. This will automatically open the newly created party record.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="200" height="300">
 
@@ -68,7 +68,7 @@ To create a sales order record, you first need to create a customer record. Foll
         ⚠️ You must select a primary contact method to save.
 6. **Save the Record**:
     
-    - Click **Save** at the bottom right corner of the form after entering all details.
+    - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created customer record.
 
 # Create a New Employee Record
 
@@ -90,7 +90,7 @@ Follow these steps to create a new employee record:
         ⚠️ You must select at least one primary contact method to save.
 5. **Save the Record**:
     
-    - Click **Save** at the bottom right corner of the form after entering all details.
+    - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created employee record.
 
 # # Create a New Vendor Record
 
@@ -115,7 +115,7 @@ Follow these steps to create a new vendor record:
         ⚠️ You must select a primary contact method to save.
 6. **Save the Record**:
     
-    - Click **Save** at the bottom right corner of the form after entering all details.
+    - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created vendor record.
 
 # Add Relationship in All Parties Module
 
