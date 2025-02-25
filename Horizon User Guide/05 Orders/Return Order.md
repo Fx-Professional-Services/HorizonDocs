@@ -40,4 +40,4 @@
     
 12. **Verify Inventory Adjustment**  
     After unconfirming, go to **Item Management** again and verify that the return quantity is deducted from the **Returned** field for each item.
-
+A **Return Order** is the process of processing items returned by a customer, which updates the inventory and creates a record of the return. Follow these steps to create a return order:
