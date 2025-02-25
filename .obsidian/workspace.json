@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6be38b977ecc950b",
+    "id": "820defd7a5d2c679",
     "type": "split",
     "children": [
       {
-        "id": "bc287ea97a93aa94",
+        "id": "bc050ff2e22b2d17",
         "type": "tabs",
         "children": [
           {
-            "id": "78bcf23dde12f6be",
+            "id": "e6d1ca330c719e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea2891086a39a4ac",
+    "id": "4107dc3e6f8795e8",
     "type": "split",
     "children": [
       {
-        "id": "fb77ebaede8da88b",
+        "id": "42abf51155c8afd4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e95a8a39062e7db",
+            "id": "a7cb48ab4e9341f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "ef1db907f2bf31c6",
+            "id": "afcacd7919b92da8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "workspace.json",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6bf1968eddce1c97",
+            "id": "f7a837f6c7bebfc5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +74,23 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "4a0ebff620ed6207",
+    "id": "7a15b54264bb7c04",
     "type": "split",
     "children": [
       {
-        "id": "c6f2aae8f65a3f32",
+        "id": "041e6e861341a281",
         "type": "tabs",
         "children": [
           {
-            "id": "e57e4376df19b578",
+            "id": "a32dc2b2e7587510",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,42 +109,47 @@
             }
           },
           {
-            "id": "4f0461e4c3585b26",
+            "id": "e2c700a53e8fbcb6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Create and Manage Customer and Payment Records"
+              "title": "Outgoing links from Discount"
             }
           },
           {
-            "id": "39b1e23c29ddeadd",
+            "id": "34ae972a317454bb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "57d2cf5150fc14b4",
+            "id": "455c76a6cbe8ddcf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md"
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Create and Manage Customer and Payment Records"
+              "title": "Outline of Discount"
             }
           }
         ]
@@ -163,54 +169,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78bcf23dde12f6be",
-  "lastOpenFiles": [
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
-    "Horizon User Guide/04 Items/Discount/Discount.md",
-    "2025-02-25.md",
-    "Untitled.canvas",
-    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "set-vendor-prices-as-inactive.md",
-    "import-vendor-prices.md",
-    "Horizon User Guide/08 Invoices/Payment Plan.md",
-    "Horizon User Guide/06 Invoices/Payment Plans.md",
-    "Horizon User Guide/06 Invoices/Invoices.md",
-    "Horizon User Guide/06 Invoices",
-    "Horizon User Guide/00 Assets/46_remove_account_settings.png",
-    "Horizon User Guide/00 Assets/45_change_password_settings.png",
-    "Horizon User Guide/00 Assets/44_reset_password_settings.png",
-    "Horizon User Guide/00 Assets/43_create_new_account_settings.png",
-    "Horizon User Guide/00 Assets/42_new_account_details.png",
-    "Horizon User Guide/00 Assets/41_new_record_details.png",
-    "Horizon User Guide/00 Assets/40_new_account_settings.png",
-    "Horizon User Guide/09 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/09 Definition of Terms",
-    "Horizon User Guide/08 Invoices/Payments.md",
-    "Horizon User Guide/08 Invoices/Payment Terms.md",
-    "Horizon User Guide/08 Invoices/Payment Cards.md",
-    "Horizon User Guide/08 Invoices/Payment ACH.md",
-    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
-    "Horizon User Guide/08 Invoices/Invoices.md",
-    "Horizon User Guide/08 Invoices/Create a Payment Plan.md",
-    "Horizon User Guide/08 Invoices",
-    "Horizon User Guide/06 Supply and Demand/Address Demand.md",
-    "Horizon User Guide/06 Supply and Demand",
-    "Horizon User Guide/05 Orders/Return Order.md",
-    "Horizon User Guide/04 Items/Discount",
-    "Untitled.md",
-    "Horizon User Guide/09 My Tasks/My Tasks.md",
-    "Horizon User Guide/09 My Tasks",
-    "Horizon User Guide/08 Leads/Leads.md",
-    "Horizon User Guide/08 Leads",
-    "Horizon User Guide/06 Invoices/Payment Terms.md",
-    "Horizon User Guide/06 Invoices/Payment Cards.md",
-    "Horizon User Guide/06 Invoices/Payment ACH.md",
-    "Horizon User Guide/06 Invoices/Managing Customer Payments.md",
-    "Horizon User Guide/00 Assets/40_search_an_item.png",
-    "assets/15_search_an_item.png",
-    "Horizon User Guide/09 Units and Categories",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/Old documentation/05 Sales Orders",
-    "Horizon User Guide/00 Assets/59_quick_add_products.png"
-  ]
+  "active": "afcacd7919b92da8",
+  "lastOpenFiles": []
 }
