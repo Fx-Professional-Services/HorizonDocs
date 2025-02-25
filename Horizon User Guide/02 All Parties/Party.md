@@ -116,3 +116,77 @@ Follow these steps to create a new vendor record:
 6. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form after entering all details.
+
+# Add Relationship in All Parties Module
+
+A **relationship** refers to a connection or association between a party (such as a customer, employee, or vendor) and another individual or entity within the system. This could include relationships like family, employment, or other types relevant to the system’s operations.
+
+Follow these steps to add a relationship in All Parties Module:
+
+1. **Open the All Parties Section**  
+    From the main menu, go to **All Parties**.
+    
+2. **Select a Party**  
+    In the left pane, select the party for which you want to add a relationship.
+    
+3. **Navigate to the Relationships Tab**  
+    Go to the **Relationships** tab.
+    
+4. **Click Add Relationship**  
+    Click **Add Relationship** to open the relationship form.
+    
+5. **Choose Relationship Type**  
+    In the **Add Relationship** window, select the appropriate relationship type (e.g., **family**, **employment**).
+    
+6. **Add a Description**  
+    Optionally, provide a brief description of the relationship. (This is recommended for clarity.)
+    
+7. **Select the Role of the Party**  
+    Choose the role of the party in the relationship (e.g., **spouse**, **manager**).
+    
+8. **Save the Relationship**  
+    Click **Save** to add the relationship to the party's record.
+
+# Add Relationships from the Options Menu
+
+You can also manage relationships from the **Options Menu** in the **All Parties** or **Customers** section. Follow these steps:
+
+1. **Open the Options Menu**  
+    From the main menu, click **All Parties** or **Customers**, then click **Options** in the upper-right corner of the secondary navigation tabs.
+    
+2. **Select Relationship**  
+    In the popover, select **Relationship**.
+    
+3. **Create a New Record**  
+    Click **New Record** to create a new relationship entry.
+    
+4. **Select Relationship Type**  
+    Click the **Type** field and select the appropriate **Relationship Type**.
+    
+5. **Enter Description**  
+    Enter a brief description of the relationship.
+    
+6. **Select Parties**  
+    Select the parties involved and assign their respective roles.
+
+# Add Relationship Types
+
+Follow these steps to define new relationship types:
+
+1. **Open the Options Menu**  
+    From the main menu, click **All Parties** or **Customers**, then click **Options** in the upper-right corner of the secondary navigation tabs.
+    
+2. **Select Relationship Type**  
+    In the popover, select **Relationship Type**.
+    
+3. **Create a New Record**  
+    Click **New Record** to create a new relationship type entry.
+    
+4. **Enter a Name**  
+    Provide a name for the relationship type.
+    
+5. **Enter Roles**  
+    Define the roles associated with this relationship type.
+    
+6. **Enter Sort Order**  
+    Specify the sort order for the relationship type.
