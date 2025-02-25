@@ -32,6 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md",
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
@@ -65,6 +66,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Manage Items"
               "title": "Leads"
               "title": "Invoices"
             }
@@ -122,6 +124,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "tip",
                 "query": "note",
                 "query": "procedure",
                 "query": "customer facing name",
@@ -189,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "file": "Horizon User Guide/05 Orders/Purchase Order.md",
                 "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
@@ -202,6 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for Manage Items"
               "title": "Backlinks for Sales Order"
               "title": "Backlinks for Purchase Order"
             }
@@ -293,6 +298,11 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/04 Items/Create Products.md",
+    "Horizon User Guide/04 Items/Search for an Item.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
@@ -401,7 +411,6 @@
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/Configurators",
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "assets/5_delete_account.png",
     "assets/4_reset_password.png",
