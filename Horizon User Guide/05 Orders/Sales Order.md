@@ -112,6 +112,13 @@ The new custom attribute will appear in the list thereafter.
 ### Generate Demand and Invoice
 ___
 
+14.1.  **Generating Demand:**
+
+- Navigate to **Demand > Generate Demand**.
+    - A notification will appear when demand generation starts and completes.
+- Click **OK** when the notification appears.
+- Click **Save Changes** to finalize the process.
+
 15. **Generating Demand:**
 
 15.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
@@ -145,6 +152,8 @@ To generate a sales invoice, go to the **Order** tab and click **Confirm**.
 - You cannot generate an invoice until the sales order is confirmed.
 - Once a sales order is confirmed, you cannot change the Sales Channel, Customer Tier, or Payment Terms. To undo the confirmation, click **Unconfirm**.
 - The **Delete All** button will no longer be available once the order is confirmed.
+- The value of both confirmed and unconfirmed sales orders affects the **Total Sales Order** field in the **Customer** module.  
+	* To access the **Customer** module, click the customer's name.
 
 Inventory Update
 Confirming the sales order updates the inventory.
@@ -169,7 +178,10 @@ Once the sales order is confirmed, the values in the Sold and Demand fields will
 
 ### **Finalize and Print**
 
-17. Click **Save Changes** to apply updates.
+17. To print a hard copy of the sales order, click **Print** (🖨️) in the top-right corner of the screen.
+
+**⚠️ Note:** The print layout should include the customer-facing name and description for each item, if available.
+
 18. For a hard copy of the sales order record, click **Print** (🖨️) at the top right of the screen.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/08_finalize_and_print_sales_order.png" width="350" height="300">
