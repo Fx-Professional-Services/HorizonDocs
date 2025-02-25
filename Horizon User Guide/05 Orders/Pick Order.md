@@ -31,7 +31,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
-
+    
 6. **Create Pick Order**
 
 - In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 
@@ -83,3 +83,15 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 16. **Save Changes**
 - Click **Save Changes** to keep your modifications.
+
+### Change Customer Picker to Employee Picker:
+
+1. In the main menu, click on **Sales Order**, then select **Pick Order**.
+
+2. Click **New Record**.
+
+3. Click the **Employee** field. Choose an employee by either typing their name or browsing through the list, then click the **Add** button (+).
+
+4. Set the **Need By** and **Finished Dates**.
+
+5. Select a pick order item.
