@@ -131,6 +131,13 @@ ___
 
 If no BOM is set for the source item and its replenishment method is **Build**, follow these steps:
 
+  ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
+
+8. **Duplicate a BOM Record**:
+
+- To duplicate a BOM record, click **Duplicate Record** in the secondary navigation tabs.
+
 1. Click the **Expand** button (>) next to the line item to open the **Products > Details** page.
 2. In the **Details** tab, update the **Active BOM**.
 3. Return to the BOM page and click **Update Cost** to update the BOM price and total cost.
+
