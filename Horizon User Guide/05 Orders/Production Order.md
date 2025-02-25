@@ -85,6 +85,8 @@ A production order details the item to be produced, its required materials, and 
 
 * To delete or modify a specific line item, click the delete button (x) next to that item.
 
+	⚠️ Note: The deletion will not proceed if there is an addressed line item on the demand, even if all demands were addressed or only a part of it  To unaddress a demand, see step 7.2.
+
 * To delete or modify all line items at once, click the **Delete** button above the list of line items.
 
 ### 16. Confirm Actions
