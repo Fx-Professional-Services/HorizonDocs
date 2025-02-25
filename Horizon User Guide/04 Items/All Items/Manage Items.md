@@ -30,6 +30,8 @@ An item is a basic unit that can be added to orders, including products, configu
 2. Click on **Item Management**, then choose **All Items**.
 3. Enter **Find Mode** to locate the item you wish to categorize. 
 
+💡 **Tip**: If you don't have a specific item in mind, but only a vague description, enter keywords in the **Enter Search Term** field to filter your search results.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/40_assign_categories_to_items_2_3.png" width="350" height="300">
 
 7. Use the search icon (🔎) to type the item's name.
@@ -56,3 +58,7 @@ An item is a basic unit that can be added to orders, including products, configu
 4. Find the item you wish to add and click the add button (✚) next to it. Click **Done** to confirm.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_add_existing_items_4.png" width="350" height="300">
+
+## Search for Items
+
+1. 
