@@ -260,6 +260,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 1. [Launch the Horizon file.](#launch-horizon-file)
 
+
 2. On the Horizon login page, enter your **account name** (email).
     
 3. Click **Reset Password**.
@@ -297,6 +298,8 @@ Select this option to reset data and display the installed plug-ins when the app
 8. Once you see the **Password Reset** confirmation, click **OK**.
 
 ### Reset a Password (for yourself or another user) when Logged into Horizon
+
+**To reset your password if you're logged in to Horizon**:
 
 1. In the main menu, click **All Parties**.
     
