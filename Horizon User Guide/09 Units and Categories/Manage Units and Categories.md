@@ -23,7 +23,10 @@
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
 7. A dialog box will prompt you to apply the category to all records in the found set. Choose **Yes** to apply it to all items or **No** to apply it only to the selected item.
 8. To review your changes, go to **Units and Categories**, then select **Categories**.
-9. In the left panel, select the category you assigned. The items should now be categorized as selected.
+9. In the left pane, select the category you assigned. The items should now be categorized as selected.
+  - To verify, navigate to **Item Management > All Items**, and enter the item name in **Find Mode**.
+  - Click the **Categories** tab.
+  - Verify that the correct category is linked to the item and check its type. 
 
 
 ### Definition of Terms:  
