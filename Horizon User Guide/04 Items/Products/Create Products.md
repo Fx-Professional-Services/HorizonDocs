@@ -94,7 +94,6 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
     
 2. **Access Upload Vendor Prices**  
     In the upper-left corner, click **Layout**, then select **User**. From the dropdown, choose **Upload Vendor Prices**.
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
 3. **Select the Party**  
