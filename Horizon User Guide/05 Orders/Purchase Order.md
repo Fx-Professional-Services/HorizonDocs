@@ -5,7 +5,7 @@
 ### 1. Navigate to Supply and Demand
 
 - From the main menu, select **Supply and Demand**.
-- Click **Supply and Demand** from the primary navigation tabs, then select **Demand List**.
+- Click **Supply and Demand** from the primary menu bar, then select **Demand List**.
 
 ### 2. Filter Demand Types
 
@@ -27,7 +27,7 @@
 
 ### 4. View Batch Name
 
-- To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
+- To view the batch name (set after generating demand), go to **Supply and Demand** from the primary menu bar and select **Demand Batch List** under your user account.
 
 ### 5. Choose Demand
 
@@ -41,8 +41,7 @@
 ### 7. Order Status
 
 - After the purchase order is created:
-    
-    1. The order will not have any purchase order items. Click **add purchase order items** or **add all items** to include items.
+    1. You can now address multiple demands. To address the demands, click **View x Demands** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the purchase order. To unaddress the demands, click the **Remove** button (-).
     2. The order will be assigned a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
 
 ### 8. Assign Employee
@@ -59,12 +58,17 @@
     1. Add more items.
     2. Adjust the quantity of each item.
 
-### 11. Remove Items from the Purchase Order
+### 11. Delete Items from the Purchase Order
 
-- To remove a purchase order item, click the delete (x) icon. The item will automatically return to the purchase order.
+- To delete a purchase order item, click the delete (x) icon. The item will be removed from the order. 
     
     💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **Purchase Item** in the **Purchase** window. Finally, click **View Order** to see the updated order with the newly added item.
-    
+
+⚠️ **Note:** Purchase order items can only be deleted if they are still **unaddressed**. To unaddress a purchase order item:
+
+1. Go to the **Temporary Order Item** list (see Step 6-7).
+2. Click the remove **(-)** icon to unaddress the item.
+3. Return to the **Purchase Order** layout to delete the item.
 
 ### 12. Access Additional Information
 
