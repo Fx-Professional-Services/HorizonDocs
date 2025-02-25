@@ -1,26 +1,30 @@
 {
   "main": {
-    "id": "ac56ee39d5a44de4",
+    "id": "820defd7a5d2c679",
     "type": "split",
     "children": [
       {
-        "id": "6c43a2546ad7e26a",
+        "id": "bc050ff2e22b2d17",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fae77df0ff2b72",
+            "id": "e6d1ca330c719e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "file": "Horizon User Guide/05 Orders/Receiving Order.md",
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Production Order"
+              "title": "Start Using Horizon"
               "title": "Receiving Order"
+              "title": "Discount"
             }
           }
         ]
@@ -29,32 +33,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b1b77ce63edf5bc6",
+    "id": "4107dc3e6f8795e8",
     "type": "split",
     "children": [
       {
-        "id": "fe5d21fa793e2127",
+        "id": "42abf51155c8afd4",
         "type": "tabs",
         "children": [
           {
-            "id": "0af8de66a72831e6",
+            "id": "a7cb48ab4e9341f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "b13cc60e125d0e48",
+            "id": "afcacd7919b92da8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "delete",
+                "query": "workspace.json",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +71,7 @@
             }
           },
           {
-            "id": "bf452b8e79218608",
+            "id": "f7a837f6c7bebfc5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,27 +80,28 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3b222f5fcd62ecf5",
+    "id": "7a15b54264bb7c04",
     "type": "split",
     "children": [
       {
-        "id": "3ada1275a1f88dee",
+        "id": "041e6e861341a281",
         "type": "tabs",
         "children": [
           {
-            "id": "ddde3409d3ac0404",
+            "id": "a32dc2b2e7587510",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Sales Order.md",
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,50 +111,58 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sales Order"
+              "title": "Backlinks for Discount"
             }
           },
           {
-            "id": "25be91d8cc1cfc23",
+            "id": "e2c700a53e8fbcb6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Discount"
             }
           },
           {
-            "id": "ede9d55c6eaa0c52",
+            "id": "34ae972a317454bb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "728a7c386edff6d5",
+            "id": "455c76a6cbe8ddcf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Horizon User Guide/04 Items/Discount/Discount.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Discount"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,6 +190,14 @@
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/07 Definition of Terms/Test only.md",
     "Leads.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/07 Definition of Terms/Test only.md",
+    "Leads.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/07 Bill of Materials",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
@@ -187,6 +209,7 @@
     "Horizon User Guide/04 Items/Equipment",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
     "Horizon User Guide/04 Items/Configurators",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/04 Items/All Items",
     "Horizon User Guide/00 Assets/59_quick_add_products.png",
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
@@ -248,4 +271,6 @@
     "Horizon User Guide/00 Assets/47_create_a_new_configurator.png",
     "Horizon User Guide/00 Assets/46_view_pick_order.png"
   ]
+  "active": "afcacd7919b92da8",
+  "lastOpenFiles": []
 }

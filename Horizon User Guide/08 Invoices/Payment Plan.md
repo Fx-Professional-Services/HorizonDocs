@@ -24,3 +24,9 @@
     - In the **Payment Schedule** section, either manually enter the schedule or click **Generate Schedule** to auto-generate the payment dates and amounts.
     - You can adjust individual schedule dates and amounts as needed.
     - To remove a payment from the schedule, click the **Delete** icon.
+
+##### Delete Payment Plans
+
+7. In the left pane, select the payment plan you want to delete.
+8. Click **Delete Record**.
+9.  In the confirmation dialog, click **Delete** to proceed.
