@@ -117,6 +117,37 @@ Follow these steps to create a new vendor record:
     
     - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created vendor record.
 
+## Add Party Relationships
+
+A **relationship** in this context refers to a connection or association between a party (such as a customer, employee, or vendor) and another individual or entity within the system. This could include family, employment, or other types of relationships that are relevant to the system’s operations.
+
+### Follow these steps to add a relationship:
+
+1. **Access the All Parties Section**:
+    
+    - From the main menu, go to **All Parties**.
+2. **Select a Party**:
+    
+    - In the left pane, select the party for which you want to add a relationship.
+3. **Navigate to the Relationships Tab**:
+    
+    - Go to the **Relationships** tab.
+4. **Click Add Relationship**:
+    
+    - Click **Add Relationship** to open the relationship form.
+5. **Choose Relationship Type**:
+    
+    - In the **Add Relationship** window, select the relationship type (e.g., family, employment).
+6. **Add a Description**:
+    
+    - Provide a brief description of the relationship (optional but recommended).
+7. **Select the Role of the Party**:
+    
+    - Choose the role of the party in the relationship (e.g., spouse, manager).
+8. **Save the Relationship**:
+    
+    - Click **Save** to add the relationship to the party's record.
+
 # Add Relationship in All Parties Module
 
 A **relationship** refers to a connection or association between a party (such as a customer, employee, or vendor) and another individual or entity within the system. This could include relationships like family, employment, or other types relevant to the system’s operations.
