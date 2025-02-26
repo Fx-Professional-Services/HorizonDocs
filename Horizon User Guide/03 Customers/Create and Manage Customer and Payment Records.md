@@ -79,20 +79,18 @@
 
 ## Add Payment Card
 
-1. Click on **Add Payment Card**.
+1. Click **Add Payment Card**.
 2. **Enter Payment Card Details**:
-    - Fill out the payment details in the pop-up form:
-    - **Type**: Select from Visa, Master Card, American Express, Discover, Diners Club, or JCB.
-    - **Card Number**: Enter your card number.
-    - **Security Code**: Enter the security code.
-    - **Expiration Date (MM/YY)**: Enter the expiration date.
-    - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
-    - **Last 4 Digits**: Enter the last four digits of your card number.
+    - Complete the payment details in the pop-up form:
+        - **Type**: Select from Visa, MasterCard, American Express, Discover, Diners Club, or JCB.
+        - **Card Number**: Enter your card number.
+        - **Security Code**: Enter the security code.
+        - **Expiration Date (MM/YY)**: Enter the expiration date.
+        - **ZIP Code**: Provide the five-digit ZIP code associated with the card.
+        - **Last 4 Digits**: Enter the last four digits of your card number.
 3. **Save Payment Card**:
-    
     - Review the details and click **Save and Close** to store the payment card.
-
-	⚠️ Once saved, you cannot make changes to the payment card.
+	⚠️ **Note:** Once saved, you cannot make changes to the payment card.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/15_add_payment_card.png" width="350" height="300">
 
@@ -110,6 +108,8 @@
 
 ## Merge Customer Records
 
-1. From the left pane, select the customer whose records you want to merge.
-2. Click **Scripts** in the navigation bar and select **Merge Customer**.
-3. Choose the customer to merge with from the list. The records of both customers will be combined.
+1. In the left pane, select the customer whose records you want to merge.
+2. Click **Scripts** in the navigation bar, then select **Merge Customer**.
+3. From the list, choose the customer to merge with. The records of both customers will be combined.
+
+Following these steps will successfully merge the customer records and prevent duplicate transactions.
