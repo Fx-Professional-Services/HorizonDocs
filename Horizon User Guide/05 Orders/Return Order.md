@@ -1,5 +1,7 @@
 # Return Order
 
+A **Return Order** is the process of processing items returned by a customer, which updates the inventory and creates a record of the return. Follow these steps to create a return order:
+
 ### Process a Return Order
 
 1. **Open Sales Order**  
@@ -26,18 +28,22 @@
     - **Cancelled Item**
     - **Wrong Item**
     - **Damaged Item**
+    
 8. **Enter Return Quantity**  
-    Enter the **Return Quantity** for each item.
+
+    Enter the **Return Quantity** for each item.
     
 9. **Confirm the Return Order**  
-    After adding all line items, click **Confirm** to finalize the return order.
+    After adding all line items, click **Confirm** to finalize the return order.
     
 10. **Verify Inventory Update**  
-    To verify the inventory update, go to **Item Management** in the primary navigation and click **All Items**. Search for each item added to the return order and ensure the return quantity appears in the **Returned** field.
+    To verify the inventory update, go to **Item Management** in the primary navigation and click **All Items**. Search for each item added to the return order and ensure the return quantity appears in the **Returned** field.
     
 11. **Unconfirm the Return Order**  
-    To unconfirm the return order, click **Unconfirm**.
+    To unconfirm the return order, click **Unconfirm**.
     
 12. **Verify Inventory Adjustment**  
-    After unconfirming, go to **Item Management** again and verify that the return quantity is deducted from the **Returned** field for each item.
-A **Return Order** is the process of processing items returned by a customer, which updates the inventory and creates a record of the return. Follow these steps to create a return order:
+    After unconfirming, go to **Item Management** again and verify that the return quantity is deducted from the **Returned** field for each item.
+
+    Enter the **Return Quantity** for each item.
+    

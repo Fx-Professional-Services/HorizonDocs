@@ -34,13 +34,18 @@ A production order details the item to be produced, its required materials, and 
 ### 5. **Choose Demand**
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
-    💡 **Tip:** The first item in the list should be the demand you just generated.
+    💡 **Tip:** The first item in the list should be the demand you just created.
 
 ### 6. Create Production Order
 
-- In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** for the desired production order.
+- In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** next to the desired production order, then click **Add Production Order Item**. 
+### 7. View Demand
 
-### 7. Order Status
+* Click **View X Demands**, then click the (+) button in the **View Demand X** popover to view the selected demand.
+
+### 8. Proceed to View Order
+
+- Click **View Order** to continue. If you click the i icon of the newly added addressed item, you will see the same details  as those in the **View Demand X** popover. 
 
 - Once the production order is created: <br>
 

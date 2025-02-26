@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Return Order.md",
                 "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
@@ -22,6 +23,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Return Order"
               "title": "Sales Order"
               "title": "Production Order"
               "title": "Start Using Horizon"
@@ -183,6 +185,15 @@
   },
   "active": "c4fae77df0ff2b72",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/09 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/09 Definition of Terms",
+    "Horizon User Guide/08 Invoices/Payment Terms.md",
+    "Horizon User Guide/08 Invoices/Payment ACH.md",
+    "Horizon User Guide/08 Invoices/Payment Cards.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Untitled.md",
@@ -262,6 +273,16 @@
     "Horizon User Guide/06 Invoices/Payment Cards.md",
     "Horizon User Guide/06 Invoices/Payment ACH.md",
     "Horizon User Guide/06 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/06 Invoices/Invoices.md",
+    "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
+    "Horizon User Guide/06 Invoices",
+    "Horizon User Guide/05 Orders/Address Demand.md",
+    "Horizon User Guide/06 Supply and Demand/Untitled",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "assets/5_delete_account.png",
+    "assets/4_reset_password.png",
+    "assets/15_search_an_item.png",
     "Horizon User Guide/06 Invoices/Create a Payment Plan.md",
     "Horizon User Guide/06 Invoices",
     "Horizon User Guide/05 Orders/Receiving Order.md",
@@ -328,6 +349,15 @@
     "Horizon User Guide/Old documentation/08 Leads/Leads.md",
     "Horizon User Guide/Old documentation/08 Leads",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Select Active Bill of Materials (BOM)  for Products.md",
+    "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)",
+    "Horizon User Guide/Old documentation/06 Invoices",
+    "Horizon User Guide/00 Assets/27_pick_order.png",
+    "Horizon User Guide/00 Assets/18_create_vendor_record.png",
+    "Horizon User Guide/00 Assets/17_create_employee_record.png",
+    "Horizon User Guide/00 Assets/59_quick_add_products.png",
+    "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/56_create_products.png"
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Yield Item.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Delete a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/Old documentation/07 Bill of Materials (BOM)/Create a Bill of Materials (BOM) Record.md",
