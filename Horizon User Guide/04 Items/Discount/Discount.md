@@ -5,7 +5,7 @@
 
 Discounts are applied to sales orders to reduce the total amount. This section explains how to access and modify discount settings.
 
-#### To modify a discount:
+#### To modify a discount
 
 1. In the main menu, click **Sales Orders**.
     
@@ -14,6 +14,13 @@ Discounts are applied to sales orders to reduce the total amount. This section e
 3. In the left pane, select the discount you want to modify. The discount details will appear in the **Details** tab.
     
 4. In the **Details** tab, review or edit the following information:
+
+### To create a discount:
+
+
+6. Click **New Record** to create a new discount.
+    
+4. In the **Details** tab, enter the following information:
     
     - **Discount Name**: The name of the discount.
     - **Description**: A brief description of the discount.
