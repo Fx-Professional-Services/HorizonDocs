@@ -22,6 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Return Order.md",
+                "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "mode": "source",
                 "source": false
@@ -35,6 +37,8 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Return Order"
+              "title": "Production Order"
               "title": "Start Using Horizon"
             }
           }
@@ -212,6 +216,13 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/07 Bill of Materials",
+    "Horizon User Guide/04 Items/Create Products.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/05 Orders/Address Demand.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
