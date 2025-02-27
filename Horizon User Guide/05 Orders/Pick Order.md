@@ -10,7 +10,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 2. **Filter Demand Types**
 
-- In the demand list, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**.
+- In the **Demand List**, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**. Alternatively, press **Ctrl + F** (Windows) or **Cmd + F** (Mac) and type "pick" in the **Source** field. 
 
 	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 
@@ -23,7 +23,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
     
 4. **View Batch Name**
 
-- To view the batch name (initially set after generating demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
+- To view the batch name (which is set after generating the demand), go to **Supply and Demand** and select **Demand Batch List** under your user account.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/45_view_batch_name_pick_order.png" width="350" height="250">
 
@@ -31,45 +31,66 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
-
 6. **Create Pick Order**
 
-- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order.
+- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 
 
-7. **Order Status**
+7. **Check Order Status**
 
 - Once created, the order will have a serial number and its status will change to **View Order**.
 
+
+8. **Add Pick Order Item**
+
+* In the Temporary Order Item list, click **Add Pick Order Item** or **Add All Items** to add selected items to the pick order. 
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_view_pick_order.png" width="350" height="250">
 
-8. **Proceed to View Order**
+9. **Proceed to View Order**
 
-- Click **View Order** to continue.** 
+- Click **View Order** to continue. In the **Pick Order** layout, under the **Pick Order Items** section, you will see the selected pick order item and its purpose in the **For** field.
 
-9. **Assign Employee**
+10. **Assign Employee**
 
 - In the Pick Order under the **Order** tab, assign an employee by clicking **Click here to select employee**.
 
-10. **Enter Finished Date**
+11. **Enter Finished Date**
+
 - Input the **Finished** date.
 
-11. **Adjust Pick Order Items**
+12. **Adjust Pick Order Items**
 
 - In the **Pick Order Items** section, you can add items and adjust their quantities.
 
-12. **Delete Line Item**
+13. **Delete Line Item**
 
 - To remove a line item, click the delete button (**x**) next to it.
 💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
   
 **<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
-13. **Additional Information**
+14. **Additional Information**
 
 - Tap the **i** icon for more details.
 
-14. **Confirm Details**
-- Click **Confirm** to verify and finalize the details.
+15. **Confirm Details**
+* After reviewing the details, click **Confirm**. This will increment the inventory for each item.  
 
-15. **Save Changes**
+	To verify, go to **Item Management**, select **All Items**, and click **Find Mode** in the secondary navigation buttons at the top-right. Search for the items in the pick order and check if the value in the **Pick** field has been updated.
+
+- To revert changes, click **Unconfirm** to decrement the inventory.
+
+16. **Save Changes**
 - Click **Save Changes** to keep your modifications.
+
+### Change Customer Picker to Employee Picker:
+
+1. In the main menu, click on **Sales Order**, then select **Pick Order**.
+
+2. Click **New Record**.
+
+3. Click the **Employee** field. Choose an employee by either typing their name or browsing through the list, then click the **Add** button (+).
+
+4. Set the **Need By** and **Finished Dates**.
+
+5. Select a pick order item.
