@@ -6,19 +6,15 @@ A production order outlines the item to be produced, its required materials, and
 
 To create a production order, follow these steps:
 
-A production order details the item to be produced, its required materials, and the production timeframe, ensuring proper resource allocation. To create a production order based on demand, follow these steps:
-
 ### 1. Navigate to Supply and Demand
-
 - From the main menu, select **Supply and Demand**. 
 - Click **Supply and Demand** from the primary menu bar, then select **Demand List**. 
+
 
 ###  2. Filter Demand Types
 
 - In the demand list, uncheck any irrelevant demand types (e.g., pick demand, purchase demand) until only **build demand** remains checked. Then click **Search**. 
 - Alternatively, press **Command + F** (Mac) or **Control + F** (Windows), and type **Build** in the **Source** field. 
-
-	💡 **Tip:** To find demand from a specific customer, **enter the customer’s name** or **order number** in the search fields.
 
 ### 3. Select Build Demand
 
@@ -26,33 +22,38 @@ A production order details the item to be produced, its required materials, and 
 - To address all build demands at once, click **address all x demands.** 
 
     ⚠️ Note: Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
-    
+
 ### 4. **View Batch Name**
 
 - To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
 
+5. In the **Production Order** layout, under the **Order** tab, the production order will be displayed along with its yield, sources, and the quantity and unit of measure for each selected item.
+
 ### 5. **Choose Demand**
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
-    💡 **Tip:** The first item in the list should be the demand you just generated.
+    💡 **Tip:** The first item in the list should be the demand you just created.
 
 ### 6. Create Production Order
 
-- In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** for the desired production order.
+- In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** next to the desired production order, then click **Add Production Order Item**. 
 
-### 7. Order Status
 
-- Once the production order is created: <br>
+### 7. View Demand
 
-	7.1. The **BOM** (Bill of Materials) yield items will be added. 
+* Click **View X Demands**, then click the (+) button in the **View Demand X** popover to view the selected demand.
+
+7.1. The **BOM** (Bill of Materials) yield items will be added. 
 
 	7.2. You can now address demands. To address a demand, click **View 1 Demand** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the production order. To unaddress the demand, click the **Remove** button (-).
 	
 	7.3. The order will receive a serial number and its status will change to **View Order**. Click **View Order** to proceed. <br>
-	
-8. **View Production Order Details**
 
-*  Under the **Order** tab, you will see the production order details, including yield and source items, quantity, and unit of measure.
+### 8. Proceed to View Order
+
+- Click **View Order** to continue. If you click the i icon of the newly added addressed item, you will see the same details  as those in the **View Demand X** popover. 
+
+- Once the production order is created: <br>
 
 ### 9. Assign Employee
 
@@ -76,7 +77,7 @@ A production order details the item to be produced, its required materials, and 
 	- **Restore Deleted Items:** - If you accidentally delete an item, clicking the **Reverse** button will restore it with the correct quantity after you confirm the action.
 	
 	- **Handling Changes:** The **Reverse** button will revert modified quantities to their previous values. Newly added items will not be affected or removed.
-	
+
 ### 14. Access Additional Settings:
 
 * Click the gear icon to access additional settings, or click the i icon for more information.
@@ -84,6 +85,10 @@ A production order details the item to be produced, its required materials, and 
 ### 15. Delete or Modify Line Items
 
 * To delete or modify a specific line item, click the delete button (x) next to that item.
+
+	⚠️ Note: The deletion will not proceed if there is an addressed line item on the demand, even if all demands were addressed or only a part of it  To unaddress a demand, see step 7.2.
+
+   💡 Tip: Click **Unconfirm** to reverse all actions:
 
 * To delete or modify all line items at once, click the **Delete** button above the list of line items.
 
@@ -144,10 +149,4 @@ The procedure from the BOM is copied, and you can modify it as needed.
 
 ### 21. Save Changes
 
-* Click **Save Changes** to keep your modifications. 
-
-
-
-
-
-
+Click **Save Changes** to keep your modifications. 

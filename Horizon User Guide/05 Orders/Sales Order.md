@@ -52,14 +52,24 @@ ___
 	- To delete all items, click **Delete All**.
 	- In the confirmation prompt, click **Yes** to confirm deletion.
 
-**💡 Tip:** To delete a product from the sales order, click **Item Management** > **Products**. In the left pane, find the product, click **Delete Record**, and confirm.
-
-
-9. **Editing Customer-Facing Details:**
+	 💡 Tip: To delete a product from a sales order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
+	
+9. **Editing Customer-Facing Name and Details:**
     
-    - Click the hamburger menu button (☰) to access the item picker.
-    - Choose the line item to edit its customer-facing name and description, based on default settings. Adjust the name as needed.
+    9.1. After selecting a sales order item, stay in the **Details** tab.
     
+    9.2. Add a **customer-facing description** in the field below the item you added. You can also modify the customer-facing description for other items as needed.
+
+To edit the **customer-facing name** and **customer-facing description**:
+
+- Go to the **All Items** tab.
+- Select the line item.
+- In the (i) info popover, update the **customer-facing name** and **customer-facing description**.
+
+**⚠️ Note:** You can also update these details in **Item Management > All Items**. Use **Find Mode** to locate the item in the left pane. Then, go to the **Details** tab to edit the **Customer-facing Name** and **Customer-facing Description**.
+
+After you update the customer-facing name and description, these details appear in the sales order and contract.
+
 10. **Configuring Sales Order Items:**
     
     - To customize a sales order item, click the gear icon (⚙️), make changes, and  click **DONE** to save. 
@@ -102,8 +112,9 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
 
-- At the bottom-left of the sales order layout, locate **Sales Channel**, **Customer Tier**, and **Payment Terms** fields. 
-- Click each field to add the corresponding information. In the picker, click the **Add** button (+) next to the chosen item, then click **Done**.
+- Locate the fields labeled **Click here to add Sales Channel**, **Click here to add Customer Tier**, and **Click here to add Payment Terms** within the sales order.
+- Use the web picker to select the appropriate sales channel, customer tier, and payment terms.
+- Click Add (+) or Done to save your selections.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click "x" next to the item. Then, click **Yes** to confirm deletion. 
 
@@ -220,12 +231,6 @@ An **invoice** is an accounting document issued to customers to record sales tra
 
 #### Services
 
-**Services** are intangible offerings provided to customers. Examples include:
-
-- Menu planning
-- Food preparation
-- Delivery and setup
-- Event coordination and guest service
-
+Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 These services are customized to meet the specific needs of each event or gathering.
 
