@@ -31,7 +31,6 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just generated.
-    
 6. **Create Pick Order**
 
 - In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 

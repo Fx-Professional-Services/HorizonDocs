@@ -112,8 +112,9 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
 
-- At the bottom-left of the sales order layout, locate **Sales Channel**, **Customer Tier**, and **Payment Terms** fields. 
-- Click each field to add the corresponding information. In the picker, click the **Add** button (+) next to the chosen item, then click **Done**.
+- Locate the fields labeled **Click here to add Sales Channel**, **Click here to add Customer Tier**, and **Click here to add Payment Terms** within the sales order.
+- Use the web picker to select the appropriate sales channel, customer tier, and payment terms.
+- Click Add (+) or Done to save your selections.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click "x" next to the item. Then, click **Yes** to confirm deletion. 
 
@@ -230,12 +231,6 @@ An **invoice** is an accounting document issued to customers to record sales tra
 
 #### Services
 
-**Services** are intangible offerings provided to customers. Examples include:
-
-- Menu planning
-- Food preparation
-- Delivery and setup
-- Event coordination and guest service
-
+Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 These services are customized to meet the specific needs of each event or gathering.
 

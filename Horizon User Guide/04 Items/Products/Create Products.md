@@ -38,7 +38,7 @@ Clink on the links below to:
     
 3. **Enter Product Details**
     Complete the following fields:
-    
+
 	A. **Name**: Enter the product name.
 	
   B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
