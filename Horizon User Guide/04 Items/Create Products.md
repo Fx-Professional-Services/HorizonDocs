@@ -8,13 +8,17 @@ Adding a new product to your system is easy! Just follow these simple steps:
 1. Go to the main menu and select **Products**.
 2. Click on **New Record**.
 3. Fill in the following details:
-    A.  **Name**: Enter the product name.
-    B. **Replenishment Method**: Select a restocking method from the following options: Build, Purchase, Stock, or Pick.
-    C. **Preferred Vendor**: Choose a vendor from the list provided.
-	D. **Stock to Keep**: Set the desired inventory level for this product.
-	E. **Unit of Measure**: Specify the unit of measurement for the product.
-    F.  **Active BOM**: Add relevant bills of materials (BOM), if applicable.
-    G. **Lead Time**: The lead time is the total time required to fulfill an order, including pick, build, and purchase. It is automatically calculated based on your selections. Specify lead time using one of the following methods:
+    - **Name**: Enter the name of the product.
+    - **Replenishment Method**: Select a method for restocking inventory. Choose from options like **build**, **purchase**, **stock,** or **pick**.
+    - **Preferred Vendor**: Select your vendor from the provided list.
+    - **Product Flag Options**: Tick off the boxes **Need Pick**, **Consumable**, and/or **Sale Item** to modify the product's flag options.
+    - **Stock to Keep**: Set the desired stock level for this product.
+    - **Unit of Measure**: Specify the unit of measurement for the product.
+    - **Active BOM**: Add any relevant bills of materials, if applicable. 
+
+	💡 Tip: To delete a product record, click **Delete Record**. Confirm your deletion by selecting **Delete** in the dialogue box. 
+
+    - **Lead Time**: The lead time is the total time required to fulfill an order, including pick, build, and purchase. It is automatically calculated based on your selections. Specify lead time using one of the following methods:
     
     - **Time in Advance**: Enter the number of days or amount of time before the order must be fulfilled.
     - **Day of the Week**: Enter one or more days of the week (separated by commas) when the lead time applies. Use numbers 1 through 7, where 1 represents Sunday.
@@ -58,3 +62,17 @@ Managing outdated pricing information is crucial for keeping your records accura
 5. **Setting Inactive Prices:** Look for the **Active** column and set the vendor price as inactive by entering 0.
 
 
+  
+
+#### Definition of Terms
+
+##### Need Pick
+
+An item flagged as "Need Pick" is retrieved from inventory based on a pick order and transported to a designated location for processing or assembly.
+##### Consumable
+
+An item flagged as "Consumable" is intended to be used up or depleted over time.
+
+##### Sale Item
+
+An item flagged as a sale item is available for purchase, distinguishing it from items not intended for sale.
