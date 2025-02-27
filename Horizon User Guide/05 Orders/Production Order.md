@@ -100,6 +100,18 @@ Click **confirm** to complete the following actions:
 
 	⚠️ **Note:** If production is unsuccessful, it may be due to not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
 	
+
+11. TO BE UPDATED: Tap the gear icon to access additional settings and  the i icon for more information.
+12. To delete or modify a specific line item, click the delete button located next to that item. If you wish to delete or change all line items at once, click the delete button above the list of line items.
+13. Click **confirm** to complete the following actions:
+- **Confirm the production order.** A successful production will display a location and lot number in the Location Module. To review this, navigate to **Item Management**, select **Location**, and choose the specific location from the left pane. Verify that the yielded item is displayed.
+	⚠️ **Note:** An unsuccessful production is often caused by not specifying the **Best By** time for the yielded item. To edit this, go to **Item Management**, select **Products**, choose the product, and update the **Best By** field.
+
+* **Increase the Built inventory count.** To check this, go to **Item Management**, select **All Items**, and use **Find Mode** to locate the source or yield item. The **Built** inventory count should have increased.
+- **Assign yielded items to "Built in Inventory" (+).**
+- **Assign sourced items to "Consumed in Inventory" (+).**
+- **Address demand for line items.**
+- **Assign the yielded item to the specified location (+).**
 - Assign yield items to **Built** in inventory (+).
 - Assign source items to **Consumed** in inventory (+).
 - Address demand for line items.
@@ -111,6 +123,7 @@ Click **confirm** to complete the following actions:
 	- Deduct added items.
 	- Delete created locations.
 	- Reverse updates.
+	- Decrement the inventory.
 
 ### 17. Add Production Instructions
 

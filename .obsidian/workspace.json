@@ -22,6 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Horizon User Guide/05 Orders/Purchase Order.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "file": "Horizon User Guide/05 Orders/Return Order.md",
                 "file": "Horizon User Guide/05 Orders/Production Order.md",
                 "file": "Horizon User Guide/04 Items/Products/Create Products.md",
@@ -37,6 +39,8 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Purchase Order"
+              "title": "Sales Order"
               "title": "Return Order"
               "title": "Production Order"
               "title": "Start Using Horizon"
@@ -83,6 +87,10 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "",
+                "query": "note",
+                "query": "delete",
+                "query": "workspace.json",
                 "query": "demand",
                 "matchingCase": false,
                 "explainSearch": false,
@@ -146,6 +154,9 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks"
+              "title": "Backlinks for Sales Order"
+              "title": "Backlinks for Discount"
               "title": "Backlinks for Create and Manage Customer and Payment Records"
             }
           },
@@ -216,6 +227,34 @@
   },
   "active": "b3451ada06c617c6",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/05 Orders/Purchase Order.md",
+    "Horizon User Guide/05 Orders/Receiving Order.md",
+    "Horizon User Guide/05 Orders/Sales Estimate.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/05 Orders/Address Demand.md"
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Untitled.md",
+    "Horizon User Guide/Old documentation/05 Sales Orders/Creating Production Order and its Items on Demand.md",
+    "Horizon User Guide/Old documentation/To be continued Updating Bill of Materials (BOM) Costs by Batch.md",
+    "Horizon User Guide/Old documentation/To be continued QBO Integration (Push and Pull).md",
+    "Horizon User Guide/Old documentation/05 Sales Orders",
+    "Horizon User Guide/Old documentation",
+    "Horizon User Guide/05 Orders/Production Order.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Untitled.md",
+    "Horizon User Guide/09 Units and Categories/Manage Units and Categories.md",
+    "Horizon User Guide/09 Units and Categories",
+    "Horizon User Guide/09 My Tasks/My Tasks.md",
+    "Horizon User Guide/09 My Tasks",
+    "Horizon User Guide/08 Leads/Leads.md",
+    "Horizon User Guide/08 Leads",
+    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/07 Definition of Terms",
+    "Horizon User Guide/07 Bill of Materials",
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
