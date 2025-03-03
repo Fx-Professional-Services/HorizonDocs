@@ -38,7 +38,7 @@
 
 1. Go to **Customer** in the main menu.
 2. Click the **Customers** tab.
-3. Click **Add Payment**.
+3. Click the **Add Payment** button, then enter your payment information.
 
 #### Enter Payment Details
 
