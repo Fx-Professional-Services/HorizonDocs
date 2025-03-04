@@ -79,7 +79,12 @@ ___
     - Click **OK** when the **Email Sent** notification appears.
 7. **Activate Account:**
     
+    A. Open the **Request for Horizon Access** email.
+    B.  Click the provided link to open FileMaker Pro within 15 minutes.
+    C. Set a new password.
+    D. Click **Continue**.
     - Open the **Request for Horizon Access** email, click the provided link to open FileMaker Pro within 15 minutes, set a new password, and click **Continue**.
+
 8. **Finalize:**
     
     - Click **OK** on the **Account Created** notification.
@@ -157,7 +162,8 @@ ___
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/34_log_in.png" width="300" height="500">
 
 4. **Log In:**
-- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). AAfter logging in successfully, you will be redirected to the main menu.
+- Click **Log In** or press **Enter** (Windows) / **Return** (Mac). 
+  After logging in successfully, you will be redirected to the main menu.
 
 ##### Troubleshooting Login Issues
 - If you have trouble with your password, [reset your password](#reset-your-password).
@@ -254,6 +260,7 @@ Select this option to reset data and display the installed plug-ins when the app
 
 1. [Launch the Horizon file.](#launch-horizon-file)
 
+
 2. On the Horizon login page, enter your **account name** (email).
     
 3. Click **Reset Password**.
@@ -291,6 +298,8 @@ Select this option to reset data and display the installed plug-ins when the app
 8. Once you see the **Password Reset** confirmation, click **OK**.
 
 ### Reset a Password (for yourself or another user) when Logged into Horizon
+
+**To reset your password if you're logged in to Horizon**:
 
 1. In the main menu, click **All Parties**.
     

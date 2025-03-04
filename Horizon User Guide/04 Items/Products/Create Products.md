@@ -20,9 +20,10 @@ Clink on the links below to:
 [Manage Vendor Prices](manage-vendor-prices)
 
 # Manage Vendor Prices
+[Import Vendor Prices](import-vendor-prices) <br>
+[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
+[Set Active Vendor Price to Inactive During Import](set-active-vedor-price-to-inactive-during-import) <br>
 
-* [Import Vendor Prices](import-vendor-prices) <br>
-* [Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
 ## Add a Product
 
 ### Steps to Add a New Product
@@ -37,7 +38,7 @@ Clink on the links below to:
     
 3. **Enter Product Details**
     Complete the following fields:
-    
+
 	A. **Name**: Enter the product name.
 	
   B. **Replenishment Method**: Choose a restocking method from the following options: **Build**, **Purchase**, **Stock**, or **Pick**.
@@ -93,7 +94,6 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
     
 2. **Access Upload Vendor Prices**  
     In the upper-left corner, click **Layout**, then select **User**. From the dropdown, choose **Upload Vendor Prices**.
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/57_upload_vendor_prices.png" width="350" height="250">
 
 3. **Select the Party**  
@@ -149,6 +149,26 @@ To mark outdated prices as inactive:
 5. **Set Prices Inactive**: Enter 0 in the **Active** column to deactivate the price.
 
 By following these steps, you can maintain accurate vendor pricing information.
+
+
+## Set Active Vendor Price to Inactive During Import
+
+1. Navigate to **Sales Order** > **Options** > **Vendor Prices**.
+2. In the upper right corner, click **Import Vendor Price**.
+3. Specify the **Import Order** for the target fields.  
+    **Note**: The **Source Fields** should match the **Target Fields**.
+4. Click **Import**.
+5. In the **Import Summary**, click **OK** to confirm the import.
+
+To display the toolbar:
+
+- Press **Option + Command + S** (on Mac) or **Control + Alt + S** (on Windows).
+- Click **Show All**.
+
+This will:
+
+- Automatically set the previously active vendor prices to inactive in the related data of the imported vendor price.
+- Update the prices based on the new vendor prices uploaded to the system.
 
 ## Enter Details in Upload Vendor Prices
 
