@@ -32,10 +32,6 @@
 
     - In the picker, select the items you want to add.
 
-    - Click the add button (✚) and/or **Done** at the bottom.
-
-⚠️ Note: The purchase price and quantity must be displayed on the Receiving Order portal.   
-
 ### 7. Confirm the Order
 
 A. Click the **Confirm** button to confirm the receiving order.
