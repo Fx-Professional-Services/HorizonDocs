@@ -1,6 +1,6 @@
 # **Party**
 A party refers to any individual or entity that interacts with or is represented within the system, including: 
-- **Customer**: An person or organization that purchases or uses the products or services offered by the system.
+- **Customer**: A person or organization that purchases or uses the products or services offered by the system.
 - **Employee**: A person who works for or is employed by the organization managing or using the system.
 - **Vendor**: A person or organization that provides goods or services to the organization using the system.
 
@@ -45,7 +45,7 @@ Follow the steps below to create a new party record:
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="200" height="300">
 
-# # Create a New Customer Record
+# Create a New Customer Record
 
 To create a sales order record, you first need to create a customer record. Follow these steps:
 
@@ -92,7 +92,7 @@ Follow these steps to create a new employee record:
     
     - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created employee record.
 
-# # Create a New Vendor Record
+# Create a New Vendor Record
 
 Follow these steps to create a new vendor record:
 
@@ -116,37 +116,6 @@ Follow these steps to create a new vendor record:
 6. **Save the Record**:
     
     - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created vendor record.
-
-## Add Party Relationships
-
-A **relationship** in this context refers to a connection or association between a party (such as a customer, employee, or vendor) and another individual or entity within the system. This could include family, employment, or other types of relationships that are relevant to the system’s operations.
-
-### Follow these steps to add a relationship:
-
-1. **Access the All Parties Section**:
-    
-    - From the main menu, go to **All Parties**.
-2. **Select a Party**:
-    
-    - In the left pane, select the party for which you want to add a relationship.
-3. **Navigate to the Relationships Tab**:
-    
-    - Go to the **Relationships** tab.
-4. **Click Add Relationship**:
-    
-    - Click **Add Relationship** to open the relationship form.
-5. **Choose Relationship Type**:
-    
-    - In the **Add Relationship** window, select the relationship type (e.g., family, employment).
-6. **Add a Description**:
-    
-    - Provide a brief description of the relationship (optional but recommended).
-7. **Select the Role of the Party**:
-    
-    - Choose the role of the party in the relationship (e.g., spouse, manager).
-8. **Save the Relationship**:
-    
-    - Click **Save** to add the relationship to the party's record.
 
 # Add Relationship in All Parties Module
 

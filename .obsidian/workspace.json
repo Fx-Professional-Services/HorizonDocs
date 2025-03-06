@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/02 All Parties/Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start Using Horizon"
+              "title": "Party"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/02 All Parties/Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start Using Horizon"
+              "title": "Backlinks for Party"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/02 All Parties/Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Start Using Horizon"
+              "title": "Outgoing links from Party"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+                "file": "Horizon User Guide/02 All Parties/Party.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start Using Horizon"
+              "title": "Outline of Party"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "8cd91f32a549cbef",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "set-vendor-prices-as-inactive.md",
     "import-vendor-prices.md",
     "Untitled.md",
@@ -213,9 +216,6 @@
     "Horizon User Guide/00 Assets/42_new_account_details.png",
     "Horizon User Guide/00 Assets/41_new_record_details.png",
     "2025-02-25.md",
-    "Horizon User Guide/07 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/07 Definition of Terms",
-    "Horizon User Guide/06 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/05 Orders/Address Demand.md"
+    "Horizon User Guide/07 Definition of Terms"
   ]
 }
