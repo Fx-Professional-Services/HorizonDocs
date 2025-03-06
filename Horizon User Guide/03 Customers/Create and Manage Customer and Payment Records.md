@@ -34,13 +34,13 @@
 
 ## Create a Payment Record
 
-#### Navigate to Customers
+### Navigate to Customers
 
 1. Go to **Customer** in the main menu.
 2. Click the **Customers** tab.
 3. Click **Add Payment**.
 
-#### Enter Payment Details
+###  Enter Payment Details
 
 4. **Amount**: Enter the payment amount.
 5. **Payment Type**: Choose from ACH, Card, or Check.
@@ -57,16 +57,19 @@
     **For Check**:
     - **Payment Info**: Enter the check number.
 
-#### Manage Payment Record
+### Manage Payment Record
+
 6. **View Payment Record**: Click the **Expand** button (>) to access an existing record.  
     
 7. **Confirm Payment**: Click **Confirmed** to finalize the payment, which will update the **Payments** field and make it uneditable.
+
 **Note ⚠️**: Payments cannot be confirmed if the payment amount is negative or if the payment type is missing.
+
 8. **Cancel Payment**: Click **Cancel Payment** to cancel, even if confirmed.
 9. **Unconfirm Payment**: Confirmed Card and ACH payments cannot be reverted. You can unconfirm Check payments and modify details by clicking **Unconfirm**.
 10. **Save Changes**: Click **Save and Close** when finished.
 
-#### Deleting a Payment Record
+### Deleting a Payment Record
 
 💡 **Tip**: To delete a payment record, click the (✖︎) icon next to the record and confirm by clicking **Delete** in the dialog box.
 

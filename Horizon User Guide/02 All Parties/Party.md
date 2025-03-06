@@ -19,7 +19,7 @@ Follow the steps below to create a new party record:
     - Navigate to **All Parties** in the main menu. <br>
 2. **Open New Record Form**:
     
-    - Click **New Record**. <br>
+    - Click **New Record** in the secondary navigation tabs. <br>
 3. **Select Party Type**:
     
     - In the Type field, choose **Person** or **Organization**. 
@@ -37,11 +37,10 @@ Follow the steps below to create a new party record:
 6. **Choose Primary Contact Method**:
 
 	* Select a preferred contact method by checking the box under **Primary**. <br>
-	
 	⚠️ Note: A primary contact method must be selected to save the record. <br>
 7. **Save the Record**:
     
-    - Click **Save** at the bottom right corner of the form. This will automatically open the newly created party record.
+    - Click **Save** in the bottom right corner of the form. This will automatically open the newly created party record.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="200" height="300">
 
