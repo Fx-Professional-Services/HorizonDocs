@@ -133,7 +133,7 @@ This process efficiently sets up a new user account in Horizon.
 
 10. Click **Save and Close**.
   
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_new_account_details.png" width="300" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_new_account_details.png" width="280" height="280">
 
 11. When prompted that the email has been sent, click **OK**.
 
