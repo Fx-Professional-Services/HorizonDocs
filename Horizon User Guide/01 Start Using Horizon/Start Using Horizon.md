@@ -119,7 +119,7 @@ This process efficiently sets up a new user account in Horizon.
 
 4.6. Click **Save** to store the information.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_new_record_details.png" width="300" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_new_record_details.png" width="280" height="300">
 
 5. Return to the main menu and click **Settings.**
 
@@ -382,7 +382,7 @@ To permanently delete your account:
 3. In the **Remove Account** window, click on the **Account Name** field. Select the account to be removed from the list by clicking the add (+) icon or selecting the account name. The account privilege will be auto-entered. 
 4. When redirected back to the **Remove Account** window, click **Continue.**
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_remove_account_settings.png" width="350" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/46_remove_account_settings.png" width="350" height="250">
 
 5. A notification will confirm that your account has been deleted. Click **OK**.
 
