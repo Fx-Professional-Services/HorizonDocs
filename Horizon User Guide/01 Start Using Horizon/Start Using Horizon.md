@@ -119,7 +119,7 @@ This process efficiently sets up a new user account in Horizon.
 
 4.6. Click **Save** to store the information.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_new_record_details.png" width="250" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_new_record_details.png" width="200" height="300">
 
 5. Return to the main menu and click **Settings.**
 
