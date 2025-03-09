@@ -176,7 +176,7 @@ You can also manage relationships from the **Options Menu** in the **All Parties
 6. **Select Parties**  
     Select the parties involved and assign their respective roles.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/64_add_relationship_from_the_options_menu.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/64_add_relationships_from_the_options_menu.png" width="350" height="300">
 
 # Add Relationship Types
 
