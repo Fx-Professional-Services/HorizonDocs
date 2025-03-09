@@ -9,56 +9,56 @@ An item is a basic unit that can be added to orders, including products, configu
 * [Add Existing Items to Categories](add-existing-items-to-categories)
 ## Manage Item Details
 
+To manage item details, follow these steps: 
 1. Go to the main menu and select **Products**.
 2. Click **Item Management**, then select **All Items**.
 3. Fill in the following details:
-- **Name**: Enter the item name.
-- **Replenishment Method**: Choose a restocking method from **build**, **purchase**, **stock**, or **pick**.
-- **Preferred Vendor**: Select your vendor from the list.
-- **Stock to Keep**: Set the desired stock level.
-- **Lead Time**: Enter the total time required to fulfill an order (includes pick, build, and purchase).
-- **Best by (Time)**: Enter the expiration time.
-- **Customer Facing Name**: Enter the display name for customers.
-- **Customer Facing Description**: Enter a description for customers.
-⚠️ Note: The customer-facing name and description are essential details that will be displayed in the sales order when the item is included.
-- **Consumable, Sale Item, or Need Pick**: Tick the appropriate box.
-- **Categorize the Item**: Select if it’s a Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
+	- **Name**: Enter the item name.
+	- **Replenishment Method**: Choose a restocking method:  **build**, **purchase**, **stock**, or **pick**.
+	- **Preferred Vendor**: Select your vendor from the list.
+	- **Stock to Keep**: Set the desired stock level.
+	- **Lead Time**: Enter the total time required to fulfill an order (including pick, build, and purchase).
+	- **Best by (Time)**: Enter the expiration time.
+	- **Customer-Facing Name**: Enter the display name for customers.
+	- **Customer Facing Description**: Enter a description for customers.
+	⚠️ Note: The customer-facing name and description are critical, as they will appear in the sales order when the item is included.
+	- **Consumable, Sale Item, or Need Pick**: Check the appropriate box.
+	- **Categorize the Item**: Select the item type-- Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
 
 ## Assign Categories to Items
 
-1. Navigate to the main menu and select **Products**.
-2. Click on **Item Management**, then choose **All Items**.
-3. Enter **Find Mode** to locate the item you wish to categorize. 
+To assign categories to items, follow these steps:
 
-💡 **Tip**: If you don't have a specific item in mind, but only a vague description, enter keywords in the **Enter Search Term** field to filter your search results.
+1. Navigate to the main menu and select **Products**.
+2. Click **Item Management**, then choose **All Items**.
+3. Switch to **Find Mode** to locate the item you wish to categorize. 
+
+💡 **Tip**: If you don't know the exact item name but have a general description, enter keywords in the **Enter Search Term** field to filter your search results.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/40_assign_categories_to_items_2_3.png" width="350" height="300">
 
-7. Use the search icon (🔎) to type the item's name.
-8. Once you find the item, go to the **Categories** tab.
-9. Click **click to select categories**.
+4. Use the search icon (🔎) to search for the item's name.
+5. Once you locate the item, go to the **Categories** tab.
+6. Click **Click to Select Categories**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="300" height="280">
 
-7. In the category picker, type the category name in the search bar and click the search icon (🔎). Click the add button (✚) next to the category, then click **Done** to close the picker.
+7. In the category picker, type the category name in the search bar and click the search icon (🔎). Then, click the add button (✚) next to the category, and click **Done** to close the picker.
 8. A dialog box will prompt you to apply the selected category to all records in the found set. Click **Yes** to apply it to all items, or **No** to apply it only to the specific item.
-9. To review the changes, navigate to **Units and Categories**, then select **Categories**.
+9. To review your changes, navigate to **Units and Categories**, then select **Categories**.
 10. In the left panel, select the assigned category. The items in the found set should now be categorized accordingly.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_assign_categories_to_items_9_10.png" width="300" height="200">
 
 ## Add Existing Items to Categories
 
+To add existing items to categories, follow these steps:
 1. Go to the main menu and select **Products**.
-2. Click on **Item Management**, then choose the relevant category: **Products**, **Services**, **Configurators**, **All Equipment**, or **Discount**.
+2. Click **Item Management**, then choose the relevant category: **Products**, **Services**, **Configurators**, **All Equipment**, or **Discount**.
 3. Switch to the **Select Existing** tab.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/43_add_existing_items_2_3.png" width="350" height="300">
 
-4. Find the item you wish to add and click the add button (✚) next to it. Click **Done** to confirm.
+4. Locate the item you want to add, then click the add button (✚) next to it. Click **Done** to confirm.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_add_existing_items_4.png" width="350" height="300">
-
-## Search for Items
-
-1. 
