@@ -21,7 +21,7 @@ To manage item details, follow these steps:
 	- **Best by (Time)**: Enter the expiration time.
 	- **Customer-Facing Name**: Enter the display name for customers.
 	- **Customer Facing Description**: Enter a description for customers.
-	⚠️ Note: The customer-facing name and description are critical, as they will appear in the sales order when the item is included.
+	⚠️ Note: The customer-facing name and description are critical, as they will appear in the sales order when the item is included. You can also check the **Hide in Order?** box to keep these details hidden in the order.
 	- **Consumable, Sale Item, or Need Pick**: Check the appropriate box.
 	- **Categorize the Item**: Select the item type-- Product, Service, Configurator, Equipment, or Discount by ticking the corresponding box.
 
