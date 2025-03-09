@@ -41,14 +41,14 @@ To assign categories to items, follow these steps:
 5. Once you locate the item, go to the **Categories** tab.
 6. Click **Click to Select Categories**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="300" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/41_assign_categories_to_items_4_5_6.png" width="300" height="250">
 
 7. In the category picker, type the category name in the search bar and click the search icon (🔎). Then, click the add button (✚) next to the category, and click **Done** to close the picker.
 8. A dialog box will prompt you to apply the selected category to all records in the found set. Click **Yes** to apply it to all items, or **No** to apply it only to the specific item.
 9. To review your changes, navigate to **Units and Categories**, then select **Categories**.
 10. In the left panel, select the assigned category. The items in the found set should now be categorized accordingly.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_assign_categories_to_items_9_10.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/42_assign_categories_to_items_9_10.png" width="280" height="200">
 
 ## Add Existing Items to Categories
 
