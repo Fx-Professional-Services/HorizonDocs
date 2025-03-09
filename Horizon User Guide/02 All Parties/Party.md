@@ -120,6 +120,7 @@ Follow these steps to create a new vendor record:
     
     - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created vendor record.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/62_create_a_new_vendor_record.png" width="200" height="300">
 # Add Relationship in All Parties Module
 
 A **relationship** refers to a connection or association between a party (such as a customer, employee, or vendor) and another individual or entity within the system. This could include relationships like family, employment, or other types relevant to the system’s operations.
