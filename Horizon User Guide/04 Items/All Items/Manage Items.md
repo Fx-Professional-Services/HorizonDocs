@@ -33,7 +33,7 @@ To assign categories to items, follow these steps:
 2. Click **Item Management**, then choose **All Items**.
 3. Switch to **Find Mode** to locate the item you wish to categorize. 
 
-💡 **Tip**: If you don't know the exact item name but have a general description, enter keywords in the **Enter Search Term** field to filter your search results.
+💡 **Tip**: If you're unsure of the exact item name but have a general description, enter keywords (e.g., breakfast, cold drinks, side dish, dessert) in the **Enter Search Term** field to filter your search results.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/40_assign_categories_to_items_2_3.png" width="350" height="300">
 
