@@ -153,6 +153,7 @@ Follow these steps to add a relationship in All Parties Module:
     Click **Save** to add the relationship to the party's record.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/63_add_relationship_in_all_parties_module.png" width="350" height="300">
+
 # Add Relationships from the Options Menu
 
 You can also manage relationships from the **Options Menu** in the **All Parties** or **Customers** section. Follow these steps:
@@ -174,7 +175,6 @@ You can also manage relationships from the **Options Menu** in the **All Parties
     
 6. **Select Parties**  
     Select the parties involved and assign their respective roles.
-
 
 
 # Add Relationship Types
