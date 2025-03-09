@@ -193,9 +193,11 @@ Follow these steps to define new relationship types:
     
 4. **Enter a Name**  
     Provide a name for the relationship type.
-    
-5. **Enter Roles**  
+
+5. **Enter a Description**
+	 Provide a description for the relationship type.
+6. **Enter Roles**  
     Define the roles associated with this relationship type.
     
-6. **Enter Sort Order**  
+7. **Enter Sort Order**  
     Specify the sort order for the relationship type.
