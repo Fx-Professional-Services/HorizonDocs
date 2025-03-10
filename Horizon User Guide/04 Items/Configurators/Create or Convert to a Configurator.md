@@ -49,7 +49,7 @@ Follow these steps to convert an existing product into a configurator:
     - Use **Find Mode** to search for the name of the newly added configurator.
     - Ensure that the **Configurator** field is checked.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/49_confirm_configuration.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/49_confirm_configuration.png" width="350" height="280">
 
 6. **Find the Configurator**  
     Switch to **Find Mode** and search for the name of the newly added configurator.
