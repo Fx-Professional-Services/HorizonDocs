@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Party.md",
+                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party"
+              "title": "Create or Convert to a Configurator"
             }
           }
         ]
@@ -170,17 +170,17 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
+    "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/65_add_relationship_types.png",
     "Horizon User Guide/00 Assets/64_add_relationships_from_the_options_menu.png",
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
-    "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/00 Assets/63_add_relationship_in_all_parties_module.png",
     "Horizon User Guide/00 Assets/62_create_a_new_vendor_record.png",
     "Horizon User Guide/00 Assets/61_create_a_new_employee_record.png",
     "Horizon User Guide/00 Assets/60_create_a_new_customer_record.png",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "set-vendor-prices-as-inactive.md",
     "import-vendor-prices.md",
@@ -215,7 +215,6 @@
     "Horizon User Guide/00 Assets/58_add_product_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/57_upload_vendor_prices.png",
     "Horizon User Guide/00 Assets/56_create_products.png",
-    "Horizon User Guide/00 Assets/46_remove_account_settings.png",
     "Horizon User Guide/07 Definition of Terms"
   ]
 }

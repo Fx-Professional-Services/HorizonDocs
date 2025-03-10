@@ -111,8 +111,9 @@
 
 ## Merge Customer Records
 
-1. In the left pane, select the customer whose records you want to merge.
-2. Click **Scripts** in the navigation bar, then select **Merge Customer**.
-3. From the list, choose the customer to merge with. The records of both customers will be combined.
+1. In the main menu, go to **All Parties**, then select **Customers**.
+2. In the left pane, select the customer whose records you want to merge.
+3. Click **Scripts** in the navigation bar, then select **Merge Customer**.
+4. From the list, choose the customer to merge with. The records of both customers will be combined.
 
 Following these steps will successfully merge the customer records and prevent duplicate transactions.
