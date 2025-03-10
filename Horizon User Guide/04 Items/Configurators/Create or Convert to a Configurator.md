@@ -41,7 +41,7 @@ Follow these steps to convert an existing product into a configurator:
 4. **Set Unit of Measure**  
     Return to the **Configurators** page and enter the **Unit of Measure** for the selected item.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/48_convert_product_into_a_configurator.png" width="350" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/48_convert_product_into_a_configurator.png" width="350" height="250">
 
 5. **Verify Changes:**
     
