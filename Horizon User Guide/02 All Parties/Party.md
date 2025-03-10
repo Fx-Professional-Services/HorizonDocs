@@ -201,3 +201,5 @@ Follow these steps to define new relationship types:
     
 7. **Enter Sort Order**  
     Specify the sort order for the relationship type.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/65_add_relationship_types.png" width="350" height="300">
