@@ -13,6 +13,7 @@ Discounts are applied to sales orders to reduce the total amount. This section e
 4. In the **Details** tab, review or edit the discount information.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/66_modify_discount.png" width="350" height="300">
+
 #### To create a discount
 
 1. In the main menu, click **Sales Orders**.
