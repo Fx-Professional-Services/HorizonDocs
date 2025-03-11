@@ -11,6 +11,8 @@ Discounts are applied to sales orders to reduce the total amount. This section e
 2. Go to **Item Management**, then select **Discount**. This opens the **Discounts** page.
 3. In the left pane, select the discount you want to modify. The discount details will appear in the **Details** tab.
 4. In the **Details** tab, review or edit the discount information.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/47_create_a_new_configurator.png" width="350" height="300">
 #### To create a discount
 
 1. Click **New Record** to create a new discount.
