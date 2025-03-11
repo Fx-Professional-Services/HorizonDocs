@@ -1,6 +1,6 @@
 # Create or Convert to a Configurator
 
-Configurators provide customers with a set of predefined options for their sales orders. Users can select specific items and quantities from a category, which generates sales order items. The configurator also determines the necessary Bill of Materials (BOM) for producing the selected product.
+Configurators provide customers with predefined options for their sales orders. Users can select items and quantities from a category, which generates corresponding sales order items. The configurator also determines the necessary Bill of Materials (BOM) to produce the selected product.
 ## Create a New Configurator
 
 Follow these steps to create a configurator:
@@ -10,7 +10,7 @@ Follow these steps to create a configurator:
     - In the main menu, select **Products**.
 2. **Access Configurators:**
     
-    - Click on **Item Management**, then select **Configurators** from the dropdown.
+    - Click **Item Management**, then select **Configurators** from the dropdown.
 3. **Create a New Record:**
     
     - Click **New Record**.
@@ -21,7 +21,7 @@ Follow these steps to create a configurator:
 5. **Set Minimum and Maximum Values:**
     
 	- Open the **Options** tab.
-	- Enter the minimum value first, then the maximum value, in the fields next to the product category.
+	- Enter the **minimum value** first, then the **maximum value**, in the fields next to the product category.
 	
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/47_create_a_new_configurator.png" width="350" height="280">
 
