@@ -31,7 +31,7 @@ Follow these steps to create a configurator:
 Follow these steps to convert an existing product into a configurator: 
 
 1. **Navigate to Products**  
-    From the main menu, select **Products**.
+    In the main menu, click **Products**.
     
 2. **Access Configurators**  
     Click **Item Management**, then select **Configurators**.
@@ -40,7 +40,7 @@ Follow these steps to convert an existing product into a configurator:
     Click **Select Existing**. In the picker, locate the item by scrolling or using the search icon (🔎). Click the **Add** button (✚) next to the item to select it. The window will close automatically.
     
 4. **Set Unit of Measure**  
-    Return to the **Configurators** page and enter the **Unit of Measure** for the selected item.
+    Return to the **Configurators** page. Enter the **Unit of Measure** for the selected item.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/48_convert_product_into_a_configurator.png" width="350" height="250">
 
@@ -52,7 +52,7 @@ Follow these steps to convert an existing product into a configurator:
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/49_confirm_configuration.png" width="350" height="280">
 
-6. **Find the Configurator**  
+6. **Search for the Configurator**  
     Switch to **Find Mode** and search for the name of the newly added configurator.
     
 7. **Confirm Configuration**  
