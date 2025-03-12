@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+                "file": "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create or Convert to a Configurator"
+              "title": "Add or Convert to Equipment"
             }
           }
         ]
@@ -170,10 +170,10 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/04 Items/Discount/Discount.md",
-    "Horizon User Guide/00 Assets/67_create_discount.png",
     "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/00 Assets/67_create_discount.png",
     "Horizon User Guide/00 Assets/66_modify_discount.png",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",

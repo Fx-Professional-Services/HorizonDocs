@@ -1,19 +1,39 @@
 # Add or Convert to Equipment
 
-This guide will help you either add new equipment or convert an existing product into equipment.
+This guide explains how to add new equipment or convert an existing product into equipment.
 # Add New Equipment
 
-1. Navigate to the main menu and select **Products**.
-2. Choose **Item Management**, then click on **All Equipment**.
-3. Click **New Record** to start adding your equipment.
-4. Enter the required details: name, unit of measure, and turnaround time in hours
-(e.g., 23:10:00).
-5. Specify if the equipment is needed for picking by selecting or deselecting the **Need Pick** option.
-6. Go to the **Categories** tab and select the appropriate category.
-7. After entering all necessary information, return to **Item Management** and select **All Items**. ⚠️ Note: Your record will be saved automatically.
-8. Switch to **Find Mode**, enter the equipment’s name, and press **Return** (Mac) or **Enter** (Windows) to search. Verify that the equipment appears in the search results.
+Follow these steps to add new equipment:
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="350" height="250">
+1. **Navigate to Products**  
+    In the main menu, select **Products**.
+    
+2. **Access Equipment**  
+    Click **Item Management**, then select **All Equipment**.
+    
+3. **Create a New Record**  
+    Click **New Record** to begin adding your equipment.
+    
+4. **Enter Equipment Details**  
+    Provide the required information:
+    
+    - **Name**
+    - **Unit of Measure**
+    - **Turnaround Time** (e.g., 23:10:00)
+5. **Specify Picking Requirement**  
+    If the equipment is needed for picking, select the **Need Pick** option. Deselect it if the equipment is not needed for picking.
+    
+6. **Assign a Category**  
+    Go to the **Categories** tab and select the appropriate category.
+    
+7. **Return to Item Management**  
+    After entering the necessary details, go back to **Item Management** and select **All Items**.  
+    ⚠️ **Note**: Your record saves automatically.
+    
+8. **Search for the Equipment**  
+    Switch to **Find Mode**, enter the equipment’s name, and press **Return** (Mac) or **Enter** (Windows) to search. Verify that the equipment appears in the search results.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="350" height="200">
 
 # Convert an Existing Product to Equipment
 
