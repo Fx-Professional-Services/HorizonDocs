@@ -33,7 +33,7 @@ Follow these steps to add new equipment:
 8. **Search for the Equipment**  
     Switch to **Find Mode**, enter the equipment’s name, and press **Return** (Mac) or **Enter** (Windows) to search. Verify that the equipment appears in the search results.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="350" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="300" height="200">
 
 # Convert an Existing Product to Equipment
 
