@@ -1,6 +1,6 @@
 # Pick Order
 
-A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
+A **pick order** directs the retrieval of specific items from inventory and their transport to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment.
 
 ### Create a Pick Order:
 
@@ -10,7 +10,8 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 2. **Filter Demand Types**
 
-- In the **Demand List**, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**. Alternatively, press **Ctrl + F** (Windows) or **Cmd + F** (Mac) and type "pick" in the **Source** field. 
+- In the **Demand List**, uncheck any irrelevant demand types (e.g., build demand, purchase demand) until only **pick demand** remains checked. Click **Search**. 
+- Alternatively, press **Ctrl + F** (Windows) or **Cmd + F** (Mac) and type "pick" in the **Source** field. 
 
 	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 
@@ -33,12 +34,11 @@ A pick order is a directive to retrieve specific items from inventory and transp
     💡 **Tip:** The first item in the list should be the demand you just generated.
 6. **Create Pick Order**
 
-- In the Temporary Order Item list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 
+- In the **Temporary Order Item** list, find pick orders grouped by date and order number. Click **Create Order** next to the desired pick order to create a temporary pick order. 
 
 7. **Check Order Status**
 
 - Once created, the order will have a serial number and its status will change to **View Order**.
-
 
 8. **Add Pick Order Item**
 
@@ -65,7 +65,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 13. **Delete Line Item**
 
 - To remove a line item, click the delete button (**x**) next to it.
-💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **pick item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.**
+💡 **Tip**: To add the item back, repeat steps 2 through 4, then click **Pick Item** in the Picker window. Finally, click **View Order** to see the order with the newly added pick item.
   
 **<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/28_delete_pick_order_item.png" width="350" height="250">**
 
@@ -85,7 +85,7 @@ A pick order is a directive to retrieve specific items from inventory and transp
 
 ### Change Customer Picker to Employee Picker:
 
-1. In the main menu, click on **Sales Order**, then select **Pick Order**.
+1. In the main menu, click **Sales Order**, then select **Pick Order**.
 
 2. Click **New Record**.
 
