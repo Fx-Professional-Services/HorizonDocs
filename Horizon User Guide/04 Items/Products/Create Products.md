@@ -97,6 +97,11 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
 
+7. **Search for the Product**  
+    In the items picker, type the name of the product in the search box and click the search icon **(🔎)**. Your newly added product should appear in the search results.
+    
+8. **Finalize the Product**  
+    Click **Done** when you find the desired product. The newly created product will be displayed in the item column next to the selected party.
 # Manage Vendor Prices
 
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
