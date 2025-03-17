@@ -183,3 +183,16 @@ Follow these steps to input product details in the **Upload Vendor Prices**:
     
 6. **Complete the Process**  
     Click **Done** to finish. The newly created product will appear in the item column next to the **Party**.
+
+#### Definition of Terms
+
+##### Need Pick
+
+An item flagged as "Need Pick" is retrieved from inventory based on a pick order and transported to a designated location for processing or assembly.
+##### Consumable
+
+An item flagged as "Consumable" is intended to be used up or depleted over time.
+
+##### Sale Item
+
+An item flagged as a sale item is available for purchase, distinguishing it from items not intended for sale.
