@@ -1,8 +1,8 @@
 # Return Order
 
-A **Return Order** is the process of processing items returned by a customer, which updates the inventory and creates a record of the return. Follow these steps to create a return order:
+A **Return Order** is the process of processing items returned by a customer. This updates the inventory and creates a record of the return. Follow these steps to create a return order:
 
-### Process a Return Order
+## Process a Return Order
 
 1. **Open Sales Order**  
     From the main menu, select **Sales Order**.
