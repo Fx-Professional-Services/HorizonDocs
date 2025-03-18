@@ -1,5 +1,10 @@
 # Invoices
 
-Follow these steps to view and manage invoices:
+# Generate a Sales Invoice
 
-1. From the main menu, click **Invoices**. This will open **Horizon Accounting**.
+An invoice lists items purchased or services used, including prices and quantities, and calculates the total amount due. Follow these steps to generate an invoice:
+
+1. **Access Invoices**: Go to the main menu and select **Invoices**.
+2. **Find the Invoice**: Use **Find Mode** or **Browse Mode** to locate the customer’s invoices.
+3. **Confirm the Invoice**: Click **Confirm**. The status of the invoice will change to **Yes**.
+4. **Cancel an Invoice:** To cancel an invoice, click **Cancel**. The invoice status will change to **Cancelled**, and the values will reset to zero.
