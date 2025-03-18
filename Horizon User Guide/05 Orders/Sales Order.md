@@ -9,24 +9,24 @@ A sales order initiates the fulfillment of a customer's request for [products](#
 * [Definition of Terms](#definition-of-terms)
 ### Create a Sales Order
 ___
-1.  **Ensure the Customer Record Exists**:
+1.  **Ensure the Customer Record Exists**
     
     - Make sure the customer’s record is already created. If not, [create a new customer record](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/03%20Customers/Create%20and%20Manage%20Customer%20and%20Payment%20Records.md).
-2. **Navigate to Sales Orders**:
+2. **Navigate to Sales Orders**
     
     - In the main menu, go to **Sales Orders**.
-3. **Create a New Record**:
+3. **Create a New Record**
     
     - Click **New Record**.
-4. **Select the Customer**:
+4. **Select the Customer**
     
     - Click the **Customer** field to select a party.
     - In the picker, type the party’s name in the **Search** field and press **Enter**, or scroll through the list and click **Add**.
-5. Set the Dates**:
+5. **Set the Dates**
     
     - Set the **Receive Date** and **Start At** date.
     - The **End At** date will be auto-scheduled based on the system’s settings.
-6. **Select Sale Order Items**:
+6. **Select Sale Order Items**
     
     - Click to select an item and choose a **Sale Order Item**.
     - In the picker, type the product name in the **Search Name** field or type a category name in the **Search Category** field.
@@ -41,18 +41,18 @@ ___
 ### Manage Line Items
 ___
 
-7. **Adjusting Price and Quantity:**
+7. **Adjust Price and Quantity:**
 
     - Modify the price or quantity of a line item by entering new values. The subtotal and total costs will update automatically.
 
 8. **Deleting Items:**
 
    To remove items from the list:
-  - Click the **"x"** icon next to the item to delete it.
+	  - Click the **"x"** icon next to the item to delete it.
 	- To delete all items, click **Delete All**.
 	- In the confirmation prompt, click **Yes** to confirm deletion.
 
-	 💡 Tip: To delete a product from a sales order, click **Item Management** and then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
+	 💡 Tip: To delete a product from a sales order, click **Item Management**, then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
 	
 9. **Editing Customer-Facing Name and Details:**
     
@@ -60,11 +60,11 @@ ___
     
     9.2. Add a **customer-facing description** in the field below the item you added. You can also modify the customer-facing description for other items as needed.
 
-To edit the **customer-facing name** and **customer-facing description**:
+	To edit the **customer-facing name** and **customer-facing description**:
 
-- Go to the **All Items** tab.
-- Select the line item.
-- In the (i) info popover, update the **customer-facing name** and **customer-facing description**.
+	- Go to the **All Items** tab.
+	- Select the line item.
+	- In the (i) info popover, update the **customer-facing name** and **customer-facing description**.
 
 **⚠️ Note:** You can also update these details in **Item Management > All Items**. Use **Find Mode** to locate the item in the left pane. Then, go to the **Details** tab to edit the **Customer-facing Name** and **Customer-facing Description**.
 
@@ -98,16 +98,10 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 - Select either a percentage discount (e.g., 10% off) or a fixed amount (e.g., $20 off) by clicking the add button (✚) and then **Done**. The discount will automatically adjust the subtotal and total costs.
 
-- In the pop-up, choose either a percentage (e.g., 10% off) or a fixed amount (e.g., $20 off) and click the add button (✚) and/or Done.
-
-- The discount will automatically update the subtotal and total costs.
-
 💡 **Tips:**
 
 - To remove a discount, click the (x) icon next to the discount. The total cost updates automatically.
 - You can add more sales order items after applying discounts, and the discount values will update accordingly.
-- To remove an applied percentage or fixed amount discount, click the (x) icon next to the discount. The total cost will adjust automatically.
-
 #### Adding Conditions
 
 13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
@@ -125,7 +119,6 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 14. **Adding Custom Attributes:**
 
 * Navigate to the Custom Attributes Tab.
-    
 - Enter Values for each attribute (e.g., **Event Date**: 8/15/2025).
 
 💡 **Tip**: To add a new custom attribute:
@@ -139,20 +132,13 @@ The new custom attribute will appear in the list thereafter.
 ### Generate Demand and Invoice
 ___
 
-14.1.  **Generating Demand:**
-
-- Navigate to **Demand > Generate Demand**.
-    - A notification will appear when demand generation starts and completes.
-- Click **OK** when the notification appears.
-- Click **Save Changes** to finalize the process.
-
 15. **Generating Demand:**
 
 15.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/05_sales_orders_generate_demand.png" width="350" height="300">
 
-15.2. 
+**15.2. Asynchronous Demand Generation**
 
 a. To generate demand asynchronously, click **Generate Demand 2**. This allows you to continue working in other modules while the process runs.
 
@@ -182,12 +168,11 @@ To generate a sales invoice, go to the **Order** tab and click **Confirm**.
 - The value of both confirmed and unconfirmed sales orders affects the **Total Sales Order** field in the **Customer** module.  
 	* To access the **Customer** module, click the customer's name.
 
-Inventory Update
-Confirming the sales order updates the inventory.
+**Inventory Update**: Confirming the sales order updates the inventory.
 
-To view the inventory, click Item Management, then select Products.
-In the left pane, select the product from your sales order items.
-Once the sales order is confirmed, the values in the Sold and Demand fields will automatically update.
+* To view the inventory, click Item Management, then select Products.
+* In the left pane, select the product from your sales order items.
+* After confirming the sales order, the values in the **Sold** and **Demand** fields will automatically update.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/06_confirm_sales_order.png" width="350" height="300">
 
