@@ -89,6 +89,6 @@ Follow these steps to create a purchase order:
 
 - Click **Confirm** to verify and finalize the details of the purchase order.
 
-14. **Save Changes**
+16. **Save Changes**
 
 - Click **Save Changes** to keep your modifications.
