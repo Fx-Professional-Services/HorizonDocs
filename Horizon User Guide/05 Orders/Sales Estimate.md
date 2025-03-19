@@ -71,8 +71,6 @@ A **Sales Estimate** is a preliminary document outlining potential sales details
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
 
-12. Click the hamburger menu (☰) next to each field in the sales estimate to adjust or select the Sales Channel, Customer Tier, or Payment Terms.
-
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/11_manage_line_items_sales_estimate.png" width="350" height="300">
 
 💡 **Tip:** To remove selections in the **Sales Channel**, **Customer Tier**, or **Payment Terms** fields, click the delete (x) icon next to the item. Confirm the removal by clicking **Yes** in the dialogue box.
