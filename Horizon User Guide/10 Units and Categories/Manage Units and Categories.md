@@ -1,19 +1,29 @@
 # Manage Units and Categories
 
+This section provides instructions on managing units of measure and categories within your system. You'll learn how to convert units of measure, assign categories to items, and understand key terminology to ensure consistency in your processes. 
+
+* [Convert Units of Measure](convert-units-of-measure)
+* [Assign Categories to All Items in Found Set](assign-categories-to-all-items-in-found-set)
+* [Definition of Terms](definition-of-terms)
+
 ## Convert Units of Measure
+
+This section explains how to convert units of measure by setting up conversion factors for items and vendors. You will learn how to apply conversion rates, select items and vendors, and review conversions for accuracy.
 
 1. Navigate to the main menu and select **Sales Orders**.
 2. Choose **Units and Categories**, then go to **Conversion Factors**.
 3. Click **New Record**.
 4. In the **From** field, enter the unit of measure you want to convert from.
 5. In the **To** field, specify the unit of measure you want to convert to.
-* **Using Find Mode**: To quickly find units of measure, click **Find Mode**, enter the units in the search field for the **From** and **To** fields, select the conversion factor from the left pane, then click the **Swap** button (🔄).
+	* **Using Find Mode**: To quickly find units of measure, click **Find Mode**, enter the units in the search field for the **From** and **To** fields, select the conversion factor from the left pane, then click the **Swap** button (🔄).
 6. Enter the conversion rate.
 7. **Select the item**: Choose the item for which you want to apply the conversion factor.
-8.**Select the vendor**: Choose the vendor from whom the item will be purchased.
-9.**Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
+8. **Select the vendor**: Choose the vendor from whom the item will be purchased.
+9. **Review Conversion Relation to a Vendor and/or Item:** Go to **Units and Categories**, then select **Unit of Measure**. Click **Find Mode** and search for the unit/s of measure you used for conversion. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
 ## Assign Categories to All Items in Found Set 
+
+Here, you'll learn how to assign categories to items in your found set, helping you organize products more efficiently. This section also covers reviewing your changes and verifying that items are correctly categorized.
 
 1. Navigate to the main menu and select **Products**.
 2. Choose **Item Management**, then click **All Items**.
@@ -30,8 +40,9 @@
   - Click the **Categories** tab.
   - Verify that the correct category is linked to the item and check its type. 
 
-### Definition of Terms:  
+### Definition of Terms
 
+In this section, you'll find definitions for key terms related to units and categories, such as conversion factors, conversion rates, and units of measure. Understanding these terms will help you use the system more effectively and ensure accurate conversions and categorization.
 #### Conversion Factor
 
 A **conversion factor** is a number used to convert between units. You multiply or divide by the factor to switch between units.
