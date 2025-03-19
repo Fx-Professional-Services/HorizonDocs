@@ -9,53 +9,45 @@ To create a production order, follow these steps:
 - From the main menu, select **Supply and Demand**. 
 - Click **Supply and Demand** from the primary menu bar, then select **Demand List**. 
 
-2. **Filter Demand Types**
-
+1. **Filter Demand Types**
 - In the Demand List, uncheck any irrelevant demand types (e.g., pick demand, purchase demand) until only **build demand** remains checked. Then click **Search**. 
 - Alternatively, press **Command + F** (Mac) or **Control + F** (Windows), and type **Build** in the **Source** field. 
 
 3. **Select Build Demand**
-
 - To address a specific **Build Demand** item, click **Build** x item (e.g., Lemon Meringue Tart). 
 - To address all build demands at once, click **address all x demands.** 
 
     ⚠️ Note: Notification messages will appear at the beginning and end of batch demand generation. Click **OK** to continue.
 
 4. **View Batch Name**
-
 - To view the batch name (set after generating demand), go to **Supply and Demand** from the primary navigation menu and select **Demand Batch List** under your user account.
 
 5. **View Production Order**
-
 * In the **Production Order** layout, under the **Order** tab, the production order will be displayed along with its yield, sources, and the quantity and unit of measure for each selected item.
 
 6. **Choose Demand**
-
 - Select the demand you just generated, then click the expand button (>) next to it.  
     💡 **Tip:** The first item in the list should be the demand you just created.
 
 7. **Create Production Order**
-
 - In the **Temporary Order Item** list, production orders are grouped by date and order number. Click **Create Order** next to the desired production order, then click **Add Production Order Item**. 
 
 8. **View Demand**
-
 * Click **View X Demands**, then click the (+) button in the **View Demand X** popover to view the selected demand.
 
-**8.1 Add BOM Yield Items**
+	**8.1 Add BOM Yield Items**
 
 - The **Bill of Materials** (BOM) yield items will be added.
 
-**8.2 Address Demand Items**
+	**8.2 Address Demand Items**
 
 - To address a demand, click **View 1 Demand** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the production order. To unaddress the demand, click the **Remove** button (-).
 	
-**8.3 View Order**
+	**8.3 View Order**
 
 - The order will receive a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
 
 9. **Assign Employee**
-
 * In the the **Order** tab, assign an employee responsible for the order by clicking **Click here to select employee**.
 
 10. **Enter Production Dates** 
@@ -64,10 +56,10 @@ To create a production order, follow these steps:
 11. **Select Location**
 * To select the **Location** for storing the yielded items, click **Options**, select **Feature Flags**, and choose **Production Order**.
 
-12. Adjust Product Quantities
+12. **Adjust Product Quantities**
 * In the **Production Order Items** section, select the product type (**Yield** or **Source**) and adjust the product quantity as needed. 
 
-13. Use the Reverse Button 🔄
+13. **Use the Reverse Button 🔄**
 
 * Click the **Reverse** button  to revert recent changes and restore previous settings.
 
@@ -121,7 +113,7 @@ Click **confirm** to complete the following actions:
 
 * Enter the estimated time duration for each step and check them off as they are completed.
 
-17. **Track Production Time**
+19. **Track Production Time**
 
 - Click the **Play** button to start or pause the timer.
 - Click the **Flag** icon to indicate that the process is complete.
