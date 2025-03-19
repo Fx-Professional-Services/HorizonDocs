@@ -14,8 +14,8 @@
     - **Memo** (optional)
     - **Last 4 digits** of the account number
 
-##### Delete ACH Payment Record
+##### Delete an ACH Payment Record
 
-6. In the left pane, select the payment ACH record you want to delete.
+6. In the left pane, select the ACH payment record you want to delete.
 7. Click **Delete Record**.
 8.  In the confirmation dialog, click **Delete** to proceed.
