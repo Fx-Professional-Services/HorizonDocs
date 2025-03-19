@@ -20,16 +20,16 @@ A **Receiving Order** is the process of receiving items from a **Purchase Order*
 - Choose the party’s name from the picker. The party should have an existing confirmed **Purchase Order** to pick the purchase order item ID.
 - Click the add button (✚), then click **Done** at the bottom.
 
-5. Specify Item Type
+5. **Specify Item Type**
 
 - In the **Receiving Order Items** section, choose either **Purchase Order Item** or **Item**.
 
-6. Select Items
+6. **Select Items**
 
 - Click the box labeled **Click to select in the picker**.
 - In the picker, select the items you want to add.
 
-7. Confirm the Order
+7. **Confirm the Order**
 
 - Click the **Confirm** button to confirm the receiving order.
     - This will change the order status from **Pending** to **Confirmed**.
