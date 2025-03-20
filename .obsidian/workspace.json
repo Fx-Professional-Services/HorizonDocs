@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
+                "file": "Horizon User Guide/02 All Parties/Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manage Units and Categories"
+              "title": "Party"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/09 My Tasks/My Tasks.md",
     "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
+    "Horizon User Guide/09 My Tasks/My Tasks.md",
     "Horizon User Guide/09 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/08 Leads/Leads.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
