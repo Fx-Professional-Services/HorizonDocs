@@ -144,7 +144,9 @@ Follow these steps to add a relationship in All Parties Module:
     
 7. **Select the Role of the Party**  
     Choose the role of the party in the relationship (e.g., **spouse**, **manager**).
-    
+
+	⚠️ **Note:** The roles displayed in the picker, whether specific to persons or organizations, depend on the selected relationship type (e.g., family, employment, sister companies, partners).
+	
 8. **Save the Relationship**  
     Click **Save** to add the relationship to the party's record.
 
