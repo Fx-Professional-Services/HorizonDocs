@@ -29,11 +29,9 @@ Follow the steps below to create a new party record:
 	-  Check the blank space next to Customer, Employee, and/or Vendor to create a party record. You can select one, two, or all options. <br>
 5. **Enter Party Information**:
     
-    - Provide the party's name, email, phone number, URLs, and address details. <br>
+    - Enter the party's name, email address, phone number, and/or URLs. In the mailing/billing address, you may include the city, state, postal code, and country details.
     
 	 💡 **Tip:** To delete any information entered, click the delete button (**x**) next to it. <br>
-	 
-	⚠️ **Note:** Include a two-digit country code in the mailing and/or billing address. <br>
 6. **Choose Primary Contact Method**:
 
 	* Select a preferred contact method by checking the box under **Primary**. <br>
@@ -59,8 +57,8 @@ To create a sales order record, you first need to create a customer record. Foll
     - In the pop-up form, choose either **Person** or **Organization** in the Type field.
 4. **Enter Customer Information**:
     
-    - Provide the name, email, phone, URLs, and address details.  
-        ⚠️ Enter a two-digit country code in the mailing and/or billing address.
+    - Enter the party's name, email address, phone number, and/or URLs. In the mailing/billing address, you may include the city, state, postal code, and country details.
+    
 5. **Choose the Primary Contact Method**:
     
     - Select a preferred contact method by checking the box under **Primary**.  
@@ -83,8 +81,7 @@ Follow these steps to create a new employee record:
     - Click **New Record** in the Employees section.
 3. **Enter Employee Information**:
     
-    - In the pop-up form, provide the name, email, phone, URLs, and address details.  
-        ⚠️ Enter a two-digit country code in the address fields.
+    - In the pop-up form, enter the party's name, email address, phone number, and/or URLs. In the mailing/billing address, you may include the city, state, postal code, and country details.
 4. **Choose the Primary Contact Method**:
     
     - Select a primary contact method by checking the box under **Primary**.  
@@ -110,8 +107,7 @@ Follow these steps to create a new vendor record:
     - In the pop-up form, click the **Type** box and choose either **Person** or **Organization** based on the vendor type.
 4. **Enter Vendor Information**:
     
-    - Provide the name, email, phone, URLs, and address details.  
-        ⚠️ Enter a two-digit country code in your mailing and/or billing address.
+    - Enter the party's name, email address, phone number, and/or URLs. In the mailing/billing address, you may include the city, state, postal code, and country details.
 5. **Choose the Primary Contact Method**:
     
     - Select a preferred contact method by checking the box under **Primary**.  
