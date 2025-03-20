@@ -40,6 +40,8 @@ Follow the steps below to create a new party record:
     
     - Click **Save** in the bottom right corner of the form. This will automatically open the newly created party record.
 
+⚠️ **Note**: After creating the party record, the selected party type checkbox will be automatically checked. To view this, go to _All Parties_, select the newly created party from the left pane, and check the summary tab. The checkbox will be marked based on your previous selection.
+
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/17_create_a_new_party_record.png" width="200" height="300">
 
 # Create a New Customer Record
@@ -144,7 +146,9 @@ Follow these steps to add a relationship in All Parties Module:
     
 7. **Select the Role of the Party**  
     Choose the role of the party in the relationship (e.g., **spouse**, **manager**).
-    
+
+	⚠️ **Note:** The roles displayed in the picker, whether specific to persons or organizations, depend on the selected relationship type (e.g., family, employment, sister companies, partners).
+	
 8. **Save the Relationship**  
     Click **Save** to add the relationship to the party's record.
 

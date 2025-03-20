@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,6 +171,9 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/09 My Tasks/My Tasks.md",
     "Horizon User Guide/09 Definition of Terms/Definition of Terms.md",
@@ -189,13 +193,10 @@
     "Horizon User Guide/05 Orders/Receiving Order.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/02 All Parties/Party.md",
-    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Invoices/Invoices.md",
     "Horizon User Guide/06 Invoices/Payment Plans.md",
     "Horizon User Guide/05 Orders/Generate a Sales Invoice.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/00 Assets/67_create_discount.png",
     "Horizon User Guide/00 Assets/66_modify_discount.png",
     "Horizon User Guide/00 Assets/65_add_relationship_types.png",
