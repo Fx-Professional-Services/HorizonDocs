@@ -18,7 +18,7 @@ Below, you'll find the steps to create records for customers, employees, and ven
 * [Create a New Employee Record](#create-a-new-employee-record)
 * [Create a New Vendor Record](#create-a-new-vendor-record)
 * [Add Relationship in All Parties Module](#add-relationship-in-all-parties-module)
-* [Add Relationships from the Options Menu](#add-relatiosionships-from-the-options-menu)
+* [Add Relationships from the Options Menu](#add-relationships-from-the-options-menu)
 * [Add Relationship Types](#add-relationship-types)
 
 # Create a New Party Record
