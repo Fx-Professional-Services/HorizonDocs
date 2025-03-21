@@ -1,15 +1,21 @@
 # Manage Items
 
+This section explains how to manage items in the system. Items can include products, configurators, equipment, and discounts, each with unique attributes. You will learn how to manage item details, assign categories to items, and add existing items to categories.
+
+* [Items Overview](#items-overview)
+* [Manage Item Details](#manage-item-details)
+* [Assign Categories to Items](#assign-categories-to-items)
+* [Add Existing Items to Categories](#add-existing-items-to-categories)
+
 ### **Items Overview**
 
 An item is a basic unit that can be added to orders, including products, configurators, equipment, and discounts. Each type has unique attributes and generates different demand records. All items are categorized in the main item database.
 
-* [Manage Item Details](manage-item-details)
-* [Assign Categories to Items](assign-categories-to-items)
-* [Add Existing Items to Categories](add-existing-items-to-categories)
+
 ## Manage Item Details
 
-To manage item details, follow these steps: 
+Follow these steps to manage the details of an item:
+
 1. Go to the main menu and select **Products**.
 2. Click **Item Management**, then select **All Items**.
 3. Fill in the following details:
@@ -27,7 +33,7 @@ To manage item details, follow these steps:
 
 ## Assign Categories to Items
 
-To assign categories to items, follow these steps:
+Follow these steps to assign categories to items:
 
 1. Navigate to the main menu and select **Products**.
 2. Click **Item Management**, then choose **All Items**.
@@ -53,6 +59,7 @@ To assign categories to items, follow these steps:
 ## Add Existing Items to Categories
 
 To add existing items to categories, follow these steps:
+
 1. Go to the main menu and select **Products**.
 2. Click **Item Management**, then choose the relevant category: **Products**, **Services**, **Configurators**, **All Equipment**, or **Discount**.
 3. Switch to the **Select Existing** tab.
