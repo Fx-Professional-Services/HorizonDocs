@@ -1,5 +1,6 @@
-# **Party**
-A party refers to any individual or entity that interacts with or is represented within the system, including: 
+# Managing Party Records
+
+In this section, you'll learn how to create and manage party records in the system. A "party" refers to any individual or entity that interacts with or is represented within the system, including: 
 - **Customer**: A person or organization that purchases or uses the products or services offered by the system.
 - **Employee**: A person who works for or is employed by the organization managing or using the system.
 - **Vendor**: A person or organization that provides goods or services to the organization using the system.
@@ -10,9 +11,19 @@ Each party has distinct roles, permissions, and interactions within the system:
 - An **employee party record** is necessary for creating a Horizon account, granting access to all Horizon files and enabling the creation of sales orders, generation of demand and invoices, and development of Bills of Materials.
 - A **vendor party record** is vital for managing purchase orders.
 
-Follow the steps below to create a new party record:
+Below, you'll find the steps to create records for customers, employees, and vendors, as well as how to manage relationships between them.
+
+* [Create a New Party Record](#create-a-new-party-record)
+* [Create a New Customer Record](#create-a-new-customer-record)
+* [Create a New Employee Record](create-a-new-employee-record)
+* [Create a New Vendor Record](#create-a-new-vendor-record)
+* [Add Relationship in All Parties Module](#add-relationship-in-all-parties-module)
+* [Add Relationships from the Options Menu](add-relatiosionships-from-the-options-menu)
+* [Add Relationship Types][#add-relationship-types]
 
 # Create a New Party Record
+
+Follow these steps to create a new party record in the system:
 
 1. **Access All Parties Section**:
     
@@ -44,7 +55,7 @@ Follow the steps below to create a new party record:
 
 # Create a New Customer Record
 
-To create a sales order record, you first need to create a customer record. Follow these steps:
+To create a sales order record, you must first create a customer record. Here's how:
 
 1. **Access the Customer Section**:
     
@@ -199,3 +210,8 @@ Follow these steps to define new relationship types:
     Specify the sort order for the relationship type.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/65_add_relationship_types.png" width="350" height="300">
+
+____
+By following these steps, you can effectively create and manage party records, relationships, and relationship types within the system.
+_____
+
