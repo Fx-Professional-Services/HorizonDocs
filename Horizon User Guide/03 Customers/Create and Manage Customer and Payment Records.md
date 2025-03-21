@@ -1,12 +1,16 @@
 
 # Create and Manage Customer and Payment Records
 
-[Create a New Customer Record](#create-a-new-customer-record) <br>
-[Create a Payment Record](#create-a-payment-record) <br>
-[Add Payment Card](#add-payment-card) <br>
-[Add Payment Plan](#add-payment-plan) <br>
-[Merge Customer Records](#merge-customer-records) <br>
+This section explains how to create and manage customer records, payment records, payment cards, payment plans, and how to merge customer records. Follow the steps below to effectively perform each task.
+
+* [Create a New Customer Record](#create-a-new-customer-record) <br>
+* [Create a Payment Record](#create-a-payment-record) <br>
+* [Add Payment Card](#add-payment-card) <br>
+* [Add Payment Plan](#add-payment-plan) <br>
+* [Merge Customer Records](#merge-customer-records) <br>
 ## Create a New Customer Record
+
+Follow these steps to create a new customer record in the system:
 
 1. **Access Customer Section**:
     
@@ -33,6 +37,8 @@
     - Click **Save** at the bottom right corner of the form.
 
 ## Create a Payment Record
+
+Follow these steps to create a payment record:
 
 ### Navigate to Customers
 
@@ -111,9 +117,15 @@
 
 ## Merge Customer Records
 
+Follow these steps to merge customer records:
+
 1. In the main menu, go to **All Parties**, then select **Customers**.
 2. In the left pane, select the customer whose records you want to merge.
 3. Click **Scripts** in the navigation bar, then select **Merge Customer**.
 4. From the list, choose the customer to merge with. The records of both customers will be combined.
 
 Following these steps will successfully merge the customer records and prevent duplicate transactions.
+
+____
+By following these steps, you can efficiently manage customer records, payment details, and merge customer data in the system.
+_______
