@@ -38,11 +38,17 @@ To convert an existing product into a service, follow these steps:
 1. **Access Services:**
     
     - From **Item Management**, select **Services**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/67_access_services.png" width="350" height="300">
+
 2. **Select the Product to Convert**: 
     
-    - Click **Select Existing**. 
-    - In the window that appears, search for the product you want to convert. 
-    - Click the **Add** button (✚) next to the product. This will add the product to the service list and close the window.
+    2.1.  Click **Select Existing**. 
+    2.2. In the window that appears, search for the product you want to convert. 
+	2.3. Click the **Add** button (✚) next to the product. This will add the product to the service list and close the window.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/69_select_the_product_to_convert_into_service" width="350" height="300">
+
 3. **Edit Service Information**:
     
     - In the **Services** layout, enter any additional details such as: 
@@ -61,3 +67,4 @@ To convert an existing product into a service, follow these steps:
     - Return to **Item Management** and select **All Items**.
     - Switch to **Find Mode**, enter the name of the  newly converted service, and confirm that the **Service** box is checked. 
     - Ensure that the **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 
+
