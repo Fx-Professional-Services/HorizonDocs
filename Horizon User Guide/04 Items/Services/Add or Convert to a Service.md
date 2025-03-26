@@ -62,11 +62,12 @@ To convert an existing product into a service, follow these steps:
 5. **Adjust Service Subtypes**:
     
     - Modify the subtype settings for **Consumable**, **Sale Item**, and/or **Scale Quantity**, as necessary.
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/70_role_job_title_service_subtypes" width="350" height="300"> 
+    
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/70_role_job_title_service_subtypes.png" width="350" height="300"> 
 
 6. **Verify Conversion**:
     
-    - Return to **Item Management** and select **All Items**.
-    - Switch to **Find Mode**, enter the name of the  newly converted service, and confirm that the **Service** box is checked. 
-    - Ensure that the **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 
+    6.1. Return to **Item Management** and select **All Items**.
+    6.2. Switch to **Find Mode**, enter the name of the  newly converted service, and confirm that the **Service** box is checked. 
+    6.3. Ensure that the **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 
 
