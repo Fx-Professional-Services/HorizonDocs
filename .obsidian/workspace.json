@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
+                "file": "Horizon User Guide/05 Orders/Move Orders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add or Convert to a Service"
+              "title": "Move Orders"
             }
           }
         ]
@@ -171,10 +171,14 @@
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
     "Horizon User Guide/00 Assets/72_all_items.png",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
+    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
+    "Horizon User Guide/00 Assets/73_move_orders.png",
+    "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/00 Assets/71_verify_conversion.png",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/70_role_job_title_service_subtypes.png",
-    "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "70_role_job_title_service_subtypes 1.png",
     "70_role_job_title_service_subtypes.png",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
@@ -202,13 +206,8 @@
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/08 Invoices/Payments.md",
-    "Horizon User Guide/08 Invoices/Payment Terms.md",
-    "Horizon User Guide/08 Invoices/Payment Plan.md",
     "Horizon User Guide/00 Assets/67_create_discount.png",
     "Horizon User Guide/00 Assets/66_modify_discount.png",
-    "Horizon User Guide/00 Assets/65_add_relationship_types.png",
-    "Horizon User Guide/00 Assets/64_add_relationships_from_the_options_menu.png",
     "Horizon User Guide/10 Units and Categories",
     "Horizon User Guide/09 My Tasks",
     "Horizon User Guide/11 Definition of Terms",
