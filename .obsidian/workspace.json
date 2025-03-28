@@ -11,14 +11,12 @@
             "id": "5b5f820ec5885d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/71_verify_conversion.png"
               },
-              "icon": "lucide-file",
-              "title": "Move Orders"
+              "icon": "lucide-image",
+              "title": "71_verify_conversion"
             }
           }
         ]
@@ -170,12 +168,14 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/72_all_items.png",
     "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/00 Assets/74_add_move_order_items.png",
+    "Horizon User Guide/05 Orders/Pick Order.md",
+    "Horizon User Guide/00 Assets/73_move_orders.png",
+    "Horizon User Guide/00 Assets/75_verify_location.png",
+    "Horizon User Guide/00 Assets/72_all_items.png",
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/00 Assets/73_move_orders.png",
-    "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/00 Assets/71_verify_conversion.png",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/70_role_job_title_service_subtypes.png",
@@ -206,8 +206,6 @@
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/00 Assets/67_create_discount.png",
-    "Horizon User Guide/00 Assets/66_modify_discount.png",
     "Horizon User Guide/10 Units and Categories",
     "Horizon User Guide/09 My Tasks",
     "Horizon User Guide/11 Definition of Terms",
