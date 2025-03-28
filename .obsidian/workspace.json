@@ -11,14 +11,12 @@
             "id": "5b5f820ec5885d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/73_move_orders.png"
               },
-              "icon": "lucide-file",
-              "title": "Move Orders"
+              "icon": "lucide-image",
+              "title": "73_move_orders"
             }
           }
         ]
@@ -168,13 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5f820ec5885d69",
+  "active": "63e58805683bf830",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/75_verify_location.png",
-    "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/00 Assets/73_move_orders.png",
-    "Horizon User Guide/00 Assets/74_add_move_order_items.png",
     "Horizon User Guide/00 Assets/72_all_items.png",
+    "Horizon User Guide/05 Orders/Move Orders.md",
+    "Horizon User Guide/00 Assets/75_verify_location.png",
+    "Horizon User Guide/00 Assets/74_add_move_order_items.png",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/00 Assets/71_verify_conversion.png",
     "Horizon User Guide/05 Orders/Pick Order.md",
@@ -182,7 +180,7 @@
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/70_role_job_title_service_subtypes.png",
     "70_role_job_title_service_subtypes 1.png",
-    "70_role_job_title_service_subtypes.png",
+    "Horizon User Guide/04 Items/Discount/70_role_job_title_service_subtypes.png",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/00 Assets/69_select_the_product_to_convert_into_service.png",
     "Horizon User Guide/00 Assets/68_access_services.png",
