@@ -13,7 +13,7 @@ Follow these steps to create a move order:
 3. Click **New Record**. <br>
 	a. Select an employee. <br>
 	b. Add **Move Order Items**. <br>
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/73_move_orders.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/73_move_orders.png" width="350" height="230">
 
 c. Choose the current and new locations. <br>
 	⚠️ Note: If the location name is unavailable, only the location serial will be displayed. <br>
