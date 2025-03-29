@@ -8,7 +8,7 @@ Follow these steps to create a move order:
 
 2. Click **Order Management,** then select **Move Order**. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/73_move_orders.png" width="350" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/73_move_orders.png" width="350" height="230">
 
 3. Click **New Record**. <br>
 	a. Select an employee. <br>
