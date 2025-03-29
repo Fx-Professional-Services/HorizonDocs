@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/05 Orders/Move Orders.md",
+                "file": "Horizon User Guide/05 Orders/Pick Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move Orders"
+              "title": "Pick Order"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Production Order.md",
     "Horizon User Guide/05 Orders/Pick Order.md",
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
@@ -208,7 +209,6 @@
     "2025-02-25.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/12 Units and Categories",
     "Horizon User Guide/10 My Tasks",
     "Horizon User Guide/11 Definition of Terms",

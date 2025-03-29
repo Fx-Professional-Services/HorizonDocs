@@ -2,7 +2,7 @@
 
 A **pick order** directs the retrieval of specific items from inventory and their transport to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment.
 
-### Create a Pick Order:
+### Create a Pick Order
 
 1. **Navigate to Supply and Demand**
 
@@ -83,7 +83,7 @@ A **pick order** directs the retrieval of specific items from inventory and thei
 16. **Save Changes**
 - Click **Save Changes** to keep your modifications.
 
-### Change Customer Picker to Employee Picker:
+### Change Customer Picker to Employee Picker
 
 1. In the main menu, click **Sales Order**, then select **Pick Order**.
 
