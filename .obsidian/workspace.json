@@ -11,12 +11,14 @@
             "id": "5b5f820ec5885d69",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Assets/73_move_orders.png"
+                "file": "Horizon User Guide/05 Orders/Move Orders.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "73_move_orders"
+              "icon": "lucide-file",
+              "title": "Move Orders"
             }
           }
         ]
@@ -168,6 +170,8 @@
   },
   "active": "63e58805683bf830",
   "lastOpenFiles": [
+    "Horizon User Guide/05 Orders/Sales Order.md",
+    "Horizon User Guide/04 Items/Discount/70_role_job_title_service_subtypes.png",
     "Horizon User Guide/00 Assets/73_move_orders.png",
     "Horizon User Guide/00 Assets/72_all_items.png",
     "Horizon User Guide/05 Orders/Move Orders.md",
@@ -180,19 +184,18 @@
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Assets/70_role_job_title_service_subtypes.png",
     "70_role_job_title_service_subtypes 1.png",
-    "Horizon User Guide/04 Items/Discount/70_role_job_title_service_subtypes.png",
     "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/00 Assets/69_select_the_product_to_convert_into_service.png",
     "Horizon User Guide/00 Assets/68_access_services.png",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/11 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/08 Leads/Leads.md",
+    "Horizon User Guide/09 Leads/Leads.md",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/08 Invoices/Invoices.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
-    "Horizon User Guide/09 My Tasks/My Tasks.md",
+    "Horizon User Guide/10 My Tasks/My Tasks.md",
     "Untitled.md",
     "Untitled.canvas",
     "import-vendor-prices.md",
@@ -204,12 +207,12 @@
     "Horizon User Guide/Old documentation",
     "2025-02-25.md",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
-    "Horizon User Guide/10 Units and Categories/Manage Units and Categories.md",
+    "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/10 Units and Categories",
-    "Horizon User Guide/09 My Tasks",
+    "Horizon User Guide/12 Units and Categories",
+    "Horizon User Guide/10 My Tasks",
     "Horizon User Guide/11 Definition of Terms",
-    "Horizon User Guide/08 Leads",
+    "Horizon User Guide/09 Leads",
     "Horizon User Guide/08 Invoices",
     "Horizon User Guide/07 Bill of Materials",
     "Horizon User Guide/06 Supply and Demand",
