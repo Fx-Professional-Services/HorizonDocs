@@ -20,7 +20,7 @@ c. Choose the current and new locations. <br>
 
 d. Enter the quantity of items you want to move. <br>
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/74_add_move_order_items.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/74_add_move_order_items.png" width="350" height="230">
 
 
 4.  Verify the location transfer by going to **Item Management** > **Locations**. Ensure that the quantity of the product in both the "From" and "To" locations has been updated according to your selection.
