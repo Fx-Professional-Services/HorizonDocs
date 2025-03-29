@@ -15,7 +15,7 @@ A **pick order** directs the retrieval of specific items from inventory and thei
 
 	💡 **Tip:** To find demand from a specific customer, enter the customer’s name or **order number** in the search box.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_address_pick_demand.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/27_address_pick_demand.png" width="350" height="230">
 
 3. **Select Pick Demand**
 
