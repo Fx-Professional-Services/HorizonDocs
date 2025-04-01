@@ -6,27 +6,35 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 
 #### 1. **Access the BOM Section**
 
-   - Open the **Bill of Materials** file from the main menu. <br>
+* Open the **Bill of Materials** file from the main menu. <br>
+💡 **Tip:** When using other modules (e.g., Products, Sales Orders, or Supply and Demand), access the BOM module by clicking **Item Management > BOM**.
 #### 2. **Initiate New Record**:
 
-   - Click **New Record** to start a blank record.
-
-💡 **Tip:** When using other modules (e.g., Products, Sales Orders, or Supply and Demand), access the BOM module by clicking **Item Management > BOM**.
-
+* Click **New Record** to start a blank record.
 #### 3. **Add Yield or Source Item**:
 
 3.1 Navigate to the Sources/Yields Tab
 
 - Click **Add Yield Item** and/or **Add Source Item** field.
+
+3.2.**Select Items**:
 - **Search**: Type the item name and click the search icon **(🔎)**.
 - **Browse**: Scroll through the list and click on the item.
 - Click **Done** to return.
 
-3.2.**Select Items**:
-	
 💡 **Tips**: 
-- **Add New Item:** Click the add button (✚) at the top right of the picker window. Enter the product details (name, description, replenishment method, etc.) and click **Save**.
-- **Delete Item:** Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialog box.
+A. **Add New Item:** 
+
+* Click the add button (✚) at the top right of the picker window. 
+* Enter the product details:
+	* Name
+	* Description
+	* Replenishment method
+	* Unit of measure 
+* Set **Consumable, Need Pick**, and **Sale Item** to 1 (Yes) or 0 (no). 
+* Click **Save** to finalize the entry. 
+
+B. **Delete Item:** Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialog box.
 
 #### 4. **Confirm the Unit of Measure**
 

@@ -9,7 +9,7 @@ To create a production order, follow these steps:
 - From the main menu, select **Supply and Demand**. 
 - Click **Supply and Demand** from the primary menu bar, then select **Demand List**. 
 
-1. **Filter Demand Types**
+2. **Filter Demand Types**
 - In the Demand List, uncheck any irrelevant demand types (e.g., pick demand, purchase demand) until only **build demand** remains checked. Then click **Search**. 
 - Alternatively, press **Command + F** (Mac) or **Control + F** (Windows), and type **Build** in the **Source** field. 
 
@@ -35,15 +35,15 @@ To create a production order, follow these steps:
 8. **View Demand**
 * Click **View X Demands**, then click the (+) button in the **View Demand X** popover to view the selected demand.
 
-	**8.1 Add BOM Yield Items**
+	8.1. **Add BOM Yield Items**
 
 - The **Bill of Materials** (BOM) yield items will be added.
 
-	**8.2 Address Demand Items**
+	8.2. **Address Demand Items**
 
 - To address a demand, click **View 1 Demand** next to the line item, then click the **Add** button (+). This will prevent the line item from being deleted in the production order. To unaddress the demand, click the **Remove** button (-).
 	
-	**8.3 View Order**
+	8.3 **View Order**
 
 - The order will receive a serial number, and its status will change to **View Order**. Click **View Order** to proceed.
 
