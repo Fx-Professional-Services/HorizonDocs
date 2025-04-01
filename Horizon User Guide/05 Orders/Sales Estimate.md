@@ -89,13 +89,14 @@ A **Sales Estimate** is a preliminary document outlining potential sales details
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/12_confirm_print_sales_estimate.png" width="350" height="300">
 
  14. **View the Sales Order**
-	To view the related sales order: 
+
+To view the related sales order: 
 
 * From the primary menu bar, click **Order Management** > **Sales Order**.
 * Click Find Mode from the secondary menu bar.
 * In the Customer field, enter the customer's name. Ensure that the **Party, Items, and Payment Terms** in the sales order should match the values from the estimate.
 
-⚠️ **Note**: OAfter confirming the sales estimate, the following elements cannot be modified in the sales order:
+⚠️ **Note**: After confirming the sales estimate, the following elements cannot be modified in the sales order:
 
 - Line items
 - Customer tier
