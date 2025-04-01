@@ -45,7 +45,7 @@ ___
 
     - Modify the price or quantity of a line item by entering new values. The subtotal and total costs will update automatically.
 
-8. **Deleting Items:**
+8. **Delete Items:**
 
    To remove items from the list:
 	  - Click the **"x"** icon next to the item to delete it.
@@ -54,7 +54,7 @@ ___
 
 	 💡 Tip: To delete a product from a sales order, click **Item Management**, then **Products**. Find the product in the left pane, click **Delete Record**, and confirm with **Delete**.
 	
-9. **Editing Customer-Facing Name and Details:**
+9. **Edit Customer-Facing Name and Details:**
     
     9.1. After selecting a sales order item, stay in the **Details** tab.
     
@@ -70,7 +70,7 @@ ___
 
 After you update the customer-facing name and description, these details appear in the sales order and contract.
 
-10. **Configuring Sales Order Items:**
+10. **Configure Sales Order Items:**
     
     - To customize a sales order item, click the gear icon (⚙️), make changes, and  click **DONE** to save. 
     
@@ -83,7 +83,7 @@ After you update the customer-facing name and description, these details appear 
 ___
 #### Taxes
 
-11. **Making Sales Orders Taxable:**
+11. **Make Sales Orders Taxable:**
 
 A. Click the expand button (**>**) next to the customer’s name.  
 B. In the customer layout, go to the **Customers** tab.  
@@ -92,7 +92,7 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 #### Discounts
 
-12. **Applying Discounts:**
+12. **Apply Discounts:**
 
 - Navigate to the **Discounts** section and click **Select Discount**.
 
@@ -104,7 +104,7 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 - You can add more sales order items after applying discounts, and the discount values will update accordingly.
 #### Adding Conditions
 
-13. **Adding Sales Channel, Customer Tier, and Payment Terms:**
+13. **Add Sales Channel, Customer Tier, and Payment Terms:**
 
 - Locate the fields labeled **Click here to add Sales Channel**, **Click here to add Customer Tier**, and **Click here to add Payment Terms** within the sales order.
 - Use the web picker to select the appropriate sales channel, customer tier, and payment terms.
@@ -116,7 +116,7 @@ D. Return to your sales order and click the **Tax** box next to each line item u
 
 #### Adding Custom Attributes
 
-14. **Adding Custom Attributes:**
+14. **Add Custom Attributes:**
 
 * Navigate to the Custom Attributes Tab.
 - Enter Values for each attribute (e.g., **Event Date**: 8/15/2025).
@@ -132,7 +132,7 @@ The new custom attribute will appear in the list thereafter.
 ### Generate Demand and Invoice
 ___
 
-15. **Generating Demand:**
+15. **Generate Demand:**
 
 15.1. Navigate to **Demand > Generate Demand** and wait for the process to complete. Click **OK** when finished. Then, click **Save Changes**. 
 
@@ -156,7 +156,7 @@ c. Once demand generation is complete, click **View Order** to see the generated
 
  💡 Tip: To delete all demand records, click **delete all**. Confirm carefully, as this action is irreversible.
 
-16. **Generating Sales Invoice:**
+16. **Generate Sales Invoice:**
 
 To generate a sales invoice, go to the **Order** tab and click **Confirm**.
     
@@ -217,5 +217,6 @@ An **invoice** is an accounting document issued to customers to record sales tra
 #### Services
 
 Services refer to intangible items the company offers its customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
+
 These services are customized to meet the specific needs of each event or gathering.
 
