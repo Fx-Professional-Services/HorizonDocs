@@ -2,55 +2,55 @@
 
 A **Sales Estimate** is a preliminary document outlining potential sales details before converting them into a formal **Sales Order**. It helps forecast and plan future transactions based on customer requirements and estimated costs.
 
- [Create a Sales Estimate](#create-a-sales-estimate) <br>
-[Add Items to the Estimate](#add-items-to-the-estimate) <br>
-[Manage Line Items](#manage-line-items) <br>
-[Apply Taxes and Conditions](#apply-taxes-and-conditions) <br>
-[Confirm and Print the Sales Estimate](#confirm-and-print-the-sales-estimate) <br>
+ * [Create a Sales Estimate](#create-a-sales-estimate) <br>
+* [Add Items to the Estimate](#add-items-to-the-estimate) <br>
+* [Manage Line Items](#manage-line-items) <br>
+* [Apply Taxes and Conditions](#apply-taxes-and-conditions) <br>
+* [Confirm and Print the Sales Estimate](#confirm-and-print-the-sales-estimate) <br>
 ## Create a Sales Estimate
 
 1. **Open Sales Orders**  
-    Access **Sales Orders** from the main menu.
+	* Access **Sales Orders** from the main menu.
     
 2. **Navigate to Sales Estimates**  
-    Go to **Order Management** > **Sales Estimate**.
+    * Go to **Order Management** > **Sales Estimate**.
     
 3. **Start a New Record**  
-    Click **New Record** to create a new sales estimate.
+    * Click **New Record** to create a new sales estimate.
     
 4. **Select Customer**  
-    Use the hamburger menu (☰) to add a customer’s name.
+    * Use the hamburger menu (☰) to add a customer’s name.
     
 5. **Enter Validity Date**  
-    Specify the **Estimate Validity** date.
+    * Specify the **Estimate Validity** date.
     
     ⚠️ **Note**: The **Estimate Date** is automatically generated.
     
 6. **Select Estimate Status**  
-    Choose the status of the estimate: Draft, Sent, Accepted, Rejected, or Confirmed.
+    * Choose the status of the estimate: Draft, Sent, Accepted, Rejected, or Confirmed.
     
 7.  **Add Opportunity for Customer**  
-    Click the expand button (>) for related opportunity details.
+    * Click the expand button (>) for related opportunity details.
 
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/10_create_sales_estimate.png" width="350" height="300">
 
 ### Add Items to the Estimate
 
-8. **Add items to the Estimate:** 
+8. **Add items to the Estimate** 
 
 * Under **Sales Estimate Items**, click the **hamburger menu** (☰) to add one or more items to the estimate. 
 * In the picker, click **Select** next to the desired item, then click **Done**.
 
 ### Manage Line Items
 
-9. **Adjust Price and Quantity:
+9. **Adjust Price and Quantity**
 
 * To modify the price or quantity of a line item, enter the new values. The subtotal and total costs will update automatically.
 
  - Modify the price or quantity of a sales order line item by entering new values. The subtotal and total costs will update automatically.
 
-10. **Delete Items:**
+9. **Delete Items**
 
 * To remove items from the list,  click the **"x"** icon next to the item. 
 * To delete all items, click **Delete All**, then confirm by clicking **Yes** in the confirmation prompt. 
@@ -60,13 +60,13 @@ A **Sales Estimate** is a preliminary document outlining potential sales details
 ### Apply Taxes and Conditions
 #### Taxes
 
-11. **Make Sales Orders Taxable:**
+11. **Make Sales Orders Taxable**
 - Click the **tax** box next to each sales order line item. A checkmark (✔️) will appear.
 
 - Taxes will be calculated in real-time, and the additional tax value will automatically reflect in the **total cost** calculation.
 #### Set Conditions
 
-12. **Set Sales Channel, Customer Tier, and Payment Terms:**
+12. **Set Sales Channel, Customer Tier, and Payment Terms**
 - Use the hamburger menu (☰) next to each field in the sales estimate to adjust or select sales channel, customer tier, or payment terms.
 
 💡 **Tip:** To modify the sales channel, customer tier, and payment terms, click the delete (x) symbol next to the item you want to change. Confirm the deletion by clicking **Yes** in the dialogue box that appears.
@@ -78,7 +78,7 @@ A **Sales Estimate** is a preliminary document outlining potential sales details
 
 ⚠️ Note: Once confirmed, the sales estimate cannot be modified. The following elements will be locked: line items, customer tier, sales channel, and payment terms.
 
-13. **Confirm the Estimate**: 
+13. **Confirm the Estimate**
 
 * Click Confirm to finalize the estimate. The statues will change to **Confirmed**.
 
