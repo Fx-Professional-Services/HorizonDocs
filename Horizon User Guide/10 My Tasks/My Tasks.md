@@ -24,4 +24,4 @@ The **My Tasks** section is an essential tool for managing your responsibilities
 11. Next to the **Task Name** field, enter the due date for the task.
 12. Once all details are entered, click **Save Changes**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/83_new_project_record.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/83_new_project_record.png" width="350" height="230">
