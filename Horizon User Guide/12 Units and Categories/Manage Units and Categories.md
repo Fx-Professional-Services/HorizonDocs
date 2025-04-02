@@ -13,7 +13,7 @@ This section explains how to convert units of measure by setting up conversion f
 1. From the main menu, select **Sales Orders**.
 2. Choose **Units and Categories**, then select **Conversion Factors**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/76_conversion_factors.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/76_conversion_factors.png" width="350" height="250">
 
 3. Click **New Record**.
 4. In the **From** field, enter the unit of measure you want to convert from.
@@ -23,14 +23,16 @@ This section explains how to convert units of measure by setting up conversion f
 7. **Select the item**: In the **Specific Item** field, choose the item for which you want to apply the conversion factor.
 8. **Select the vendor**: In the **Specific Vendor** field, choose the vendor from whom the item will be purchased.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/77_convert_units_of_measure.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/77_convert_units_of_measure.png" width="350" height="250">
 
 9. **Verify the conversion**:  
 		A. Go to **Units and Categories**, then select **Unit of Measure**.
 		B. Click **Find Mode** and search for the unit/s of measure you used for conversion
 		C. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/78_verify_conversion.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/78_verify_conversion.png" width="350" height="250">
+
+
 ## Assign Categories to All Items in Found Set 
 
 This section explains how to assign categories to items in your found set. By doing so, you can organize your products more efficiently. It also covers how to review your changes and verify that items are correctly categorized.
