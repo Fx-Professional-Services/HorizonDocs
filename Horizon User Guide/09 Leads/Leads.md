@@ -1,4 +1,6 @@
-### Creating and Managing Leads
+
+A **Lead** represents a potential customer expressing interest in your services. This could be for various events, such as weddings, corporate events, or private parties. A lead typically includes the individual’s name, details of their inquiry (e.g., requesting catering for a wedding), and the source of the lead (e.g., phone call, online inquiry). Leads are crucial in sales, representing prospects that may convert into paying customers with further engagement.
+## Creating and Managing Leads
 
 1. **Navigate to the Leads Section**
     
@@ -9,21 +11,25 @@
 3. **Enter Lead Details**  
     Fill in the following fields:
     
-    - **First Name**: Enter the lead’s first name.
-    - **Last Name**: Enter the lead’s last name.
-    - **Phone**: Enter the lead’s phone number.
-    - **Email**: Enter the lead’s email address.
-    - **Source**: Select how the lead found out about the services (e.g., referral, website, social media).
-    - **URL**: Enter the URL associated with the lead (if applicable).
-    - **Event Date**: Enter the date of the event.
-    - **Event Type**: Select the type of event (e.g., wedding, corporate event, party, etc.).
-    - **Guests**: Enter the number of guests attending the event.
-    - **Representative**: Assign the sales representative responsible for managing this lead.
-    - **Prospect**: Indicate whether the lead is a prospect (Yes or No).
-    - **Opportunity**: Link the lead to an opportunity. You can do this in two ways:
-        - Select an existing opportunity from the picker.
-        - Create a new opportunity by clicking the **Add (+)** button in the upper-right corner of the picker. In the **Quick Add: Opportunity** window, enter the opportunity’s **name**, **representative**, **estimated amount**, **probability**, **event date**, and **notes**.
-    * **Done**: This field will automatically update to **Yes** once the lead is linked to an opportunity.
+    A. **First Name**: Enter the lead’s first name.
+    B.  **Last Name**: Enter the lead’s last name.
+    C. **Phone**: Enter the lead’s phone number.
+    D. **Email**: Enter the lead’s email address.
+    E. **Source**: Select how the lead found out about the services (e.g., referral, website, social media).
+    F. **URL**: Enter the URL associated with the lead (if applicable).
+    G. **Event Date**: Enter the date of the event.
+    H. **Event Type**: Select the type of event (e.g., wedding, corporate event, party, etc.).
+    I. **Guests**: Enter the number of guests attending the event.
+    J. **Representative**: Assign the sales representative responsible for managing this lead.
+    K. **Prospect**: Indicate whether the lead is a prospect (Yes or No).
+    L. **Opportunity**: Link the lead to an opportunity. You can do this in two ways:
+        1.  Select an existing opportunity from the picker.
+        2.  Create a new opportunity by clicking the **Add (+)** button in the upper-right corner of the picker. In the **Quick Add: Opportunity** window, enter the opportunity’s **name**, **representative**, **estimated amount**, **probability**, **event date**, and **notes**.
+    M. **Done**: This field will automatically update to **Yes** once the lead is linked to an opportunity.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="300" height="200">
+
+
 4. **Review Linked Opportunity**  
     💡 **Tip:** To review the opportunity linked to your lead, click the expand button (>) in the **Opportunity** field. The linked opportunity will be displayed in the **Opportunities** tab of the portal.
     
@@ -85,9 +91,9 @@
     - You can also add a **Description** of the attachment to clarify its purpose. 
 7. **Save Changes**
 	* Click **Save Changes** at the lower-left bottom of the module to save your new opportunity record. 
-### Additional Information
 
-A **Lead** represents a potential customer expressing interest in your services. This could be for various events, such as weddings, corporate events, or private parties. A lead typically includes the individual’s name, details of their inquiry (e.g., requesting catering for a wedding), and the source of the lead (e.g., phone call, online inquiry). Leads are crucial in sales, representing prospects that may convert into paying customers with further engagement.
+
+
 
 #### Delete a Lead (if needed)
 
