@@ -42,16 +42,28 @@ This section explains how to assign categories to items in your found set. By do
 3. Enter **Find Mode** and use the search icon (🔎) to locate the item by name.
 4. Once found, go to the **Categories** tab.
 5. Click **Click to select categories**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/79_assign_categories_to_items.png" width="350" height="250">
+
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
 
-⚠️ **Note:** You cannot edit items in the selected category under **Units and Categories > Categories**. To add items to the category, go to **Item Management > All Items**, and repeat steps 3 through 8.
-7. A dialog box will prompt you to apply the category to all records in the found set. Select **Yes** to apply it to all items, or **No** to apply it only to the selected item.
-8. To review your changes, go to **Units and Categories**, then select **Categories**.
-9. In the left pane, select the category you assigned. The items should now be categorized as selected.
-  - To verify, go to **Item Management > All Items**, enter the item name in **Find Mode**.
-  - Click the **Categories** tab.
-  - Verify that the correct category is linked to the item and check its type. 
 
+
+⚠️ **Note:** You cannot edit items in the selected category under **Units and Categories > Categories**. To add items to the category, go to **Item Management > All Items**, and repeat steps 3 through 8.
+
+7. A dialog box will prompt you to apply the category to all records in the found set. Select **Yes** to apply it to all items, or **No** to apply it only to the selected item.
+
+8. To review your changes, go to **Units and Categories**, then select **Categories**.
+
+9. In the left pane, select the category you assigned. The items should now be categorized as selected.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/80_review_categories.png" width="350" height="250">
+
+ 10. To verify, go to **Item Management > All Items**. 
+ 11. Enter the item name in **Find Mode**.
+  12.  Click the **Categories** tab. Verify that the correct category is linked to the item and check its type. 
+  
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/81_verify_categories.png" width="350" height="250">
 ### Definition of Terms
 
 In this section, you'll find definitions for key terms related to units and categories, such as conversion factors, conversion rates, and units of measure. Understanding these terms will help you use the system more effectively and ensure accurate conversions and categorization.
