@@ -27,7 +27,7 @@ A **Lead** represents a potential customer expressing interest in your services.
         2.  Create a new opportunity by clicking the **Add (+)** button in the upper-right corner of the picker. In the **Quick Add: Opportunity** window, enter the opportunity’s **name**, **representative**, **estimated amount**, **probability**, **event date**, and **notes**.
     M. **Done**: This field will automatically update to **Yes** once the lead is linked to an opportunity.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/50_add_new_equipment.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/84_create_a_new_lead.png" width="300" height="230">
 
 
 4. **Review Linked Opportunity**  
