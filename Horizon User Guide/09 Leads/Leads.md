@@ -42,7 +42,7 @@
     
     - To indicate whether the opportunity is closed, check the **Closed?** box.
     - If the opportunity is already closed, the lead will no longer be linked to the previously selected opportunity.
-6. Add additional Notes:
+6. **Add Additional Notes:**
 	* You have the option to add notes for your opportunity record. 
 7. **Save Changes**  
     Click **Save Changes**.
