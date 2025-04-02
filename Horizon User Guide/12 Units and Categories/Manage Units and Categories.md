@@ -32,7 +32,6 @@ This section explains how to convert units of measure by setting up conversion f
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/78_verify_conversion.png" width="350" height="250">
 
-
 ## Assign Categories to All Items in Found Set 
 
 This section explains how to assign categories to items in your found set. By doing so, you can organize your products more efficiently. It also covers how to review your changes and verify that items are correctly categorized.
