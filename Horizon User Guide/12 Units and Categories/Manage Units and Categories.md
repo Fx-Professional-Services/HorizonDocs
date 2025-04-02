@@ -64,7 +64,8 @@ This section explains how to assign categories to items in your found set. By do
   12.  Click the **Categories** tab. Verify that the correct category is linked to the item and check its type. 
   
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/81_verify_categories.png" width="350" height="250">
-### Definition of Terms
+
+## Definition of Terms
 
 In this section, you'll find definitions for key terms related to units and categories, such as conversion factors, conversion rates, and units of measure. Understanding these terms will help you use the system more effectively and ensure accurate conversions and categorization.
 #### Conversion Factor
