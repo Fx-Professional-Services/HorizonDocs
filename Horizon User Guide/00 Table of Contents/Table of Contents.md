@@ -70,7 +70,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Units and Categories
 
-[Manage Units and Categories](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/10%20Units%20and%20Categories/Manage%20Units%20and%20Categories.md)
+[Manage Units and Categories](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/12%20Units%20and%20Categories/Manage%20Units%20and%20Categories.md)
 
 ## Definition of Terms
 

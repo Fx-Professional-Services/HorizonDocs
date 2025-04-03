@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/09 Leads/Leads.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leads"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5f820ec5885d69",
+  "active": "63e58805683bf830",
   "lastOpenFiles": [
-    "Horizon User Guide/10 My Tasks/My Tasks.md",
     "Horizon User Guide/09 Leads/Leads.md",
+    "Horizon User Guide/10 My Tasks/My Tasks.md",
     "Horizon User Guide/00 Assets/84_create_a_new_lead.png",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/00 Assets/84_review_linked_opportunity.png",
