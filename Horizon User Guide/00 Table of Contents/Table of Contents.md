@@ -66,7 +66,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## My Tasks
 
-[My Tasks](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/09%20My%20Tasks/My%20Tasks.md)
+[My Tasks](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/10%20My%20Tasks/My%20Tasks.md)
 
 ## Units and Categories
 
