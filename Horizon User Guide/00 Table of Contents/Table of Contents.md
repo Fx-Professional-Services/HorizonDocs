@@ -48,7 +48,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Supply and Demand
 
-[Address Demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Address%20Demand.md)
+[Address Demand](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/06%20Supply%20and%20Demand/Address%20Demand.md)
 
 ## Bill of Materials
 
