@@ -62,7 +62,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Leads
 
-[Leads](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/08%20Leads/Leads.md)
+[Leads](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/09%20Leads/Leads.md)
 
 ## My Tasks
 
