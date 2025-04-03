@@ -81,7 +81,10 @@ Assign the sales representative responsible for this opportunity.
     
 6. **Add Additional Notes:**
 	* You can add notes for your opportunity record as needed. 
-	
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/85_review_linked_opportunity.png" width="300" height="200">
+
+
 7. **Save Changes**  
     Click **Save Changes** to save your updates. 
 ---
@@ -117,16 +120,20 @@ Assign the sales representative responsible for this opportunity.
     
     - To indicate whether the opportunity is closed, check the **Closed?** box.
     - If the opportunity is already closed, the lead will no longer be linked to the previously selected opportunity.
-6. **Add Attachments** (Optional)
+
+6. **Add Additional Notes:**
+	* You can add notes for your opportunity record as needed. 
+
+
+7. **Add Attachments** (Optional)
     
     - Optionally, attach any relevant documents or files related to the catering opportunity. Right-click and choose "Insert Picture" or "Insert File."
     - You can also add a **Description** of the attachment to clarify its purpose. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/85_review_linked_opportunity.png" width="300" height="200">
-
-7. **Save Changes**
+8. **Save Changes**
 	* Click **Save Changes** at the lower-left bottom of the module to save your new opportunity record. 
 
-#### Delete a Lead (if needed)
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/88_create_opportunities.png" width="300" height="200">
+
 
 ⚠️ **Note**: To delete a lead record, click **Delete Record** in the secondary navigation tabs at the top.
