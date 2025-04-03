@@ -133,7 +133,7 @@ Assign the sales representative responsible for this opportunity.
 8. **Save Changes**
 	* Click **Save Changes** at the lower-left bottom of the module to save your new opportunity record. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/88_create_opportunities.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/87_create_opportunities.png" width="300" height="200">
 
 
 ⚠️ **Note**: To delete a lead record, click **Delete Record** in the secondary navigation tabs at the top.
