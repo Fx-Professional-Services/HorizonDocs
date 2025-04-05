@@ -394,8 +394,8 @@ To clear data in specific parts of the application:
 
 1. From the main menu, click **Settings**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/88_reset_data.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/88_reset_data.png" width="400" height="280">
 
 2. In the **Settings** layout, click **Reset Data**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/89_reset_data_settings.png" width="400" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/89_reset_data_settings.png" width="400" height="280">
