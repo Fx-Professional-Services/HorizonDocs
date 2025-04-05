@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/09 Leads/Leads.md",
+                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leads"
+              "title": "Start Using Horizon"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/87_create_opportunities.png",
     "Horizon User Guide/09 Leads/Leads.md",
+    "Horizon User Guide/00 Assets/87_create_opportunities.png",
     "Horizon User Guide/00 Assets/85_review_linked_opportunity.png",
     "Horizon User Guide/00 Assets/86_review_linked_opportunity_details.png",
     "Horizon User Guide/02 All Parties/Party.md",

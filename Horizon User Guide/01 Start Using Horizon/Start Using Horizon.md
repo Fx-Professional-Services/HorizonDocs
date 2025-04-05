@@ -333,7 +333,7 @@ Select this option to reset data and display the installed plug-ins when the app
 3. In the **Reset Password** window, click the **Account Name** field. Then, select the account from the list by clicking the **add (+)** icon or the account name. 
 4. The **Reset** **Password** window will reappear. Click **Continue**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_reset_password_settings.png" width="350" height="280">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_reset_password_settings.png" width="350" height="250">
 
  5. When notified that the password reset email has been sent, click **OK**.
 
