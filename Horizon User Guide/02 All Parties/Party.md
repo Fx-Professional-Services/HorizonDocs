@@ -101,7 +101,7 @@ Follow these steps to create a new employee record:
     
     - Click **Save** at the bottom right corner of the form after entering all details. This will automatically open the newly created employee record.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/60_create_a_new_customer_record.png" width="200" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/61_create_a_new_employee_record.png" width="200" height="300">
 
 # Create a New Vendor Record
 
