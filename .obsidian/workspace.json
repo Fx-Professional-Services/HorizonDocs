@@ -11,14 +11,12 @@
             "id": "5b5f820ec5885d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-                "mode": "source",
-                "source": false
+                "file": "Horizon User Guide/00 Assets/89_reset_data_settings.png"
               },
-              "icon": "lucide-file",
-              "title": "Start Using Horizon"
+              "icon": "lucide-image",
+              "title": "89_reset_data_settings"
             }
           }
         ]
@@ -170,9 +168,10 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
+    "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
+    "Horizon User Guide/00 Assets/89_reset_data_settings.png",
     "Horizon User Guide/00 Assets/88_reset_data.png",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/00 Assets/89_reset_data_settings.png",
     "Horizon User Guide/09 Leads/Leads.md",
     "Horizon User Guide/00 Assets/87_create_opportunities.png",
     "Horizon User Guide/00 Assets/85_review_linked_opportunity.png",
@@ -185,7 +184,6 @@
     "Horizon User Guide/00 Assets/84_review_linked_opportunity.png",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
-    "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/00 Assets/83_new_project_record.png",
     "Horizon User Guide/00 Assets/82_select_categories.png",
     "Horizon User Guide/04 Items/All Items/Manage Items.md",
