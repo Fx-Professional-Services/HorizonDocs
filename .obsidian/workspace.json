@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/02 All Parties/Party.md",
+                "file": "Horizon User Guide/03 Customers/Create Customer Records.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party"
+              "title": "Create Customer Records"
             }
           }
         ]
@@ -170,22 +170,24 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/62_create_a_new_vendor_record.png",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/03 Customers/Create Customer Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
-    "Horizon User Guide/00 Assets/61_create_a_new_employee_record.png",
-    "Horizon User Guide/00 Assets/60_create_a_new_customer_record.png",
+    "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",
+    "Horizon User Guide/00 Assets/32_create_your_own_horizon_account.png",
+    "Horizon User Guide/00 Assets/33_create_account_for_another_user.png",
+    "Horizon User Guide/00 Assets/35_create_purchase_order.png",
+    "Horizon User Guide/00 Assets/55_create_a_BOM.png",
+    "Horizon User Guide/00 Assets/56_create_products.png",
+    "Horizon User Guide/00 Assets/10_create_sales_estimate.png",
+    "Horizon User Guide/00 Assets/67_create_discount.png",
     "Horizon User Guide/00 Assets/89_reset_data_settings.png",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/00 Assets/88_reset_data.png",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/09 Leads/Leads.md",
-    "Horizon User Guide/00 Assets/87_create_opportunities.png",
-    "Horizon User Guide/00 Assets/85_review_linked_opportunity.png",
-    "Horizon User Guide/00 Assets/86_review_linked_opportunity_details.png",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/10 My Tasks/My Tasks.md",
-    "Horizon User Guide/00 Assets/84_create_a_new_lead.png",
     "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
@@ -198,9 +200,7 @@
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
-    "Horizon User Guide/03 Customers/Create and Manage Customer and Payment Records.md",
     "Horizon User Guide/11 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/08 Invoices/Invoices.md",
     "Untitled.md",
     "Untitled.canvas",
