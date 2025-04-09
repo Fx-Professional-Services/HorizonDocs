@@ -116,7 +116,13 @@ To import vendor prices:
 
 1. Click **Sales Order** on the main menu.
 2. In the secondary navigation tabs, click the **Options** button, then select **Vendor Prices**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/90_vendor_prices.png" width="350" height="250">
+
 3. In the **Upload Vendor Prices** layout, click **Import Vendor Price**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/91_import_vendor_prices.png" width="350" height="250">
+
 4. Select the file containing the vendor prices, then click **Open**.
 5. Specify the import order for the target fields.
 6. Click **Import**.
@@ -133,14 +139,16 @@ To mark outdated prices as inactive, follow these steps:
     Choose **Item Management**, then click **All Products**.
     
 3. **Choose the Product**  
-    Select the product for which you want to modify the price.
+    Select the product from the left pane for which you want to modify the price.
     
 4. **Navigate to the Costs Tab**  
     Click the **Costs** tab to view the price details.
     
 5. **Set the Price as Inactive**  
     In the **Active** column, enter **0** to deactivate the price.
-    
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/92_set_vendor_prices_inactive.png" width="350" height="250">
+
 By following these steps, you can keep your vendor pricing information up-to-date and accurate.
 
 ## Set Active Vendor Price to Inactive During Import
@@ -171,7 +179,9 @@ Follow these steps to input product details in the **Upload Vendor Prices**:
     
 2.  **Access Upload Vendor Prices**  
     In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
-    
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/92_set_vendor_prices_inactive.png" width="350" height="250">
+
 3. **Select Your Party**  
     Choose your **Party** from the options on the left.
     

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
+                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manage Items"
+              "title": "Create Products"
             }
           }
         ]
@@ -170,6 +170,14 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Assets/93_access_upload_vendor_prices.png",
+    "Horizon User Guide/00 Assets/92_set_vendor_prices_inactive.png",
+    "Horizon User Guide/00 Assets/91_import_vendor_prices.png",
+    "Horizon User Guide/00 Assets/90_vendor_prices.png",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/04 Items/Discount/Discount.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/03 Customers/Create Customer Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
@@ -180,18 +188,13 @@
     "Horizon User Guide/00 Assets/35_create_purchase_order.png",
     "Horizon User Guide/00 Assets/55_create_a_BOM.png",
     "Horizon User Guide/00 Assets/56_create_products.png",
-    "Horizon User Guide/00 Assets/10_create_sales_estimate.png",
-    "Horizon User Guide/00 Assets/67_create_discount.png",
-    "Horizon User Guide/00 Assets/89_reset_data_settings.png",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
     "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
     "Horizon User Guide/09 Leads/Leads.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/10 My Tasks/My Tasks.md",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Production Order.md",
@@ -204,8 +207,6 @@
     "Horizon User Guide/08 Invoices/Invoices.md",
     "Untitled.md",
     "Untitled.canvas",
-    "import-vendor-prices.md",
-    "set-vendor-prices-as-inactive.md",
     "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/Old documentation",
     "Horizon User Guide/12 Units and Categories",
