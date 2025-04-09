@@ -64,7 +64,7 @@ To add existing items to categories, follow these steps:
 2. Click **Item Management**, then choose the relevant category: **Products**, **Services**, **Configurators**, **All Equipment**, or **Discount**.
 3. Switch to the **Select Existing** tab.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/43_add_existing_items_2_3.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/43_add_existing_items_2_3.png" width="350" height="280">
 
 4. Locate the item you want to add, then click the add button (✚) next to it. Click **Done** to confirm.
 
