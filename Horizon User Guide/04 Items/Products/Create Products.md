@@ -180,7 +180,7 @@ Follow these steps to input product details in the **Upload Vendor Prices**:
 2.  **Access Upload Vendor Prices**  
     In the upper-left corner, click **Layout**, select **User**, then choose **Upload Vendor Prices**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/93_access_upload_vendor_prices.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/93_access_upload_vendor_prices.png" width="350" height="200">
 
 3. **Select Your Party**  
     Choose your **Party** from the options on the left.
