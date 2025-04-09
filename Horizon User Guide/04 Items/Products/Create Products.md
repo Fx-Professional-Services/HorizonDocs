@@ -147,7 +147,7 @@ To mark outdated prices as inactive, follow these steps:
 5. **Set the Price as Inactive**  
     In the **Active** column, enter **0** to deactivate the price.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/92_set_vendor_prices_inactive.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/92_set_vendor_prices_inactive.png" width="350" height="220">
 
 By following these steps, you can keep your vendor pricing information up-to-date and accurate.
 
