@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/03 Customers/Create Customer Records.md",
+                "file": "Horizon User Guide/04 Items/All Items/Manage Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create Customer Records"
+              "title": "Manage Items"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/03 Customers/Create Customer Records.md",
+    "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/00 Assets/13_create_a_new_customer_record.png",
     "Horizon User Guide/00 Assets/17_create_a_new_party_record.png",

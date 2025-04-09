@@ -68,4 +68,4 @@ To add existing items to categories, follow these steps:
 
 4. Locate the item you want to add, then click the add button (✚) next to it. Click **Done** to confirm.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_add_existing_items_4.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/44_add_existing_items_4.png" width="350" height="280">
