@@ -56,14 +56,14 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 - Select the appropriate type for the BOM: **substitution** or **standard**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/94_create_bom_record.png" width="350" height="250">
+
 #### 7. **Add Procedural Steps**
 
-
-	7.1. Go to the **Procedure** tab located next to the **Sources/Yields** tab.
+7.1. Go to the **Procedure** tab located next to the **Sources/Yields** tab.
 
    💡 **Tip**: Use the up and down arrow keys to easily navigate between fields. <br>
    
-	7.2. In the Procedure tab, input the following details for each step. 
+7.2. In the Procedure tab, input the following details for each step. 
 
 	A. ***Step Number**: Assign a sequential number to each step for clarity.    
 
@@ -75,8 +75,14 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 
 	1. Click **Create Task** in the upper-right corner of the module.
 	2. In the window that appears, enter the task name or title.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/97_specify_task.png" width="350" height="250">
+
 	3. Click **OK** to create the task.
+	
 	4. To review the newly created ad-hoc task, go to the **Main Menu**, select **My Tasks**, and choose **Projects**. You should see the ad-hoc task listed there.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/98_projects_in_my_tasks.png" width="350" height="250">
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
 
@@ -85,6 +91,8 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 To update the BOM cost: 
 
 In the **Sources/Yields** tab, click **Update Cost** in the secondary navigation menu. This will update the **Subtotal** and **Total** costs. 
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/99_update_bom_cost.png" width="350" height="250">
 
 Troubleshooting BOM Cost Update: 
 
