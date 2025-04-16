@@ -92,7 +92,7 @@ To update the BOM cost:
 
 In the **Sources/Yields** tab, click **Update Cost** in the secondary navigation menu. This will update the **Subtotal** and **Total** costs. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/99_update_bom_cost.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/99_update_bom_cost.png" width="350" height="200">
 
 Troubleshooting BOM Cost Update: 
 
