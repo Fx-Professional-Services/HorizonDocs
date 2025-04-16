@@ -28,23 +28,35 @@ This guide explains how to process customer payments in the Payment module of Ho
 5. **Enter Payment Details**
     
     - Enter the payment details, including the **amount** and **payment type** (choose from Check, Card, or ACH).
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/100_create_payments.png" width="350" height="230">
+
         
     - Depending on the selected payment type, provide the following details:
         
-        - **For Check:**
+- **For Check:**
             
-            - Enter the **Check Number**.
-        - **For Card:**
+- Enter the **Check Number**.
+
+	<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/103_check_payment.png" width="350" height="230">
+
+- **For Card:**
             
-            - Select the **Card Type** (choose from Visa, MasterCard, American Express, Discover, Diners Club, or JCB).
-            - Enter the **Expiration Date** in MM/YY format.
-            - Enter the **Card Number**.
-            - Optionally, enter a **Memo**.
-        - **For ACH:**
+- Select the **Card Type** (choose from Visa, MasterCard, American Express, Discover, Diners Club, or JCB).
+- Enter the **Expiration Date** in MM/YY format.
+- Enter the **Card Number**.
+- Optionally, enter a **Memo**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/102_card_payment.png" width="350" height="230">
+
+- **For ACH:**
             
-            - Select the **Account Type** (Checking or Savings).
-            - Enter the **Routing Number** and **Account Number**.
-            - Optionally, enter a **Memo**.
+- Select the **Account Type** (Checking or Savings).
+- Enter the **Routing Number** and **Account Number**.
+- Optionally, enter a **Memo**.
+
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/101_ach_payment.png" width="350" height="230">
+
 ### Delete a Payment
 
 6. In the left pane, select the payment record you want to delete.
