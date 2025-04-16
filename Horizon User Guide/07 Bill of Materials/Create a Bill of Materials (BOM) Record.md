@@ -55,7 +55,7 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 - Click the **Quantity** type box and enter the quantity for each source/yield item.
 - Select the appropriate type for the BOM: **substitution** or **standard**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/94_create_bom_record.png" width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/94_create_bom_record.png" width="350" height="250">
 #### 7. **Add Procedural Steps**
 
 
