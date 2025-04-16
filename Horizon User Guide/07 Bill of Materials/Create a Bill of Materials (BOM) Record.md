@@ -22,31 +22,9 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 - **Browse**: Scroll through the list and click on the item.
 - Click **Done** to return.
 
-💡 **Tips**: 
-A. **Add New Item:** 
-
-* Click the add button (✚) at the top right of the picker window. 
-* Enter the product details:
-	* Name
-	* Description
-	* Replenishment method
-	* Unit of measure 
-* Set **Consumable, Need Pick**, and **Sale Item** to 1 (Yes) or 0 (no). 
-* Click **Save** to finalize the entry. 
-
-B. **Delete Item:** Click the delete button (✖︎) next to the item and confirm by selecting **Delete** in the dialog box.
-
-#### 4. **Confirm the Unit of Measure**
-
-- The unit of measure for each item is automatically set. To change it, select the **Unit** type box, select the new unit of measure, and click **Done**. This will add the selected item to the source/yield portal, along with its corresponding unit of measure.
-
-#### 5. **Set the BOM Name**
-
-- The BOM name is automatically generated based on the selected items. To edit it, go to the **Details** tab and update the name.
-
 💡**Tips:**
 
-	1. **Quickly Add a Source and/or Yield Item:**  
+	A. **Quickly Add a Source and/or Yield Item:**  
 - Click the **Add** button (✚) at the top right corner.
 - Enter the product details, including:
     - **Name**
@@ -58,18 +36,26 @@ B. **Delete Item:** Click the delete button (✖︎) next to the item and confir
 
 **⚠️ Note**: If the same item appears in both the yield and source portals, an error will be shown when you attempt to commit. To resolve this, remove the item from one of the portals.
 
-	 2. **To delete a BOM yield or source item**:
+	 B. **To delete a BOM yield or source item**:
     
     - Click the **Delete** button (✖︎) next to the item.
     - A confirmation dialog will appear. Click **Delete** to confirm.
     - When a BOM yield item is deleted, the BOM name in the left pane will update automatically.
+ 
+#### 4. **Confirm the Unit of Measure**
 
+- The unit of measure for each item is automatically set. To change it, select the **Unit** type box, select the new unit of measure, and click **Done**. This will add the selected item to the source/yield portal, along with its corresponding unit of measure.
+
+#### 5. **Set the BOM Name**
+
+- The BOM name is automatically generated based on the selected items. To edit it, go to the **Details** tab and update the name.
 
 #### 6. **Input the Quantity and Type**
 
 - Click the **Quantity** type box and enter the quantity for each source/yield item.
 - Select the appropriate type for the BOM: **substitution** or **standard**.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/94_create_bom_record.png" width="350" height="300">
 #### 7. **Add Procedural Steps**
 
 
@@ -79,13 +65,13 @@ B. **Delete Item:** Click the delete button (✖︎) next to the item and confir
    
 	7.2. In the Procedure tab, input the following details for each step. 
 
-	* ***Step Number**: Assign a sequential number to each step for clarity.    
+	A. ***Step Number**: Assign a sequential number to each step for clarity.    
 
-	* ***Instructions**: Provide clear and concise instructions for completing each step.
+	B. ***Instructions**: Provide clear and concise instructions for completing each step.
 
-	* ***Duration**: Specify the duration for each step in the hh:mm format (e.g., 02:20).
+	C. ***Duration**: Specify the duration for each step in the hh:mm format (e.g., 02:20).
 
-	 * ***Create a Task**: To use the procedure in the Bill of Materials as ad-hoc tasks for a project in **Horizon Project Management**:
+	 D. ***Create a Task**: To use the procedure in the Bill of Materials as ad-hoc tasks for a project in **Horizon Project Management**:
 
 	1. Click **Create Task** in the upper-right corner of the module.
 	2. In the window that appears, enter the task name or title.
