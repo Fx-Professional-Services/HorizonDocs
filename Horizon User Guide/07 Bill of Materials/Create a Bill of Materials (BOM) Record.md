@@ -76,7 +76,7 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 	1. Click **Create Task** in the upper-right corner of the module.
 	2. In the window that appears, enter the task name or title.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/97_specify_task.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/97_specify_task.png" width="350" height="200">
 
 	3. Click **OK** to create the task.
 	
