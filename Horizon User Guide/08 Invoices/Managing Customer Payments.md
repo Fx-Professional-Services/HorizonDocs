@@ -29,7 +29,7 @@ This guide explains how to process customer payments in the Payment module of Ho
     
     - Enter the payment details, including the **amount** and **payment type** (choose from Check, Card, or ACH).
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/100_create_payments.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/100_create_payments.png" width="350" height="200">
 
         
     - Depending on the selected payment type, provide the following details:
@@ -47,7 +47,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 - Enter the **Card Number**.
 - Optionally, enter a **Memo**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/102_card_payment.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/102_card_payment.png" width="300" height="200">
 
 - **For ACH:**
             
@@ -68,7 +68,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 ### Create an ACH Payment Record
 
 1. In the **Main Menu**, click **Invoices** to open the **Invoice module** in Horizon Accounting.
-2. Click **Payments**, then click **Options**, then select **Payment ACH**.
+2. Click **Options**, then select **Payment ACH**.
 3. Click the **New Record** button.
 4. Click **Party Display Name** to select a customer.
 5. Enter the ACH details:
