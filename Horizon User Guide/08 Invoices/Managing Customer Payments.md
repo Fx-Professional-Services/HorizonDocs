@@ -47,7 +47,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 - Enter the **Card Number**.
 - Optionally, enter a **Memo**.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/102_card_payment.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/102_card_payment.png" width="250" height="200">
 
 - **For ACH:**
             
