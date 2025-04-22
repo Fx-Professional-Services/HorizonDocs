@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+                "file": "Horizon User Guide/05 Orders/Sales Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Managing Customer Payments"
+              "title": "Sales Order"
             }
           }
         ]
@@ -171,23 +171,23 @@
   },
   "active": "5b5f820ec5885d69",
   "lastOpenFiles": [
-    "Horizon User Guide/00 Assets/105_payment_ach 1.png",
-    "Horizon User Guide/00 Assets/104_create_a_payment_card.png",
-    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
-    "Horizon User Guide/00 Assets/101_ach_payment.png",
-    "Horizon User Guide/00 Assets/105_payment_ach.png",
-    "Horizon User Guide/00 Assets/103_check_payment.png",
-    "Horizon User Guide/10 My Tasks/My Tasks.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/10 My Tasks/My Tasks.md",
+    "Horizon User Guide/09 Leads/Leads.md",
+    "Horizon User Guide/00 Assets/107_payment_terms.png",
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/08 Invoices/Invoices.md",
+    "Horizon User Guide/00 Assets/105_payment_ach.png",
+    "Horizon User Guide/00 Assets/104_create_a_payment_card.png",
+    "Horizon User Guide/00 Assets/106_payment_plan.png",
+    "Horizon User Guide/00 Assets/105_payment_ach 1.png",
+    "Horizon User Guide/00 Assets/101_ach_payment.png",
+    "Horizon User Guide/00 Assets/103_check_payment.png",
     "Horizon User Guide/00 Assets/102_card_payment.png",
     "Horizon User Guide/00 Assets/100_create_payments.png",
-    "Horizon User Guide/08 Invoices/Invoices.md",
     "Horizon User Guide/00 Assets/99_update_bom_cost.png",
-    "Horizon User Guide/00 Assets/98_projects_in_my_tasks.png",
-    "Horizon User Guide/00 Assets/97_specify_task.png",
-    "Horizon User Guide/00 Assets/95_select_yield_source_items.png",
     "Horizon User Guide/05 Orders/Return Order.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/05 Orders/Receiving Order.md",
@@ -204,7 +204,6 @@
     "Horizon User Guide/03 Customers/Create Customer Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/09 Leads/Leads.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Untitled.canvas",

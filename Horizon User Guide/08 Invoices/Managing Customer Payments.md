@@ -164,6 +164,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 8. Click **Delete Record**.
 9. In the confirmation dialog, click **Delete** to proceed.
 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/106_payment_plan.png" width="350" height="230">
 # Payment Terms
 
 The **Payment Terms** section in Horizon Accounting allows you to define and manage the terms for invoice payments. This feature helps set clear expectations for payment deadlines and conditions, ensuring a streamlined billing process and consistent cash flow.
@@ -185,4 +186,4 @@ The **Payment Terms** section in Horizon Accounting allows you to define and man
 6. Click **Delete Record**.
 7. In the confirmation dialog, click **Delete** to proceed.
 
-
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/107_payment_terms.png" width="350" height="230">
