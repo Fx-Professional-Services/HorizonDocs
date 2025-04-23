@@ -46,7 +46,7 @@ This section explains how to assign categories to items in your found set. By do
 
 6. In the picker, type the category name in the search bar, click the search icon (🔎), then click the **Add** button (✚) next to the category. Finally, click **Done** to close the window.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/82_select_categories.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/82_select_categories.png" width="30" height="200">
 
 ⚠️ **Note:** You cannot edit items in the selected category under **Units and Categories > Categories**. To add items to the category, go to **Item Management > All Items**, and repeat steps 3 through 8.
 
