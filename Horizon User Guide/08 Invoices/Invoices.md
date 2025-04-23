@@ -20,28 +20,28 @@ A **Sales Invoice** details the products or services provided to a customer, inc
 - Or use **Browse Mode** to navigate through existing invoices.
     
 
-#### 3. Delete Invoice Items
+#### Note:  Delete Invoice Items
 
 - To remove all items from an invoice, click **Delete All**.
     
     > This action clears all listed products or services from the invoice.
     
 
-#### 4. Confirm the Invoice
+#### 3. Confirm the Invoice
 
 - Click **Confirm** to finalize the invoice.
     
     > The invoice status will update to **Yes**, indicating it has been confirmed.
     
 
-#### 5. Cancel an Invoice
+#### 4. Cancel an Invoice
 
 - Click **Cancel** to void the invoice.
     
     > This will change the status to **Cancelled**, and all amounts will reset to zero.
     
 
-#### 6. Save Changes
+#### 5. Save Changes
 
 - After making edits, click **Save Changes** at the bottom of the screen to apply and store your updates.
     
@@ -50,3 +50,4 @@ A **Sales Invoice** details the products or services provided to a customer, inc
 
 - To discard recent modifications, click **Undo Changes** before saving.
     
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/108_manage_a_sales_invoice.png" width="300" height="200">
