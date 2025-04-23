@@ -4,6 +4,7 @@ Products are consumable physical items that can be built  or purchased, each wit
 
 * [Add a Product](#add-a-product) <br>
 * [Create a New Product in the Upload Vendor Prices](#create-a-new-product-in-the-upload-vendor-prices) <br>
+* [Manage Vendor Prices](#manage-vendor-prices)
 ## Add a Product
 
 ### Steps to Add a New Product
@@ -109,7 +110,7 @@ Efficient management of vendor prices is essential for accurate records. This gu
 
 [Import Vendor Prices](#import-vendor-prices) <br>
 [Set Vendor Prices as Inactive](#set-vendor-prices-as-inactive) <br>
-[Set Active Vendor Price to Inactive During Import](#set-active-vedor-price-to-inactive-during-import) <br>
+[Set Active Vendor Price to Inactive During Import](#set-active-vendor-price-to-inactive-during-import) <br>
 ## Import Vendor Prices
 
 To import vendor prices:
