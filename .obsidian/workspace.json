@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/09 Leads/Leads and Opportunities.md",
+                "file": "Horizon User Guide/08 Invoices/Invoices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leads and Opportunities"
+              "title": "Invoices"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "15a12f1cc40abd07",
   "lastOpenFiles": [
+    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
+    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/00 Assets/86_review_linked_opportunity_details.png",
     "Horizon User Guide/00 Assets/85_review_linked_opportunity.png",
     "Horizon User Guide/00 Assets/84_create_a_new_lead.png",
     "Horizon User Guide/00 Assets/83_new_project_record.png",
-    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/11 Definition of Terms/Definition of Terms.md",
-    "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/06 Supply and Demand/Address Demand.md",
     "Horizon User Guide/05 Orders/Sales Estimate.md",
     "Horizon User Guide/05 Orders/Return Order.md",
