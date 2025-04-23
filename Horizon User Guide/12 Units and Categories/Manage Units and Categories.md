@@ -56,7 +56,7 @@ This section explains how to assign categories to items in your found set. By do
 
 9. In the left pane, select the category you assigned. The items should now be categorized as selected.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/80_review_categories.png" width="350" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/80_review_categories.png" width="300" height="200">
 
  10. To verify, go to **Item Management > All Items**. 
  11. Enter the item name in **Find Mode**.
