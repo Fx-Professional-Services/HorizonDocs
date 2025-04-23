@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+                "file": "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "Manage Units and Categories"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "15a12f1cc40abd07",
   "lastOpenFiles": [
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Untitled 1.canvas",
     "2025-04-23.md",
@@ -207,7 +208,6 @@
     "Horizon User Guide/03 Customers/Create Customer Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/Old documentation",
     "Horizon User Guide/12 Units and Categories",
