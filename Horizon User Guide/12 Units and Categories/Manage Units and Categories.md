@@ -30,7 +30,7 @@ This section explains how to convert units of measure by setting up conversion f
 		B. Click **Find Mode** and search for the unit/s of measure you used for conversion
 		C. The item and vendor you selected for the conversion will appear in the **Used by Item** and **Used by Vendor** fields.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/78_verify_conversion.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/78_verify_conversion.png" width="350" height="230">
 
 ## Assign Categories to All Items in Found Set 
 
