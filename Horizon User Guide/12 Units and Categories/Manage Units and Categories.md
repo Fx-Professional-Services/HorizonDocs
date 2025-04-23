@@ -23,7 +23,7 @@ This section explains how to convert units of measure by setting up conversion f
 7. **Select the item**: In the **Specific Item** field, choose the item for which you want to apply the conversion factor.
 8. **Select the vendor**: In the **Specific Vendor** field, choose the vendor from whom the item will be purchased.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/77_convert_units_of_measure.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/77_convert_units_of_measure.png" width="350" height="230">
 
 9. **Verify the conversion**:  
 		A. Go to **Units and Categories**, then select **Unit of Measure**.
