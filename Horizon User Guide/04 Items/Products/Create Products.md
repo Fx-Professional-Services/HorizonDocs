@@ -4,7 +4,8 @@ Products are consumable physical items that can be built  or purchased, each wit
 
 * [Add a Product](#add-a-product) <br>
 * [Create a New Product in the Upload Vendor Prices](#create-a-new-product-in-the-upload-vendor-prices) <br>
-* [Manage Vendor Prices](#manage-vendor-prices)
+* [Manage Vendor Prices](#manage-vendor-prices) <br>
+* [Definition of Terms](#definition-of-terms)
 ## Add a Product
 
 ### Steps to Add a New Product
