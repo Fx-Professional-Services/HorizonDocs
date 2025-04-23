@@ -90,7 +90,7 @@ Assign the sales representative responsible for this opportunity.
 6. **Add Additional Notes:**
 	* You can add notes for your opportunity record as needed. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/86_review_linked_opportunity_details.png" width="300" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/86_review_linked_opportunity_details.png" width="350" height="230">
 
 
 7. **Save Changes**  
