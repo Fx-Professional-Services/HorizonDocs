@@ -65,7 +65,7 @@ A **move order** directs the relocation of a specific quantity of items from one
 A **pick order** is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
 
 ###### **Production Order**
-A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
+A **production order** outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
 
 ###### **Purchase Order**
 A **purchase order** is used to acquire the necessary items or materials. It tracks the demand, items, and necessary information to complete the order.
@@ -79,15 +79,15 @@ A **return order** is the process of processing items returned by a customer. Th
 ###### **Sales Order**
 A **sales order** initiates fulfilling a customer's request for [products](#products) or [services](#services). Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](#demand) and [invoice](#invoice) generation and allow for printing the record for documentation.
 ### **Parties**
-A party refers to any individual or entity—such as a customer, vendor, or employee—that is associated with the business or organizational record.
+A **party** refers to any individual or entity—such as a customer, vendor, or employee—that is associated with the business or organizational record.
 
 ### **Products**
-Products are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling.
+**Products** are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling.
 
 ### **Sales Estimate**
 A **sales estimate** is a preliminary document outlining potential sales details before converting them into a formal [sales order](#sales-order). It helps forecast and plan future transactions based on customer requirements and estimated costs.
 ### **Services**
-Services refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
+**Services** refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 ### **Vendors**
 A **Vendor** is a person or organization that provides goods or services to the organization using the system.
 
