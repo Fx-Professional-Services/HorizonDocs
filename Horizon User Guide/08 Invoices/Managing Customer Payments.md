@@ -167,7 +167,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 8. Click **Delete Record**.
 9. In the confirmation dialog, click **Delete** to proceed.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/106_payment_plan.png" width="350" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/106_payment_plan.png" width="330" height="220">
 
 
 # Payment Terms
