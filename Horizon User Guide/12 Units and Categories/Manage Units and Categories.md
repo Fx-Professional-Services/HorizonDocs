@@ -2,9 +2,9 @@
 
 This section provides instructions on managing units of measure and categories within your system. You'll learn how to convert units of measure, assign categories to items, and understand key terminology to ensure consistency in your processes. 
 
-* [Convert Units of Measure](convert-units-of-measure)
-* [Assign Categories to All Items in Found Set](assign-categories-to-all-items-in-found-set)
-* [Definition of Terms](definition-of-terms)
+* [Convert Units of Measure](#convert-units-of-measure)
+* [Assign Categories to All Items in Found Set](#assign-categories-to-all-items-in-found-set)
+* [Definition of Terms](#definition-of-terms)
 
 ## Convert Units of Measure
 
