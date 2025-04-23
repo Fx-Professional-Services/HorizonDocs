@@ -95,7 +95,7 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
 6. **Save the Product**  
     Click **Save** to apply your changes and close the **Quick Add: Product** window.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/59_quick_add_products.png" width="300" height="200">
 
 7. **Search for the Product**  
     In the items picker, type the name of the product in the search box and click the search icon **(🔎)**. Your newly added product should appear in the search results.
