@@ -6,6 +6,8 @@ A **Lead** is a potential customer who has expressed interest in your services. 
 What is an **Opportunity**?
 An **Opportunity** is a qualified lead that shows strong interest and is likely to result in a sale. It tracks important details such as estimated value, probability of closing, and sales status. Opportunities help sales teams manage deals effectively and understand where each potential customer is in the sales process. Opportunities can be linked to one or more leads to show the full sales journey.
 
+* [Creating and Managing Leads](#creating-and-managing-leads)
+* [Managing Opportunities](#managing-opportunities)
 # Creating and Managing Leads
 
 1. **Navigate to the Leads Section**
