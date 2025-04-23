@@ -72,7 +72,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Definition of Terms
 
-[Definition of Terms](https://github.com/Fx-Professional-Services/HorizonDocs/tree/staging/Horizon%20User%20Guide/11%20Definition%20of%20Terms)
+[Definition of Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/11%20Definition%20of%20Terms/Definition%20of%20Terms.md)
 
 ## Units and Categories
 
