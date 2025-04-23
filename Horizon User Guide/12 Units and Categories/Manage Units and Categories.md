@@ -62,7 +62,7 @@ This section explains how to assign categories to items in your found set. By do
  11. Enter the item name in **Find Mode**.
   12.  Click the **Categories** tab. Verify that the correct category is linked to the item and check its type. 
   
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/81_verify_categories.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/81_verify_categories.png" width="350" height="230">
 
 ## Definition of Terms
 
