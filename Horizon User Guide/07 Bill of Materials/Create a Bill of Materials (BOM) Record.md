@@ -8,10 +8,10 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 
 * Open the **Bill of Materials** file from the main menu. <br>
 💡 **Tip:** When using other modules (e.g., Products, Sales Orders, or Supply and Demand), access the BOM module by clicking **Item Management > BOM**.
-#### 2. **Initiate New Record**:
+#### 2. **Initiate New Record**
 
 * Click **New Record** to start a blank record.
-#### 3. **Add Yield or Source Item**:
+#### 3. **Add Yield or Source Item**
 
 3.1 Navigate to the Sources/Yields Tab
 
@@ -127,7 +127,7 @@ If no BOM is set for the source item and its replenishment method is **Build**, 
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
 
-#### 9. **Duplicate a BOM Record**:
+#### 9. **Duplicate a BOM Record**
 
 - To duplicate a BOM record, click **Duplicate Record** in the secondary navigation menu.
 - In the confirmation dialog, click **Yes** to duplicate the BOM record.
