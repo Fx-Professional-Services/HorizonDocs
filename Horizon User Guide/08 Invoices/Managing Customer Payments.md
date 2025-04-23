@@ -86,6 +86,7 @@ This guide explains how to process customer payments in the Payment module of Ho
 8.  In the confirmation dialog, click **Delete** to proceed.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/105_payment_ach.png" width="350" height="230">
+
 # Payment Cards
 
 ### Create a Payment Card
@@ -128,7 +129,9 @@ This guide explains how to process customer payments in the Payment module of Ho
 8. Click **Delete Record**.
 9.  In the confirmation dialog, click **Delete** to proceed.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/104_create_a_payment_card.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/104_create_a_payment_card.png" width="350" height="200">
+
+
 # Payment Plan
 
 ### Create a Payment Plan
@@ -164,7 +167,9 @@ This guide explains how to process customer payments in the Payment module of Ho
 8. Click **Delete Record**.
 9. In the confirmation dialog, click **Delete** to proceed.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/106_payment_plan.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/106_payment_plan.png" width="350" height="200">
+
+
 # Payment Terms
 
 The **Payment Terms** section in Horizon Accounting allows you to define and manage the terms for invoice payments. This feature helps set clear expectations for payment deadlines and conditions, ensuring a streamlined billing process and consistent cash flow.
