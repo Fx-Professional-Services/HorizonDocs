@@ -80,4 +80,4 @@ To convert an existing product into a service, follow these steps:
 	
 6.3. Ensure that the **Consumable**, **Sale Item**, and/or **Scale Quantity** match your selections. 
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/71_verify_conversion.png" width="350" height="280"> 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/71_verify_conversion.png" width="350" height="250"> 
