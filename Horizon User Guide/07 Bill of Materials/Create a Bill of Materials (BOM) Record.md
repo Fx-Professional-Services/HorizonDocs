@@ -82,7 +82,7 @@ A **Bill of Materials (BOM)** is a detailed guide for creating a product, listin
 	
 	4. To review the newly created ad-hoc task, go to the **Main Menu**, select **My Tasks**, and choose **Projects**. You should see the ad-hoc task listed there.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/98_projects_in_my_tasks.png" width="350" height="250">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/98_projects_in_my_tasks.png" width="300" height="200">
 
   ⚠️ **Note**: Should you wish to delete the BOM record, click on the **Delete Record** in the navigation buttons. Then, in the dialogue box, select **Delete** to proceed with the deletion of the BOM record.
 

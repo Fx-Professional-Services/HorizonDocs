@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/08 Invoices/Invoices.md",
+                "file": "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invoices"
+              "title": "Create a Bill of Materials (BOM) Record"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "15a12f1cc40abd07",
   "lastOpenFiles": [
-    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/08 Invoices/Invoices.md",
+    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/00 Assets/108_manage_a_sales_invoice.png",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/00 Assets/86_review_linked_opportunity_details.png",
