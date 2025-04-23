@@ -35,37 +35,42 @@ To add a new service:
 
 To convert an existing product into a service, follow these steps:
 
-1. **Access Services:**
+1. **Access Services**
     
     - From **Item Management**, select **Services**.
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/68_access_services.png" width="350" height="250"> 
 
-2. **Select the Product to Convert**: 
+2. **Select the Product to Convert** 
+
     
     2.1.  Click **Select Existing**. 
+    
     2.2. In the window that appears, search for the product you want to convert. 
+    
 	2.3. Click the **Add** button (✚) next to the product. This will add the product to the service list and close the window.
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/69_select_the_product_to_convert_into_service.png" width="350" height="300"> 
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/69_select_the_product_to_convert_into_service.png" width="350" height="250"> 
 
-3. **Edit Service Information**:
+3. **Edit Service Information**
     
     - In the **Services** layout, enter any additional details such as: 
 	    - **Replenishment Method**
 	    - **Unit of Measure**
 	    - **Minimum Quantity**
-4. **Specify Role and Job Title**:
+
+4. **Specify Role and Job Title**
     
     - Enter the **Role Name** and choose your **Job Title** using the picker. 
     - Click **Done**.
-5. **Adjust Service Subtypes**:
+    
+5. **Adjust Service Subtypes**
     
     - Modify the subtype settings for **Consumable**, **Sale Item**, and/or **Scale Quantity**, as necessary.
     
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/70_role_job_title_service_subtypes.png" width="350" height="280"> 
 
-6. **Verify Conversion**:
+6. **Verify Conversion**
     
 6.1. Return to **Item Management** and select **All Items**.
 
