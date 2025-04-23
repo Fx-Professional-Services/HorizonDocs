@@ -1,5 +1,27 @@
 # **Definition of Terms**
 
+* [Bill of Materials](#bill-of-materials)
+* [Configurators](#configurators)
+* [Demand](#demand)
+	* [Build Demand](#build-demand)
+	* [Demand Demand](#demand-demand)
+	* [Pick Demand](#pick-demand)
+	* [Purchase Demand](#purchase-demand)
+* [Equipment](#equipment)
+* [Invoices](#invoices)
+* [Items](#items)
+* [Lead](#lead)
+* [Orders](#orders)
+	* [Move Order](#move-order)
+	* [Pick Order](#pick-order)
+	* [Purchase Order](#purchase-order)
+	* [Receiving Order](#receiving-order)
+	* [Return Order](#return-order)
+	* [Sales Order](#sales-order)
+* [Parties](#parties)
+* [Products](#products)
+* [Sales Estimate](#sales-estimate)
+* [Services](#services)
 ### **Bill of Materials**
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
 ### **Configurators**
@@ -26,17 +48,34 @@ A lead is a recorded instance of a potential customer who has shown interest in 
 
 ### **Orders**
 
+###### **Move Order**
+A **move order** directs the relocation of a specific quantity of items from one location to another within a warehouse. It specifies both the source and destination locations, ensuring items are positioned correctly to fulfill a [pick order](#pick-order) efficiently. 
+
 ###### **Pick Order**
-A pick order is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
+A **pick order** is a directive to retrieve specific items from inventory and transport them to a designated location for processing or assembly. It ensures that all necessary components are collected and prepared for the next stage of production or fulfillment. 
+
 ###### **Production Order**
 A production order outlines the item to be produced, its required materials, and the production timeframe to ensure resource allocation.
+
+###### **Purchase Order**
+A **purchase order** is used to acquire the necessary items or materials. It tracks the demand, items, and necessary information to complete the order.
+
+###### **Receiving Order**
+A **receiving order** is the process of receiving items from a **Purchase Order** and other additional items, ensuring that stock levels are updated to reflect newly-arrived inventory. Follow these steps to create a receiving order:
+
+###### **Return Order**
+A **return order** is the process of processing items returned by a customer. This updates the inventory and creates a record of the return. 
+
 ###### **Sales Order**
-A sales order initiates fulfilling a customer's request for [products](#products) or [services](#services). Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](#demand) and [invoice](#invoice) generation and allow for printing the record for documentation.
+A **sales order** initiates fulfilling a customer's request for [products](#products) or [services](#services). Sales order records capture customer details, transaction specifics, and itemized orders, with options for adjusting pricing, applying discounts, and taxes. They enable [demand](#demand) and [invoice](#invoice) generation and allow for printing the record for documentation.
 ### **Parties**
 A party refers to any individual or entity—such as a customer, vendor, or employee—that is associated with the business or organizational record.
 
 ### **Products**
 Products are consumable physical items that can be created or purchased, each with prices (e.g., vendor prices) for picking and selling.
+
+### **Sales Estimate**
+A **sales estimate** is a preliminary document outlining potential sales details before converting them into a formal [sales order](#sales-order). It helps forecast and plan future transactions based on customer requirements and estimated costs.
 ### **Services**
 Services refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
 
