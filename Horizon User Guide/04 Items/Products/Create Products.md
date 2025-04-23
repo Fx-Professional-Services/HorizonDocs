@@ -107,9 +107,9 @@ Follow these steps to create a new product in the **Upload Vendor Prices** throu
 Efficient management of vendor prices is essential for accurate records. This guide outlines how to import vendor prices and set them as inactive.
 
 
-[Import Vendor Prices](import-vendor-prices) <br>
-[Set Vendor Prices as Inactive](set-vendor-prices-as-inactive) <br>
-[Set Active Vendor Price to Inactive During Import](set-active-vedor-price-to-inactive-during-import) <br>
+[Import Vendor Prices](#import-vendor-prices) <br>
+[Set Vendor Prices as Inactive](#set-vendor-prices-as-inactive) <br>
+[Set Active Vendor Price to Inactive During Import](#set-active-vedor-price-to-inactive-during-import) <br>
 ## Import Vendor Prices
 
 To import vendor prices:
