@@ -29,7 +29,7 @@ This guide explains how to process customer payments in the Payment module of Ho
     
     - Enter the payment details, including the **amount** and **payment type** (choose from Check, Card, or ACH).
 
-<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/100_create_payments.png" width="350" height="200">
+<img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/100_create_payments.png" width="300" height="200">
 
         
     - Depending on the selected payment type, provide the following details:
