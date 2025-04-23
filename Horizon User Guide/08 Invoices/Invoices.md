@@ -1,6 +1,5 @@
-# Invoices
+# Manage Sales Invoice
 
-## Manage Sales Invoice
 
 A **Sales Invoice** details the products or services provided to a customer, including quantities, prices, and the total amount due. This section outlines the steps to manage sales invoices effectively.
 

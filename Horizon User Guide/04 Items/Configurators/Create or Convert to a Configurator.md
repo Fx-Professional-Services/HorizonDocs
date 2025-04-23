@@ -1,6 +1,9 @@
 # Create or Convert to a Configurator
 
 Configurators provide customers with predefined options for their sales orders. Users can select items and quantities from a category, which generates corresponding sales order items. The configurator also determines the necessary Bill of Materials (BOM) to produce the selected product.
+
+* [Create a New Configurator](#create-a-new-configurator) <br>
+* [Convert an Existing Product into a Configurator](#convert-an-existing-product-into-a-configurator) <br>
 ## Create a New Configurator
 
 Follow these steps to create a configurator:

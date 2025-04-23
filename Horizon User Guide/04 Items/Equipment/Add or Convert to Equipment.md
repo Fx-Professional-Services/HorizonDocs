@@ -1,6 +1,9 @@
 # Add or Convert to Equipment
 
 This guide explains how to add new equipment or convert an existing product into equipment.
+
+* [Add New Equipment](#add-new-equipment) <br>
+* [Convert an Existing Product into a Configurator ](#convert-an-exisiting-product-into-a-configurator) <br>
 # Add New Equipment
 
 Follow these steps to add new equipment:

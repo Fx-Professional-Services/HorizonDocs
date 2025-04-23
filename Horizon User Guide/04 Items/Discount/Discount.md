@@ -1,11 +1,12 @@
 
 # Discount
 
-### Modify Discounts
-
 Discounts are applied to sales orders to reduce the total amount. This section explains how to access and modify discount settings.
 
-#### To modify a discount
+* [Modify a Discount](#modify-a-discount)
+* [Create a Discount](#create-a-discount)
+
+#### Modify a Discount
 
 1. In the main menu, click **Sales Orders**.
 2. Go to **Item Management**, then select **Discount**. This opens the **Discounts** page.
@@ -14,7 +15,7 @@ Discounts are applied to sales orders to reduce the total amount. This section e
 
 <img src="https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/00%20Assets/66_modify_discount.png" width="350" height="300">
 
-#### To create a discount
+#### Create a discount
 
 1. In the main menu, click **Sales Orders**.
 2. Go to **Item Management**, then select **Discount**. This opens the **Discounts** page.

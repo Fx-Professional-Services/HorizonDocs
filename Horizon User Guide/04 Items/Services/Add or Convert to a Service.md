@@ -1,4 +1,7 @@
 # Add or Convert to a Service
+
+* [Add a Service](#add-a-service) <br>
+* [Convert an Existing Product into a Service](#convert-an-existing-product-into-a-service) <br>
 ## Add a Service
 
 To add a new service:

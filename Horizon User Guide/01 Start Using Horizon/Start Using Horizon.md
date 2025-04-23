@@ -2,17 +2,16 @@
 
 Welcome to _Horizon_. *Horizon* is designed for tracking [demand](#demand) for all our [products](#products) and [items](#items), enabling us to forecast resource availability accurately. It's important to configure each item correctly before adding it to [sales orders](#4-sales-orders) to ensure precise demand tracking and effective resource planning.
 
-[Launch Horizon File](#launch-horizon-file)
+* [Launch Horizon File](#launch-horizon-file) <br>
+* [Create a Horizon Account](#create-a-horizon-account)
 
-[Create a Horizon Account](#create-a-horizon-account)
+* [Log In and Out of Horizon](#log-in-and-out-of-horizon)
 
-[Log In and Out of Horizon](#log-in-and-out-of-horizon)
+* [Navigate the Main Menu](#navigate-the-main-menu)
 
-[Navigate the Main Menu](#navigate-the-main-menu)
+* [Reset Your Password](#reset-your-password)
 
-[Reset Your Password](#reset-your-password)
-
-[Delete Your Account](#delete-your-account)
+* [Delete Your Account](#delete-your-account)
 
 ## Launch Horizon File
 

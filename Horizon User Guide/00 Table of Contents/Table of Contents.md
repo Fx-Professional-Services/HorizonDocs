@@ -19,20 +19,18 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 #### All Items
 [Manage Items](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/All%20Items/Manage%20Items.md)
-#### Products
-[Create Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Products/Create%20Products.md)
+
 #### Configurators
 [Create or Convert to a Configurator](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Configurators/Create%20or%20Convert%20to%20a%20Configurator.md)
 #### Equipment
-[Add New Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Equipment/Add%20or%20Convert%20to%20Equipment.md)
+[Add or Convert to Equipment](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Equipment/Add%20or%20Convert%20to%20Equipment.md)
+
+#### Products
+[Create Products](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Products/Create%20Products.md)
 #### Services
 [Add or Convert to a Service](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/04%20Items/Services/Add%20or%20Convert%20to%20a%20Service.md)
 
 ## Order Management
-
-[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Order.md)
-
-[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Estimate.md)
 
 [Move Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Move%20Orders.md)
 
@@ -41,6 +39,10 @@ This table of contents provides a structured overview of the Horizon user guide,
 [Production Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Production%20Order.md)
 
 [Purchase Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Purchase%20Order.md)
+
+[Sales Estimates](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Estimate.md)
+
+[Sales Orders](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Sales%20Order.md)
 
 [Receiving Order](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/05%20Orders/Receiving%20Order.md)
 
@@ -56,7 +58,7 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 ## Invoices
 
-[Generate a Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/08%20Invoices/Invoices.md)
+[Manage Sales Invoice](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/08%20Invoices/Invoices.md)
 
 [Managing Customer Payments](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/08%20Invoices/Managing%20Customer%20Payments.md)
 
@@ -68,10 +70,11 @@ This table of contents provides a structured overview of the Horizon user guide,
 
 [My Tasks](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/10%20My%20Tasks/My%20Tasks.md)
 
+## Definition of Terms
+
+[Definition of Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/07%20Definition%20of%20Terms/Definition%20of%20Terms.md)
+
 ## Units and Categories
 
 [Manage Units and Categories](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/12%20Units%20and%20Categories/Manage%20Units%20and%20Categories.md)
 
-## Definition of Terms
-
-[Definition of Terms](https://github.com/Fx-Professional-Services/HorizonDocs/blob/staging/Horizon%20User%20Guide/07%20Definition%20of%20Terms/Definition%20of%20Terms.md)

@@ -4,6 +4,7 @@
 This section explains how to create and manage customer records, payment records, payment cards, payment plans, and how to merge customer records. Follow the steps below to effectively perform each task.
 
 * [Create a New Customer Record](#create-a-new-customer-record) <br>
+* [View Customer Record](#view-customer-record)
 ## Create a New Customer Record
 
 To create a sales order record, you must first create a customer record. Here's how:

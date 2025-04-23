@@ -2,10 +2,10 @@
 
 This section explains how to manage items in the system. Items can include products, configurators, equipment, and discounts, each with unique attributes. You will learn how to manage item details, assign categories to items, and add existing items to categories.
 
-* [Items Overview](#items-overview)
-* [Manage Item Details](#manage-item-details)
-* [Assign Categories to Items](#assign-categories-to-items)
-* [Add Existing Items to Categories](#add-existing-items-to-categories)
+* [Items Overview](#items-overview) <br>
+* [Manage Item Details](#manage-item-details) <br>
+* [Assign Categories to Items](#assign-categories-to-items) <br>
+* [Add Existing Items to Categories](#add-existing-items-to-categories) <br>
 
 ### **Items Overview**
 

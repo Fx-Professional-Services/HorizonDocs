@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizon User Guide/04 Items/Products/Create Products.md",
+                "file": "Horizon User Guide/00 Table of Contents/Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create Products"
+              "title": "Table of Contents"
             }
           }
         ]
@@ -171,9 +171,18 @@
   },
   "active": "15a12f1cc40abd07",
   "lastOpenFiles": [
+    "Horizon User Guide/08 Invoices/Invoices.md",
+    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
+    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
+    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
+    "Horizon User Guide/02 All Parties/Party.md",
+    "Horizon User Guide/03 Customers/Create Customer Records.md",
+    "Horizon User Guide/04 Items/All Items/Manage Items.md",
+    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
+    "Horizon User Guide/04 Items/Discount/Discount.md",
+    "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
     "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
-    "Horizon User Guide/08 Invoices/Invoices.md",
     "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/00 Assets/108_manage_a_sales_invoice.png",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
@@ -189,7 +198,6 @@
     "Horizon User Guide/05 Orders/Move Orders.md",
     "Horizon User Guide/05 Orders/Purchase Order.md",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
-    "Horizon User Guide/00 Table of Contents/Table of Contents.md",
     "Horizon User Guide/05 Orders/Sales Order.md",
     "Untitled 1.canvas",
     "2025-04-23.md",
@@ -201,13 +209,6 @@
     "Horizon User Guide/00 Assets/106_payment_plan.png",
     "Horizon User Guide/00 Assets/105_payment_ach 1.png",
     "Horizon User Guide/05 Orders/Pick Order.md",
-    "Horizon User Guide/01 Start Using Horizon/Start Using Horizon.md",
-    "Horizon User Guide/05 Orders/Production Order.md",
-    "Horizon User Guide/04 Items/Products/Create Products.md",
-    "Horizon User Guide/04 Items/Equipment/Add or Convert to Equipment.md",
-    "Horizon User Guide/04 Items/Discount/Discount.md",
-    "Horizon User Guide/04 Items/Configurators/Create or Convert to a Configurator.md",
-    "Horizon User Guide/04 Items/All Items/Manage Items.md",
     "Horizon User Guide/Old documentation/05 Sales Orders",
     "Horizon User Guide/Old documentation",
     "Horizon User Guide/12 Units and Categories",
