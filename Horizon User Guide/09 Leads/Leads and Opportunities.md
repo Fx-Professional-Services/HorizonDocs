@@ -1,10 +1,8 @@
 # Leads and Opportunities
 
-What is a **Lead**?
-A **Lead** is a potential customer who has expressed interest in your services. This may include inquiries for weddings, corporate events, private parties, or other special occasions. A lead typically contains the person's name, contact information, details about the event, and the source of the inquiry (e.g., phone call, online form). Leads represent early-stage prospects that, with proper follow-up, can convert into paying customers.
+A ***lead*** is a potential customer who has expressed interest in your services. This may include inquiries for weddings, corporate events, private parties, or other special occasions. A lead typically contains the person's name, contact information, details about the event, and the source of the inquiry (e.g., phone call, online form). Leads represent early-stage prospects that, with proper follow-up, can convert into paying customers.
 
-What is an **Opportunity**?
-An **Opportunity** is a qualified lead that shows strong interest and is likely to result in a sale. It tracks important details such as estimated value, probability of closing, and sales status. Opportunities help sales teams manage deals effectively and understand where each potential customer is in the sales process. Opportunities can be linked to one or more leads to show the full sales journey.
+An ***opportunity*** is a qualified lead that shows strong interest and is likely to result in a sale. It tracks important details such as estimated value, probability of closing, and sales status. Opportunities help sales teams manage deals effectively and understand where each potential customer is in the sales process. Opportunities can be linked to one or more leads to show the full sales journey.
 
 * [Creating and Managing Leads](#creating-and-managing-leads)
 * [Creating Opportunities](#creating-opportunities)
