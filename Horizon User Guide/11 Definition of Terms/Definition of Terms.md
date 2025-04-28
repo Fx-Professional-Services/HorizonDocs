@@ -26,6 +26,21 @@
 A Bill of Materials is akin to a detailed recipe for creating a product. It outlines the necessary parts or materials, their quantities, and how they are assembled. BOMs can accommodate different versions or configurations of the product, although typically only one is used at any given time for production.
 ### **Configurators**
 Configurators offer customers a set of predetermined choices for a specific sales order. These choices are defined in the configurator and allow users to select a specific number of items, totaling a specific quantity from a particular category. Each choice results in a specific sales order item being entered, and the configurator also determines the Bill of Materials (BOM) needed to produce the chosen product.
+### **Conversion Factor**
+A **conversion factor** is a number used to convert between units. You multiply or divide by the factor to switch between units.
+
+**Examples:**
+
+- 1 pound (lb) = 0.453592 kilograms (kg)
+- 1 meter (m) = 100 centimeters (cm)
+
+### **Conversion Rate**
+A **conversion rate** shows how one unit relates to another. It’s usually expressed as a factor, where you multiply by the rate to convert between units.
+
+**Example:**  
+To convert kilograms to pounds, the conversion rate is 2.20462:  
+1 kilogram = 2.20462 pounds.  
+So, multiply the number of kilograms by 2.20462 to get the equivalent in pounds.
 
 ### **Customers**
 A **Customer** is a person or organization that purchases or uses the products or services offered by the system.
@@ -88,6 +103,8 @@ A **party** refers to any individual or entity—such as a customer, vendor, or 
 A **sales estimate** is a preliminary document outlining potential sales details before converting them into a formal [sales order](#sales-order). It helps forecast and plan future transactions based on customer requirements and estimated costs.
 ### **Services**
 **Services** refer to intangible items offered  to customers and clients. This includes providing food and beverage solutions tailored to the needs of events or gatherings. It encompasses menu planning, food preparation, delivery, setup, and potentially serving guests during the occasion.
+### **Units of Measure**
+**Units of measure** are standardized quantities used to express and compare different types of measurements, such as weight, length, volume, or time. They provide a consistent way to quantify and communicate physical properties.
 ### **Vendors**
 A **Vendor** is a person or organization that provides goods or services to the organization using the system.
 

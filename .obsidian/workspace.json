@@ -63,16 +63,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "195883d8b32a4a27",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ],
         "currentTab": 1
@@ -171,9 +161,10 @@
   },
   "active": "15a12f1cc40abd07",
   "lastOpenFiles": [
-    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
-    "Horizon User Guide/11 Definition of Terms/Definition of Terms.md",
     "Horizon User Guide/12 Units and Categories/Manage Units and Categories.md",
+    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
+    "Horizon User Guide/11 Definition of Terms/Definition of Terms.md",
+    "Horizon User Guide/09 Leads/Leads and Opportunities.md",
     "Horizon User Guide/03 Customers/Create Customer Records.md",
     "Horizon User Guide/02 All Parties/Party.md",
     "Horizon User Guide/00 Table of Contents/Table of Contents.md",
@@ -185,7 +176,6 @@
     "Horizon User Guide/04 Items/Discount/Discount.md",
     "Horizon User Guide/04 Items/Products/Create Products.md",
     "Horizon User Guide/04 Items/Services/Add or Convert to a Service.md",
-    "Horizon User Guide/07 Bill of Materials/Create a Bill of Materials (BOM) Record.md",
     "Horizon User Guide/00 Assets/108_manage_a_sales_invoice.png",
     "Horizon User Guide/08 Invoices/Managing Customer Payments.md",
     "Horizon User Guide/00 Assets/86_review_linked_opportunity_details.png",
