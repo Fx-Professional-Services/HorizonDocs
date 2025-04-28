@@ -18,7 +18,9 @@ This section explains how to convert units of measure by setting up conversion f
 3. Click **New Record**.
 4. In the **From** field, enter the unit of measure you want to convert from.
 5. In the **To** field, specify the unit of measure you want to convert to.
+
  💡 **Tip:** **Use Find Mode**: To quickly find units of measure, click **Find Mode**, enter the units in the search field for the **From** and **To** fields, select the conversion factor from the left pane, then click the **Swap** button (🔄).
+ 
 6. In the **Conversion Rate** field, enter the conversion rate.
 7. **Select the item**: In the **Specific Item** field, choose the item for which you want to apply the conversion factor.
 8. **Select the vendor**: In the **Specific Vendor** field, choose the vendor from whom the item will be purchased.
